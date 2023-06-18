@@ -115,11 +115,8 @@ segments:
       - [0x41750, rodata] # jpt_80113328
       - [0x418C8, rodata] # jpt_80113938
       - [0x418E0, .rodata, 73AAC]
-      - [0x418F4, rodata]
-      - [0x41908, rodata] # jpt_801140A8
-      - [0x41948, rodata] # jpt_801141F0
-      - [0x41990, rodata] # jpt_80114300
-      - [0x419B0, rodata] # jpt_80114388
+      - [0x418F4, rodata] # func_8011405C strings
+      - [0x41908, rodata] # func_8011405C jump tables
       - [0x419D0, .rodata, 75DA0]
       - [0x419E8, rodata] # jpt_8011643C
       - [0x41A00, rodata] # jpt_801169F4
