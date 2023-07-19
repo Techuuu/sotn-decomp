@@ -389,7 +389,7 @@ us/st/no3/nonmatchings/377D4/EntityUnkId1C.s                       193          
 us/st/np3/nonmatchings/3246C/func_801B3704.s                       193          23
 us/st/nz0/nonmatchings/30958/EntityBreakable.s                     194          21          https://decomp.me/scratch/0tv5m
 us/st/nz0/nonmatchings/30958/func_801B2D08.s                       195          18          https://decomp.me/scratch/ixW6j
-us/servant/tt_000/nonmatchings/10E8/func_8017110C.s                195          28          https://decomp.me/scratch/JRqtW (Scraped 0.949)
+us/servant/tt_000/nonmatchings/10E8/func_8017110C.s                195          28          https://decomp.me/scratch/JRqtW (Scraped 0.998)
 us/dra/nonmatchings/692E8/func_8010D010.s                          195          33
 us/st/rwrp/nonmatchings/8DF0/func_80189E9C.s                       195          33  Yes     https://decomp.me/scratch/4UdLD (Scraped 0.996)
 us/st/wrp/nonmatchings/6FD0/EntityWarpSmallRocks.s                 195          33  Yes
