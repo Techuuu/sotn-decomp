@@ -103,7 +103,6 @@ us/st/rwrp/nonmatchings/8DF0/func_8018EC90.s                        62          
 us/dra/nonmatchings/692E8/func_8010DA70.s                           62           8          https://decomp.me/scratch/8WgKB (Scraped 0.719)
 us/st/np3/nonmatchings/4B018/func_801CD83C.s                        63           6
 us/st/rwrp/nonmatchings/8DF0/func_80188DF0.s                        63           6
-us/dra/nonmatchings/5298C/func_800FA7E8.s                           64           5          https://decomp.me/scratch/JL0hI
 us/st/dre/nonmatchings/14214/func_80194F14.s                        64           8
 us/st/cen/nonmatchings/D600/func_801983B4.s                         66           5
 us/st/dre/nonmatchings/1C7DC/func_8019E4F8.s                        66           5
