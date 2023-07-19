@@ -403,7 +403,6 @@ us/st/rwrp/nonmatchings/8DF0/func_8018FF9C.s                       197          
 us/st/wrp/nonmatchings/D020/func_8018E01C.s                        197          26
 us/st/cen/nonmatchings/D600/func_8018E3E8.s                        198          20
 us/dra/nonmatchings/75F54/func_8011EDA8.s                          198          27
-us/dra/nonmatchings/42398/func_800E2824.s                          200          29          https://decomp.me/scratch/vbKu6 (Scraped 0.998)
 us/dra/nonmatchings/75F54/EntityPlayerPinkEffect.s                 206          36  Yes
 us/ric/nonmatchings/1F348/func_8015B898.s                          209          37          https://decomp.me/scratch/eIPhn (Scraped 0.546)
 us/st/mad/nonmatchings/D8C8/func_8018DC28.s                        211          29
@@ -460,7 +459,6 @@ us/st/no3/nonmatchings/46684/EntitySidewaysWaterDroplets.s         244          
 us/st/np3/nonmatchings/44DCC/func_801C5BC4.s                       244          23
 us/dra/nonmatchings/62D70/func_80105078.s                          244          26
 us/st/np3/nonmatchings/4B018/func_801D1BB8.s                       246          31
-us/dra/nonmatchings/42398/func_800E249C.s                          246          35          https://decomp.me/scratch/xe2RY (Scraped 0.999)
 us/dra/nonmatchings/5D6C4/func_800FE044.s                          246          35          https://decomp.me/scratch/MxpHX (Scraped 0.954)
 us/dra/nonmatchings/5298C/func_800F7F64.s                          248          21  Yes
 us/st/mad/nonmatchings/D8C8/func_8018D8C8.s                        249          45  Yes     https://decomp.me/scratch/35BJG (Scraped 0.028)
