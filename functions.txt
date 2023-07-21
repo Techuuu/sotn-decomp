@@ -202,7 +202,7 @@ us/dra/nonmatchings/5298C/DrawSettingsButton.s                      85          
 us/st/sel/nonmatchings/2D260/func_801AD66C.s                        85          10          https://decomp.me/scratch/QPJ0L (Scraped 0.985)
 us/st/rwrp/nonmatchings/8DF0/func_8018908C.s                        85          11
 us/st/rwrp/nonmatchings/8DF0/func_80190D1C.s                        85          11
-us/dra/nonmatchings/5298C/func_800F9E18.s                           86          14          https://decomp.me/scratch/VmuNt
+us/dra/nonmatchings/5298C/func_800F9E18.s                           86          14          https://decomp.me/scratch/VmuNt (Scraped 0.995)
 us/st/no3/nonmatchings/46684/func_801CC6F8.s                        86          23
 us/st/rwrp/nonmatchings/8DF0/func_8018E3B4.s                        87          11
 us/st/sel/nonmatchings/2D260/func_801AEB74.s                        87          18
