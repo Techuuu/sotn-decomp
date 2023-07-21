@@ -726,7 +726,6 @@ us/st/st0/nonmatchings/30030/func_801B1CA0.s                       953         1
 us/ric/nonmatchings/32324/func_8016F6F0.s                          956          56  Yes
 us/st/np3/nonmatchings/4B018/EntityGurkha.s                        962         184  Yes     https://decomp.me/scratch/51iIJ
 us/st/np3/nonmatchings/4B018/func_801D0D40.s                      1001         202  Yes
-us/dra/nonmatchings/cd/UpdateCd.s                                 1022         202  Yes
 us/dra/nonmatchings/75F54/EntityStopWatch.s                       1027          98  Yes
 us/st/np3/nonmatchings/4B018/func_801CB018.s                      1057         214  Yes
 us/dra/nonmatchings/5D6C4/func_800FF7B8.s                         1071         143          https://decomp.me/scratch/Ti1u1
