@@ -1,5 +1,5 @@
 Number of decompiled duplicates found: 562
-Number of undecompiled duplicates found: 409
+Number of undecompiled duplicates found: 407
 Number of overall exact duplicates found: 118
 
 ref. - MAIN - ChangeClearRCnt - found 51 matches total:
@@ -908,7 +908,7 @@ ref. - RWRP - func_8018908C - found 5 matches total:
 0.99 - WRP  - EntityBreakable - (decompiled)
 
 ref. - CEN  - func_8018DF60 - found 4 matches total:
-0.99 - DRE  - func_801947C8
+0.99 - DRE  - func_801947C8 - (decompiled)
 0.99 - NO3  - func_801BE598
 0.99 - NZ0  - func_801B7520 - (decompiled)
 0.99 - ST0  - func_801A89D8 - (decompiled)
@@ -1017,9 +1017,6 @@ ref. - DRA  - func_801291C4 - found 1 matches total:
 
 ref. - DRA  - func_801315F8 - found 1 matches total:
 0.99 - RIC  - func_8017328C
-
-ref. - DRE  - func_80194F14 - found 1 matches total:
-0.99 - NO3  - func_801BECCC - (decompiled)
 
 ref. - MAD  - CollectHeart - found 1 matches total:
 0.99 - ST0  - CollectHeart - (decompiled)
