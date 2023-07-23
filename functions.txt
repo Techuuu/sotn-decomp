@@ -64,7 +64,7 @@ us/st/rwrp/nonmatchings/8DF0/func_8018EE84.s                        48          
 us/st/no3/nonmatchings/3E134/func_801BE7BC.s                        50           2
 us/st/np3/nonmatchings/4B018/func_801CD78C.s                        50           4          https://decomp.me/scratch/Y4dmx (Scraped 0.901)
 us/st/cen/nonmatchings/D600/func_8018E180.s                         51           2
-us/st/dre/nonmatchings/14214/func_801949E8.s                        51           2
+us/st/dre/nonmatchings/14214/func_801949E8.s                        51           2          https://decomp.me/scratch/Xrqzj (Scraped 0.991)
 us/st/nz0/nonmatchings/36DE4/func_801B7740.s                        51           2          https://decomp.me/scratch/9iyBi (Scraped 0.716)
 us/st/sel/nonmatchings/3642C/func_801B66A4.s                        51           2
 us/st/mad/nonmatchings/D8C8/CollectHeart.s                          51           4          https://decomp.me/scratch/DlOhh (Scraped 0.987)
@@ -103,7 +103,7 @@ us/st/rwrp/nonmatchings/8DF0/func_8018EC90.s                        62          
 us/dra/nonmatchings/692E8/func_8010DA70.s                           62           8          https://decomp.me/scratch/8WgKB (Scraped 0.719)
 us/st/np3/nonmatchings/4B018/func_801CD83C.s                        63           6
 us/st/rwrp/nonmatchings/8DF0/func_80188DF0.s                        63           6
-us/st/dre/nonmatchings/14214/func_80194F14.s                        64           8
+us/st/dre/nonmatchings/14214/func_80194F14.s                        64           8          https://decomp.me/scratch/dOxqe (Scraped 0.993)
 us/st/cen/nonmatchings/D600/func_801983B4.s                         66           5
 us/st/dre/nonmatchings/1C7DC/func_8019E4F8.s                        66           5
 us/st/mad/nonmatchings/139E0/func_8019596C.s                        66           5          https://decomp.me/scratch/3IMus
@@ -277,7 +277,7 @@ us/st/st0/nonmatchings/27D64/EntityLockCamera.s                    118          
 us/ric/nonmatchings/345EC/func_801706C0.s                          118          14
 us/st/no3/nonmatchings/46684/EntityUnkId30.s                       119          18
 us/st/cen/nonmatchings/D600/func_8018DF60.s                        120           5
-us/st/dre/nonmatchings/14214/func_801947C8.s                       120           5
+us/st/dre/nonmatchings/14214/func_801947C8.s                       120           5          https://decomp.me/scratch/dn9YA (Scraped 0.991)
 us/st/no3/nonmatchings/3E134/func_801BE598.s                       120           5
 us/st/np3/nonmatchings/4B018/func_801CDAC8.s                       120          13
 us/dra/nonmatchings/75F54/func_8012768C.s                          120          14
@@ -413,7 +413,7 @@ us/st/no3/nonmatchings/377D4/EntityShuttingWindow.s                215          
 us/st/no3/nonmatchings/3C4EC/EntityForegroundTree.s                215          32          https://decomp.me/scratch/0twue (Scraped 0.805)
 us/st/np3/nonmatchings/3246C/EntityShuttingWindow.s                215          32
 us/dra/nonmatchings/75F54/func_80119F70.s                          217          25          https://decomp.me/scratch/e4Ov8 (Scraped 0.994)
-us/st/dre/nonmatchings/14214/EntityUnkId23.s                       217          30  Yes
+us/st/dre/nonmatchings/14214/EntityUnkId23.s                       217          30  Yes     https://decomp.me/scratch/L9HQt (Scraped 0.97)
 us/st/st0/nonmatchings/2C564/func_801AF380.s                       220           4
 us/ric/nonmatchings/22380/func_8015E484.s                          220          24
 us/dra/nonmatchings/75F54/func_801182F8.s                          221          37
