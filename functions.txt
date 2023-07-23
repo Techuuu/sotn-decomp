@@ -411,7 +411,7 @@ us/st/no3/nonmatchings/377D4/EntityShuttingWindow.s                215          
 us/st/no3/nonmatchings/3C4EC/EntityForegroundTree.s                215          32          https://decomp.me/scratch/0twue (Scraped 0.805)
 us/st/np3/nonmatchings/3246C/EntityShuttingWindow.s                215          32
 us/dra/nonmatchings/75F54/func_80119F70.s                          217          25          https://decomp.me/scratch/e4Ov8 (Scraped 0.994)
-us/st/dre/nonmatchings/14774/EntityUnkId23.s                       217          30  Yes     https://decomp.me/scratch/L9HQt (Scraped 0.97)
+us/st/dre/nonmatchings/14774/EntityUnkId23.s                       217          30  Yes     https://decomp.me/scratch/L9HQt (Scraped 0.96)
 us/st/st0/nonmatchings/2C564/func_801AF380.s                       220           4
 us/ric/nonmatchings/22380/func_8015E484.s                          220          24
 us/dra/nonmatchings/75F54/func_801182F8.s                          221          37
@@ -426,7 +426,7 @@ us/st/st0/nonmatchings/36358/func_801BA7D8.s                       223          
 us/st/wrp/nonmatchings/D020/func_80192F40.s                        223          17
 us/dra/nonmatchings/5298C/DrawRelicsMenu.s                         223          19
 us/dra/nonmatchings/75F54/func_801177A0.s                          223          35
-us/st/dre/nonmatchings/14774/EntityFadeToWhite1.s                  224          21  Yes
+us/st/dre/nonmatchings/14774/EntityFadeToWhite1.s                  224          21  Yes     https://decomp.me/scratch/Quf32 (Scraped 0.997)
 us/dra/nonmatchings/75F54/func_80132F60.s                          225          24  Yes
 us/dra/nonmatchings/692E8/func_8011151C.s                          226          52
 us/st/np3/nonmatchings/3246C/func_801B28E4.s                       227          34
@@ -506,7 +506,7 @@ us/ric/nonmatchings/26C84/func_8016902C.s                          297          
 us/st/no3/nonmatchings/377D4/EntityBackgroundBushes.s              299          31
 us/st/np3/nonmatchings/3246C/func_801B32A8.s                       299          31
 us/dra/nonmatchings/627C4/func_801028AC.s                          300          43  Yes
-us/st/dre/nonmatchings/14774/EntityUnkId21.s                       301          46  Yes
+us/st/dre/nonmatchings/14774/EntityUnkId21.s                       301          46  Yes     https://decomp.me/scratch/T8Auk (Scraped 0.963)
 us/dra/nonmatchings/75F54/EntitySummonSpirit.s                     311          34
 us/st/nz0/nonmatchings/30958/func_801B0AA4.s                       311          43
 us/dra/nonmatchings/75F54/EntitySubwpnCrashCross.s                 315          32  Yes
