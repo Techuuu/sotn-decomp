@@ -83,7 +83,6 @@ us/st/cen/nonmatchings/D600/func_80194394.s                         55          
 us/st/cen/nonmatchings/D600/func_8019565C.s                         55           7
 us/st/rwrp/nonmatchings/8DF0/func_8018D6B0.s                        55           7
 us/st/rwrp/nonmatchings/8DF0/func_8018E978.s                        55           7
-us/dra/nonmatchings/47BB8/LoadStageTileset.s                        56           7          https://decomp.me/scratch/yxn6F (Scraped 0.947)
 us/st/cen/nonmatchings/D600/func_801990F8.s                         57           4
 us/st/rwrp/nonmatchings/8DF0/func_80192414.s                        57           4
 us/st/st0/nonmatchings/30030/func_801B11E8.s                        57          15
