@@ -253,7 +253,6 @@ us/st/sel/nonmatchings/3642C/func_801B76F0.s                       105          
 us/st/st0/nonmatchings/30030/func_801B101C.s                       105           7
 us/dra/nonmatchings/5087C/func_800F2288.s                          108          12
 us/dra/nonmatchings/5298C/func_800F5904.s                          109          11          https://decomp.me/scratch/DP2LU (Scraped 0.708)
-us/dra/nonmatchings/5D6C4/func_800FDB18.s                          109          14  Yes     https://decomp.me/scratch/lFwhP (Scraped 1.0)
 us/dra/nonmatchings/5087C/func_800F2658.s                          110           5
 us/st/sel/nonmatchings/38D24/func_801B99E4.s                       110           9
 us/st/cen/nonmatchings/D600/func_8018E238.s                        110          13
