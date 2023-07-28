@@ -371,7 +371,6 @@
 | us/st/no3/nonmatchings/3E134/func_801BEA20.s                 |      186 |         20 |        |                                 |       |
 | us/st/nz0/nonmatchings/36DE4/func_801B79A8.s                 |      186 |         20 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801AE6D0.s                 |      187 |         15 |        |                                 |       |
-| us/st/nz0/nonmatchings/30958/func_801B2FD8.s                 |      187 |         18 |        | https://decomp.me/scratch/cB84r | 0.995 |
 | us/dra/nonmatchings/75F54/func_8012C600.s                    |      187 |         21 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011E0EC.s                    |      187 |         22 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80116408.s                    |      187 |         37 | Yes    |                                 |       |
