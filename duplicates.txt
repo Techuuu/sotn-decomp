@@ -1,5 +1,5 @@
 Number of decompiled duplicates found: 562
-Number of undecompiled duplicates found: 407
+Number of undecompiled duplicates found: 406
 Number of overall exact duplicates found: 118
 
 ref. - MAIN - ChangeClearRCnt - found 51 matches total:
@@ -886,13 +886,6 @@ ref. - CEN  - func_8018E238 - found 5 matches total:
 0.99 - SEL  - func_801B675C
 0.99 - ST0  - func_801A8CB0 - (decompiled)
 
-ref. - DRE  - EntityFadeToWhite1 - found 5 matches total:
-0.99 - DRE  - EntityFadeToWhite2
-0.99 - NO3  - EntityWargExplosionPuffOpaque
-0.99 - NO3  - EntityStrongWargWaveAttack
-0.99 - NP3  - func_801B65FC
-0.99 - NZ0  - func_801B3C38
-
 ref. - MAIN - InterruptCallback - found 5 matches total:
 0.99 - MAIN - ResetCallback - (decompiled)
 0.99 - MAIN - DMACallback - (decompiled)
@@ -918,6 +911,12 @@ ref. - CEN  - func_8018E6C4 - found 4 matches total:
 0.99 - NO3  - func_801BEDAC
 0.99 - NZ0  - func_801B7C54
 0.99 - ST0  - func_801A910C - (decompiled)
+
+ref. - DRE  - EntityFadeToWhite1 - found 4 matches total:
+0.99 - DRE  - EntityFadeToWhite2
+0.99 - NO3  - EntityWargExplosionPuffOpaque
+0.99 - NO3  - EntityStrongWargWaveAttack
+0.99 - NP3  - func_801B65FC
 
 ref. - MAIN - GetVideoMode - found 4 matches total:
 0.99 - MAIN - GetGraphType - (decompiled)
