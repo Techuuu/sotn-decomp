@@ -371,7 +371,7 @@ us/dra/nonmatchings/47BB8/DecompressData.s                         185          
 us/st/no3/nonmatchings/3E134/func_801BEA20.s                       186          20
 us/st/nz0/nonmatchings/36DE4/func_801B79A8.s                       186          20
 us/st/sel/nonmatchings/2D260/func_801AE6D0.s                       187          15
-us/st/nz0/nonmatchings/30958/func_801B2FD8.s                       187          18          https://decomp.me/scratch/2pQT4 (Scraped 0.844)
+us/st/nz0/nonmatchings/30958/func_801B2FD8.s                       187          18          https://decomp.me/scratch/cB84r (Scraped 0.995)
 us/dra/nonmatchings/75F54/func_8012C600.s                          187          21
 us/dra/nonmatchings/75F54/func_8011E0EC.s                          187          22
 us/dra/nonmatchings/75F54/func_80116408.s                          187          37  Yes
@@ -382,7 +382,6 @@ us/st/dre/nonmatchings/14774/func_80194C50.s                       192          
 us/ric/nonmatchings/1AC60/func_8015885C.s                          192          24
 us/st/no3/nonmatchings/377D4/EntityUnkId1C.s                       193          23          https://decomp.me/scratch/Y8O08 (Scraped 0.976)
 us/st/np3/nonmatchings/3246C/func_801B3704.s                       193          23
-us/st/nz0/nonmatchings/30958/EntityBreakable.s                     194          21          https://decomp.me/scratch/0tv5m
 us/st/nz0/nonmatchings/30958/func_801B2D08.s                       195          18          https://decomp.me/scratch/ixW6j
 us/dra/nonmatchings/692E8/func_8010D010.s                          195          33
 us/st/rwrp/nonmatchings/8DF0/func_80189E9C.s                       195          33  Yes     https://decomp.me/scratch/4UdLD (Scraped 0.996)
@@ -454,14 +453,14 @@ us/st/no3/nonmatchings/46684/EntitySidewaysWaterDroplets.s         244          
 us/st/np3/nonmatchings/44DCC/func_801C5BC4.s                       244          23
 us/dra/nonmatchings/62D70/func_80105078.s                          244          26
 us/st/np3/nonmatchings/4B018/func_801D1BB8.s                       246          31
-us/dra/nonmatchings/5D6C4/func_800FE044.s                          246          35          https://decomp.me/scratch/MxpHX (Scraped 0.954)
+us/dra/nonmatchings/5D6C4/func_800FE044.s                          246          35          https://decomp.me/scratch/xbwbe (Scraped 0.993)
 us/dra/nonmatchings/5298C/func_800F7F64.s                          248          21  Yes
 us/st/mad/nonmatchings/D8C8/func_8018D8C8.s                        249          45  Yes     https://decomp.me/scratch/35BJG (Scraped 0.028)
 us/st/sel/nonmatchings/2D260/func_801B2108.s                       254          33
 us/dra/nonmatchings/5298C/func_800FA034.s                          254          39  Yes
 us/st/no3/nonmatchings/3E134/EntityWargExplosionPuffOpaque.s       255          39  Yes     https://decomp.me/scratch/kt36I (Scraped 0.032)
 us/st/np3/nonmatchings/3246C/func_801B65FC.s                       255          39  Yes
-us/st/nz0/nonmatchings/30958/func_801B3C38.s                       255          39  Yes
+us/st/nz0/nonmatchings/30958/func_801B3C38.s                       255          39  Yes     https://decomp.me/scratch/IfCMA (Scraped 0.999)
 us/dra/nonmatchings/5298C/func_800F99B8.s                          257          35
 us/st/cen/nonmatchings/1B274/func_8019BED4.s                       258          14
 us/st/dre/nonmatchings/1C7DC/func_801A2018.s                       258          14
@@ -496,7 +495,7 @@ us/st/no3/nonmatchings/46684/EntityLargeWaterSplash.s              288          
 us/st/np3/nonmatchings/44DCC/func_801C7954.s                       288          28
 us/dra/nonmatchings/75F54/func_80123B40.s                          291          22
 us/dra/nonmatchings/75F54/EntityHolyWaterBreakGlass.s              292          26
-us/st/no3/nonmatchings/3E134/EntityRoomTransition2.s               293          34  Yes
+us/st/no3/nonmatchings/3E134/EntityRoomTransition2.s               293          34  Yes     https://decomp.me/scratch/1xfyS (Scraped 0.972)
 us/st/no3/nonmatchings/46684/EntityExplosion3.s                    295          31
 us/ric/nonmatchings/26C84/func_80167A70.s                          296          26
 us/ric/nonmatchings/26C84/func_8016D4D8.s                          296          35
@@ -506,7 +505,7 @@ us/st/np3/nonmatchings/3246C/func_801B32A8.s                       299          
 us/dra/nonmatchings/627C4/func_801028AC.s                          300          43  Yes
 us/st/dre/nonmatchings/14774/EntityUnkId21.s                       301          46  Yes     https://decomp.me/scratch/ShQ8J (Scraped 0.963)
 us/dra/nonmatchings/75F54/EntitySummonSpirit.s                     311          34
-us/st/nz0/nonmatchings/30958/func_801B0AA4.s                       311          43
+us/st/nz0/nonmatchings/30958/func_801B0AA4.s                       311          43          https://decomp.me/scratch/E9P7N (Scraped 0.969)
 us/dra/nonmatchings/75F54/EntitySubwpnCrashCross.s                 315          32  Yes
 us/st/st0/nonmatchings/36358/EntityClockTower3D.s                  319          23
 us/st/nz0/nonmatchings/36DE4/func_801B7034.s                       320          39
@@ -709,7 +708,7 @@ us/st/rwrp/nonmatchings/8DF0/func_8018C948.s                       855         1
 us/st/st0/nonmatchings/30030/EntityRedDoor.s                       855         107  Yes     https://decomp.me/scratch/889VK (Scraped 0.955)
 us/st/wrp/nonmatchings/6FD0/EntityRedDoor.s                        855         107  Yes     https://decomp.me/scratch/889VK (Scraped 0.955)
 us/st/rwrp/nonmatchings/8DF0/func_801891C0.s                       867          81  Yes
-us/dra/nonmatchings/5D6C4/func_80100B50.s                          885          99
+us/dra/nonmatchings/5D6C4/func_80100B50.s                          885          99          https://decomp.me/scratch/gGwVm (Scraped 0.784)
 us/dra/nonmatchings/75F54/func_80116B0C.s                          885         178  Yes
 us/st/sel/nonmatchings/3642C/func_801B69F8.s                       892          96  Yes
 us/st/st0/nonmatchings/36358/EntityCutscenePhotograph.s            904          68  Yes
