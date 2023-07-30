@@ -560,7 +560,6 @@
 | us/st/st0/nonmatchings/36358/func_801B8ED8.s                 |      388 |         11 |        |                                 |       |
 | us/st/wrp/nonmatchings/D020/func_801907EC.s                  |      388 |         11 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80128C2C.s                    |      388 |         49 | Yes    | https://decomp.me/scratch/39AEo | 0.905 |
-| us/dra/nonmatchings/71830/func_80112BB0.s                    |      392 |         68 | Yes    | https://decomp.me/scratch/Gviol | 0.966 |
 | us/dra/nonmatchings/73AAC/func_80114DF4.s                    |      393 |         70 |        | https://decomp.me/scratch/r2YWw | 0.987 |
 | us/st/mad/nonmatchings/139E0/EntityEquipItemDrop.s           |      404 |         52 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityEquipItemDrop.s           |      404 |         52 | Yes    |                                 |       |
@@ -637,7 +636,7 @@
 | us/st/st0/nonmatchings/36358/func_801B7308.s                 |      554 |         52 | Yes    |                                 |       |
 | us/ric/nonmatchings/21250/func_8015DBB0.s                    |      554 |        110 |        |                                 |       |
 | us/dra/nonmatchings/73AAC/func_80115394.s                    |      560 |         78 |        | https://decomp.me/scratch/8LHcK | 0.891 |
-| us/dra/nonmatchings/71830/func_801131C4.s                    |      560 |        105 | Yes    |                                 |       |
+| us/dra/nonmatchings/72BB0/func_801131C4.s                    |      560 |        105 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012D3E8.s                    |      560 |        113 | Yes    |                                 |       |
 | us/servant/tt_000/nonmatchings/10E8/func_801733D4.s          |      561 |         39 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnReboundStone.s         |      568 |        121 |        |                                 |       |
