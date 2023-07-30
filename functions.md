@@ -452,7 +452,6 @@
 | us/st/np3/nonmatchings/44DCC/func_801C5BC4.s                 |      244 |         23 |        |                                 |       |
 | us/dra/nonmatchings/62D70/func_80105078.s                    |      244 |         26 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801D1BB8.s                 |      246 |         31 |        |                                 |       |
-| us/dra/nonmatchings/5D6C4/func_800FE044.s                    |      246 |         35 |        | https://decomp.me/scratch/xbwbe | 0.993 |
 | us/dra/nonmatchings/5298C/func_800F7F64.s                    |      248 |         21 | Yes    |                                 |       |
 | us/st/mad/nonmatchings/D8C8/func_8018D8C8.s                  |      249 |         45 | Yes    | https://decomp.me/scratch/35BJG | 0.028 |
 | us/st/sel/nonmatchings/2D260/func_801B2108.s                 |      254 |         33 |        |                                 |       |
