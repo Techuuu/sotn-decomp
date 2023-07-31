@@ -227,7 +227,7 @@
 | us/dra/nonmatchings/692E8/func_8010E570.s                    |       93 |         16 |        | https://decomp.me/scratch/Cxq6C | 0.587 |
 | us/ric/nonmatchings/26C84/func_801682B4.s                    |       95 |         10 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E7BB8.s                    |       96 |         10 | Yes    | https://decomp.me/scratch/0bvjl | 0.85  |
-| us/dra/nonmatchings/47BB8/func_800EA5E4.s                    |       96 |         14 |        | https://decomp.me/scratch/FA0fZ | 0.942 |
+| us/dra/nonmatchings/47BB8/func_800EA5E4.s                    |       96 |         14 |        | https://decomp.me/scratch/FA0fZ | 0.944 |
 | us/st/nz0/nonmatchings/4672C/func_801C6B24.s                 |       96 |         14 |        | https://decomp.me/scratch/T0T7K | 0.991 |
 | us/st/no3/nonmatchings/46684/EntityMermanSpawner.s           |       96 |         15 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F1D54.s                    |       96 |         16 |        |                                 |       |
@@ -263,7 +263,6 @@
 | us/dra/nonmatchings/75F54/func_80133604.s                    |      111 |         18 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80133488.s                    |      111 |         20 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_801106A4.s                    |      111 |         21 |        |                                 |       |
-| us/dra/nonmatchings/953A0/func_80135484.s                    |      112 |          4 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80116994.s                    |      112 |         22 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B38B4.s                 |      115 |          8 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_801238CC.s                    |      115 |         11 |        |                                 |       |
