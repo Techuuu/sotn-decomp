@@ -227,7 +227,7 @@
 | us/dra/nonmatchings/692E8/func_8010E570.s                    |       93 |         16 |        | https://decomp.me/scratch/Cxq6C | 0.587 |
 | us/ric/nonmatchings/26C84/func_801682B4.s                    |       95 |         10 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E7BB8.s                    |       96 |         10 | Yes    | https://decomp.me/scratch/0bvjl | 0.85  |
-| us/dra/nonmatchings/47BB8/func_800EA5E4.s                    |       96 |         14 |        |                                 |       |
+| us/dra/nonmatchings/47BB8/func_800EA5E4.s                    |       96 |         14 |        | https://decomp.me/scratch/FA0fZ | 0.044 |
 | us/st/nz0/nonmatchings/4672C/func_801C6B24.s                 |       96 |         14 |        | https://decomp.me/scratch/T0T7K | 0.991 |
 | us/st/no3/nonmatchings/46684/EntityMermanSpawner.s           |       96 |         15 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F1D54.s                    |       96 |         16 |        |                                 |       |
@@ -663,7 +663,7 @@
 | us/st/sel/nonmatchings/2C048/func_801AC174.s                 |      678 |         55 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012F894.s                    |      696 |         98 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityTransparentWhiteCircle.s     |      703 |         71 |        |                                 |       |
-| us/dra/nonmatchings/5D6C4/func_80101A80.s                    |      709 |         66 |        |                                 |       |
+| us/dra/nonmatchings/5D6C4/func_80101A80.s                    |      709 |         66 |        | https://decomp.me/scratch/4oDuU | 0.893 |
 | us/st/sel/nonmatchings/2D260/TestCollisions.s                |      709 |         96 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/36358/func_801BC5C0.s                 |      743 |         59 |        |                                 |       |
 | us/st/cen/nonmatchings/D600/EntityRelicOrb.s                 |      748 |         68 | Yes    | https://decomp.me/scratch/EdnoJ | 0.978 |
