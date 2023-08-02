@@ -118,7 +118,7 @@ ref. - MAIN - PadStop - found 15 matches total:
 0.99 - MAIN - func_800199F4 - (decompiled)
 0.99 - MAIN - func_8001C300 - (decompiled)
 0.99 - MAIN - SsQuit - (decompiled)
-0.99 - MAIN - func_800206E8 - (decompiled)
+0.99 - MAIN - SsStart2 - (decompiled)
 0.99 - MAIN - func_80021F0C - (decompiled)
 0.99 - MAIN - SpuInit - (decompiled)
 0.99 - DRA  - func_801027A4 - (decompiled)
