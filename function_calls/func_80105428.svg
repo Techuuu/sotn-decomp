@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>dra/SetGeomScreen</title>
 <g id="a_node2"><a xlink:href="SetGeomScreen.svg" xlink:title="dra/SetGeomScreen">
-<ellipse fill="red" stroke="black" cx="103.99" cy="-18" rx="103.98" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="103.99" cy="-18" rx="103.98" ry="18"/>
 <text text-anchor="middle" x="103.99" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetGeomScreen</text>
 </a>
 </g>
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>dra/SetGeomOffset</title>
 <g id="a_node3"><a xlink:href="SetGeomOffset.svg" xlink:title="dra/SetGeomOffset">
-<ellipse fill="red" stroke="black" cx="324.99" cy="-18" rx="99.38" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="324.99" cy="-18" rx="99.38" ry="18"/>
 <text text-anchor="middle" x="324.99" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetGeomOffset</text>
 </a>
 </g>

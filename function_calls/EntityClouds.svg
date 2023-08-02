@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>st0/SetGeomScreen</title>
 <g id="a_node4"><a xlink:href="SetGeomScreen.svg" xlink:title="st0/SetGeomScreen">
-<ellipse fill="red" stroke="black" cx="597.49" cy="-18" rx="102.88" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="597.49" cy="-18" rx="102.88" ry="18"/>
 <text text-anchor="middle" x="597.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/SetGeomScreen</text>
 </a>
 </g>
@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>st0/SetGeomOffset</title>
 <g id="a_node5"><a xlink:href="SetGeomOffset.svg" xlink:title="st0/SetGeomOffset">
-<ellipse fill="red" stroke="black" cx="816.49" cy="-18" rx="98.58" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="816.49" cy="-18" rx="98.58" ry="18"/>
 <text text-anchor="middle" x="816.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/SetGeomOffset</text>
 </a>
 </g>
@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>st0/RotMatrix</title>
 <g id="a_node6"><a xlink:href="RotMatrix.svg" xlink:title="st0/RotMatrix">
-<ellipse fill="red" stroke="black" cx="1008.49" cy="-18" rx="75.29" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1008.49" cy="-18" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="1008.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/RotMatrix</text>
 </a>
 </g>
@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>st0/SetRotMatrix</title>
 <g id="a_node7"><a xlink:href="SetRotMatrix.svg" xlink:title="st0/SetRotMatrix">
-<ellipse fill="red" stroke="black" cx="1192.49" cy="-18" rx="90.98" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1192.49" cy="-18" rx="90.98" ry="18"/>
 <text text-anchor="middle" x="1192.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/SetRotMatrix</text>
 </a>
 </g>

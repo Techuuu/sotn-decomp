@@ -147,7 +147,7 @@
 <g id="node10" class="node">
 <title>np3/ratan2</title>
 <g id="a_node10"><a xlink:href="ratan2.svg" xlink:title="np3/ratan2">
-<ellipse fill="green" stroke="black" cx="2067.24" cy="-18" rx="61.99" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="2067.24" cy="-18" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="2067.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3/ratan2</text>
 </a>
 </g>
@@ -163,7 +163,7 @@
 <g id="node11" class="node">
 <title>np3/rcos</title>
 <g id="a_node11"><a xlink:href="rcos.svg" xlink:title="np3/rcos">
-<ellipse fill="red" stroke="black" cx="2197.24" cy="-18" rx="50.89" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="2197.24" cy="-18" rx="50.89" ry="18"/>
 <text text-anchor="middle" x="2197.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3/rcos</text>
 </a>
 </g>
@@ -179,7 +179,7 @@
 <g id="node12" class="node">
 <title>np3/rsin</title>
 <g id="a_node12"><a xlink:href="rsin.svg" xlink:title="np3/rsin">
-<ellipse fill="green" stroke="black" cx="2315.24" cy="-18" rx="49.29" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="2315.24" cy="-18" rx="49.29" ry="18"/>
 <text text-anchor="middle" x="2315.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3/rsin</text>
 </a>
 </g>

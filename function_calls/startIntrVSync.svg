@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>main/VSync_memclr</title>
 <g id="a_node2"><a xlink:href="VSync_memclr.svg" xlink:title="main/VSync_memclr">
-<ellipse fill="red" stroke="black" cx="104.64" cy="-18" rx="104.78" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="104.64" cy="-18" rx="104.78" ry="18"/>
 <text text-anchor="middle" x="104.64" y="-14.3" font-family="Times,serif" font-size="14.00">main/VSync_memclr</text>
 </a>
 </g>
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>main/InterruptCallback</title>
 <g id="a_node3"><a xlink:href="InterruptCallback.svg" xlink:title="main/InterruptCallback">
-<ellipse fill="red" stroke="black" cx="346.64" cy="-18" rx="118.88" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="346.64" cy="-18" rx="118.88" ry="18"/>
 <text text-anchor="middle" x="346.64" y="-14.3" font-family="Times,serif" font-size="14.00">main/InterruptCallback</text>
 </a>
 </g>

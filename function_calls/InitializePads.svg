@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>dra/PadInit</title>
 <g id="a_node2"><a xlink:href="PadInit.svg" xlink:title="dra/PadInit">
-<ellipse fill="red" stroke="black" cx="62.39" cy="-18" rx="62.29" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="62.39" cy="-18" rx="62.29" ry="18"/>
 <text text-anchor="middle" x="62.39" y="-14.3" font-family="Times,serif" font-size="14.00">dra/PadInit</text>
 </a>
 </g>

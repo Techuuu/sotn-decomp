@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>np3/VSync</title>
 <g id="a_node4"><a xlink:href="VSync.svg" xlink:title="np3/VSync">
-<ellipse fill="red" stroke="black" cx="393.84" cy="-18" rx="59.59" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="393.84" cy="-18" rx="59.59" ry="18"/>
 <text text-anchor="middle" x="393.84" y="-14.3" font-family="Times,serif" font-size="14.00">np3/VSync</text>
 </a>
 </g>

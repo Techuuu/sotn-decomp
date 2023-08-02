@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>nz0/rsin</title>
 <g id="a_node3"><a xlink:href="rsin.svg" xlink:title="nz0/rsin">
-<ellipse fill="green" stroke="black" cx="265.44" cy="-18" rx="48.19" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="265.44" cy="-18" rx="48.19" ry="18"/>
 <text text-anchor="middle" x="265.44" y="-14.3" font-family="Times,serif" font-size="14.00">nz0/rsin</text>
 </a>
 </g>
@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>nz0/rcos</title>
 <g id="a_node4"><a xlink:href="rcos.svg" xlink:title="nz0/rcos">
-<ellipse fill="red" stroke="black" cx="381.44" cy="-18" rx="50.09" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="381.44" cy="-18" rx="50.09" ry="18"/>
 <text text-anchor="middle" x="381.44" y="-14.3" font-family="Times,serif" font-size="14.00">nz0/rcos</text>
 </a>
 </g>

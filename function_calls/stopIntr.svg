@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>main/ResetEntryInt</title>
 <g id="a_node3"><a xlink:href="ResetEntryInt.svg" xlink:title="main/ResetEntryInt">
-<ellipse fill="red" stroke="black" cx="384.94" cy="-18" rx="102.88" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="384.94" cy="-18" rx="102.88" ry="18"/>
 <text text-anchor="middle" x="384.94" y="-14.3" font-family="Times,serif" font-size="14.00">main/ResetEntryInt</text>
 </a>
 </g>

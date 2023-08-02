@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>dra/sprintf</title>
 <g id="a_node4"><a xlink:href="sprintf.svg" xlink:title="dra/sprintf">
-<ellipse fill="red" stroke="black" cx="472.94" cy="-18" rx="60.39" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="472.94" cy="-18" rx="60.39" ry="18"/>
 <text text-anchor="middle" x="472.94" y="-14.3" font-family="Times,serif" font-size="14.00">dra/sprintf</text>
 </a>
 </g>

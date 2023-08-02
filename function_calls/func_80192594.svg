@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>rwrp/rsin</title>
 <g id="a_node3"><a xlink:href="rsin.svg" xlink:title="rwrp/rsin">
-<ellipse fill="green" stroke="black" cx="288.54" cy="-18" rx="53.89" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="288.54" cy="-18" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="288.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp/rsin</text>
 </a>
 </g>
@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>rwrp/rcos</title>
 <g id="a_node4"><a xlink:href="rcos.svg" xlink:title="rwrp/rcos">
-<ellipse fill="red" stroke="black" cx="416.54" cy="-18" rx="55.79" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="416.54" cy="-18" rx="55.79" ry="18"/>
 <text text-anchor="middle" x="416.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp/rcos</text>
 </a>
 </g>

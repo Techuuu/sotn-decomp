@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>sel/DMACallback</title>
 <g id="a_node2"><a xlink:href="DMACallback.svg" xlink:title="sel/DMACallback">
-<ellipse fill="green" stroke="black" cx="100.09" cy="-18" rx="89.08" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="100.09" cy="-18" rx="89.08" ry="18"/>
 <text text-anchor="middle" x="100.09" y="-14.3" font-family="Times,serif" font-size="14.00">sel/DMACallback</text>
 </a>
 </g>

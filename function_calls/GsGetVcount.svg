@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>main/GetRCnt</title>
 <g id="a_node2"><a xlink:href="GetRCnt.svg" xlink:title="main/GetRCnt">
-<ellipse fill="red" stroke="black" cx="97.49" cy="-18" rx="76.89" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="97.49" cy="-18" rx="76.89" ry="18"/>
 <text text-anchor="middle" x="97.49" y="-14.3" font-family="Times,serif" font-size="14.00">main/GetRCnt</text>
 </a>
 </g>

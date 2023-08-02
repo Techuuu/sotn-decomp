@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>sel/GsClearVcount</title>
 <g id="a_node2"><a xlink:href="GsClearVcount.svg" xlink:title="sel/GsClearVcount">
-<ellipse fill="red" stroke="black" cx="96.19" cy="-18" rx="96.38" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="96.19" cy="-18" rx="96.38" ry="18"/>
 <text text-anchor="middle" x="96.19" y="-14.3" font-family="Times,serif" font-size="14.00">sel/GsClearVcount</text>
 </a>
 </g>
@@ -163,7 +163,7 @@
 <g id="node11" class="node">
 <title>sel/VSync</title>
 <g id="a_node11"><a xlink:href="VSync.svg" xlink:title="sel/VSync">
-<ellipse fill="red" stroke="black" cx="1865.19" cy="-18" rx="55.79" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1865.19" cy="-18" rx="55.79" ry="18"/>
 <text text-anchor="middle" x="1865.19" y="-14.3" font-family="Times,serif" font-size="14.00">sel/VSync</text>
 </a>
 </g>
@@ -371,7 +371,7 @@
 <g id="node24" class="node">
 <title>sel/PadRead</title>
 <g id="a_node24"><a xlink:href="PadRead.svg" xlink:title="sel/PadRead">
-<ellipse fill="red" stroke="black" cx="4419.19" cy="-18" rx="67.69" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="4419.19" cy="-18" rx="67.69" ry="18"/>
 <text text-anchor="middle" x="4419.19" y="-14.3" font-family="Times,serif" font-size="14.00">sel/PadRead</text>
 </a>
 </g>

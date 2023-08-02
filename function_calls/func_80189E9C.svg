@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>rwrp/ratan2</title>
 <g id="a_node5"><a xlink:href="ratan2.svg" xlink:title="rwrp/ratan2">
-<ellipse fill="green" stroke="black" cx="666.54" cy="-18" rx="66.89" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="666.54" cy="-18" rx="66.89" ry="18"/>
 <text text-anchor="middle" x="666.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp/ratan2</text>
 </a>
 </g>
@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>rwrp/rcos</title>
 <g id="a_node6"><a xlink:href="rcos.svg" xlink:title="rwrp/rcos">
-<ellipse fill="red" stroke="black" cx="807.54" cy="-18" rx="55.79" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="807.54" cy="-18" rx="55.79" ry="18"/>
 <text text-anchor="middle" x="807.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp/rcos</text>
 </a>
 </g>
@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>rwrp/rsin</title>
 <g id="a_node7"><a xlink:href="rsin.svg" xlink:title="rwrp/rsin">
-<ellipse fill="green" stroke="black" cx="935.54" cy="-18" rx="53.89" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="935.54" cy="-18" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="935.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp/rsin</text>
 </a>
 </g>
@@ -115,7 +115,7 @@
 <g id="node8" class="node">
 <title>rwrp/SquareRoot0</title>
 <g id="a_node8"><a xlink:href="SquareRoot0.svg" xlink:title="rwrp/SquareRoot0">
-<ellipse fill="red" stroke="black" cx="1104.54" cy="-18" rx="96.68" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1104.54" cy="-18" rx="96.68" ry="18"/>
 <text text-anchor="middle" x="1104.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp/SquareRoot0</text>
 </a>
 </g>

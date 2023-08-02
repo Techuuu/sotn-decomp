@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>main/sin_1</title>
 <g id="a_node2"><a xlink:href="sin_1.svg" xlink:title="main/sin_1">
-<ellipse fill="green" stroke="black" cx="60.44" cy="-18" rx="60.39" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="60.44" cy="-18" rx="60.39" ry="18"/>
 <text text-anchor="middle" x="60.44" y="-14.3" font-family="Times,serif" font-size="14.00">main/sin_1</text>
 </a>
 </g>

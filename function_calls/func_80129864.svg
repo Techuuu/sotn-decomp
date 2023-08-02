@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>dra/rcos</title>
 <g id="a_node5"><a xlink:href="rcos.svg" xlink:title="dra/rcos">
-<ellipse fill="red" stroke="black" cx="692.44" cy="-18" rx="48.99" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="692.44" cy="-18" rx="48.99" ry="18"/>
 <text text-anchor="middle" x="692.44" y="-14.3" font-family="Times,serif" font-size="14.00">dra/rcos</text>
 </a>
 </g>
@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>dra/ratan2</title>
 <g id="a_node7"><a xlink:href="ratan2.svg" xlink:title="dra/ratan2">
-<ellipse fill="green" stroke="black" cx="1038.44" cy="-18" rx="59.59" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1038.44" cy="-18" rx="59.59" ry="18"/>
 <text text-anchor="middle" x="1038.44" y="-14.3" font-family="Times,serif" font-size="14.00">dra/ratan2</text>
 </a>
 </g>
@@ -115,7 +115,7 @@
 <g id="node8" class="node">
 <title>dra/rsin</title>
 <g id="a_node8"><a xlink:href="rsin.svg" xlink:title="dra/rsin">
-<ellipse fill="green" stroke="black" cx="1163.44" cy="-18" rx="47.39" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1163.44" cy="-18" rx="47.39" ry="18"/>
 <text text-anchor="middle" x="1163.44" y="-14.3" font-family="Times,serif" font-size="14.00">dra/rsin</text>
 </a>
 </g>

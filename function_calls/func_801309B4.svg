@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>dra/rcos</title>
 <g id="a_node3"><a xlink:href="rcos.svg" xlink:title="dra/rcos">
-<ellipse fill="red" stroke="black" cx="256.89" cy="-18" rx="48.99" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="256.89" cy="-18" rx="48.99" ry="18"/>
 <text text-anchor="middle" x="256.89" y="-14.3" font-family="Times,serif" font-size="14.00">dra/rcos</text>
 </a>
 </g>
@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>dra/rsin</title>
 <g id="a_node4"><a xlink:href="rsin.svg" xlink:title="dra/rsin">
-<ellipse fill="green" stroke="black" cx="370.89" cy="-18" rx="47.39" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="370.89" cy="-18" rx="47.39" ry="18"/>
 <text text-anchor="middle" x="370.89" y="-14.3" font-family="Times,serif" font-size="14.00">dra/rsin</text>
 </a>
 </g>

@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>no3/rsin</title>
 <g id="a_node6"><a xlink:href="rsin.svg" xlink:title="no3/rsin">
-<ellipse fill="green" stroke="black" cx="963.09" cy="-18" rx="48.99" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="963.09" cy="-18" rx="48.99" ry="18"/>
 <text text-anchor="middle" x="963.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3/rsin</text>
 </a>
 </g>
@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>no3/rcos</title>
 <g id="a_node7"><a xlink:href="rcos.svg" xlink:title="no3/rcos">
-<ellipse fill="red" stroke="black" cx="1080.09" cy="-18" rx="50.09" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1080.09" cy="-18" rx="50.09" ry="18"/>
 <text text-anchor="middle" x="1080.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3/rcos</text>
 </a>
 </g>
@@ -115,7 +115,7 @@
 <g id="node8" class="node">
 <title>no3/RotMatrixZ</title>
 <g id="a_node8"><a xlink:href="RotMatrixZ.svg" xlink:title="no3/RotMatrixZ">
-<ellipse fill="red" stroke="black" cx="1233.09" cy="-18" rx="84.49" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1233.09" cy="-18" rx="84.49" ry="18"/>
 <text text-anchor="middle" x="1233.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3/RotMatrixZ</text>
 </a>
 </g>
@@ -131,7 +131,7 @@
 <g id="node9" class="node">
 <title>no3/SetRotMatrix</title>
 <g id="a_node9"><a xlink:href="SetRotMatrix.svg" xlink:title="no3/SetRotMatrix">
-<ellipse fill="red" stroke="black" cx="1429.09" cy="-18" rx="93.68" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1429.09" cy="-18" rx="93.68" ry="18"/>
 <text text-anchor="middle" x="1429.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3/SetRotMatrix</text>
 </a>
 </g>
@@ -147,7 +147,7 @@
 <g id="node10" class="node">
 <title>no3/func_80017964</title>
 <g id="a_node10"><a xlink:href="func_80017964.svg" xlink:title="no3/func_80017964">
-<ellipse fill="red" stroke="black" cx="1643.09" cy="-18" rx="102.08" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1643.09" cy="-18" rx="102.08" ry="18"/>
 <text text-anchor="middle" x="1643.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3/func_80017964</text>
 </a>
 </g>
@@ -163,7 +163,7 @@
 <g id="node11" class="node">
 <title>no3/ratan2</title>
 <g id="a_node11"><a xlink:href="ratan2.svg" xlink:title="no3/ratan2">
-<ellipse fill="green" stroke="black" cx="1825.09" cy="-18" rx="61.99" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1825.09" cy="-18" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="1825.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3/ratan2</text>
 </a>
 </g>

@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>tt_000/rcos</title>
 <g id="a_node4"><a xlink:href="rcos.svg" xlink:title="tt_000/rcos">
-<ellipse fill="red" stroke="black" cx="618.59" cy="-18" rx="63.09" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="618.59" cy="-18" rx="63.09" ry="18"/>
 <text text-anchor="middle" x="618.59" y="-14.3" font-family="Times,serif" font-size="14.00">tt_000/rcos</text>
 </a>
 </g>
@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>tt_000/rsin</title>
 <g id="a_node5"><a xlink:href="rsin.svg" xlink:title="tt_000/rsin">
-<ellipse fill="green" stroke="black" cx="761.59" cy="-18" rx="61.99" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="761.59" cy="-18" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="761.59" y="-14.3" font-family="Times,serif" font-size="14.00">tt_000/rsin</text>
 </a>
 </g>
@@ -131,7 +131,7 @@
 <g id="node9" class="node">
 <title>tt_000/SquareRoot12</title>
 <g id="a_node9"><a xlink:href="SquareRoot12.svg" xlink:title="tt_000/SquareRoot12">
-<ellipse fill="red" stroke="black" cx="1696.59" cy="-18" rx="109.68" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1696.59" cy="-18" rx="109.68" ry="18"/>
 <text text-anchor="middle" x="1696.59" y="-14.3" font-family="Times,serif" font-size="14.00">tt_000/SquareRoot12</text>
 </a>
 </g>

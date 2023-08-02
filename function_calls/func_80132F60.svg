@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>dra/VSync</title>
 <g id="a_node6"><a xlink:href="VSync.svg" xlink:title="dra/VSync">
-<ellipse fill="red" stroke="black" cx="940.39" cy="-18" rx="57.69" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="940.39" cy="-18" rx="57.69" ry="18"/>
 <text text-anchor="middle" x="940.39" y="-14.3" font-family="Times,serif" font-size="14.00">dra/VSync</text>
 </a>
 </g>

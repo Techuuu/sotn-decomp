@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>st0/SetGeomScreen</title>
 <g id="a_node4"><a xlink:href="SetGeomScreen.svg" xlink:title="st0/SetGeomScreen">
-<ellipse fill="red" stroke="black" cx="588.49" cy="-18" rx="102.88" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="588.49" cy="-18" rx="102.88" ry="18"/>
 <text text-anchor="middle" x="588.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/SetGeomScreen</text>
 </a>
 </g>
@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>st0/SetGeomOffset</title>
 <g id="a_node5"><a xlink:href="SetGeomOffset.svg" xlink:title="st0/SetGeomOffset">
-<ellipse fill="red" stroke="black" cx="807.49" cy="-18" rx="98.58" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="807.49" cy="-18" rx="98.58" ry="18"/>
 <text text-anchor="middle" x="807.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/SetGeomOffset</text>
 </a>
 </g>
@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>st0/RotMatrix</title>
 <g id="a_node6"><a xlink:href="RotMatrix.svg" xlink:title="st0/RotMatrix">
-<ellipse fill="red" stroke="black" cx="999.49" cy="-18" rx="75.29" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="999.49" cy="-18" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="999.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/RotMatrix</text>
 </a>
 </g>
@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>st0/SetRotMatrix</title>
 <g id="a_node7"><a xlink:href="SetRotMatrix.svg" xlink:title="st0/SetRotMatrix">
-<ellipse fill="red" stroke="black" cx="1183.49" cy="-18" rx="90.98" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1183.49" cy="-18" rx="90.98" ry="18"/>
 <text text-anchor="middle" x="1183.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/SetRotMatrix</text>
 </a>
 </g>
@@ -115,7 +115,7 @@
 <g id="node8" class="node">
 <title>st0/TransMatrix</title>
 <g id="a_node8"><a xlink:href="TransMatrix.svg" xlink:title="st0/TransMatrix">
-<ellipse fill="red" stroke="black" cx="1378.49" cy="-18" rx="85.59" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1378.49" cy="-18" rx="85.59" ry="18"/>
 <text text-anchor="middle" x="1378.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/TransMatrix</text>
 </a>
 </g>
@@ -131,7 +131,7 @@
 <g id="node9" class="node">
 <title>st0/SetTransMatrix</title>
 <g id="a_node9"><a xlink:href="SetTransMatrix.svg" xlink:title="st0/SetTransMatrix">
-<ellipse fill="red" stroke="black" cx="1583.49" cy="-18" rx="101.28" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1583.49" cy="-18" rx="101.28" ry="18"/>
 <text text-anchor="middle" x="1583.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0/SetTransMatrix</text>
 </a>
 </g>

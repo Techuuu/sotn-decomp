@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>np3/rsin</title>
 <g id="a_node2"><a xlink:href="rsin.svg" xlink:title="np3/rsin">
-<ellipse fill="green" stroke="black" cx="565.59" cy="-18" rx="49.29" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="565.59" cy="-18" rx="49.29" ry="18"/>
 <text text-anchor="middle" x="565.59" y="-14.3" font-family="Times,serif" font-size="14.00">np3/rsin</text>
 </a>
 </g>
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>np3/rcos</title>
 <g id="a_node3"><a xlink:href="rcos.svg" xlink:title="np3/rcos">
-<ellipse fill="red" stroke="black" cx="683.59" cy="-18" rx="50.89" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="683.59" cy="-18" rx="50.89" ry="18"/>
 <text text-anchor="middle" x="683.59" y="-14.3" font-family="Times,serif" font-size="14.00">np3/rcos</text>
 </a>
 </g>

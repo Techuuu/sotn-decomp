@@ -36,7 +36,7 @@
 <g id="node2" class="node">
 <title>no3/RotTransPers</title>
 <g id="a_node2"><a xlink:href="RotTransPers.svg" xlink:title="no3/RotTransPers">
-<ellipse fill="red" stroke="black" cx="93.59" cy="-18" rx="93.68" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="93.59" cy="-18" rx="93.68" ry="18"/>
 <text text-anchor="middle" x="93.59" y="-14.3" font-family="Times,serif" font-size="14.00">no3/RotTransPers</text>
 </a>
 </g>
@@ -52,7 +52,7 @@
 <g id="node3" class="node">
 <title>no3/DpqColor</title>
 <g id="a_node3"><a xlink:href="DpqColor.svg" xlink:title="no3/DpqColor">
-<ellipse fill="red" stroke="black" cx="279.59" cy="-18" rx="74.99" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="279.59" cy="-18" rx="74.99" ry="18"/>
 <text text-anchor="middle" x="279.59" y="-14.3" font-family="Times,serif" font-size="14.00">no3/DpqColor</text>
 </a>
 </g>

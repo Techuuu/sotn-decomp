@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>main/DMA_memclr</title>
 <g id="a_node2"><a xlink:href="DMA_memclr.svg" xlink:title="main/DMA_memclr">
-<ellipse fill="red" stroke="black" cx="98.79" cy="-18" rx="98.58" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="98.79" cy="-18" rx="98.58" ry="18"/>
 <text text-anchor="middle" x="98.79" y="-14.3" font-family="Times,serif" font-size="14.00">main/DMA_memclr</text>
 </a>
 </g>
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>main/InterruptCallback</title>
 <g id="a_node3"><a xlink:href="InterruptCallback.svg" xlink:title="main/InterruptCallback">
-<ellipse fill="red" stroke="black" cx="334.79" cy="-18" rx="118.88" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="334.79" cy="-18" rx="118.88" ry="18"/>
 <text text-anchor="middle" x="334.79" y="-14.3" font-family="Times,serif" font-size="14.00">main/InterruptCallback</text>
 </a>
 </g>

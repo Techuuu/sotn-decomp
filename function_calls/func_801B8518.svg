@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>sel/sprintf</title>
 <g id="a_node2"><a xlink:href="sprintf.svg" xlink:title="sel/sprintf">
-<ellipse fill="red" stroke="black" cx="57.84" cy="-18" rx="57.69" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="57.84" cy="-18" rx="57.69" ry="18"/>
 <text text-anchor="middle" x="57.84" y="-14.3" font-family="Times,serif" font-size="14.00">sel/sprintf</text>
 </a>
 </g>

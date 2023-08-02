@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>dra/SetVideoMode</title>
 <g id="a_node2"><a xlink:href="SetVideoMode.svg" xlink:title="dra/SetVideoMode">
-<ellipse fill="red" stroke="black" cx="96.84" cy="-18" rx="96.68" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="96.84" cy="-18" rx="96.68" ry="18"/>
 <text text-anchor="middle" x="96.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetVideoMode</text>
 </a>
 </g>
@@ -163,7 +163,7 @@
 <g id="node11" class="node">
 <title>dra/InitGeom</title>
 <g id="a_node11"><a xlink:href="InitGeom.svg" xlink:title="dra/InitGeom">
-<ellipse fill="red" stroke="black" cx="1819.84" cy="-18" rx="72.29" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1819.84" cy="-18" rx="72.29" ry="18"/>
 <text text-anchor="middle" x="1819.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra/InitGeom</text>
 </a>
 </g>
@@ -179,7 +179,7 @@
 <g id="node12" class="node">
 <title>dra/GsInitVcount</title>
 <g id="a_node12"><a xlink:href="GsInitVcount.svg" xlink:title="dra/GsInitVcount">
-<ellipse fill="red" stroke="black" cx="1999.84" cy="-18" rx="89.88" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1999.84" cy="-18" rx="89.88" ry="18"/>
 <text text-anchor="middle" x="1999.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra/GsInitVcount</text>
 </a>
 </g>
@@ -259,7 +259,7 @@
 <g id="node17" class="node">
 <title>dra/VSyncCallback</title>
 <g id="a_node17"><a xlink:href="VSyncCallback.svg" xlink:title="dra/VSyncCallback">
-<ellipse fill="red" stroke="black" cx="3034.84" cy="-18" rx="97.48" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="3034.84" cy="-18" rx="97.48" ry="18"/>
 <text text-anchor="middle" x="3034.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra/VSyncCallback</text>
 </a>
 </g>
@@ -659,7 +659,7 @@
 <g id="node42" class="node">
 <title>dra/GsGetVcount</title>
 <g id="a_node42"><a xlink:href="GsGetVcount.svg" xlink:title="dra/GsGetVcount">
-<ellipse fill="red" stroke="black" cx="8470.84" cy="-18" rx="90.18" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="8470.84" cy="-18" rx="90.18" ry="18"/>
 <text text-anchor="middle" x="8470.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra/GsGetVcount</text>
 </a>
 </g>
@@ -675,7 +675,7 @@
 <g id="node43" class="node">
 <title>dra/VSync</title>
 <g id="a_node43"><a xlink:href="VSync.svg" xlink:title="dra/VSync">
-<ellipse fill="red" stroke="black" cx="8636.84" cy="-18" rx="57.69" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="8636.84" cy="-18" rx="57.69" ry="18"/>
 <text text-anchor="middle" x="8636.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra/VSync</text>
 </a>
 </g>
@@ -691,7 +691,7 @@
 <g id="node44" class="node">
 <title>dra/GsClearVcount</title>
 <g id="a_node44"><a xlink:href="GsClearVcount.svg" xlink:title="dra/GsClearVcount">
-<ellipse fill="red" stroke="black" cx="8811.84" cy="-18" rx="98.58" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="8811.84" cy="-18" rx="98.58" ry="18"/>
 <text text-anchor="middle" x="8811.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra/GsClearVcount</text>
 </a>
 </g>

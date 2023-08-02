@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>main/memclr</title>
 <g id="a_node2"><a xlink:href="memclr.svg" xlink:title="main/memclr">
-<ellipse fill="red" stroke="black" cx="71.49" cy="-18" rx="71.49" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="71.49" cy="-18" rx="71.49" ry="18"/>
 <text text-anchor="middle" x="71.49" y="-14.3" font-family="Times,serif" font-size="14.00">main/memclr</text>
 </a>
 </g>
@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>main/trapIntr</title>
 <g id="a_node4"><a xlink:href="trapIntr.svg" xlink:title="main/trapIntr">
-<ellipse fill="red" stroke="black" cx="389.49" cy="-18" rx="73.39" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="389.49" cy="-18" rx="73.39" ry="18"/>
 <text text-anchor="middle" x="389.49" y="-14.3" font-family="Times,serif" font-size="14.00">main/trapIntr</text>
 </a>
 </g>
@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>main/HookEntryInt</title>
 <g id="a_node5"><a xlink:href="HookEntryInt.svg" xlink:title="main/HookEntryInt">
-<ellipse fill="red" stroke="black" cx="581.49" cy="-18" rx="100.18" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="581.49" cy="-18" rx="100.18" ry="18"/>
 <text text-anchor="middle" x="581.49" y="-14.3" font-family="Times,serif" font-size="14.00">main/HookEntryInt</text>
 </a>
 </g>
@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>main/startIntrVSync</title>
 <g id="a_node6"><a xlink:href="startIntrVSync.svg" xlink:title="main/startIntrVSync">
-<ellipse fill="red" stroke="black" cx="804.49" cy="-18" rx="105.08" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="804.49" cy="-18" rx="105.08" ry="18"/>
 <text text-anchor="middle" x="804.49" y="-14.3" font-family="Times,serif" font-size="14.00">main/startIntrVSync</text>
 </a>
 </g>
@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>main/startIntrDMA</title>
 <g id="a_node7"><a xlink:href="startIntrDMA.svg" xlink:title="main/startIntrDMA">
-<ellipse fill="red" stroke="black" cx="1027.49" cy="-18" rx="99.38" ry="18"/>
+<ellipse fill="lightblue" stroke="black" cx="1027.49" cy="-18" rx="99.38" ry="18"/>
 <text text-anchor="middle" x="1027.49" y="-14.3" font-family="Times,serif" font-size="14.00">main/startIntrDMA</text>
 </a>
 </g>
