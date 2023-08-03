@@ -5,111 +5,111 @@
  -->
 <!-- Title: ClearBackbuffer Pages: 1 -->
 <svg width="1087pt" height="218pt"
- viewBox="0.00 0.00 1086.93 218.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1087.23 218.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 214)">
 <title>ClearBackbuffer</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-214 1082.93,-214 1082.93,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-214 1083.23,-214 1083.23,4 -4,4"/>
 <!-- dra/ClearBackbuffer -->
 <g id="node1" class="node">
 <title>dra/ClearBackbuffer</title>
-<ellipse fill="green" stroke="black" cx="582.39" cy="-105" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="582.39" y="-101.3" font-family="Times,serif" font-size="14.00">dra/ClearBackbuffer</text>
+<ellipse fill="green" stroke="black" cx="509.69" cy="-105" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="509.69" y="-101.3" font-family="Times,serif" font-size="14.00">dra/ClearBackbuffer</text>
 </g>
 <!-- dra/ClearImage -->
 <g id="node2" class="node">
 <title>dra/ClearImage</title>
 <g id="a_node2"><a xlink:href="ClearImage.svg" xlink:title="dra/ClearImage">
-<ellipse fill="lightblue" stroke="black" cx="582.39" cy="-18" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="582.39" y="-14.3" font-family="Times,serif" font-size="14.00">dra/ClearImage</text>
+<ellipse fill="lightblue" stroke="black" cx="509.69" cy="-18" rx="83.39" ry="18"/>
+<text text-anchor="middle" x="509.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra/ClearImage</text>
 </a>
 </g>
 </g>
 <!-- dra/ClearBackbuffer&#45;&gt;dra/ClearImage -->
 <g id="edge1" class="edge">
 <title>dra/ClearBackbuffer&#45;&gt;dra/ClearImage</title>
-<path fill="none" stroke="black" d="M582.39,-86.8C582.39,-75.16 582.39,-59.55 582.39,-46.24"/>
-<polygon fill="black" stroke="black" points="585.89,-46.18 582.39,-36.18 578.89,-46.18 585.89,-46.18"/>
-<text text-anchor="middle" x="587.39" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra/func_800E4970 -->
-<g id="node3" class="node">
-<title>dra/func_800E4970</title>
-<g id="a_node3"><a xlink:href="func_800E4970.svg" xlink:title="dra/func_800E4970">
-<ellipse fill="green" stroke="black" cx="101.39" cy="-192" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="101.39" y="-188.3" font-family="Times,serif" font-size="14.00">dra/func_800E4970</text>
-</a>
-</g>
-</g>
-<!-- dra/func_800E4970&#45;&gt;dra/ClearBackbuffer -->
-<g id="edge2" class="edge">
-<title>dra/func_800E4970&#45;&gt;dra/ClearBackbuffer</title>
-<path fill="none" stroke="black" d="M170.56,-178.78C258.35,-163.26 409.49,-136.55 502.22,-120.17"/>
-<polygon fill="black" stroke="black" points="502.88,-123.6 512.12,-118.42 501.66,-116.71 502.88,-123.6"/>
-<text text-anchor="middle" x="376.39" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra/HandleNowLoading -->
-<g id="node4" class="node">
-<title>dra/HandleNowLoading</title>
-<g id="a_node4"><a xlink:href="HandleNowLoading.svg" xlink:title="dra/HandleNowLoading">
-<ellipse fill="green" stroke="black" cx="341.39" cy="-192" rx="120.48" ry="18"/>
-<text text-anchor="middle" x="341.39" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleNowLoading</text>
-</a>
-</g>
-</g>
-<!-- dra/HandleNowLoading&#45;&gt;dra/ClearBackbuffer -->
-<g id="edge3" class="edge">
-<title>dra/HandleNowLoading&#45;&gt;dra/ClearBackbuffer</title>
-<path fill="none" stroke="black" d="M386.16,-175.21C426.65,-160.93 486.34,-139.88 529.25,-124.74"/>
-<polygon fill="black" stroke="black" points="530.41,-128.04 538.68,-121.42 528.08,-121.44 530.41,-128.04"/>
-<text text-anchor="middle" x="481.39" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M509.69,-86.8C509.69,-75.16 509.69,-59.55 509.69,-46.24"/>
+<polygon fill="black" stroke="black" points="513.19,-46.18 509.69,-36.18 506.19,-46.18 513.19,-46.18"/>
+<text text-anchor="middle" x="514.69" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/entrypoint_sotn -->
-<g id="node5" class="node">
+<g id="node3" class="node">
 <title>dra/entrypoint_sotn</title>
-<g id="a_node5"><a xlink:href="entrypoint_sotn.svg" xlink:title="dra/entrypoint_sotn">
-<ellipse fill="green" stroke="black" cx="582.39" cy="-192" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="582.39" y="-188.3" font-family="Times,serif" font-size="14.00">dra/entrypoint_sotn</text>
+<g id="a_node3"><a xlink:href="entrypoint_sotn.svg" xlink:title="dra/entrypoint_sotn">
+<ellipse fill="green" stroke="black" cx="102.69" cy="-192" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="102.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/entrypoint_sotn</text>
 </a>
 </g>
 </g>
 <!-- dra/entrypoint_sotn&#45;&gt;dra/ClearBackbuffer -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>dra/entrypoint_sotn&#45;&gt;dra/ClearBackbuffer</title>
-<path fill="none" stroke="black" d="M582.39,-173.8C582.39,-162.16 582.39,-146.55 582.39,-133.24"/>
-<polygon fill="black" stroke="black" points="585.89,-133.18 582.39,-123.18 578.89,-133.18 585.89,-133.18"/>
-<text text-anchor="middle" x="587.39" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M166.28,-177.72C239.25,-162.48 358.71,-137.53 435.76,-121.44"/>
+<polygon fill="black" stroke="black" points="436.8,-124.8 445.87,-119.33 435.37,-117.95 436.8,-124.8"/>
+<text text-anchor="middle" x="335.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/HandleTitle -->
-<g id="node6" class="node">
+<g id="node4" class="node">
 <title>dra/HandleTitle</title>
-<g id="a_node6"><a xlink:href="HandleTitle.svg" xlink:title="dra/HandleTitle">
-<ellipse fill="green" stroke="black" cx="786.39" cy="-192" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="786.39" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleTitle</text>
+<g id="a_node4"><a xlink:href="HandleTitle.svg" xlink:title="dra/HandleTitle">
+<ellipse fill="green" stroke="black" cx="306.69" cy="-192" rx="83.39" ry="18"/>
+<text text-anchor="middle" x="306.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleTitle</text>
 </a>
 </g>
 </g>
 <!-- dra/HandleTitle&#45;&gt;dra/ClearBackbuffer -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>dra/HandleTitle&#45;&gt;dra/ClearBackbuffer</title>
-<path fill="none" stroke="black" d="M749.92,-175.8C716.36,-161.82 666.39,-141 629.75,-125.73"/>
-<polygon fill="black" stroke="black" points="630.85,-122.4 620.27,-121.78 628.16,-128.86 630.85,-122.4"/>
-<text text-anchor="middle" x="702.39" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M343.45,-175.61C376.81,-161.64 426.16,-140.97 462.44,-125.79"/>
+<polygon fill="black" stroke="black" points="463.95,-128.95 471.83,-121.85 461.25,-122.49 463.95,-128.95"/>
+<text text-anchor="middle" x="425.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra/func_800E4970 -->
+<g id="node5" class="node">
+<title>dra/func_800E4970</title>
+<g id="a_node5"><a xlink:href="func_800E4970.svg" xlink:title="dra/func_800E4970">
+<ellipse fill="green" stroke="black" cx="509.69" cy="-192" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="509.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/func_800E4970</text>
+</a>
+</g>
+</g>
+<!-- dra/func_800E4970&#45;&gt;dra/ClearBackbuffer -->
+<g id="edge4" class="edge">
+<title>dra/func_800E4970&#45;&gt;dra/ClearBackbuffer</title>
+<path fill="none" stroke="black" d="M509.69,-173.8C509.69,-162.16 509.69,-146.55 509.69,-133.24"/>
+<polygon fill="black" stroke="black" points="513.19,-133.18 509.69,-123.18 506.19,-133.18 513.19,-133.18"/>
+<text text-anchor="middle" x="514.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra/HandleNowLoading -->
+<g id="node6" class="node">
+<title>dra/HandleNowLoading</title>
+<g id="a_node6"><a xlink:href="HandleNowLoading.svg" xlink:title="dra/HandleNowLoading">
+<ellipse fill="green" stroke="black" cx="749.69" cy="-192" rx="120.48" ry="18"/>
+<text text-anchor="middle" x="749.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleNowLoading</text>
+</a>
+</g>
+</g>
+<!-- dra/HandleNowLoading&#45;&gt;dra/ClearBackbuffer -->
+<g id="edge5" class="edge">
+<title>dra/HandleNowLoading&#45;&gt;dra/ClearBackbuffer</title>
+<path fill="none" stroke="black" d="M705.11,-175.21C664.87,-160.96 605.59,-139.96 562.88,-124.84"/>
+<polygon fill="black" stroke="black" points="563.82,-121.46 553.22,-121.42 561.48,-128.06 563.82,-121.46"/>
+<text text-anchor="middle" x="649.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/HandleEnding -->
 <g id="node7" class="node">
 <title>dra/HandleEnding</title>
 <g id="a_node7"><a xlink:href="HandleEnding.svg" xlink:title="dra/HandleEnding">
-<ellipse fill="green" stroke="black" cx="983.39" cy="-192" rx="95.58" ry="18"/>
-<text text-anchor="middle" x="983.39" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleEnding</text>
+<ellipse fill="green" stroke="black" cx="983.69" cy="-192" rx="95.58" ry="18"/>
+<text text-anchor="middle" x="983.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleEnding</text>
 </a>
 </g>
 </g>
 <!-- dra/HandleEnding&#45;&gt;dra/ClearBackbuffer -->
 <g id="edge6" class="edge">
 <title>dra/HandleEnding&#45;&gt;dra/ClearBackbuffer</title>
-<path fill="none" stroke="black" d="M922.49,-178.09C850.88,-162.91 732.11,-137.74 655.57,-121.51"/>
-<polygon fill="black" stroke="black" points="656.03,-118.03 645.52,-119.38 654.58,-124.88 656.03,-118.03"/>
-<text text-anchor="middle" x="812.39" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M917.03,-179.05C831.01,-163.62 681.5,-136.81 589.52,-120.31"/>
+<polygon fill="black" stroke="black" points="589.88,-116.82 579.42,-118.5 588.65,-123.71 589.88,-116.82"/>
+<text text-anchor="middle" x="780.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

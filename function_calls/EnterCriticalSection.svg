@@ -37,59 +37,59 @@
 <polygon fill="black" stroke="black" points="486.59,-46.18 483.09,-36.18 479.59,-46.18 486.59,-46.18"/>
 <text text-anchor="middle" x="488.09" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- main/stopIntr -->
-<g id="node4" class="node">
-<title>main/stopIntr</title>
-<g id="a_node4"><a xlink:href="stopIntr.svg" xlink:title="main/stopIntr">
-<ellipse fill="red" stroke="black" cx="74.09" cy="-105" rx="74.19" ry="18"/>
-<text text-anchor="middle" x="74.09" y="-101.3" font-family="Times,serif" font-size="14.00">main/stopIntr</text>
-</a>
-</g>
-</g>
-<!-- main/stopIntr&#45;&gt;main/EnterCriticalSection -->
-<g id="edge2" class="edge">
-<title>main/stopIntr&#45;&gt;main/EnterCriticalSection</title>
-<path fill="none" stroke="black" d="M87.73,-87.21C97.77,-74.83 111.6,-57.8 122.92,-43.85"/>
-<polygon fill="black" stroke="black" points="125.67,-46.02 129.25,-36.05 120.23,-41.61 125.67,-46.02"/>
-<text text-anchor="middle" x="118.09" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- main/patch_gte -->
-<g id="node5" class="node">
-<title>main/patch_gte</title>
-<g id="a_node5"><a xlink:href="patch_gte.svg" xlink:title="main/patch_gte">
-<ellipse fill="red" stroke="black" cx="248.09" cy="-105" rx="81.79" ry="18"/>
-<text text-anchor="middle" x="248.09" y="-101.3" font-family="Times,serif" font-size="14.00">main/patch_gte</text>
-</a>
-</g>
-</g>
-<!-- main/patch_gte&#45;&gt;main/EnterCriticalSection -->
-<g id="edge3" class="edge">
-<title>main/patch_gte&#45;&gt;main/EnterCriticalSection</title>
-<path fill="none" stroke="black" d="M227.6,-87.41C211.8,-74.62 189.75,-56.77 172.14,-42.51"/>
-<polygon fill="black" stroke="black" points="173.87,-39.41 163.89,-35.84 169.47,-44.85 173.87,-39.41"/>
-<text text-anchor="middle" x="207.09" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
 <!-- dra/SetupEvents -->
-<g id="node6" class="node">
+<g id="node4" class="node">
 <title>dra/SetupEvents</title>
-<g id="a_node6"><a xlink:href="SetupEvents.svg" xlink:title="dra/SetupEvents">
+<g id="a_node4"><a xlink:href="SetupEvents.svg" xlink:title="dra/SetupEvents">
 <ellipse fill="green" stroke="black" cx="747.09" cy="-105" rx="89.08" ry="18"/>
 <text text-anchor="middle" x="747.09" y="-101.3" font-family="Times,serif" font-size="14.00">dra/SetupEvents</text>
 </a>
 </g>
 </g>
 <!-- dra/EnterCriticalSection -->
-<g id="node7" class="node">
+<g id="node5" class="node">
 <title>dra/EnterCriticalSection</title>
 <ellipse fill="none" stroke="black" cx="747.09" cy="-18" rx="124.28" ry="18"/>
 <text text-anchor="middle" x="747.09" y="-14.3" font-family="Times,serif" font-size="14.00">dra/EnterCriticalSection</text>
 </g>
 <!-- dra/SetupEvents&#45;&gt;dra/EnterCriticalSection -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>dra/SetupEvents&#45;&gt;dra/EnterCriticalSection</title>
 <path fill="none" stroke="black" d="M747.09,-86.8C747.09,-75.16 747.09,-59.55 747.09,-46.24"/>
 <polygon fill="black" stroke="black" points="750.59,-46.18 747.09,-36.18 743.59,-46.18 750.59,-46.18"/>
 <text text-anchor="middle" x="752.09" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- main/stopIntr -->
+<g id="node6" class="node">
+<title>main/stopIntr</title>
+<g id="a_node6"><a xlink:href="stopIntr.svg" xlink:title="main/stopIntr">
+<ellipse fill="red" stroke="black" cx="74.09" cy="-105" rx="74.19" ry="18"/>
+<text text-anchor="middle" x="74.09" y="-101.3" font-family="Times,serif" font-size="14.00">main/stopIntr</text>
+</a>
+</g>
+</g>
+<!-- main/stopIntr&#45;&gt;main/EnterCriticalSection -->
+<g id="edge3" class="edge">
+<title>main/stopIntr&#45;&gt;main/EnterCriticalSection</title>
+<path fill="none" stroke="black" d="M87.73,-87.21C97.77,-74.83 111.6,-57.8 122.92,-43.85"/>
+<polygon fill="black" stroke="black" points="125.67,-46.02 129.25,-36.05 120.23,-41.61 125.67,-46.02"/>
+<text text-anchor="middle" x="118.09" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- main/patch_gte -->
+<g id="node7" class="node">
+<title>main/patch_gte</title>
+<g id="a_node7"><a xlink:href="patch_gte.svg" xlink:title="main/patch_gte">
+<ellipse fill="red" stroke="black" cx="248.09" cy="-105" rx="81.79" ry="18"/>
+<text text-anchor="middle" x="248.09" y="-101.3" font-family="Times,serif" font-size="14.00">main/patch_gte</text>
+</a>
+</g>
+</g>
+<!-- main/patch_gte&#45;&gt;main/EnterCriticalSection -->
+<g id="edge4" class="edge">
+<title>main/patch_gte&#45;&gt;main/EnterCriticalSection</title>
+<path fill="none" stroke="black" d="M227.6,-87.41C211.8,-74.62 189.75,-56.77 172.14,-42.51"/>
+<polygon fill="black" stroke="black" points="173.87,-39.41 163.89,-35.84 169.47,-44.85 173.87,-39.41"/>
+<text text-anchor="middle" x="207.09" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

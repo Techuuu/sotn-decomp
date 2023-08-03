@@ -12,24 +12,24 @@
 <!-- dra/func_80113EE0 -->
 <g id="node1" class="node">
 <title>dra/func_80113EE0</title>
-<ellipse fill="green" stroke="black" cx="705.74" cy="-105" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="705.74" y="-101.3" font-family="Times,serif" font-size="14.00">dra/func_80113EE0</text>
+<ellipse fill="green" stroke="black" cx="722.74" cy="-105" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="722.74" y="-101.3" font-family="Times,serif" font-size="14.00">dra/func_80113EE0</text>
 </g>
 <!-- dra/func_8010FAF4 -->
 <g id="node2" class="node">
 <title>dra/func_8010FAF4</title>
 <g id="a_node2"><a xlink:href="func_8010FAF4.svg" xlink:title="dra/func_8010FAF4">
-<ellipse fill="green" stroke="black" cx="705.74" cy="-18" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="705.74" y="-14.3" font-family="Times,serif" font-size="14.00">dra/func_8010FAF4</text>
+<ellipse fill="green" stroke="black" cx="722.74" cy="-18" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="722.74" y="-14.3" font-family="Times,serif" font-size="14.00">dra/func_8010FAF4</text>
 </a>
 </g>
 </g>
 <!-- dra/func_80113EE0&#45;&gt;dra/func_8010FAF4 -->
 <g id="edge1" class="edge">
 <title>dra/func_80113EE0&#45;&gt;dra/func_8010FAF4</title>
-<path fill="none" stroke="black" d="M705.74,-86.8C705.74,-75.16 705.74,-59.55 705.74,-46.24"/>
-<polygon fill="black" stroke="black" points="709.24,-46.18 705.74,-36.18 702.24,-46.18 709.24,-46.18"/>
-<text text-anchor="middle" x="710.74" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M722.74,-86.8C722.74,-75.16 722.74,-59.55 722.74,-46.24"/>
+<polygon fill="black" stroke="black" points="726.24,-46.18 722.74,-36.18 719.24,-46.18 726.24,-46.18"/>
+<text text-anchor="middle" x="727.74" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/func_80115394 -->
 <g id="node3" class="node">
@@ -43,41 +43,41 @@
 <!-- dra/func_80115394&#45;&gt;dra/func_80113EE0 -->
 <g id="edge2" class="edge">
 <title>dra/func_80115394&#45;&gt;dra/func_80113EE0</title>
-<path fill="none" stroke="black" d="M173.42,-179.47C185.54,-177.61 197.99,-175.72 209.74,-174 351.71,-153.2 516.83,-130.95 616.21,-117.77"/>
-<polygon fill="black" stroke="black" points="616.76,-121.23 626.22,-116.44 615.84,-114.29 616.76,-121.23"/>
-<text text-anchor="middle" x="445.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra/func_80114DF4 -->
-<g id="node4" class="node">
-<title>dra/func_80114DF4</title>
-<g id="a_node4"><a xlink:href="func_80114DF4.svg" xlink:title="dra/func_80114DF4">
-<ellipse fill="red" stroke="black" cx="321.74" cy="-192" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="321.74" y="-188.3" font-family="Times,serif" font-size="14.00">dra/func_80114DF4</text>
-</a>
-</g>
-</g>
-<!-- dra/func_80114DF4&#45;&gt;dra/func_80113EE0 -->
-<g id="edge3" class="edge">
-<title>dra/func_80114DF4&#45;&gt;dra/func_80113EE0</title>
-<path fill="none" stroke="black" d="M383.01,-177.44C451.57,-162.26 562.47,-137.71 634.75,-121.71"/>
-<polygon fill="black" stroke="black" points="635.68,-125.09 644.69,-119.51 634.17,-118.26 635.68,-125.09"/>
-<text text-anchor="middle" x="541.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M173.49,-179.53C185.91,-177.64 198.69,-175.73 210.74,-174 358.06,-152.84 529.56,-130.53 631.97,-117.46"/>
+<polygon fill="black" stroke="black" points="632.49,-120.92 641.97,-116.19 631.61,-113.98 632.49,-120.92"/>
+<text text-anchor="middle" x="454.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/AlucardHandleDamage -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>dra/AlucardHandleDamage</title>
-<g id="a_node5"><a xlink:href="AlucardHandleDamage.svg" xlink:title="dra/AlucardHandleDamage">
-<ellipse fill="red" stroke="black" cx="578.74" cy="-192" rx="135.68" ry="18"/>
-<text text-anchor="middle" x="578.74" y="-188.3" font-family="Times,serif" font-size="14.00">dra/AlucardHandleDamage</text>
+<g id="a_node4"><a xlink:href="AlucardHandleDamage.svg" xlink:title="dra/AlucardHandleDamage">
+<ellipse fill="red" stroke="black" cx="355.74" cy="-192" rx="135.68" ry="18"/>
+<text text-anchor="middle" x="355.74" y="-188.3" font-family="Times,serif" font-size="14.00">dra/AlucardHandleDamage</text>
 </a>
 </g>
 </g>
 <!-- dra/AlucardHandleDamage&#45;&gt;dra/func_80113EE0 -->
-<g id="edge4" class="edge">
+<g id="edge3" class="edge">
 <title>dra/AlucardHandleDamage&#45;&gt;dra/func_80113EE0</title>
-<path fill="none" stroke="black" d="M603.83,-174.21C623.4,-161.11 650.76,-142.8 672.21,-128.44"/>
-<polygon fill="black" stroke="black" points="674.34,-131.23 680.7,-122.76 670.44,-125.41 674.34,-131.23"/>
-<text text-anchor="middle" x="655.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M420.09,-176.1C485.4,-160.97 586.18,-137.63 653.27,-122.09"/>
+<polygon fill="black" stroke="black" points="654.38,-125.43 663.33,-119.76 652.8,-118.61 654.38,-125.43"/>
+<text text-anchor="middle" x="566.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra/func_80114DF4 -->
+<g id="node5" class="node">
+<title>dra/func_80114DF4</title>
+<g id="a_node5"><a xlink:href="func_80114DF4.svg" xlink:title="dra/func_80114DF4">
+<ellipse fill="red" stroke="black" cx="612.74" cy="-192" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="612.74" y="-188.3" font-family="Times,serif" font-size="14.00">dra/func_80114DF4</text>
+</a>
+</g>
+</g>
+<!-- dra/func_80114DF4&#45;&gt;dra/func_80113EE0 -->
+<g id="edge4" class="edge">
+<title>dra/func_80114DF4&#45;&gt;dra/func_80113EE0</title>
+<path fill="none" stroke="black" d="M634.47,-174.21C651.2,-161.28 674.49,-143.28 692.95,-129.02"/>
+<polygon fill="black" stroke="black" points="695.28,-131.64 701.05,-122.76 691,-126.1 695.28,-131.64"/>
+<text text-anchor="middle" x="679.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/func_80115F54 -->
 <g id="node6" class="node">
@@ -91,9 +91,9 @@
 <!-- dra/func_80115F54&#45;&gt;dra/func_80113EE0 -->
 <g id="edge5" class="edge">
 <title>dra/func_80115F54&#45;&gt;dra/func_80113EE0</title>
-<path fill="none" stroke="black" d="M808.76,-174.41C788.93,-161.25 761.04,-142.72 739.27,-128.27"/>
-<polygon fill="black" stroke="black" points="740.93,-125.17 730.66,-122.55 737.06,-131 740.93,-125.17"/>
-<text text-anchor="middle" x="782.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M812.08,-174.41C795.15,-161.45 771.43,-143.28 752.69,-128.93"/>
+<polygon fill="black" stroke="black" points="754.8,-126.14 744.73,-122.84 750.54,-131.7 754.8,-126.14"/>
+<text text-anchor="middle" x="790.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/func_801166A4 -->
 <g id="node7" class="node">
@@ -107,9 +107,9 @@
 <!-- dra/func_801166A4&#45;&gt;dra/func_80113EE0 -->
 <g id="edge6" class="edge">
 <title>dra/func_801166A4&#45;&gt;dra/func_80113EE0</title>
-<path fill="none" stroke="black" d="M995.83,-177.06C934.66,-162.07 837.49,-138.27 772.69,-122.4"/>
-<polygon fill="black" stroke="black" points="773.52,-119 762.97,-120.02 771.85,-125.8 773.52,-119"/>
-<text text-anchor="middle" x="905.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M997.88,-176.87C940.15,-162 849.33,-138.61 787.97,-122.8"/>
+<polygon fill="black" stroke="black" points="788.57,-119.34 778.01,-120.24 786.82,-126.12 788.57,-119.34"/>
+<text text-anchor="middle" x="912.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/func_80116208 -->
 <g id="node8" class="node">
@@ -123,9 +123,9 @@
 <!-- dra/func_80116208&#45;&gt;dra/func_80113EE0 -->
 <g id="edge7" class="edge">
 <title>dra/func_80116208&#45;&gt;dra/func_80113EE0</title>
-<path fill="none" stroke="black" d="M1198.76,-179.54C1186.73,-177.68 1174.39,-175.77 1162.74,-174 1033.57,-154.32 883.75,-132.15 791.86,-118.63"/>
-<polygon fill="black" stroke="black" points="792.18,-115.14 781.78,-117.15 791.16,-122.07 792.18,-115.14"/>
-<text text-anchor="middle" x="1042.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1198.45,-179.56C1186.52,-177.7 1174.29,-175.79 1162.74,-174 1039,-154.79 895.66,-132.66 807.09,-119"/>
+<polygon fill="black" stroke="black" points="807.51,-115.52 797.09,-117.46 806.44,-122.44 807.51,-115.52"/>
+<text text-anchor="middle" x="1047.74" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

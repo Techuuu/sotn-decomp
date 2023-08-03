@@ -12,56 +12,56 @@
 <!-- dra/SetStageDisplayBuffer -->
 <g id="node1" class="node">
 <title>dra/SetStageDisplayBuffer</title>
-<ellipse fill="green" stroke="black" cx="684.69" cy="-105" rx="135.38" ry="18"/>
-<text text-anchor="middle" x="684.69" y="-101.3" font-family="Times,serif" font-size="14.00">dra/SetStageDisplayBuffer</text>
+<ellipse fill="green" stroke="black" cx="630.69" cy="-105" rx="135.38" ry="18"/>
+<text text-anchor="middle" x="630.69" y="-101.3" font-family="Times,serif" font-size="14.00">dra/SetStageDisplayBuffer</text>
 </g>
 <!-- dra/SetDefDrawEnv -->
 <g id="node2" class="node">
 <title>dra/SetDefDrawEnv</title>
 <g id="a_node2"><a xlink:href="SetDefDrawEnv.svg" xlink:title="dra/SetDefDrawEnv">
-<ellipse fill="lightblue" stroke="black" cx="462.69" cy="-18" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="462.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetDefDrawEnv</text>
+<ellipse fill="lightblue" stroke="black" cx="408.69" cy="-18" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="408.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetDefDrawEnv</text>
 </a>
 </g>
 </g>
 <!-- dra/SetStageDisplayBuffer&#45;&gt;dra/SetDefDrawEnv -->
 <g id="edge1" class="edge">
 <title>dra/SetStageDisplayBuffer&#45;&gt;dra/SetDefDrawEnv</title>
-<path fill="none" stroke="black" d="M642.41,-87.81C605.65,-73.74 552.3,-53.31 513.28,-38.37"/>
-<polygon fill="black" stroke="black" points="514.28,-35 503.69,-34.7 511.77,-41.54 514.28,-35"/>
-<text text-anchor="middle" x="592.69" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M588.41,-87.81C551.65,-73.74 498.3,-53.31 459.28,-38.37"/>
+<polygon fill="black" stroke="black" points="460.28,-35 449.69,-34.7 457.77,-41.54 460.28,-35"/>
+<text text-anchor="middle" x="538.69" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- dra/SetDefDispEnv -->
 <g id="node3" class="node">
 <title>dra/SetDefDispEnv</title>
 <g id="a_node3"><a xlink:href="SetDefDispEnv.svg" xlink:title="dra/SetDefDispEnv">
-<ellipse fill="lightblue" stroke="black" cx="684.69" cy="-18" rx="100.18" ry="18"/>
-<text text-anchor="middle" x="684.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetDefDispEnv</text>
+<ellipse fill="lightblue" stroke="black" cx="630.69" cy="-18" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="630.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetDefDispEnv</text>
 </a>
 </g>
 </g>
 <!-- dra/SetStageDisplayBuffer&#45;&gt;dra/SetDefDispEnv -->
 <g id="edge2" class="edge">
 <title>dra/SetStageDisplayBuffer&#45;&gt;dra/SetDefDispEnv</title>
-<path fill="none" stroke="black" d="M684.69,-86.8C684.69,-75.16 684.69,-59.55 684.69,-46.24"/>
-<polygon fill="black" stroke="black" points="688.19,-46.18 684.69,-36.18 681.19,-46.18 688.19,-46.18"/>
-<text text-anchor="middle" x="689.69" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M630.69,-86.8C630.69,-75.16 630.69,-59.55 630.69,-46.24"/>
+<polygon fill="black" stroke="black" points="634.19,-46.18 630.69,-36.18 627.19,-46.18 634.19,-46.18"/>
+<text text-anchor="middle" x="635.69" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- dra/func_800E34DC -->
 <g id="node4" class="node">
 <title>dra/func_800E34DC</title>
 <g id="a_node4"><a xlink:href="func_800E34DC.svg" xlink:title="dra/func_800E34DC">
-<ellipse fill="green" stroke="black" cx="906.69" cy="-18" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="906.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra/func_800E34DC</text>
+<ellipse fill="green" stroke="black" cx="852.69" cy="-18" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="852.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra/func_800E34DC</text>
 </a>
 </g>
 </g>
 <!-- dra/SetStageDisplayBuffer&#45;&gt;dra/func_800E34DC -->
 <g id="edge3" class="edge">
 <title>dra/SetStageDisplayBuffer&#45;&gt;dra/func_800E34DC</title>
-<path fill="none" stroke="black" d="M726.97,-87.81C763.73,-73.74 817.08,-53.31 856.1,-38.37"/>
-<polygon fill="black" stroke="black" points="857.61,-41.54 865.69,-34.7 855.1,-35 857.61,-41.54"/>
-<text text-anchor="middle" x="814.69" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M672.97,-87.81C709.73,-73.74 763.08,-53.31 802.1,-38.37"/>
+<polygon fill="black" stroke="black" points="803.61,-41.54 811.69,-34.7 801.1,-35 803.61,-41.54"/>
+<text text-anchor="middle" x="760.69" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/func_800FBC24 -->
 <g id="node5" class="node">
@@ -75,73 +75,73 @@
 <!-- dra/func_800FBC24&#45;&gt;dra/SetStageDisplayBuffer -->
 <g id="edge4" class="edge">
 <title>dra/func_800FBC24&#45;&gt;dra/SetStageDisplayBuffer</title>
-<path fill="none" stroke="black" d="M177.38,-179.59C189.84,-177.71 202.63,-175.79 214.69,-174 342.76,-155.02 490.55,-133.74 585.69,-120.12"/>
-<polygon fill="black" stroke="black" points="586.47,-123.54 595.87,-118.66 585.48,-116.61 586.47,-123.54"/>
-<text text-anchor="middle" x="438.69" y="-144.8" font-family="Times,serif" font-size="14.00">2</text>
-</g>
-<!-- dra/func_800E4970 -->
-<g id="node6" class="node">
-<title>dra/func_800E4970</title>
-<g id="a_node6"><a xlink:href="func_800E4970.svg" xlink:title="dra/func_800E4970">
-<ellipse fill="green" stroke="black" cx="324.69" cy="-192" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="324.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/func_800E4970</text>
-</a>
-</g>
-</g>
-<!-- dra/func_800E4970&#45;&gt;dra/SetStageDisplayBuffer -->
-<g id="edge5" class="edge">
-<title>dra/func_800E4970&#45;&gt;dra/SetStageDisplayBuffer</title>
-<path fill="none" stroke="black" d="M382.93,-177.25C445.11,-162.57 543.78,-139.27 611.25,-123.34"/>
-<polygon fill="black" stroke="black" points="612.45,-126.65 621.38,-120.95 610.85,-119.84 612.45,-126.65"/>
-<text text-anchor="middle" x="531.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra/HandleNowLoading -->
-<g id="node7" class="node">
-<title>dra/HandleNowLoading</title>
-<g id="a_node7"><a xlink:href="HandleNowLoading.svg" xlink:title="dra/HandleNowLoading">
-<ellipse fill="green" stroke="black" cx="564.69" cy="-192" rx="120.48" ry="18"/>
-<text text-anchor="middle" x="564.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleNowLoading</text>
-</a>
-</g>
-</g>
-<!-- dra/HandleNowLoading&#45;&gt;dra/SetStageDisplayBuffer -->
-<g id="edge6" class="edge">
-<title>dra/HandleNowLoading&#45;&gt;dra/SetStageDisplayBuffer</title>
-<path fill="none" stroke="black" d="M588.4,-174.21C606.81,-161.17 632.52,-142.96 652.74,-128.63"/>
-<polygon fill="black" stroke="black" points="654.89,-131.39 661.03,-122.76 650.85,-125.68 654.89,-131.39"/>
-<text text-anchor="middle" x="637.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M175.55,-179.27C270.01,-164.06 434.82,-137.53 538.06,-120.91"/>
+<polygon fill="black" stroke="black" points="538.85,-124.33 548.16,-119.29 537.74,-117.42 538.85,-124.33"/>
+<text text-anchor="middle" x="403.69" y="-144.8" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- dra/entrypoint_sotn -->
-<g id="node8" class="node">
+<g id="node6" class="node">
 <title>dra/entrypoint_sotn</title>
-<g id="a_node8"><a xlink:href="entrypoint_sotn.svg" xlink:title="dra/entrypoint_sotn">
-<ellipse fill="green" stroke="black" cx="805.69" cy="-192" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="805.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/entrypoint_sotn</text>
+<g id="a_node6"><a xlink:href="entrypoint_sotn.svg" xlink:title="dra/entrypoint_sotn">
+<ellipse fill="green" stroke="black" cx="325.69" cy="-192" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="325.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/entrypoint_sotn</text>
 </a>
 </g>
 </g>
 <!-- dra/entrypoint_sotn&#45;&gt;dra/SetStageDisplayBuffer -->
-<g id="edge7" class="edge">
+<g id="edge5" class="edge">
 <title>dra/entrypoint_sotn&#45;&gt;dra/SetStageDisplayBuffer</title>
-<path fill="none" stroke="black" d="M782.07,-174.41C763.54,-161.39 737.53,-143.12 717.06,-128.74"/>
-<polygon fill="black" stroke="black" points="718.86,-125.72 708.66,-122.84 714.83,-131.45 718.86,-125.72"/>
-<text text-anchor="middle" x="757.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M377.78,-176.48C429.62,-162.04 509.33,-139.82 565.38,-124.2"/>
+<polygon fill="black" stroke="black" points="566.52,-127.52 575.21,-121.46 564.64,-120.78 566.52,-127.52"/>
+<text text-anchor="middle" x="501.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/HandleTitle -->
-<g id="node9" class="node">
+<g id="node7" class="node">
 <title>dra/HandleTitle</title>
-<g id="a_node9"><a xlink:href="HandleTitle.svg" xlink:title="dra/HandleTitle">
-<ellipse fill="green" stroke="black" cx="1009.69" cy="-192" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="1009.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleTitle</text>
+<g id="a_node7"><a xlink:href="HandleTitle.svg" xlink:title="dra/HandleTitle">
+<ellipse fill="green" stroke="black" cx="529.69" cy="-192" rx="83.39" ry="18"/>
+<text text-anchor="middle" x="529.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleTitle</text>
 </a>
 </g>
 </g>
 <!-- dra/HandleTitle&#45;&gt;dra/SetStageDisplayBuffer -->
-<g id="edge8" class="edge">
+<g id="edge6" class="edge">
 <title>dra/HandleTitle&#45;&gt;dra/SetStageDisplayBuffer</title>
-<path fill="none" stroke="black" d="M958.91,-177.72C903.53,-163.23 814.58,-139.97 753.08,-123.89"/>
-<polygon fill="black" stroke="black" points="753.64,-120.41 743.08,-121.27 751.86,-127.19 753.64,-120.41"/>
-<text text-anchor="middle" x="871.69" y="-144.8" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M549.65,-174.21C564.76,-161.48 585.73,-143.84 602.55,-129.68"/>
+<polygon fill="black" stroke="black" points="605.03,-132.17 610.43,-123.05 600.53,-126.81 605.03,-132.17"/>
+<text text-anchor="middle" x="591.69" y="-144.8" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- dra/func_800E4970 -->
+<g id="node8" class="node">
+<title>dra/func_800E4970</title>
+<g id="a_node8"><a xlink:href="func_800E4970.svg" xlink:title="dra/func_800E4970">
+<ellipse fill="green" stroke="black" cx="732.69" cy="-192" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="732.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/func_800E4970</text>
+</a>
+</g>
+</g>
+<!-- dra/func_800E4970&#45;&gt;dra/SetStageDisplayBuffer -->
+<g id="edge7" class="edge">
+<title>dra/func_800E4970&#45;&gt;dra/SetStageDisplayBuffer</title>
+<path fill="none" stroke="black" d="M712.54,-174.21C697.27,-161.48 676.1,-143.84 659.11,-129.68"/>
+<polygon fill="black" stroke="black" points="661.07,-126.76 651.15,-123.05 656.59,-132.14 661.07,-126.76"/>
+<text text-anchor="middle" x="693.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra/HandleNowLoading -->
+<g id="node9" class="node">
+<title>dra/HandleNowLoading</title>
+<g id="a_node9"><a xlink:href="HandleNowLoading.svg" xlink:title="dra/HandleNowLoading">
+<ellipse fill="green" stroke="black" cx="972.69" cy="-192" rx="120.48" ry="18"/>
+<text text-anchor="middle" x="972.69" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleNowLoading</text>
+</a>
+</g>
+</g>
+<!-- dra/HandleNowLoading&#45;&gt;dra/SetStageDisplayBuffer -->
+<g id="edge8" class="edge">
+<title>dra/HandleNowLoading&#45;&gt;dra/SetStageDisplayBuffer</title>
+<path fill="none" stroke="black" d="M913.51,-176.29C854.53,-161.63 763.95,-139.12 701.26,-123.54"/>
+<polygon fill="black" stroke="black" points="702,-120.12 691.45,-121.1 700.31,-126.91 702,-120.12"/>
+<text text-anchor="middle" x="827.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/HandleEnding -->
 <g id="node10" class="node">
@@ -155,9 +155,9 @@
 <!-- dra/HandleEnding&#45;&gt;dra/SetStageDisplayBuffer -->
 <g id="edge9" class="edge">
 <title>dra/HandleEnding&#45;&gt;dra/SetStageDisplayBuffer</title>
-<path fill="none" stroke="black" d="M1136.83,-179.62C1043.94,-164.5 879.55,-137.73 776.65,-120.97"/>
-<polygon fill="black" stroke="black" points="777.02,-117.49 766.59,-119.34 775.89,-124.4 777.02,-117.49"/>
-<text text-anchor="middle" x="982.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1137.25,-179.58C1125.39,-177.68 1113.19,-175.76 1101.69,-174 973.72,-154.4 825.93,-133.32 730.54,-119.91"/>
+<polygon fill="black" stroke="black" points="731,-116.44 720.61,-118.52 730.03,-123.37 731,-116.44"/>
+<text text-anchor="middle" x="977.69" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

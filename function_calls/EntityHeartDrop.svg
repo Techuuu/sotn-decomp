@@ -12,14 +12,14 @@
 <!-- wrp/EntityHeartDrop -->
 <g id="node1" class="node">
 <title>wrp/EntityHeartDrop</title>
-<ellipse fill="red" stroke="black" cx="226.84" cy="-105" rx="110.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="226.84" cy="-105" rx="110.48" ry="18"/>
 <text text-anchor="middle" x="226.84" y="-101.3" font-family="Times,serif" font-size="14.00">wrp/EntityHeartDrop</text>
 </g>
 <!-- wrp/DestroyEntity -->
 <g id="node2" class="node">
 <title>wrp/DestroyEntity</title>
 <g id="a_node2"><a xlink:href="DestroyEntity.svg" xlink:title="wrp/DestroyEntity">
-<ellipse fill="green" stroke="black" cx="96.84" cy="-18" rx="96.68" ry="18"/>
+<ellipse fill="red" stroke="black" cx="96.84" cy="-18" rx="96.68" ry="18"/>
 <text text-anchor="middle" x="96.84" y="-14.3" font-family="Times,serif" font-size="14.00">wrp/DestroyEntity</text>
 </a>
 </g>

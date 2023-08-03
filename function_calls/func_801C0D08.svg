@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>nz0/DestroyEntity</title>
 <g id="a_node7"><a xlink:href="DestroyEntity.svg" xlink:title="nz0/DestroyEntity">
-<ellipse fill="green" stroke="black" cx="1313.44" cy="-18" rx="95.58" ry="18"/>
+<ellipse fill="red" stroke="black" cx="1313.44" cy="-18" rx="95.58" ry="18"/>
 <text text-anchor="middle" x="1313.44" y="-14.3" font-family="Times,serif" font-size="14.00">nz0/DestroyEntity</text>
 </a>
 </g>

@@ -12,8 +12,8 @@
 <!-- dra/SetGameState -->
 <g id="node1" class="node">
 <title>dra/SetGameState</title>
-<ellipse fill="green" stroke="black" cx="684.04" cy="-18" rx="96.68" ry="18"/>
-<text text-anchor="middle" x="684.04" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetGameState</text>
+<ellipse fill="green" stroke="black" cx="673.04" cy="-18" rx="96.68" ry="18"/>
+<text text-anchor="middle" x="673.04" y="-14.3" font-family="Times,serif" font-size="14.00">dra/SetGameState</text>
 </g>
 <!-- st0/func_801B0464 -->
 <g id="node2" class="node">
@@ -49,89 +49,89 @@
 <!-- dra/func_800F298C&#45;&gt;dra/SetGameState -->
 <g id="edge2" class="edge">
 <title>dra/func_800F298C&#45;&gt;dra/SetGameState</title>
-<path fill="none" stroke="black" d="M176.06,-92.57C188.41,-90.69 201.09,-88.78 213.04,-87 348.07,-66.91 505,-44.43 599.31,-31.01"/>
-<polygon fill="black" stroke="black" points="599.96,-34.45 609.37,-29.58 598.98,-27.52 599.96,-34.45"/>
-<text text-anchor="middle" x="438.04" y="-57.8" font-family="Times,serif" font-size="14.00">3</text>
-</g>
-<!-- dra/func_800E4970 -->
-<g id="node5" class="node">
-<title>dra/func_800E4970</title>
-<g id="a_node5"><a xlink:href="func_800E4970.svg" xlink:title="dra/func_800E4970">
-<ellipse fill="green" stroke="black" cx="323.04" cy="-105" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="323.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/func_800E4970</text>
-</a>
-</g>
-</g>
-<!-- dra/func_800E4970&#45;&gt;dra/SetGameState -->
-<g id="edge3" class="edge">
-<title>dra/func_800E4970&#45;&gt;dra/SetGameState</title>
-<path fill="none" stroke="black" d="M381.44,-90.25C445.69,-75.12 548.8,-50.84 616.48,-34.91"/>
-<polygon fill="black" stroke="black" points="617.69,-38.22 626.62,-32.52 616.08,-31.41 617.69,-38.22"/>
-<text text-anchor="middle" x="531.04" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra/HandleNowLoading -->
-<g id="node6" class="node">
-<title>dra/HandleNowLoading</title>
-<g id="a_node6"><a xlink:href="HandleNowLoading.svg" xlink:title="dra/HandleNowLoading">
-<ellipse fill="green" stroke="black" cx="563.04" cy="-105" rx="120.48" ry="18"/>
-<text text-anchor="middle" x="563.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/HandleNowLoading</text>
-</a>
-</g>
-</g>
-<!-- dra/HandleNowLoading&#45;&gt;dra/SetGameState -->
-<g id="edge4" class="edge">
-<title>dra/HandleNowLoading&#45;&gt;dra/SetGameState</title>
-<path fill="none" stroke="black" d="M586.95,-87.21C605.63,-74.08 631.77,-55.72 652.22,-41.35"/>
-<polygon fill="black" stroke="black" points="654.43,-44.08 660.6,-35.47 650.4,-38.35 654.43,-44.08"/>
-<text text-anchor="middle" x="636.04" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M176.07,-92.61C188.41,-90.72 201.09,-88.8 213.04,-87 344.43,-67.23 497,-44.77 589.22,-31.26"/>
+<polygon fill="black" stroke="black" points="589.94,-34.69 599.33,-29.78 588.93,-27.76 589.94,-34.69"/>
+<text text-anchor="middle" x="433.04" y="-57.8" font-family="Times,serif" font-size="14.00">3</text>
 </g>
 <!-- dra/entrypoint_sotn -->
-<g id="node7" class="node">
+<g id="node5" class="node">
 <title>dra/entrypoint_sotn</title>
-<g id="a_node7"><a xlink:href="entrypoint_sotn.svg" xlink:title="dra/entrypoint_sotn">
-<ellipse fill="green" stroke="black" cx="804.04" cy="-105" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="804.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/entrypoint_sotn</text>
+<g id="a_node5"><a xlink:href="entrypoint_sotn.svg" xlink:title="dra/entrypoint_sotn">
+<ellipse fill="green" stroke="black" cx="325.04" cy="-105" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="325.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/entrypoint_sotn</text>
 </a>
 </g>
 </g>
 <!-- dra/entrypoint_sotn&#45;&gt;dra/SetGameState -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>dra/entrypoint_sotn&#45;&gt;dra/SetGameState</title>
-<path fill="none" stroke="black" d="M780.62,-87.41C762.12,-74.3 736.11,-55.88 715.75,-41.46"/>
-<polygon fill="black" stroke="black" points="717.59,-38.47 707.4,-35.55 713.54,-44.19 717.59,-38.47"/>
-<text text-anchor="middle" x="757.04" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
-</g>
-<!-- dra/HandleEnding -->
-<g id="node8" class="node">
-<title>dra/HandleEnding</title>
-<g id="a_node8"><a xlink:href="HandleEnding.svg" xlink:title="dra/HandleEnding">
-<ellipse fill="green" stroke="black" cx="1020.04" cy="-105" rx="95.58" ry="18"/>
-<text text-anchor="middle" x="1020.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/HandleEnding</text>
-</a>
-</g>
-</g>
-<!-- dra/HandleEnding&#45;&gt;dra/SetGameState -->
-<g id="edge6" class="edge">
-<title>dra/HandleEnding&#45;&gt;dra/SetGameState</title>
-<path fill="none" stroke="black" d="M965.31,-90.15C906.09,-75.17 811.72,-51.3 748.84,-35.39"/>
-<polygon fill="black" stroke="black" points="749.58,-31.97 739.03,-32.91 747.86,-38.76 749.58,-31.97"/>
-<text text-anchor="middle" x="878.04" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M382.51,-89.96C444.3,-74.87 542.37,-50.92 607.22,-35.08"/>
+<polygon fill="black" stroke="black" points="608.05,-38.48 616.93,-32.7 606.39,-31.68 608.05,-38.48"/>
+<text text-anchor="middle" x="525.04" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- dra/HandleGameOver -->
-<g id="node9" class="node">
+<g id="node6" class="node">
 <title>dra/HandleGameOver</title>
-<g id="a_node9"><a xlink:href="HandleGameOver.svg" xlink:title="dra/HandleGameOver">
-<ellipse fill="red" stroke="black" cx="1245.04" cy="-105" rx="111.58" ry="18"/>
-<text text-anchor="middle" x="1245.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/HandleGameOver</text>
+<g id="a_node6"><a xlink:href="HandleGameOver.svg" xlink:title="dra/HandleGameOver">
+<ellipse fill="red" stroke="black" cx="557.04" cy="-105" rx="111.58" ry="18"/>
+<text text-anchor="middle" x="557.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/HandleGameOver</text>
 </a>
 </g>
 </g>
 <!-- dra/HandleGameOver&#45;&gt;dra/SetGameState -->
-<g id="edge7" class="edge">
+<g id="edge4" class="edge">
 <title>dra/HandleGameOver&#45;&gt;dra/SetGameState</title>
-<path fill="none" stroke="black" d="M1166.74,-92.14C1061.22,-76.15 874.22,-47.82 766.57,-31.5"/>
-<polygon fill="black" stroke="black" points="766.82,-28 756.41,-29.96 765.77,-34.92 766.82,-28"/>
-<text text-anchor="middle" x="1004.04" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M579.96,-87.21C597.67,-74.23 622.38,-56.12 641.89,-41.83"/>
+<polygon fill="black" stroke="black" points="644.17,-44.49 650.17,-35.76 640.04,-38.85 644.17,-44.49"/>
+<text text-anchor="middle" x="627.04" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra/func_800E4970 -->
+<g id="node7" class="node">
+<title>dra/func_800E4970</title>
+<g id="a_node7"><a xlink:href="func_800E4970.svg" xlink:title="dra/func_800E4970">
+<ellipse fill="green" stroke="black" cx="788.04" cy="-105" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="788.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/func_800E4970</text>
+</a>
+</g>
+</g>
+<!-- dra/func_800E4970&#45;&gt;dra/SetGameState -->
+<g id="edge5" class="edge">
+<title>dra/func_800E4970&#45;&gt;dra/SetGameState</title>
+<path fill="none" stroke="black" d="M765.59,-87.41C747.94,-74.36 723.17,-56.05 703.69,-41.65"/>
+<polygon fill="black" stroke="black" points="705.55,-38.68 695.43,-35.55 701.39,-44.31 705.55,-38.68"/>
+<text text-anchor="middle" x="743.04" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra/HandleNowLoading -->
+<g id="node8" class="node">
+<title>dra/HandleNowLoading</title>
+<g id="a_node8"><a xlink:href="HandleNowLoading.svg" xlink:title="dra/HandleNowLoading">
+<ellipse fill="green" stroke="black" cx="1028.04" cy="-105" rx="120.48" ry="18"/>
+<text text-anchor="middle" x="1028.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/HandleNowLoading</text>
+</a>
+</g>
+</g>
+<!-- dra/HandleNowLoading&#45;&gt;dra/SetGameState -->
+<g id="edge6" class="edge">
+<title>dra/HandleNowLoading&#45;&gt;dra/SetGameState</title>
+<path fill="none" stroke="black" d="M967.01,-89.39C903.75,-74.24 805.15,-50.63 739.83,-34.99"/>
+<polygon fill="black" stroke="black" points="740.59,-31.57 730.05,-32.65 738.96,-38.38 740.59,-31.57"/>
+<text text-anchor="middle" x="877.04" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra/HandleEnding -->
+<g id="node9" class="node">
+<title>dra/HandleEnding</title>
+<g id="a_node9"><a xlink:href="HandleEnding.svg" xlink:title="dra/HandleEnding">
+<ellipse fill="green" stroke="black" cx="1262.04" cy="-105" rx="95.58" ry="18"/>
+<text text-anchor="middle" x="1262.04" y="-101.3" font-family="Times,serif" font-size="14.00">dra/HandleEnding</text>
+</a>
+</g>
+</g>
+<!-- dra/HandleEnding&#45;&gt;dra/SetGameState -->
+<g id="edge7" class="edge">
+<title>dra/HandleEnding&#45;&gt;dra/SetGameState</title>
+<path fill="none" stroke="black" d="M1192.6,-92.55C1180.74,-90.65 1168.54,-88.74 1157.04,-87 1018.07,-65.99 856.31,-43.7 759.43,-30.58"/>
+<polygon fill="black" stroke="black" points="759.78,-27.1 749.4,-29.22 758.84,-34.03 759.78,-27.1"/>
+<text text-anchor="middle" x="1030.04" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

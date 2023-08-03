@@ -147,7 +147,7 @@
 <g id="node10" class="node">
 <title>wrp/DestroyEntity</title>
 <g id="a_node10"><a xlink:href="DestroyEntity.svg" xlink:title="wrp/DestroyEntity">
-<ellipse fill="green" stroke="black" cx="1945.74" cy="-18" rx="96.68" ry="18"/>
+<ellipse fill="red" stroke="black" cx="1945.74" cy="-18" rx="96.68" ry="18"/>
 <text text-anchor="middle" x="1945.74" y="-14.3" font-family="Times,serif" font-size="14.00">wrp/DestroyEntity</text>
 </a>
 </g>

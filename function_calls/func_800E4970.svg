@@ -227,65 +227,65 @@
 <g id="node15" class="node">
 <title>dra/HandlePlay</title>
 <g id="a_node15"><a xlink:href="HandlePlay.svg" xlink:title="dra/HandlePlay">
-<ellipse fill="green" stroke="black" cx="1188.84" cy="-192" rx="82.59" ry="18"/>
-<text text-anchor="middle" x="1188.84" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandlePlay</text>
+<ellipse fill="green" stroke="black" cx="1206.84" cy="-192" rx="82.59" ry="18"/>
+<text text-anchor="middle" x="1206.84" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandlePlay</text>
 </a>
 </g>
 </g>
 <!-- dra/HandlePlay&#45;&gt;dra/func_800E4970 -->
 <g id="edge14" class="edge">
 <title>dra/HandlePlay&#45;&gt;dra/func_800E4970</title>
-<path fill="none" stroke="black" d="M1242.89,-178.27C1306.53,-163.29 1412.34,-138.38 1481.59,-122.07"/>
-<polygon fill="black" stroke="black" points="1482.6,-125.43 1491.53,-119.73 1481,-118.61 1482.6,-125.43"/>
-<text text-anchor="middle" x="1396.84" y="-144.8" font-family="Times,serif" font-size="14.00">2</text>
-</g>
-<!-- dra/HandleVideoPlayback -->
-<g id="node16" class="node">
-<title>dra/HandleVideoPlayback</title>
-<g id="a_node16"><a xlink:href="HandleVideoPlayback.svg" xlink:title="dra/HandleVideoPlayback">
-<ellipse fill="green" stroke="black" cx="1419.84" cy="-192" rx="129.98" ry="18"/>
-<text text-anchor="middle" x="1419.84" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleVideoPlayback</text>
-</a>
-</g>
-</g>
-<!-- dra/HandleVideoPlayback&#45;&gt;dra/func_800E4970 -->
-<g id="edge15" class="edge">
-<title>dra/HandleVideoPlayback&#45;&gt;dra/func_800E4970</title>
-<path fill="none" stroke="black" d="M1445.53,-174.21C1465.78,-160.97 1494.18,-142.39 1516.24,-127.97"/>
-<polygon fill="black" stroke="black" points="1518.2,-130.87 1524.65,-122.47 1514.37,-125.01 1518.2,-130.87"/>
-<text text-anchor="middle" x="1497.84" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1259.31,-178C1319.46,-163.09 1418.17,-138.63 1483.58,-122.42"/>
+<polygon fill="black" stroke="black" points="1484.52,-125.79 1493.38,-119.99 1482.84,-119 1484.52,-125.79"/>
+<text text-anchor="middle" x="1404.84" y="-144.8" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- dra/HandleMainMenu -->
-<g id="node17" class="node">
+<g id="node16" class="node">
 <title>dra/HandleMainMenu</title>
-<g id="a_node17"><a xlink:href="HandleMainMenu.svg" xlink:title="dra/HandleMainMenu">
-<ellipse fill="green" stroke="black" cx="1679.84" cy="-192" rx="112.38" ry="18"/>
-<text text-anchor="middle" x="1679.84" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleMainMenu</text>
+<g id="a_node16"><a xlink:href="HandleMainMenu.svg" xlink:title="dra/HandleMainMenu">
+<ellipse fill="green" stroke="black" cx="1419.84" cy="-192" rx="112.38" ry="18"/>
+<text text-anchor="middle" x="1419.84" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleMainMenu</text>
 </a>
 </g>
 </g>
 <!-- dra/HandleMainMenu&#45;&gt;dra/func_800E4970 -->
-<g id="edge16" class="edge">
+<g id="edge15" class="edge">
 <title>dra/HandleMainMenu&#45;&gt;dra/func_800E4970</title>
-<path fill="none" stroke="black" d="M1654.47,-174.41C1634.25,-161.19 1605.75,-142.56 1583.6,-128.07"/>
-<polygon fill="black" stroke="black" points="1585.44,-125.09 1575.15,-122.55 1581.61,-130.95 1585.44,-125.09"/>
+<path fill="none" stroke="black" d="M1445.22,-174.41C1465.44,-161.19 1493.93,-142.56 1516.08,-128.07"/>
+<polygon fill="black" stroke="black" points="1518.08,-130.95 1524.53,-122.55 1514.25,-125.09 1518.08,-130.95"/>
+<text text-anchor="middle" x="1497.84" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra/HandleVideoPlayback -->
+<g id="node17" class="node">
+<title>dra/HandleVideoPlayback</title>
+<g id="a_node17"><a xlink:href="HandleVideoPlayback.svg" xlink:title="dra/HandleVideoPlayback">
+<ellipse fill="green" stroke="black" cx="1679.84" cy="-192" rx="129.98" ry="18"/>
+<text text-anchor="middle" x="1679.84" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleVideoPlayback</text>
+</a>
+</g>
+</g>
+<!-- dra/HandleVideoPlayback&#45;&gt;dra/func_800E4970 -->
+<g id="edge16" class="edge">
+<title>dra/HandleVideoPlayback&#45;&gt;dra/func_800E4970</title>
+<path fill="none" stroke="black" d="M1654.16,-174.21C1633.91,-160.97 1605.5,-142.39 1583.44,-127.97"/>
+<polygon fill="black" stroke="black" points="1585.31,-125.01 1575.03,-122.47 1581.48,-130.87 1585.31,-125.01"/>
 <text text-anchor="middle" x="1627.84" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra/HandleEnding -->
 <g id="node18" class="node">
 <title>dra/HandleEnding</title>
 <g id="a_node18"><a xlink:href="HandleEnding.svg" xlink:title="dra/HandleEnding">
-<ellipse fill="green" stroke="black" cx="1905.84" cy="-192" rx="95.58" ry="18"/>
-<text text-anchor="middle" x="1905.84" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleEnding</text>
+<ellipse fill="green" stroke="black" cx="1923.84" cy="-192" rx="95.58" ry="18"/>
+<text text-anchor="middle" x="1923.84" y="-188.3" font-family="Times,serif" font-size="14.00">dra/HandleEnding</text>
 </a>
 </g>
 </g>
 <!-- dra/HandleEnding&#45;&gt;dra/func_800E4970 -->
 <g id="edge17" class="edge">
 <title>dra/HandleEnding&#45;&gt;dra/func_800E4970</title>
-<path fill="none" stroke="black" d="M1849.04,-177.44C1786.11,-162.41 1684.71,-138.2 1617.67,-122.19"/>
-<polygon fill="black" stroke="black" points="1618.16,-118.71 1607.62,-119.8 1616.54,-125.52 1618.16,-118.71"/>
-<text text-anchor="middle" x="1754.84" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1865.4,-177.72C1799.02,-162.63 1690.75,-138.02 1619.9,-121.92"/>
+<polygon fill="black" stroke="black" points="1620.25,-118.41 1609.72,-119.61 1618.7,-125.24 1620.25,-118.41"/>
+<text text-anchor="middle" x="1764.84" y="-144.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>
