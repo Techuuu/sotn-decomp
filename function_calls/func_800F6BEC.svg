@@ -12,7 +12,7 @@
 <!-- dra/func_800F6BEC -->
 <g id="node1" class="node">
 <title>dra/func_800F6BEC</title>
-<ellipse fill="red" stroke="black" cx="316.69" cy="-105" rx="103.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="316.69" cy="-105" rx="103.98" ry="18"/>
 <text text-anchor="middle" x="316.69" y="-101.3" font-family="Times,serif" font-size="14.00">dra/func_800F6BEC</text>
 </g>
 <!-- dra/DrawMenuChar -->
