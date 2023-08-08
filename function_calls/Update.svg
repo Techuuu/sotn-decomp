@@ -12,7 +12,7 @@
 <!-- wrp/Update -->
 <g id="node1" class="node">
 <title>wrp/Update</title>
-<ellipse fill="green" stroke="black" cx="374.99" cy="-105" rx="65.79" ry="18"/>
+<ellipse fill="red" stroke="black" cx="374.99" cy="-105" rx="65.79" ry="18"/>
 <text text-anchor="middle" x="374.99" y="-101.3" font-family="Times,serif" font-size="14.00">wrp/Update</text>
 </g>
 <!-- wrp/g_api_FreePrimitives -->

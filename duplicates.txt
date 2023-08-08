@@ -719,14 +719,14 @@ ref. - ST0  - func_801B51E4 - found 8 matches total:
 0.99 - WRP  - func_8018BC88 - (decompiled)
 0.99 - RWRP - func_8018DC08 - (decompiled)
 
-ref. - CEN  - func_80191178 - found 7 matches total:
-0.99 - DRE  - func_801972BC
-0.99 - NO3  - func_801C1B78
-0.99 - NP3  - func_801B93E8 - (decompiled)
-0.99 - NZ0  - func_801B9800 - (decompiled)
-0.99 - ST0  - func_801B1B98
-0.99 - WRP  - func_80188514 - (decompiled)
-0.99 - RWRP - func_8018A494
+ref. - CEN  - UpdateStageEntities - found 7 matches total:
+0.99 - DRE  - UpdateStageEntities
+0.99 - NO3  - UpdateStageEntities
+0.99 - NP3  - UpdateStageEntities - (decompiled)
+0.99 - NZ0  - UpdateStageEntities - (decompiled)
+0.99 - ST0  - UpdateStageEntities
+0.99 - WRP  - UpdateStageEntities - (decompiled)
+0.99 - RWRP - UpdateStageEntities
 
 ref. - CEN  - func_80195318 - found 7 matches total:
 0.99 - DRE  - func_8019B45C
