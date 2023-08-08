@@ -12,7 +12,7 @@
 <!-- nz0/UpdateStageEntities -->
 <g id="node1" class="node">
 <title>nz0/UpdateStageEntities</title>
-<ellipse fill="red" stroke="black" cx="143.64" cy="-105" rx="128.08" ry="18"/>
+<ellipse fill="green" stroke="black" cx="143.64" cy="-105" rx="128.08" ry="18"/>
 <text text-anchor="middle" x="143.64" y="-101.3" font-family="Times,serif" font-size="14.00">nz0/UpdateStageEntities</text>
 </g>
 <!-- nz0/UnknownEntityFunction -->
