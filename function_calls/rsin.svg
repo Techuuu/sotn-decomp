@@ -301,107 +301,107 @@
 <polygon fill="black" stroke="black" points="4536.63,-37.71 4526.56,-34.4 4532.37,-43.26 4536.63,-37.71"/>
 <text text-anchor="middle" x="4574.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- st0/EntityStageTitleCard -->
+<!-- st0/func_801B5600 -->
 <g id="node23" class="node">
-<title>st0/EntityStageTitleCard</title>
-<g id="a_node23"><a xlink:href="EntityStageTitleCard.svg" xlink:title="st0/EntityStageTitleCard">
-<ellipse fill="green" stroke="black" cx="4863.44" cy="-105" rx="127.28" ry="18"/>
-<text text-anchor="middle" x="4863.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/EntityStageTitleCard</text>
+<title>st0/func_801B5600</title>
+<g id="a_node23"><a xlink:href="func_801B5600.svg" xlink:title="st0/func_801B5600">
+<ellipse fill="green" stroke="black" cx="4836.44" cy="-105" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="4836.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/func_801B5600</text>
 </a>
 </g>
 </g>
 <!-- st0/rsin -->
 <g id="node24" class="node">
 <title>st0/rsin</title>
-<ellipse fill="none" stroke="black" cx="5845.44" cy="-18" rx="46.29" ry="18"/>
-<text text-anchor="middle" x="5845.44" y="-14.3" font-family="Times,serif" font-size="14.00">st0/rsin</text>
+<ellipse fill="none" stroke="black" cx="5800.44" cy="-18" rx="46.29" ry="18"/>
+<text text-anchor="middle" x="5800.44" y="-14.3" font-family="Times,serif" font-size="14.00">st0/rsin</text>
+</g>
+<!-- st0/func_801B5600&#45;&gt;st0/rsin -->
+<g id="edge17" class="edge">
+<title>st0/func_801B5600&#45;&gt;st0/rsin</title>
+<path fill="none" stroke="black" d="M4907.64,-92.21C4920.53,-90.3 4933.87,-88.47 4946.44,-87 5246.63,-51.9 5608.34,-29.68 5744.77,-22"/>
+<polygon fill="black" stroke="black" points="5745.17,-25.49 5754.96,-21.43 5744.78,-18.5 5745.17,-25.49"/>
+<text text-anchor="middle" x="5280.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0/EntityStageTitleCard -->
+<g id="node25" class="node">
+<title>st0/EntityStageTitleCard</title>
+<g id="a_node25"><a xlink:href="EntityStageTitleCard.svg" xlink:title="st0/EntityStageTitleCard">
+<ellipse fill="green" stroke="black" cx="5082.44" cy="-105" rx="127.28" ry="18"/>
+<text text-anchor="middle" x="5082.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/EntityStageTitleCard</text>
+</a>
+</g>
 </g>
 <!-- st0/EntityStageTitleCard&#45;&gt;st0/rsin -->
-<g id="edge17" class="edge">
+<g id="edge18" class="edge">
 <title>st0/EntityStageTitleCard&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M4953.36,-92.22C4968.73,-90.36 4984.53,-88.55 4999.44,-87 5296.91,-56.12 5654.47,-31.46 5789.86,-22.57"/>
-<polygon fill="black" stroke="black" points="5790.23,-26.05 5799.98,-21.91 5789.77,-19.07 5790.23,-26.05"/>
-<text text-anchor="middle" x="5353.44" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M5174.24,-92.42C5189.02,-90.59 5204.15,-88.73 5218.44,-87 5412.75,-63.51 5643.72,-36.92 5746.5,-25.16"/>
+<polygon fill="black" stroke="black" points="5747.09,-28.61 5756.62,-24 5746.29,-21.66 5747.09,-28.61"/>
+<text text-anchor="middle" x="5494.44" y="-57.8" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- st0/EntitySecretStairs -->
-<g id="node25" class="node">
+<g id="node26" class="node">
 <title>st0/EntitySecretStairs</title>
-<g id="a_node25"><a xlink:href="EntitySecretStairs.svg" xlink:title="st0/EntitySecretStairs">
-<ellipse fill="green" stroke="black" cx="5123.44" cy="-105" rx="115.08" ry="18"/>
-<text text-anchor="middle" x="5123.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/EntitySecretStairs</text>
+<g id="a_node26"><a xlink:href="EntitySecretStairs.svg" xlink:title="st0/EntitySecretStairs">
+<ellipse fill="green" stroke="black" cx="5342.44" cy="-105" rx="115.08" ry="18"/>
+<text text-anchor="middle" x="5342.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/EntitySecretStairs</text>
 </a>
 </g>
 </g>
 <!-- st0/EntitySecretStairs&#45;&gt;st0/rsin -->
-<g id="edge18" class="edge">
+<g id="edge19" class="edge">
 <title>st0/EntitySecretStairs&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M5206.12,-92.4C5219.91,-90.54 5234.08,-88.68 5247.44,-87 5447.86,-61.87 5686.59,-35.92 5791.49,-24.71"/>
-<polygon fill="black" stroke="black" points="5791.94,-28.19 5801.51,-23.65 5791.2,-21.23 5791.94,-28.19"/>
-<text text-anchor="middle" x="5515.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M5413.5,-90.81C5506.63,-73.53 5667.71,-43.63 5749.55,-28.45"/>
+<polygon fill="black" stroke="black" points="5750.41,-31.85 5759.6,-26.58 5749.13,-24.96 5750.41,-31.85"/>
+<text text-anchor="middle" x="5604.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0/func_801B8D00 -->
-<g id="node26" class="node">
+<g id="node27" class="node">
 <title>st0/func_801B8D00</title>
-<g id="a_node26"><a xlink:href="func_801B8D00.svg" xlink:title="st0/func_801B8D00">
-<ellipse fill="green" stroke="black" cx="5358.44" cy="-105" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="5358.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/func_801B8D00</text>
+<g id="a_node27"><a xlink:href="func_801B8D00.svg" xlink:title="st0/func_801B8D00">
+<ellipse fill="green" stroke="black" cx="5577.44" cy="-105" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="5577.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/func_801B8D00</text>
 </a>
 </g>
 </g>
 <!-- st0/func_801B8D00&#45;&gt;st0/rsin -->
-<g id="edge19" class="edge">
+<g id="edge20" class="edge">
 <title>st0/func_801B8D00&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M5428.22,-91.82C5527.27,-74.53 5706.33,-43.28 5794.11,-27.96"/>
-<polygon fill="black" stroke="black" points="5794.85,-31.38 5804.1,-26.22 5793.65,-24.49 5794.85,-31.38"/>
-<text text-anchor="middle" x="5636.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M5618.35,-88.41C5658.31,-73.18 5718.82,-50.11 5758.97,-34.81"/>
+<polygon fill="black" stroke="black" points="5760.37,-38.02 5768.46,-31.19 5757.87,-31.48 5760.37,-38.02"/>
+<text text-anchor="middle" x="5707.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0/func_801BD8F0 -->
-<g id="node27" class="node">
+<g id="node28" class="node">
 <title>st0/func_801BD8F0</title>
-<g id="a_node27"><a xlink:href="func_801BD8F0.svg" xlink:title="st0/func_801BD8F0">
-<ellipse fill="red" stroke="black" cx="5581.44" cy="-105" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="5581.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/func_801BD8F0</text>
+<g id="a_node28"><a xlink:href="func_801BD8F0.svg" xlink:title="st0/func_801BD8F0">
+<ellipse fill="red" stroke="black" cx="5800.44" cy="-105" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="5800.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/func_801BD8F0</text>
 </a>
 </g>
 </g>
 <!-- st0/func_801BD8F0&#45;&gt;st0/rsin -->
-<g id="edge20" class="edge">
+<g id="edge21" class="edge">
 <title>st0/func_801BD8F0&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M5628.34,-88.9C5677.17,-73.18 5753.09,-48.74 5800.99,-33.31"/>
-<polygon fill="black" stroke="black" points="5802.32,-36.56 5810.77,-30.16 5800.18,-29.9 5802.32,-36.56"/>
-<text text-anchor="middle" x="5734.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M5800.44,-86.8C5800.44,-75.16 5800.44,-59.55 5800.44,-46.24"/>
+<polygon fill="black" stroke="black" points="5803.94,-46.18 5800.44,-36.18 5796.94,-46.18 5803.94,-46.18"/>
+<text text-anchor="middle" x="5805.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0/EntityBackgroundVortex -->
-<g id="node28" class="node">
+<g id="node29" class="node">
 <title>st0/EntityBackgroundVortex</title>
-<g id="a_node28"><a xlink:href="EntityBackgroundVortex.svg" xlink:title="st0/EntityBackgroundVortex">
-<ellipse fill="red" stroke="black" cx="5845.44" cy="-105" rx="142.97" ry="18"/>
-<text text-anchor="middle" x="5845.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/EntityBackgroundVortex</text>
+<g id="a_node29"><a xlink:href="EntityBackgroundVortex.svg" xlink:title="st0/EntityBackgroundVortex">
+<ellipse fill="red" stroke="black" cx="6064.44" cy="-105" rx="142.97" ry="18"/>
+<text text-anchor="middle" x="6064.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/EntityBackgroundVortex</text>
 </a>
 </g>
 </g>
 <!-- st0/EntityBackgroundVortex&#45;&gt;st0/rsin -->
-<g id="edge21" class="edge">
-<title>st0/EntityBackgroundVortex&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M5845.44,-86.8C5845.44,-75.16 5845.44,-59.55 5845.44,-46.24"/>
-<polygon fill="black" stroke="black" points="5848.94,-46.18 5845.44,-36.18 5841.94,-46.18 5848.94,-46.18"/>
-<text text-anchor="middle" x="5850.44" y="-57.8" font-family="Times,serif" font-size="14.00">5</text>
-</g>
-<!-- st0/func_801B5600 -->
-<g id="node29" class="node">
-<title>st0/func_801B5600</title>
-<g id="a_node29"><a xlink:href="func_801B5600.svg" xlink:title="st0/func_801B5600">
-<ellipse fill="green" stroke="black" cx="6107.44" cy="-105" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="6107.44" y="-101.3" font-family="Times,serif" font-size="14.00">st0/func_801B5600</text>
-</a>
-</g>
-</g>
-<!-- st0/func_801B5600&#45;&gt;st0/rsin -->
 <g id="edge22" class="edge">
-<title>st0/func_801B5600&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M6061.21,-89C6012.79,-73.29 5937.31,-48.8 5889.67,-33.35"/>
-<polygon fill="black" stroke="black" points="5890.53,-29.95 5879.94,-30.19 5888.37,-36.61 5890.53,-29.95"/>
-<text text-anchor="middle" x="5997.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<title>st0/EntityBackgroundVortex&#45;&gt;st0/rsin</title>
+<path fill="none" stroke="black" d="M6014.79,-88.01C5965.7,-72.21 5891.33,-48.26 5844.35,-33.13"/>
+<polygon fill="black" stroke="black" points="5845.35,-29.78 5834.75,-30.05 5843.2,-36.44 5845.35,-29.78"/>
+<text text-anchor="middle" x="5953.44" y="-57.8" font-family="Times,serif" font-size="14.00">5</text>
 </g>
 <!-- st0/EntityDraculaRainAttack -->
 <g id="node30" class="node">
@@ -415,9 +415,9 @@
 <!-- st0/EntityDraculaRainAttack&#45;&gt;st0/rsin -->
 <g id="edge23" class="edge">
 <title>st0/EntityDraculaRainAttack&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M6285.25,-90.34C6175.78,-72.58 5987.88,-42.1 5897.28,-27.41"/>
-<polygon fill="black" stroke="black" points="5897.68,-23.93 5887.25,-25.78 5896.56,-30.84 5897.68,-23.93"/>
-<text text-anchor="middle" x="6144.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M6280.85,-90.77C6160.78,-72.83 5950.22,-41.37 5852.72,-26.81"/>
+<polygon fill="black" stroke="black" points="5853.21,-23.34 5842.8,-25.33 5852.17,-30.27 5853.21,-23.34"/>
+<text text-anchor="middle" x="6124.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0/EntityDraculaMegaFireball -->
 <g id="node31" class="node">
@@ -431,9 +431,9 @@
 <!-- st0/EntityDraculaMegaFireball&#45;&gt;st0/rsin -->
 <g id="edge24" class="edge">
 <title>st0/EntityDraculaMegaFireball&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M6574.85,-92.38C6557.32,-90.57 6539.39,-88.73 6522.44,-87 6290.88,-63.37 6014.68,-35.83 5899.77,-24.4"/>
-<polygon fill="black" stroke="black" points="5900.1,-20.91 5889.81,-23.41 5899.41,-27.88 5900.1,-20.91"/>
-<text text-anchor="middle" x="6342.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M6575.3,-92.34C6557.62,-90.52 6539.54,-88.69 6522.44,-87 6273.18,-62.34 5975.28,-34.94 5854.89,-23.95"/>
+<polygon fill="black" stroke="black" points="5855.1,-20.46 5844.82,-23.03 5854.46,-27.43 5855.1,-20.46"/>
+<text text-anchor="middle" x="6329.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0/EntityDraculaGlass -->
 <g id="node32" class="node">
@@ -447,9 +447,9 @@
 <!-- st0/EntityDraculaGlass&#45;&gt;st0/rsin -->
 <g id="edge25" class="edge">
 <title>st0/EntityDraculaGlass&#45;&gt;st0/rsin</title>
-<path fill="none" stroke="black" d="M6895.22,-92.16C6880.33,-90.26 6864.94,-88.45 6850.44,-87 6489.41,-50.85 6053.44,-28.63 5901.15,-21.51"/>
-<polygon fill="black" stroke="black" points="5901.26,-18.01 5891.11,-21.04 5900.94,-25 5901.26,-18.01"/>
-<text text-anchor="middle" x="6636.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M6895.23,-92.12C6880.33,-90.23 6864.95,-88.43 6850.44,-87 6471.48,-49.61 6013.46,-28.02 5856.42,-21.3"/>
+<polygon fill="black" stroke="black" points="5856.22,-17.78 5846.08,-20.86 5855.92,-24.78 5856.22,-17.78"/>
+<text text-anchor="middle" x="6626.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- no3/EntityWargExplosionPuffOpaque -->
 <g id="node33" class="node">
@@ -719,34 +719,34 @@
 <polygon fill="black" stroke="black" points="10566.15,-23.46 10555.75,-25.51 10565.16,-30.39 10566.15,-23.46"/>
 <text text-anchor="middle" x="10847.44" y="-57.8" font-family="Times,serif" font-size="14.00">3</text>
 </g>
-<!-- np3/func_801BCF78 -->
-<g id="node51" class="node">
-<title>np3/func_801BCF78</title>
-<g id="a_node51"><a xlink:href="func_801BCF78.svg" xlink:title="np3/func_801BCF78">
-<ellipse fill="green" stroke="black" cx="11349.44" cy="-105" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="11349.44" y="-101.3" font-family="Times,serif" font-size="14.00">np3/func_801BCF78</text>
-</a>
-</g>
-</g>
-<!-- np3/func_801BCF78&#45;&gt;np3/rsin -->
-<g id="edge42" class="edge">
-<title>np3/func_801BCF78&#45;&gt;np3/rsin</title>
-<path fill="none" stroke="black" d="M11275.02,-92.3C11261.85,-90.41 11248.26,-88.56 11235.44,-87 10988.2,-56.99 10692.13,-32.9 10568.81,-23.39"/>
-<polygon fill="black" stroke="black" points="10568.71,-19.87 10558.47,-22.59 10568.18,-26.85 10568.71,-19.87"/>
-<text text-anchor="middle" x="11062.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
 <!-- np3/func_801B65FC -->
-<g id="node52" class="node">
+<g id="node51" class="node">
 <title>np3/func_801B65FC</title>
-<g id="a_node52"><a xlink:href="func_801B65FC.svg" xlink:title="np3/func_801B65FC">
-<ellipse fill="red" stroke="black" cx="11576.44" cy="-105" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="11576.44" y="-101.3" font-family="Times,serif" font-size="14.00">np3/func_801B65FC</text>
+<g id="a_node51"><a xlink:href="func_801B65FC.svg" xlink:title="np3/func_801B65FC">
+<ellipse fill="red" stroke="black" cx="11349.44" cy="-105" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="11349.44" y="-101.3" font-family="Times,serif" font-size="14.00">np3/func_801B65FC</text>
 </a>
 </g>
 </g>
 <!-- np3/func_801B65FC&#45;&gt;np3/rsin -->
-<g id="edge43" class="edge">
+<g id="edge42" class="edge">
 <title>np3/func_801B65FC&#45;&gt;np3/rsin</title>
+<path fill="none" stroke="black" d="M11275.02,-92.3C11261.85,-90.41 11248.26,-88.56 11235.44,-87 10988.2,-56.99 10692.13,-32.9 10568.81,-23.39"/>
+<polygon fill="black" stroke="black" points="10568.71,-19.87 10558.47,-22.59 10568.18,-26.85 10568.71,-19.87"/>
+<text text-anchor="middle" x="11062.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3/func_801BCF78 -->
+<g id="node52" class="node">
+<title>np3/func_801BCF78</title>
+<g id="a_node52"><a xlink:href="func_801BCF78.svg" xlink:title="np3/func_801BCF78">
+<ellipse fill="green" stroke="black" cx="11576.44" cy="-105" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="11576.44" y="-101.3" font-family="Times,serif" font-size="14.00">np3/func_801BCF78</text>
+</a>
+</g>
+</g>
+<!-- np3/func_801BCF78&#45;&gt;np3/rsin -->
+<g id="edge43" class="edge">
+<title>np3/func_801BCF78&#45;&gt;np3/rsin</title>
 <path fill="none" stroke="black" d="M11502.68,-92.19C11489.63,-90.31 11476.15,-88.49 11463.44,-87 11126.59,-47.53 10719.89,-27.73 10569.8,-21.36"/>
 <polygon fill="black" stroke="black" points="10569.58,-17.85 10559.44,-20.92 10569.28,-24.84 10569.58,-17.85"/>
 <text text-anchor="middle" x="11287.44" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
