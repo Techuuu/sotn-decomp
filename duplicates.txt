@@ -1,5 +1,5 @@
-Number of decompiled duplicates found: 553
-Number of undecompiled duplicates found: 396
+Number of decompiled duplicates found: 546
+Number of undecompiled duplicates found: 394
 Number of overall exact duplicates found: 118
 
 ref. - MAIN - ChangeClearRCnt - found 51 matches total:
@@ -268,16 +268,6 @@ ref. - CEN  - InitializeEntity - found 8 matches total:
 1.00 - WRP  - InitializeEntity - (decompiled)
 1.00 - RWRP - func_8018E290
 0.99 - MAD  - InitializeEntity - (decompiled)
-
-ref. - CEN  - func_80192A3C - found 8 matches total:
-0.99 - DRE  - CreateEntityFromLayout - (decompiled)
-0.99 - MAD  - CreateEntityFromLayout - (decompiled)
-0.99 - NO3  - CreateEntityFromLayout - (decompiled)
-0.99 - NP3  - CreateEntityFromLayout - (decompiled)
-0.99 - NZ0  - CreateEntityFromLayout - (decompiled)
-0.99 - ST0  - CreateEntityFromLayout - (decompiled)
-0.99 - WRP  - CreateEntityFromLayout - (decompiled)
-0.99 - RWRP - func_8018BD58
 
 ref. - CEN  - func_80193410 - found 8 matches total:
 0.99 - DRE  - func_80199554 - (decompiled)
