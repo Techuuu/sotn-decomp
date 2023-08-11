@@ -1,5 +1,5 @@
 Number of decompiled duplicates found: 560
-Number of undecompiled duplicates found: 1034
+Number of undecompiled duplicates found: 1032
 Number of overall exact duplicates found: 298
 
 ref. - WEAPON - func_100000_8017A6D8 - found 119 matches total:
@@ -1689,9 +1689,6 @@ ref. - NO3  - EntityMermanExplosion - found 1 matches total:
 
 ref. - NO3  - EntityMermanSpawner - found 1 matches total:
 0.99 - NP3  - EntityMermanSpawner - (decompiled)
-
-ref. - NO3  - EntityShuttingWindow - found 1 matches total:
-0.99 - NP3  - EntityShuttingWindow
 
 ref. - NO3  - EntitySidewaysWaterDroplets - found 1 matches total:
 0.99 - NP3  - func_801C5BC4
