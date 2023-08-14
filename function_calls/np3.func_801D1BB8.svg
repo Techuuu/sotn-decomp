@@ -12,7 +12,7 @@
 <!-- np3.func_801D1BB8 -->
 <g id="node1" class="node">
 <title>np3.func_801D1BB8</title>
-<ellipse fill="red" stroke="black" cx="521.74" cy="-105" rx="105.88" ry="18"/>
+<ellipse fill="green" stroke="black" cx="521.74" cy="-105" rx="105.88" ry="18"/>
 <text text-anchor="middle" x="521.74" y="-101.3" font-family="Times,serif" font-size="14.00">np3.func_801D1BB8</text>
 </g>
 <!-- np3.InitializeEntity -->
