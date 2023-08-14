@@ -1,297 +1,297 @@
 | Filename                                                     |   Length |   Branches | Jtbl   | WIP                             | %     |
 |--------------------------------------------------------------|----------|------------|--------|---------------------------------|-------|
-| us/weapon/nonmatchings/w_000/func_4000_8017B6B8.s            |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017C3E8.s            |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017B1B8.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017B224.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B924.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B950.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017B970.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017B8D0.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017B324.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017B324.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017B71C.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017B4B4.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017BAE0.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017BBC8.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017B53C.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017BF80.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017BD2C.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017B0AC.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017B16C.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017AD6C.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017C1F0.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017BB30.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017AF38.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017B5D8.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017B6C4.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017B3B8.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017B374.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017B630.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017B3CC.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017B800.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017CBFC.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017AF40.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017AFD8.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017B280.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017B3A8.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017AB30.s           |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017AB40.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017BB9C.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017B7FC.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017B9E0.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017B4F8.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017B1B8.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017B5A4.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017BD2C.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_044/func_138000_8017AEDC.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017B370.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017BE78.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017B65C.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017C36C.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017C884.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017CBB0.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017C098.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017B624.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017C84C.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B8B0.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017BBE4.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017C070.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B698.s          |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017B438.s          |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_044/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CF778.s                 |       16 |          1 |        | https://decomp.me/scratch/Rjk3N | 0.14  |
-| us/weapon/nonmatchings/w_000/func_4000_8017B228.s            |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B168.s            |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017AD30.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AD94.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B470.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B470.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017ADA8.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017ADF4.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017ACA0.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017ACA0.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017AE14.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017AE30.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017AC20.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A780.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A710.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017A938.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A760.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A500.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A894.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A6A8.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017AD1C.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A908.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017A968.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017AED4.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017AF34.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017ACC8.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017ACF0.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AEA8.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017AD48.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017AA6C.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017AA78.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017ADAC.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017AAA4.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A6A0.s           |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A6B0.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A918.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017AF40.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017AF40.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017A9C8.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A6C8.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A8B8.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B1B0.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A4CC.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017ADB8.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A6BC.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B1A4.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B2A0.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B1D4.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017AE04.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B3D4.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B060.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B2F4.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B1B4.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B208.s          |       16 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017ADA4.s          |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/ResetAnimation.s                |       16 |          1 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/ResetAnimation.s                |       16 |          1 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_80195990.s                 |       17 |          1 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E38C.s                 |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B1D8.s            |       17 |          2 |        | https://decomp.me/scratch/HLPI0 | 0.96  |
-| us/weapon/nonmatchings/w_000/func_4000_8017B200.s            |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B2E0.s            |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B118.s            |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B140.s            |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B220.s            |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017ACE0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017AD08.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017ADE8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AD44.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AD6C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AE4C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B420.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B448.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B528.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B420.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B448.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B528.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017AD58.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017AD80.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017AE60.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017ADA4.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017ADCC.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017AEAC.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017AC50.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017AC78.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017AD58.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017AC50.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017AC78.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017AD58.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017ADC4.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017ADEC.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017AECC.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017ADE0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017AE08.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017AEE8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017ABD0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017ABF8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017ACD8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A730.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A758.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A838.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A6C0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A6E8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A7C8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017A8E8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017A910.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017A9F0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A710.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A738.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A818.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A4B0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A4D8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A5B8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A844.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A86C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A94C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A658.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A680.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A760.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017ACCC.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017ACF4.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017ADD4.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A8B8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A8E0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A9C0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017A918.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017A940.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017AA20.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017AE84.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017AEAC.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017AF8C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017AEE4.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017AF0C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017AFEC.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017AC78.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017ACA0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017AD80.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017ACA0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017ACC8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017ADA8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AE58.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AE80.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AF60.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017ACF8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017AD20.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017AE00.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017AEE8.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017AF10.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A7E0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A808.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A8C0.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017AA1C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017AA44.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017AB24.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017AA28.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017AA50.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017AB30.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017AD5C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017AD84.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017AE64.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017AA54.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017AA7C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017AB5C.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A650.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A678.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A758.s           |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A660.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A688.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A768.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A8C8.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A8F0.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A9D0.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017AEF0.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017AF18.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017AFF8.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017AEF0.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017AF18.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017AFF8.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017A978.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017A9A0.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017AA80.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A678.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A6A0.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A780.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A868.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A890.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A970.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B160.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B188.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B268.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_044/func_138000_8017A3C4.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_044/func_138000_8017A3EC.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A47C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A4A4.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A584.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017AD68.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017AD90.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017AE70.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A66C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A694.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A774.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B154.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B17C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B25C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B250.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B278.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B358.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B184.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B1AC.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B28C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017AFD8.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017B000.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017B0B8.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017ADB4.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017ADDC.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017AEBC.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B384.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B3AC.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B48C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B010.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B038.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B118.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B2A4.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B2CC.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B3AC.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B164.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B18C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B26C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B1B8.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B1E0.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B2C0.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017AD54.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017AD7C.s          |       17 |          2 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017AE5C.s          |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_044/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_044/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/SetSpriteBank2.s                |       17 |          2 |        |                                 |       |
 | us/st/sel/nonmatchings/3642C/func_801B881C.s                 |       18 |          1 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E0B0.s                 |       18 |          2 |        |                                 |       |
 | us/st/sel/nonmatchings/38D24/func_801BAB70.s                 |       19 |          0 |        |                                 |       |
@@ -309,122 +309,122 @@
 | us/st/rwrp/nonmatchings/A59C/func_8018E118.s                 |       24 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018D668.s                 |       25 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018EF28.s                 |       26 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B250.s            |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B298.s            |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B190.s            |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B1D8.s            |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017AD58.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017ADA0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017ADBC.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AE04.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B498.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B4E0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B498.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B4E0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017ADD0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017AE18.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017AE1C.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017AE64.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017ACC8.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017AD10.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017ACC8.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017AD10.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017AE3C.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017AE84.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017AE58.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017AEA0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017AC48.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017AC90.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A7A8.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A7F0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A738.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A780.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017A960.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017A9A8.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A788.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A7D0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A528.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A570.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A8BC.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A904.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A6D0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A718.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017AD44.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017AD8C.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A930.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A978.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017A990.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017A9D8.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017AEFC.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017AF44.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017AF5C.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017AFA4.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017ACF0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017AD38.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017AD18.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017AD60.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AED0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AF18.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017AD70.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017ADB8.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017AF38.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017AF80.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A830.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A878.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017AA94.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017AADC.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017AAA0.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017AAE8.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017ADD4.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017AE1C.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017AACC.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017AB14.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A6C8.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A710.s           |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A6D8.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A720.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A940.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A988.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017AF68.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017AFB0.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017AF68.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017AFB0.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017A9F0.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017AA38.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A6F0.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A738.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A8E0.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A928.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B1D8.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B220.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A4F4.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A53C.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017ADE0.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017AE28.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A6E4.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A72C.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B1CC.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B214.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B2C8.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B310.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B1FC.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B244.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017B028.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017B070.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017AE2C.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017AE74.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B3FC.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B444.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B088.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B0D0.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B31C.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B364.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B1DC.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B224.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B230.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B278.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017ADCC.s          |       26 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017AE14.s          |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/DecelerateY.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/DecelerateX.s                   |       26 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/DecelerateY.s                   |       26 |          5 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8019593C.s                 |       27 |          2 |        |                                 |       |
 | us/st/st0/nonmatchings/30030/func_801B0414.s                 |       27 |          4 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CDA14.s                 |       28 |          3 |        |                                 |       |
@@ -439,124 +439,124 @@
 | us/weapon/nonmatchings/w_042/func_12A000_8017ABA4.s          |       34 |          9 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018C7E0.s                 |       35 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B0D4.s            |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B014.s            |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017ABDC.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AC40.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B31C.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B31C.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017AC54.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017ACA0.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017AB4C.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017AB4C.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017ACC0.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017ACDC.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017AACC.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A62C.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A5BC.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017A7E4.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A60C.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A3AC.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A740.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A554.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017ABC8.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A7B4.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017A814.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017AD80.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017ADE0.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017AB74.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017AB9C.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AD54.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017ABF4.s           |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
 | us/weapon/nonmatchings/w_029/func_CF000_8017ADD8.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A6DC.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017A918.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017A924.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017AC58.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017A950.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A54C.s           |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A55C.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A7C4.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017ADEC.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017ADEC.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017A874.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A574.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A764.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B05C.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_044/func_138000_8017A2C0.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A378.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017AC64.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A568.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B050.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B14C.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B080.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017AED4.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017ACB0.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B280.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017AF0C.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B1A0.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B060.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B0B4.s          |       35 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017AC50.s          |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_044/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_801959BC.s                 |       35 |          5 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E160.s                 |       35 |          6 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CDFD8.s                 |       36 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B308.s            |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B248.s            |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017AE10.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AE74.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B550.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B550.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017AE88.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017AED4.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017AD80.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017AD80.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017AEF4.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017AF10.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017AD00.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A860.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A7F0.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017AA18.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A840.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A5E0.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A974.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A788.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017ADFC.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A9E8.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017AA48.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017AFB4.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017B014.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017ADA8.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017ADD0.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AF88.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017AE28.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017AB4C.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017AB58.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017AE8C.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017AB84.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A780.s           |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A790.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A9F8.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017B020.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017B020.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017AAA8.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A7A8.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A998.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B290.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_044/func_138000_8017A414.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A5AC.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017AE98.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A79C.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B284.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B380.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B2B4.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017AEE4.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B4B4.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B140.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B3D4.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B294.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B2E8.s          |       36 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017AE84.s          |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_044/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CE258.s                 |       37 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_029/func_CF000_8017AFF8.s           |       37 |          6 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015F9F0.s                    |       38 |          7 |        |                                 |       |
@@ -575,64 +575,64 @@
 | us/st/rwrp/nonmatchings/A59C/func_8018E024.s                 |       43 |          5 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CDC80.s                 |       43 |          6 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CDD80.s                 |       45 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B140.s            |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B080.s            |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017AC48.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017ACAC.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B388.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B388.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017ACC0.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017AD0C.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017ABB8.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017ABB8.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017AD2C.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017AD48.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017AB38.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A698.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A628.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017A850.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A678.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A418.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A7AC.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A5C0.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017AC34.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017A820.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017A880.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017ADEC.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017AE4C.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017ABE0.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017AC08.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017ADC0.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017AC60.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A748.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017A984.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017A990.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017ACC4.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017A9BC.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A5B8.s           |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A5C8.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017A830.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017AE58.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017AE58.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017A8E0.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A5E0.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017A7D0.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B0C8.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_044/func_138000_8017A32C.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A3E4.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017ACD0.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A5D4.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B0BC.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B1B8.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B0EC.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017AF40.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017AD1C.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B2EC.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017AF78.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B20C.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B0CC.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B120.s          |       46 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017ACBC.s          |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_044/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CDE88.s                 |       46 |          5 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E1FC.s                 |       46 |          6 |        |                                 |       |
 | us/st/sel/nonmatchings/38D24/func_801B9B7C.s                 |       47 |          3 |        |                                 |       |
@@ -650,7 +650,7 @@
 | us/st/rwrp/nonmatchings/A59C/func_801957D4.s                 |       48 |          9 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_801965F4.s                 |       49 |          3 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018F910.s                 |       49 |          3 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017AE44.s           |       49 |          4 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/LoadWeaponPalette.s             |       49 |          4 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80195B68.s                 |       49 |          8 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018EE84.s                 |       49 |          8 |        |                                 |       |
 | us/st/no3/nonmatchings/3E134/func_801BE7BC.s                 |       51 |          2 |        |                                 |       |
@@ -662,11 +662,11 @@
 | us/st/mad/nonmatchings/EDB8/CollectHeart.s                   |       52 |          4 |        | https://decomp.me/scratch/DlOhh | 0.987 |
 | us/dra/nonmatchings/75F54/func_8011B480.s                    |       52 |          6 |        | https://decomp.me/scratch/vljJJ | 0.766 |
 | us/st/mad/nonmatchings/D8C8/func_8018E090.s                  |       52 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017B434.s          |       53 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017B4E0.s          |       53 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/func_ptr_8017000C.s             |       53 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/func_ptr_8017000C.s             |       53 |          5 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_801991C0.s                 |       54 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_801924DC.s                 |       54 |          7 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017C8C4.s           |       54 |          7 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/func_ptr_80170028.s             |       54 |          7 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800EA720.s                    |       55 |          7 |        | https://decomp.me/scratch/4mMbS | 0.616 |
 | us/st/sel/nonmatchings/2D260/func_801B3F94.s                 |       55 |         10 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80193410.s                 |       55 |         11 |        |                                 |       |
@@ -709,16 +709,16 @@
 | us/st/cen/nonmatchings/11280/EntityExplosion14.s             |       69 |          6 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_801917B8.s                 |       69 |          6 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/EntityUnkId17.s                 |       69 |          7 |        | https://decomp.me/scratch/nNfXk | 0.953 |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A7D0.s          |       69 |          7 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/EntityWeaponAttack.s            |       69 |          7 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/InitializeEntity.s              |       70 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E290.s                 |       70 |          2 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityUnkId15.s                 |       70 |          6 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CD91C.s                 |       70 |          6 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_801918A8.s                 |       70 |          6 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015FDB0.s                    |       71 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017AF14.s           |       71 |          5 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017B9D0.s           |       71 |          6 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017B148.s           |       71 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/func_ptr_80170004.s             |       71 |          5 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/func_ptr_80170008.s             |       71 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/func_ptr_80170004.s             |       71 |          6 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80198084.s                 |       71 |          7 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_801988B0.s                 |       71 |          7 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/func_8019E1C8.s                 |       71 |          7 |        |                                 |       |
@@ -739,66 +739,66 @@
 | us/st/cen/nonmatchings/11280/EntityExplosion.s               |       73 |          9 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018F814.s                 |       73 |          9 |        |                                 |       |
 | us/st/sel/nonmatchings/38D24/MDEC_rest.s                     |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B378.s            |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B2B8.s            |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_12000_8017AE80.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AEE4.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B5C0.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_27000_8017B5C0.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017AEF8.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017AF44.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017ADF0.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017ADF0.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017AF64.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017AF80.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017AD70.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017A8D0.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A860.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017AA88.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A8B0.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A650.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017A9E4.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A7F8.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017AE6C.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017AA58.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017AAB8.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017B024.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017B084.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017AE18.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017AE40.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017AFF8.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017AE98.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_008/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_009/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_011/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_025/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
 | us/weapon/nonmatchings/w_029/func_CF000_8017B06C.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A8E8.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017ABBC.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017ABC8.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017AEFC.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017ABF4.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A7F0.s           |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A800.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017AA68.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017B090.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017B090.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017AB18.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017A818.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017AA08.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B300.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_044/func_138000_8017A484.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A61C.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017AF08.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A80C.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B2F4.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B3F0.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B324.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017B0E0.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017AF54.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B524.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B1B0.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B444.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B304.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B358.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017AEF4.s          |       73 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017C5CC.s           |       73 |         11 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_044/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_058/SetWeaponProperties.s           |       73 |          9 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/func_ptr_80170028.s             |       73 |         11 |        |                                 |       |
 | us/weapon/nonmatchings/w_026/func_BA000_8017B37C.s           |       74 |          6 |        |                                 |       |
 | us/st/dre/nonmatchings/173C4/func_80198F18.s                 |       74 |          9 |        |                                 |       |
 | us/st/dre/nonmatchings/173C4/func_801991CC.s                 |       74 |          9 |        |                                 |       |
@@ -815,7 +815,7 @@
 | us/st/rwrp/nonmatchings/A59C/func_80192248.s                 |       75 |          9 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityIntenseExplosion.s        |       75 |          9 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F98AC.s                    |       76 |          7 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017AD90.s           |       77 |          6 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/func_ptr_80170004.s             |       77 |          6 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F6CC0.s                    |       77 |          7 |        |                                 |       |
 | us/st/cen/nonmatchings/D600/func_8018E6C4.s                  |       77 |          7 |        |                                 |       |
 | us/st/dre/nonmatchings/14774/func_80194FF4.s                 |       77 |          7 |        |                                 |       |
@@ -825,7 +825,7 @@
 | us/st/no3/nonmatchings/46684/func_801D0A2C.s                 |       78 |         11 |        |                                 |       |
 | us/st/np3/nonmatchings/3DEF4/func_801C4144.s                 |       78 |         11 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012E9C0.s                    |       79 |         10 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017B5E4.s           |       79 |         10 |        |                                 |       |
+| us/weapon/nonmatchings/w_010/func_ptr_80170004.s             |       79 |         10 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_80191490.s                 |       79 |         11 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B27A8.s                 |       81 |          5 |        | https://decomp.me/scratch/QbZCn | 0.901 |
 | us/st/cen/nonmatchings/11280/func_80193184.s                 |       81 |         10 |        |                                 |       |
@@ -885,13 +885,13 @@
 | us/dra/nonmatchings/692E8/func_8010E570.s                    |       94 |         16 |        | https://decomp.me/scratch/Cxq6C | 0.587 |
 | us/ric/nonmatchings/26C84/func_801682B4.s                    |       96 |         10 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E7BB8.s                    |       97 |         10 | Yes    | https://decomp.me/scratch/0bvjl | 0.85  |
-| us/weapon/nonmatchings/w_040/func_11C000_8017B2DC.s          |       97 |         13 |        |                                 |       |
+| us/weapon/nonmatchings/w_040/func_ptr_80170008.s             |       97 |         13 |        |                                 |       |
 | us/st/nz0/nonmatchings/4672C/func_801C6B24.s                 |       97 |         14 |        | https://decomp.me/scratch/T0T7K | 0.991 |
 | us/st/no3/nonmatchings/46684/EntityMermanSpawner.s           |       97 |         15 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F1D54.s                    |       97 |         16 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8011081C.s                    |       97 |         16 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_80156DE4.s                    |       98 |          9 |        | https://decomp.me/scratch/AHkRw | 0.82  |
-| us/weapon/nonmatchings/w_049/func_15B000_8017C720.s          |       99 |         11 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/func_ptr_80170014.s             |       99 |         11 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80195798.s                 |       99 |         16 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018EAB4.s                 |       99 |         16 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012D024.s                    |      100 |         23 |        |                                 |       |
@@ -903,23 +903,23 @@
 | us/dra/nonmatchings/75F54/func_8012D28C.s                    |      102 |         19 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F6A70.s                    |      103 |         11 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800FBAC4.s                    |      103 |         11 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017B00C.s           |      103 |         12 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/func_ptr_80170008.s             |      103 |         12 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F24F4.s                    |      103 |         21 |        |                                 |       |
 | us/st/np3/nonmatchings/394F0/InitRoomEntities.s              |      104 |          9 |        | https://decomp.me/scratch/KvWhQ | 1.0   |
 | us/st/rwrp/nonmatchings/A59C/func_8018C5B4.s                 |      104 |          9 |        |                                 |       |
 | us/st/sel/nonmatchings/2C048/func_801ACFBC.s                 |      104 |         12 |        | https://decomp.me/scratch/CKNSB | 0.666 |
-| us/weapon/nonmatchings/w_022/func_9E000_8017ADB0.s           |      104 |         16 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/func_ptr_80170004.s             |      104 |         16 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/func_801A2C9C.s                 |      105 |          4 |        |                                 |       |
 | us/weapon/nonmatchings/w_048/func_154000_8017B810.s          |      105 |          9 |        |                                 |       |
 | us/st/sel/nonmatchings/3642C/func_801B76F0.s                 |      106 |          7 |        |                                 |       |
 | us/st/st0/nonmatchings/30030/func_801B101C.s                 |      106 |          7 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017B448.s           |      106 |         12 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/func_ptr_80170010.s             |      106 |         12 |        |                                 |       |
 | us/weapon/nonmatchings/w_021/func_97000_8017AF2C.s           |      108 |         16 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F2288.s                    |      109 |         12 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F5904.s                    |      110 |         11 |        | https://decomp.me/scratch/DP2LU | 0.708 |
 | us/dra/nonmatchings/5087C/func_800F2658.s                    |      111 |          5 |        |                                 |       |
 | us/st/sel/nonmatchings/38D24/func_801B99E4.s                 |      111 |          9 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017B650.s           |      111 |         10 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/func_ptr_80170004.s             |      111 |         10 |        |                                 |       |
 | us/st/cen/nonmatchings/D600/func_8018E238.s                  |      111 |         13 |        |                                 |       |
 | us/st/dre/nonmatchings/14774/func_80194AA0.s                 |      111 |         13 |        |                                 |       |
 | us/st/no3/nonmatchings/3E134/func_801BE870.s                 |      111 |         13 |        |                                 |       |
@@ -932,7 +932,7 @@
 | us/st/sel/nonmatchings/2D260/func_801B38B4.s                 |      116 |          8 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_801238CC.s                    |      116 |         11 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010DBFC.s                    |      118 |         14 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017BB74.s          |      118 |         14 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/func_ptr_80170008.s             |      118 |         14 |        |                                 |       |
 | us/st/mad/nonmatchings/D8C8/func_8018DF0C.s                  |      118 |         16 |        | https://decomp.me/scratch/Iz0E6 | 1.0   |
 | us/st/no3/nonmatchings/46684/EntityUnkId4B.s                 |      118 |         23 |        |                                 |       |
 | us/st/st0/nonmatchings/27D64/EntityLockCamera.s              |      119 |         13 |        | https://decomp.me/scratch/4kLOZ | 0.95  |
@@ -947,8 +947,8 @@
 | us/dra/nonmatchings/75F54/func_80118970.s                    |      122 |         19 |        | https://decomp.me/scratch/ekKxF | 0.231 |
 | us/dra/nonmatchings/692E8/func_8010A234.s                    |      122 |         21 |        | https://decomp.me/scratch/rdeqb | 0.919 |
 | us/st/sel/nonmatchings/2D260/func_801B2F50.s                 |      123 |          3 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017B6FC.s           |      124 |         17 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017B798.s           |      125 |         17 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/func_ptr_80170008.s             |      124 |         17 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/func_ptr_80170008.s             |      125 |         17 |        |                                 |       |
 | us/st/cen/nonmatchings/D600/EntityUnkId12.s                  |      125 |         18 |        |                                 |       |
 | us/st/mad/nonmatchings/139E0/func_801966B0.s                 |      125 |         18 |        |                                 |       |
 | us/st/mad/nonmatchings/D8C8/func_8018E674.s                  |      125 |         18 |        |                                 |       |
@@ -960,14 +960,14 @@
 | us/weapon/nonmatchings/w_037/func_107000_8017AEF0.s          |      126 |         12 |        |                                 |       |
 | us/weapon/nonmatchings/w_049/func_15B000_8017B88C.s          |      126 |         12 |        |                                 |       |
 | us/weapon/nonmatchings/w_050/func_162000_8017B87C.s          |      126 |         12 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_14D000_8017B470.s          |      126 |         13 |        |                                 |       |
+| us/weapon/nonmatchings/w_047/func_ptr_80170004.s             |      126 |         13 |        |                                 |       |
 | us/dra/nonmatchings/5D6C4/func_800FEEA4.s                    |      127 |         27 |        | https://decomp.me/scratch/quezY | 0.83  |
 | us/dra/nonmatchings/5298C/func_800F6DC8.s                    |      128 |         12 |        |                                 |       |
 | us/weapon/nonmatchings/w_037/func_107000_8017B0AC.s          |      128 |         12 |        |                                 |       |
 | us/weapon/nonmatchings/w_050/func_162000_8017BA38.s          |      128 |         12 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_801093C4.s                    |      128 |         13 |        |                                 |       |
 | us/st/no3/nonmatchings/3C4EC/EntityUnkId55.s                 |      128 |         14 |        | https://decomp.me/scratch/LYz6l | 0.995 |
-| us/weapon/nonmatchings/w_001/func_B000_8017C1FC.s            |      129 |         14 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/func_ptr_80170008.s             |      129 |         14 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_80157894.s                    |      129 |         26 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80199278.s                 |      132 |         17 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/func_8019F3BC.s                 |      132 |         17 |        | https://decomp.me/scratch/Hfk9n | 0.807 |
@@ -984,29 +984,29 @@
 | us/st/st0/nonmatchings/31CA0/func_801B51E4.s                 |      136 |         16 |        | https://decomp.me/scratch/ZBMcb | 0.998 |
 | us/st/mad/nonmatchings/139E0/func_801978A4.s                 |      137 |          9 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800EB314.s                    |      137 |         19 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017A9E4.s           |      139 |         14 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/EntityWeaponAttack.s            |      139 |         14 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/func_801A2848.s                 |      140 |          4 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012CCE4.s                    |      140 |         20 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017BFD8.s           |      141 |         11 |        |                                 |       |
+| us/weapon/nonmatchings/w_020/func_ptr_80170008.s             |      141 |         11 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E930C.s                    |      141 |         15 |        |                                 |       |
 | us/st/sel/nonmatchings/3642C/func_801B8518.s                 |      141 |         15 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80133290.s                    |      141 |         16 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_022/func_9E000_8017ABB4.s           |      141 |         21 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017C750.s           |      143 |         18 |        |                                 |       |
+| us/weapon/nonmatchings/w_022/EntityWeaponAttack.s            |      141 |         21 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/func_ptr_80170028.s             |      143 |         18 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80116208.s                    |      143 |         24 |        | https://decomp.me/scratch/Yzp2u | 0.976 |
 | us/dra/nonmatchings/5298C/func_800F84CC.s                    |      145 |         11 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012E7A4.s                    |      145 |         15 |        | https://decomp.me/scratch/SEI0w | 0.912 |
-| us/weapon/nonmatchings/w_002/func_12000_8017AF7C.s           |      145 |         15 |        |                                 |       |
+| us/weapon/nonmatchings/w_002/EntityWeaponAttack.s            |      145 |         15 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F14CC.s                    |      146 |         23 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012ED30.s                    |      146 |         25 |        |                                 |       |
-| us/weapon/nonmatchings/w_000/func_4000_8017B474.s            |      147 |         15 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_19000_8017AFE0.s           |      147 |         15 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_2E000_8017AFF4.s           |      147 |         15 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_F2000_8017ACF0.s           |      147 |         15 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_F9000_8017A8EC.s           |      147 |         15 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_100000_8017A8FC.s          |      147 |         15 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_193000_8017B454.s          |      147 |         15 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017B234.s           |      148 |         17 |        |                                 |       |
+| us/weapon/nonmatchings/w_000/EntityWeaponAttack.s            |      147 |         15 |        |                                 |       |
+| us/weapon/nonmatchings/w_003/EntityWeaponAttack.s            |      147 |         15 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/EntityWeaponAttack.s            |      147 |         15 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/EntityWeaponAttack.s            |      147 |         15 |        |                                 |       |
+| us/weapon/nonmatchings/w_035/EntityWeaponAttack.s            |      147 |         15 |        |                                 |       |
+| us/weapon/nonmatchings/w_036/EntityWeaponAttack.s            |      147 |         15 |        |                                 |       |
+| us/weapon/nonmatchings/w_057/EntityWeaponAttack.s            |      147 |         15 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/func_ptr_8017000C.s             |      148 |         17 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B3694.s                 |      150 |         25 |        | https://decomp.me/scratch/KHDQT | 0.964 |
 | us/st/mad/nonmatchings/EDB8/func_80192408.s                  |      151 |         20 |        |                                 |       |
 | us/st/st0/nonmatchings/31CA0/func_801B4FD4.s                 |      151 |         20 |        |                                 |       |
@@ -1016,63 +1016,63 @@
 | us/st/no3/nonmatchings/46684/func_801C9080.s                 |      152 |         19 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8019199C.s                 |      152 |         19 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/func_801B8108.s                 |      152 |         19 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017B2BC.s          |      152 |         19 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/func_ptr_80170008.s             |      152 |         19 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/func_801A2A58.s                 |      153 |          4 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010D800.s                    |      153 |         10 |        |                                 |       |
 | us/ric/nonmatchings/202A8/func_8015C4AC.s                    |      153 |         15 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800ECBF8.s                    |      155 |         23 |        | https://decomp.me/scratch/p2NB5 | 0.996 |
 | us/ric/nonmatchings/202A8/func_8015C6D4.s                    |      156 |         11 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_80110DF8.s                    |      156 |         28 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_004/func_20000_8017B6BC.s           |      157 |         17 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_6D000_8017BD34.s           |      158 |         16 |        |                                 |       |
+| us/weapon/nonmatchings/w_004/EntityWeaponAttack.s            |      157 |         17 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/func_ptr_80170014.s             |      158 |         16 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityUnkId2F.s                 |      158 |         20 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_801327B4.s                    |      159 |         12 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017AF10.s           |      159 |         22 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/func_ptr_80170004.s             |      159 |         22 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800FA3C4.s                    |      160 |         16 |        | https://decomp.me/scratch/8ZaEm | 0.843 |
 | us/dra/nonmatchings/692E8/func_80110BC8.s                    |      160 |         27 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/2C564/func_801ADB10.s                 |      162 |         12 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_10E000_8017B18C.s          |      163 |         18 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017B18C.s          |      163 |         18 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/EntityWeaponAttack.s            |      163 |         18 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/EntityWeaponAttack.s            |      163 |         18 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/func_801CE740.s                 |      164 |         19 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B920.s          |      164 |         21 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_EB000_8017AFF8.s           |      165 |         18 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/func_ptr_80170004.s             |      164 |         21 |        |                                 |       |
+| us/weapon/nonmatchings/w_033/EntityWeaponAttack.s            |      165 |         18 |        |                                 |       |
 | us/dra/nonmatchings/71830/func_80111DE8.s                    |      165 |         30 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017B2C8.s           |      166 |         26 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/func_ptr_80170004.s             |      166 |         26 |        |                                 |       |
 | us/st/st0/nonmatchings/31CA0/func_801B5BF0.s                 |      166 |         31 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_DD000_8017ACB8.s           |      167 |         19 |        |                                 |       |
+| us/weapon/nonmatchings/w_031/EntityWeaponAttack.s            |      167 |         19 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntitySmallUpwardsSplash.s      |      167 |         20 |        |                                 |       |
 | us/st/np3/nonmatchings/44DCC/func_801C5F58.s                 |      167 |         20 |        | https://decomp.me/scratch/dTX6T | 0.847 |
-| us/weapon/nonmatchings/w_005/func_27000_8017B6BC.s           |      168 |         17 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017B954.s           |      168 |         23 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_185000_8017B540.s          |      169 |         18 |        |                                 |       |
+| us/weapon/nonmatchings/w_005/EntityWeaponAttack.s            |      168 |         17 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/func_ptr_8017000C.s             |      168 |         23 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/EntityWeaponAttack.s            |      169 |         18 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010D59C.s                    |      169 |         19 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F1B08.s                    |      169 |         28 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012EAD0.s                    |      170 |         26 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012E550.s                    |      170 |         38 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017B040.s           |      171 |         18 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/EntityWeaponAttack.s            |      171 |         18 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018D990.s                 |      171 |         19 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017AB4C.s          |      172 |         21 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017ADC8.s          |      172 |         25 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/func_ptr_80170008.s             |      172 |         21 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/func_ptr_8017000C.s             |      172 |         25 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_80110968.s                    |      173 |         28 | Yes    |                                 |       |
 | us/ric/nonmatchings/22380/func_8015F414.s                    |      174 |         27 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_123000_8017AC08.s          |      175 |         19 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/EntityWeaponAttack.s            |      175 |         19 |        |                                 |       |
 | us/weapon/nonmatchings/w_041/func_123000_8017A994.s          |      175 |         23 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012EF2C.s                    |      175 |         34 | Yes    |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F0940.s                    |      176 |         13 | Yes    |                                 |       |
 | us/dra/nonmatchings/953A0/func_80135D8C.s                    |      176 |         16 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015F680.s                    |      177 |         28 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017AB64.s          |      178 |         19 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/EntityWeaponAttack.s            |      178 |         19 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_801112AC.s                    |      179 |         32 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_80133960.s                    |      182 |         21 | Yes    | https://decomp.me/scratch/7xexM | 0.045 |
-| us/weapon/nonmatchings/w_045/func_13F000_8017A8BC.s          |      182 |         30 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/func_ptr_80170004.s             |      182 |         30 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80169470.s                    |      183 |         20 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_8013136C.s                    |      183 |         23 | Yes    | https://decomp.me/scratch/cu30D | 0.97  |
 | us/st/sel/nonmatchings/2D260/func_801B55C8.s                 |      183 |         25 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017B51C.s          |      184 |         20 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/EntityWeaponAttack.s            |      184 |         20 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntitySmallWaterSplash.s        |      186 |         22 |        |                                 |       |
 | us/st/np3/nonmatchings/44DCC/func_801C61B4.s                 |      186 |         22 |        | https://decomp.me/scratch/CAUmI | 0.773 |
 | us/dra/nonmatchings/47BB8/DecompressData.s                   |      186 |         48 | Yes    | https://decomp.me/scratch/2ChLC | 0.908 |
-| us/weapon/nonmatchings/w_051/func_169000_8017B7BC.s          |      187 |         19 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/func_ptr_80170004.s             |      187 |         19 |        |                                 |       |
 | us/st/no3/nonmatchings/3E134/func_801BEA20.s                 |      187 |         20 |        |                                 |       |
 | us/st/nz0/nonmatchings/36DE4/func_801B79A8.s                 |      187 |         20 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801AE6D0.s                 |      188 |         15 |        |                                 |       |
@@ -1082,12 +1082,12 @@
 | us/dra/nonmatchings/47BB8/func_800E9880.s                    |      190 |         25 | Yes    |                                 |       |
 | us/st/dre/nonmatchings/14774/EntityFadeToWhite2.s            |      191 |         14 | Yes    | https://decomp.me/scratch/lsKDE | 0.999 |
 | us/dra/nonmatchings/692E8/func_80111018.s                    |      191 |         33 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017BFCC.s          |      192 |         25 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/func_ptr_80170008.s             |      192 |         25 |        |                                 |       |
 | us/st/dre/nonmatchings/14774/func_80194C50.s                 |      193 |         20 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_8015885C.s                    |      193 |         24 |        |                                 |       |
 | us/st/no3/nonmatchings/377D4/EntityUnkId1C.s                 |      194 |         23 |        | https://decomp.me/scratch/Y8O08 | 0.976 |
-| us/weapon/nonmatchings/w_042/func_12A000_8017B004.s          |      194 |         28 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017C458.s          |      195 |         24 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/func_ptr_80170004.s             |      194 |         28 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/func_ptr_80170010.s             |      195 |         24 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010D010.s                    |      196 |         33 |        | https://decomp.me/scratch/vyXQl | 0.79  |
 | us/st/rwrp/nonmatchings/8DF0/func_80189E9C.s                 |      196 |         33 | Yes    | https://decomp.me/scratch/4UdLD | 0.996 |
 | us/st/wrp/nonmatchings/6FD0/EntityWarpSmallRocks.s           |      196 |         33 | Yes    |                                 |       |
@@ -1102,24 +1102,24 @@
 | us/st/wrp/nonmatchings/D020/func_8018E01C.s                  |      198 |         26 |        |                                 |       |
 | us/st/cen/nonmatchings/D600/func_8018E3E8.s                  |      199 |         20 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011EDA8.s                    |      199 |         27 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017B010.s          |      199 |         30 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017BA48.s          |      200 |         21 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_E4000_8017ACC4.s           |      204 |         24 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_177000_8017B620.s          |      206 |         22 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_040/func_ptr_80170004.s             |      199 |         30 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/func_ptr_80170004.s             |      200 |         21 |        |                                 |       |
+| us/weapon/nonmatchings/w_032/EntityWeaponAttack.s            |      204 |         24 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/EntityWeaponAttack.s            |      206 |         22 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityPlayerPinkEffect.s           |      207 |         36 | Yes    |                                 |       |
 | us/ric/nonmatchings/1F348/func_8015B898.s                    |      210 |         37 |        | https://decomp.me/scratch/eIPhn | 0.546 |
 | us/st/mad/nonmatchings/D8C8/func_8018DC28.s                  |      212 |         29 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_801603C4.s                    |      213 |         29 |        | https://decomp.me/scratch/FE9wj | 0.982 |
 | us/dra/nonmatchings/71830/func_801119C4.s                    |      216 |         26 |        |                                 |       |
 | us/st/no3/nonmatchings/3C4EC/EntityForegroundTree.s          |      216 |         32 |        | https://decomp.me/scratch/jeTVE | 0.88  |
-| us/weapon/nonmatchings/w_041/func_123000_8017AE8C.s          |      217 |         27 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017C14C.s          |      217 |         28 |        |                                 |       |
+| us/weapon/nonmatchings/w_041/func_ptr_80170004.s             |      217 |         27 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_049/func_ptr_8017000C.s             |      217 |         28 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80119F70.s                    |      218 |         25 |        | https://decomp.me/scratch/e4Ov8 | 0.994 |
 | us/st/dre/nonmatchings/14774/EntityUnkId23.s                 |      218 |         30 | Yes    | https://decomp.me/scratch/L9HQt | 0.96  |
-| us/weapon/nonmatchings/w_015/func_6D000_8017BA04.s           |      220 |         24 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/func_ptr_80170010.s             |      220 |         24 |        |                                 |       |
 | us/st/st0/nonmatchings/2C564/func_801AF380.s                 |      221 |          4 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015E484.s                    |      221 |         24 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_82000_8017ABE4.s           |      222 |         34 |        |                                 |       |
+| us/weapon/nonmatchings/w_018/EntityWeaponAttack.s            |      222 |         34 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_801182F8.s                    |      222 |         37 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015FEA8.s                    |      223 |         25 |        |                                 |       |
 | us/st/cen/nonmatchings/1B274/func_8019BBA4.s                 |      224 |         17 |        |                                 |       |
@@ -1131,14 +1131,14 @@
 | us/st/st0/nonmatchings/36358/func_801BA7D8.s                 |      224 |         17 |        |                                 |       |
 | us/st/wrp/nonmatchings/D020/func_80192F40.s                  |      224 |         17 |        |                                 |       |
 | us/dra/nonmatchings/5298C/DrawRelicsMenu.s                   |      224 |         19 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_13F000_8017B038.s          |      224 |         26 |        |                                 |       |
+| us/weapon/nonmatchings/w_045/func_ptr_80170010.s             |      224 |         26 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_801177A0.s                    |      224 |         35 |        |                                 |       |
 | us/st/dre/nonmatchings/14774/EntityFadeToWhite1.s            |      225 |         21 | Yes    | https://decomp.me/scratch/Quf32 | 0.997 |
 | us/dra/nonmatchings/75F54/func_80132F60.s                    |      226 |         24 | Yes    |                                 |       |
 | us/dra/nonmatchings/692E8/func_8011151C.s                    |      227 |         52 |        |                                 |       |
 | us/weapon/nonmatchings/w_051/func_169000_8017B1DC.s          |      228 |         23 |        |                                 |       |
 | us/st/np3/nonmatchings/3246C/func_801B28E4.s                 |      228 |         34 |        | https://decomp.me/scratch/TDYvP | 0.913 |
-| us/weapon/nonmatchings/w_037/func_107000_8017B83C.s          |      230 |         32 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/func_ptr_80170008.s             |      230 |         32 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80195318.s                 |      231 |         32 |        |                                 |       |
 | us/st/dre/nonmatchings/173C4/func_8019B45C.s                 |      231 |         32 |        |                                 |       |
 | us/st/mad/nonmatchings/EDB8/func_80193050.s                  |      231 |         32 |        |                                 |       |
@@ -1147,13 +1147,13 @@
 | us/st/nz0/nonmatchings/39908/func_801BD9A0.s                 |      231 |         32 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E634.s                 |      231 |         32 |        |                                 |       |
 | us/st/wrp/nonmatchings/861C/func_8018C6B4.s                  |      231 |         32 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_35000_8017B2B8.s           |      231 |         32 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017B420.s          |      232 |         26 |        |                                 |       |
+| us/weapon/nonmatchings/w_007/func_ptr_80170004.s             |      231 |         32 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/EntityWeaponAttack.s            |      232 |         26 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/Entity3DBackgroundHouse.s       |      232 |         34 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_80156F40.s                    |      234 |         26 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityStopWatchExpandingCircle.s   |      235 |         20 |        |                                 |       |
 | us/ric/nonmatchings/21250/func_8015D678.s                    |      235 |         47 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017C428.s          |      236 |         25 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/func_ptr_8017000C.s             |      236 |         25 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80169F04.s                    |      237 |         27 |        |                                 |       |
 | us/st/no3/nonmatchings/377D4/EntityTransparentWater.s        |      237 |         28 |        |                                 |       |
 | us/st/np3/nonmatchings/3246C/func_801B39CC.s                 |      237 |         28 |        | https://decomp.me/scratch/86Cmm | 0.923 |
@@ -1161,9 +1161,9 @@
 | us/dra/nonmatchings/692E8/func_8010BFFC.s                    |      239 |         28 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012DBBC.s                    |      239 |         48 |        |                                 |       |
 | us/ric/nonmatchings/345EC/func_8017161C.s                    |      240 |         20 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_11C000_8017AC94.s          |      241 |         27 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_12A000_8017AC88.s          |      241 |         27 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017C87C.s           |      243 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_040/EntityWeaponAttack.s            |      241 |         27 |        |                                 |       |
+| us/weapon/nonmatchings/w_042/EntityWeaponAttack.s            |      241 |         27 |        |                                 |       |
+| us/weapon/nonmatchings/w_030/func_ptr_80170010.s             |      243 |         31 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B3A94.s                 |      244 |         38 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CF254.s                 |      244 |         44 | Yes    | https://decomp.me/scratch/EpZEL | 0.978 |
 | us/st/no3/nonmatchings/46684/EntitySidewaysWaterDroplets.s   |      245 |         23 |        |                                 |       |
@@ -1171,10 +1171,10 @@
 | us/dra/nonmatchings/62D70/func_80105078.s                    |      245 |         26 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801D1BB8.s                 |      247 |         31 |        | https://decomp.me/scratch/YEzLn | 0.998 |
 | us/dra/nonmatchings/5298C/func_800F7F64.s                    |      249 |         21 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017B4EC.s          |      249 |         29 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017AEA0.s           |      250 |         28 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/EntityWeaponAttack.s            |      249 |         29 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/func_ptr_80170008.s             |      250 |         28 |        |                                 |       |
 | us/st/mad/nonmatchings/D8C8/func_8018D8C8.s                  |      250 |         45 | Yes    | https://decomp.me/scratch/35BJG | 0.028 |
-| us/weapon/nonmatchings/w_015/func_6D000_8017AB84.s           |      251 |         34 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/EntityWeaponAttack.s            |      251 |         34 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B2108.s                 |      255 |         33 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800FA034.s                    |      255 |         39 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/3FF00/EntityWargExplosionPuffOpaque.s |      256 |         39 | Yes    | https://decomp.me/scratch/kt36I | 0.032 |
@@ -1192,73 +1192,73 @@
 | us/dra/nonmatchings/75F54/func_80121F58.s                    |      259 |         22 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80130618.s                    |      259 |         28 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_8016DF74.s                    |      259 |         29 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017B754.s           |      259 |         35 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/func_ptr_80170004.s             |      259 |         35 |        |                                 |       |
 | us/st/nz0/nonmatchings/43F9C/func_801C4198.s                 |      261 |         24 |        | https://decomp.me/scratch/7soIb | 0.819 |
 | us/dra/nonmatchings/62D70/func_80103ED4.s                    |      261 |         55 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CBF18.s                 |      263 |         23 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80130264.s                    |      264 |         30 | Yes    |                                 |       |
 | us/ric/nonmatchings/22380/func_80161FF0.s                    |      267 |         27 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityStrongWargWaveAttack.s    |      267 |         32 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017A9AC.s           |      269 |         25 |        |                                 |       |
+| us/weapon/nonmatchings/w_016/EntityWeaponAttack.s            |      269 |         25 |        |                                 |       |
 | us/st/mad/nonmatchings/D8C8/func_8018E1D4.s                  |      269 |         32 |        |                                 |       |
 | us/st/mad/nonmatchings/139E0/func_80198BC8.s                 |      270 |         22 |        |                                 |       |
 | us/weapon/nonmatchings/w_021/func_97000_8017AB54.s           |      270 |         22 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017BBF4.s          |      270 |         29 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/func_ptr_80170004.s             |      270 |         29 |        |                                 |       |
 | us/st/np3/nonmatchings/3246C/func_801B6084.s                 |      270 |         43 |        |                                 |       |
 | us/servant/tt_000/nonmatchings/10E8/func_80174210.s          |      273 |         42 |        | https://decomp.me/scratch/WEF2F | 0.985 |
-| us/weapon/nonmatchings/w_038/func_10E000_8017B3E8.s          |      274 |         29 |        |                                 |       |
+| us/weapon/nonmatchings/w_038/func_ptr_80170004.s             |      274 |         29 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800EB758.s                    |      275 |         24 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_80162870.s                    |      277 |         25 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017BF4C.s          |      277 |         29 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/func_ptr_80170008.s             |      277 |         29 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80133BDC.s                    |      278 |         33 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_80167EC4.s                    |      278 |         38 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_154000_8017B3F0.s          |      279 |         28 |        |                                 |       |
+| us/weapon/nonmatchings/w_048/EntityWeaponAttack.s            |      279 |         28 |        |                                 |       |
 | us/dra/nonmatchings/5298C/DrawSpellMenu.s                    |      279 |         35 |        | https://decomp.me/scratch/6Q2wF | 0.965 |
-| us/weapon/nonmatchings/w_055/func_185000_8017B7B0.s          |      280 |         26 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_15B000_8017BD2C.s          |      284 |         29 |        |                                 |       |
+| us/weapon/nonmatchings/w_055/func_ptr_80170004.s             |      280 |         26 |        |                                 |       |
+| us/weapon/nonmatchings/w_049/func_ptr_80170008.s             |      284 |         29 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityUnkId31.s                 |      284 |         46 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017C790.s          |      288 |         34 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/func_ptr_80170010.s             |      288 |         34 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E7E08.s                    |      288 |         57 | Yes    | https://decomp.me/scratch/g2A7S | 0.974 |
 | us/st/no3/nonmatchings/46684/EntityLargeWaterSplash.s        |      289 |         28 |        |                                 |       |
 | us/st/np3/nonmatchings/44DCC/func_801C7954.s                 |      289 |         28 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80123B40.s                    |      292 |         22 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHolyWaterBreakGlass.s        |      293 |         26 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_162000_8017BFDC.s          |      294 |         29 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_89000_8017A8F4.s           |      296 |         27 |        |                                 |       |
+| us/weapon/nonmatchings/w_050/func_ptr_80170008.s             |      294 |         29 |        |                                 |       |
+| us/weapon/nonmatchings/w_019/EntityWeaponAttack.s            |      296 |         27 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityExplosion3.s              |      296 |         31 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017AEEC.s           |      296 |         31 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017AEEC.s           |      296 |         31 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017B07C.s           |      296 |         31 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017AF3C.s           |      296 |         31 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017B1F8.s           |      296 |         31 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017AF94.s           |      296 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_008/EntityWeaponAttack.s            |      296 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_009/EntityWeaponAttack.s            |      296 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_011/EntityWeaponAttack.s            |      296 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_026/EntityWeaponAttack.s            |      296 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_027/EntityWeaponAttack.s            |      296 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_028/EntityWeaponAttack.s            |      296 |         31 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_80167A70.s                    |      297 |         26 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017AF7C.s           |      297 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_025/EntityWeaponAttack.s            |      297 |         31 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_8016D4D8.s                    |      297 |         35 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_8016902C.s                    |      298 |         31 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/377D4/EntityBackgroundBushes.s        |      300 |         31 |        |                                 |       |
 | us/st/np3/nonmatchings/3246C/func_801B32A8.s                 |      300 |         31 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017AFF0.s          |      300 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_058/EntityWeaponAttack.s            |      300 |         31 | Yes    |                                 |       |
 | us/dra/nonmatchings/627C4/func_801028AC.s                    |      301 |         43 | Yes    |                                 |       |
 | us/st/dre/nonmatchings/14774/EntityUnkId21.s                 |      302 |         46 | Yes    | https://decomp.me/scratch/ShQ8J | 0.963 |
-| us/weapon/nonmatchings/w_034/func_F2000_8017AF0C.s           |      311 |         37 |        |                                 |       |
+| us/weapon/nonmatchings/w_034/func_ptr_80170004.s             |      311 |         37 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySummonSpirit.s               |      312 |         34 |        |                                 |       |
 | us/st/nz0/nonmatchings/30958/func_801B0AA4.s                 |      312 |         43 |        | https://decomp.me/scratch/E9P7N | 0.974 |
-| us/weapon/nonmatchings/w_006/func_2E000_8017B210.s           |      314 |         35 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017C3FC.s           |      314 |         40 |        |                                 |       |
+| us/weapon/nonmatchings/w_006/func_ptr_80170004.s             |      314 |         35 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_030/func_ptr_8017000C.s             |      314 |         40 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnCrashCross.s           |      316 |         32 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityClockTower3D.s            |      320 |         23 |        |                                 |       |
 | us/dra/nonmatchings/62D70/func_801042C4.s                    |      325 |         24 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityStrongWargDeathBeams.s    |      325 |         33 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017B164.s           |      325 |         35 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_010/EntityWeaponAttack.s            |      325 |         35 | Yes    |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_80194924.s                 |      327 |         38 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnThrownVibhuti.s        |      327 |         41 |        |                                 |       |
 | us/st/no3/nonmatchings/377D4/EntityUnkId5C.s                 |      329 |         36 | Yes    | https://decomp.me/scratch/O9Bsq | 0.988 |
 | us/st/np3/nonmatchings/3246C/func_801B5790.s                 |      329 |         36 | Yes    |                                 |       |
 | us/ric/nonmatchings/22380/func_80160FC4.s                    |      331 |         35 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017B120.s           |      331 |         36 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_023/EntityWeaponAttack.s            |      331 |         36 | Yes    |                                 |       |
 | us/ric/nonmatchings/22380/func_80160788.s                    |      334 |         38 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_023/func_A5000_8017C274.s           |      334 |         38 |        |                                 |       |
+| us/weapon/nonmatchings/w_023/func_ptr_80170024.s             |      334 |         38 |        |                                 |       |
 | us/dra/nonmatchings/gameover/func_800E5D30.s                 |      335 |         31 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityAlucardSplash.s           |      340 |         34 |        |                                 |       |
 | us/st/np3/nonmatchings/44DCC/func_801C56D8.s                 |      340 |         34 |        |                                 |       |
@@ -1269,16 +1269,16 @@
 | us/dra/nonmatchings/953A0/func_8013572C.s                    |      346 |         52 |        |                                 |       |
 | us/st/no3/nonmatchings/377D4/EntityCastleDoor.s              |      347 |         39 | Yes    | https://decomp.me/scratch/UUcFd | 0.997 |
 | us/dra/nonmatchings/75F54/func_80130E94.s                    |      349 |         46 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017B168.s           |      351 |         33 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_029/EntityWeaponAttack.s            |      351 |         33 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_8016C1BC.s                    |      352 |         42 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017BCCC.s            |      355 |         34 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_131000_8017B3FC.s          |      357 |         43 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/func_ptr_80170004.s             |      355 |         34 |        |                                 |       |
+| us/weapon/nonmatchings/w_043/EntityWeaponAttack.s            |      357 |         43 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B3164.s                 |      359 |         63 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_80169704.s                    |      360 |         47 | Yes    |                                 |       |
 | us/st/nz0/nonmatchings/33FCC/EntityCloseBossRoom.s           |      363 |         55 |        | https://decomp.me/scratch/S8jX0 | 0.95  |
 | us/ric/nonmatchings/26C84/func_8016C734.s                    |      364 |         42 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017B180.s           |      365 |         37 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017B484.s           |      365 |         44 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/EntityWeaponAttack.s            |      365 |         37 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_012/func_ptr_80170004.s             |      365 |         44 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_801590A0.s                    |      367 |         69 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012E040.s                    |      367 |         76 |        |                                 |       |
 | us/st/nz0/nonmatchings/36DE4/func_801B8F94.s                 |      368 |         75 | Yes    |                                 |       |
@@ -1287,7 +1287,7 @@
 | us/ric/nonmatchings/1AC60/func_80159670.s                    |      373 |         67 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnBible.s                |      374 |         41 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011AC3C.s                    |      374 |         41 | Yes    | https://decomp.me/scratch/a0BYk | 0.976 |
-| us/weapon/nonmatchings/w_027/func_C1000_8017B638.s           |      377 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_027/func_ptr_80170020.s             |      377 |         31 | Yes    |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityUnkId0E.s                 |      378 |         38 | Yes    | https://decomp.me/scratch/e41HZ | 0.927 |
 | us/st/dre/nonmatchings/1C7DC/EntityUnkId0E.s                 |      378 |         38 | Yes    | https://decomp.me/scratch/e41HZ | 0.927 |
 | us/st/no3/nonmatchings/46684/EntityUnkId0E.s                 |      378 |         38 | Yes    | https://decomp.me/scratch/e41HZ | 0.927 |
@@ -1309,42 +1309,42 @@
 | us/st/rwrp/nonmatchings/A59C/func_8019276C.s                 |      389 |         11 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/func_801B8ED8.s                 |      389 |         11 |        |                                 |       |
 | us/st/wrp/nonmatchings/D020/func_801907EC.s                  |      389 |         11 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B400.s          |      389 |         48 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/EntityWeaponAttack.s            |      389 |         48 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80128C2C.s                    |      389 |         49 | Yes    | https://decomp.me/scratch/39AEo | 0.905 |
-| us/weapon/nonmatchings/w_053/func_177000_8017C28C.s          |      394 |         42 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/func_ptr_8017000C.s             |      394 |         42 |        |                                 |       |
 | us/dra/nonmatchings/73AAC/func_80114DF4.s                    |      394 |         70 |        | https://decomp.me/scratch/r2YWw | 0.987 |
-| us/weapon/nonmatchings/w_048/func_154000_8017B980.s          |      398 |         33 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017C5D4.s           |      402 |         34 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_115000_8017B3E8.s          |      403 |         40 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017B050.s          |      405 |         46 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_048/func_ptr_80170004.s             |      398 |         33 |        |                                 |       |
+| us/weapon/nonmatchings/w_024/func_ptr_80170024.s             |      402 |         34 |        |                                 |       |
+| us/weapon/nonmatchings/w_039/func_ptr_80170004.s             |      403 |         40 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/EntityWeaponAttack.s            |      405 |         46 | Yes    |                                 |       |
 | us/st/mad/nonmatchings/139E0/EntityEquipItemDrop.s           |      405 |         52 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityEquipItemDrop.s           |      405 |         52 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_8016D9C4.s                    |      405 |         58 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_054/func_17E000_8017B2AC.s          |      407 |         51 |        |                                 |       |
+| us/weapon/nonmatchings/w_054/EntityWeaponAttack.s            |      407 |         51 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015EE28.s                    |      407 |         53 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_801572A8.s                    |      408 |         46 |        |                                 |       |
 | us/st/st0/nonmatchings/30030/func_801B1298.s                 |      409 |         51 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_107000_8017B268.s          |      410 |         48 |        |                                 |       |
+| us/weapon/nonmatchings/w_037/func_ptr_80170004.s             |      410 |         48 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityEquipItemDrop.s           |      412 |         57 | Yes    |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018F9B4.s                 |      412 |         57 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017C318.s           |      413 |         31 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017C568.s          |      413 |         47 |        |                                 |       |
+| us/weapon/nonmatchings/w_028/func_ptr_80170024.s             |      413 |         31 |        |                                 |       |
+| us/weapon/nonmatchings/w_052/func_ptr_80170004.s             |      413 |         47 |        |                                 |       |
 | us/st/no3/nonmatchings/377D4/func_801BB548.s                 |      414 |         18 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80168A20.s                    |      417 |         41 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_169000_8017BA64.s          |      417 |         44 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_58000_8017AE6C.s           |      420 |         36 |        |                                 |       |
+| us/weapon/nonmatchings/w_051/func_ptr_80170008.s             |      417 |         44 |        |                                 |       |
+| us/weapon/nonmatchings/w_012/EntityWeaponAttack.s            |      420 |         36 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010C9F4.s                    |      420 |         56 |        | https://decomp.me/scratch/YUGd9 | 0.628 |
 | us/dra/nonmatchings/75F54/func_80126ECC.s                    |      421 |         48 | Yes    | https://decomp.me/scratch/qh54q | 0.207 |
 | us/st/no3/nonmatchings/377D4/EntityBackgroundLightning.s     |      421 |         63 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_8015A9B0.s                    |      426 |         57 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015E800.s                    |      428 |         55 |        |                                 |       |
 | us/ric/nonmatchings/345EC/func_8017091C.s                    |      430 |         32 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017B808.s           |      436 |         32 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_029/func_ptr_80170020.s             |      436 |         32 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011B5A4.s                    |      436 |         53 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017AAC4.s           |      447 |         52 |        |                                 |       |
+| us/weapon/nonmatchings/w_013/EntityWeaponAttack.s            |      447 |         52 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/StoreSaveData.s                    |      453 |         34 |        |                                 |       |
 | us/st/sel/nonmatchings/38D24/StoreSaveData.s                 |      453 |         34 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017B004.s          |      454 |         49 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/EntityWeaponAttack.s            |      454 |         49 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010C36C.s                    |      456 |         61 |        | https://decomp.me/scratch/BmEKN | 0.752 |
 | us/st/cen/nonmatchings/11280/func_80199A30.s                 |      461 |          9 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/func_8019FB74.s                 |      461 |          9 |        |                                 |       |
@@ -1356,8 +1356,8 @@
 | us/st/st0/nonmatchings/36358/func_801B94B8.s                 |      461 |          9 |        |                                 |       |
 | us/st/wrp/nonmatchings/D020/func_80190DCC.s                  |      461 |          9 |        |                                 |       |
 | us/ric/nonmatchings/345EC/func_80170F64.s                    |      462 |         44 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_021/func_97000_8017B0A8.s           |      463 |         61 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017C20C.s           |      465 |         50 |        |                                 |       |
+| us/weapon/nonmatchings/w_021/EntityWeaponAttack.s            |      463 |         61 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_025/func_ptr_80170024.s             |      465 |         50 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityNumericDamage.s           |      467 |         47 |        | https://decomp.me/scratch/VJ7S3 | 0.998 |
 | us/st/dre/nonmatchings/173C4/EntityNumericDamage.s           |      467 |         47 |        | https://decomp.me/scratch/VJ7S3 | 0.998 |
 | us/st/mad/nonmatchings/EDB8/EntityNumericDamage.s            |      467 |         47 |        | https://decomp.me/scratch/VJ7S3 | 0.998 |
@@ -1367,10 +1367,10 @@
 | us/st/rwrp/nonmatchings/A59C/func_8018B6B4.s                 |      467 |         47 |        |                                 |       |
 | us/st/st0/nonmatchings/31CA0/EntityNumericDamage.s           |      467 |         47 |        | https://decomp.me/scratch/VJ7S3 | 0.998 |
 | us/st/wrp/nonmatchings/861C/EntityNumericDamage.s            |      467 |         47 |        | https://decomp.me/scratch/VJ7S3 | 0.998 |
-| us/weapon/nonmatchings/w_053/func_177000_8017B914.s          |      467 |         55 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_18C000_8017B998.s          |      467 |         55 |        |                                 |       |
+| us/weapon/nonmatchings/w_053/func_ptr_80170004.s             |      467 |         55 |        |                                 |       |
+| us/weapon/nonmatchings/w_056/func_ptr_80170004.s             |      467 |         55 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012F178.s                    |      468 |         35 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_19A000_8017B440.s          |      468 |         41 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_058/func_ptr_80170020.s             |      468 |         41 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHitByLightning.s             |      469 |         56 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_801291C4.s                    |      470 |         62 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityBoneScimitar.s            |      473 |         85 | Yes    | https://decomp.me/scratch/vCrgr | 0.98  |
@@ -1381,11 +1381,11 @@
 | us/ric/nonmatchings/26C84/func_8016A26C.s                    |      483 |         52 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityBatEcho.s                    |      484 |         44 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_801656B0.s                    |      486 |         57 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_5F000_8017B240.s           |      490 |         52 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_013/func_ptr_80170008.s             |      490 |         52 | Yes    |                                 |       |
 | us/st/mad/nonmatchings/139E0/func_80197B94.s                 |      491 |         44 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801ADF94.s                 |      493 |         63 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80166060.s                    |      494 |         62 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_011/func_51000_8017C0B4.s           |      494 |         65 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_011/func_ptr_80170024.s             |      494 |         65 | Yes    |                                 |       |
 | us/dra/nonmatchings/62D70/func_80106A28.s                    |      496 |         37 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_8016A974.s                    |      498 |         50 |        |                                 |       |
 | us/st/sel/nonmatchings/3642C/func_801B79D4.s                 |      499 |         61 |        |                                 |       |
@@ -1394,7 +1394,7 @@
 | us/servant/tt_000/nonmatchings/10E8/func_80172C30.s          |      507 |         58 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHitByIce.s                   |      513 |         59 |        |                                 |       |
 | us/st/no3/nonmatchings/3C4EC/EntityUnkId54.s                 |      514 |         58 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_74000_8017B5C4.s           |      515 |         65 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_016/func_ptr_80170014.s             |      515 |         65 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnThrownDagger.s         |      518 |         47 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityClouds.s                  |      520 |         37 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800FB23C.s                    |      522 |         80 |        |                                 |       |
@@ -1403,8 +1403,8 @@
 | us/ric/nonmatchings/32324/func_8016E9E4.s                    |      529 |         50 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityGuardText.s                  |      534 |         46 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/38D24/func_801B9C80.s                 |      534 |         97 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_146000_8017B698.s          |      538 |         57 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017C41C.s           |      540 |         50 |        |                                 |       |
+| us/weapon/nonmatchings/w_046/func_ptr_80170004.s             |      538 |         57 |        |                                 |       |
+| us/weapon/nonmatchings/w_026/func_ptr_80170024.s             |      540 |         50 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8016147C.s                    |      541 |         72 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_8016B0C0.s                    |      551 |         47 |        | https://decomp.me/scratch/qnmFZ | 0.835 |
 | us/dra/nonmatchings/692E8/func_80109A44.s                    |      553 |         70 |        |                                 |       |
@@ -1416,7 +1416,7 @@
 | us/servant/tt_000/nonmatchings/10E8/func_801733D4.s          |      562 |         39 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnReboundStone.s         |      569 |        121 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80129864.s                    |      575 |         75 |        | https://decomp.me/scratch/Lxthx | 0.93  |
-| us/weapon/nonmatchings/w_015/func_6D000_8017B17C.s           |      583 |         65 |        |                                 |       |
+| us/weapon/nonmatchings/w_015/func_ptr_8017000C.s             |      583 |         65 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityPrizeDrop.s               |      586 |         95 | Yes    | https://decomp.me/scratch/iKaWg | 1.0   |
 | us/st/dre/nonmatchings/173C4/EntityPrizeDrop.s               |      586 |         95 | Yes    | https://decomp.me/scratch/iKaWg | 1.0   |
 | us/st/rwrp/nonmatchings/A59C/func_8018EFA0.s                 |      586 |         95 | Yes    |                                 |       |
@@ -1429,23 +1429,23 @@
 | us/ric/nonmatchings/26C84/func_80164DF8.s                    |      599 |         72 |        |                                 |       |
 | us/ric/nonmatchings/345EC/func_8017328C.s                    |      600 |         46 |        |                                 |       |
 | us/dra/nonmatchings/62D70/func_80104790.s                    |      603 |         50 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_4A000_8017C2E0.s           |      613 |         52 |        |                                 |       |
-| us/weapon/nonmatchings/w_001/func_B000_8017B3B4.s            |      615 |         73 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_010/func_ptr_80170024.s             |      613 |         52 |        |                                 |       |
+| us/weapon/nonmatchings/w_001/EntityWeaponAttack.s            |      615 |         73 | Yes    |                                 |       |
 | us/dra/nonmatchings/47BB8/RenderTilemap.s                    |      620 |         45 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_7B000_8017A74C.s           |      622 |         56 |        |                                 |       |
+| us/weapon/nonmatchings/w_017/EntityWeaponAttack.s            |      622 |         56 |        |                                 |       |
 | us/st/st0/nonmatchings/2B0C8/func_801ABBBC.s                 |      622 |         78 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011E4BC.s                    |      625 |         79 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_044/func_138000_8017A580.s          |      628 |         57 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_044/EntityWeaponAttack.s            |      628 |         57 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityLargeUpwardsSplash.s      |      634 |         82 |        |                                 |       |
 | us/st/np3/nonmatchings/44DCC/func_801C4DCC.s                 |      634 |         82 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityBackgroundVortex.s        |      640 |         76 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_66000_8017A95C.s           |      651 |         80 |        |                                 |       |
+| us/weapon/nonmatchings/w_014/EntityWeaponAttack.s            |      651 |         80 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80164444.s                    |      660 |         62 |        |                                 |       |
 | us/st/no3/nonmatchings/3FF00/EntityUnkId5A.s                 |      665 |        123 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2C048/func_801AC174.s                 |      679 |         55 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_C1000_8017BBBC.s           |      693 |         84 |        |                                 |       |
+| us/weapon/nonmatchings/w_027/func_ptr_80170024.s             |      693 |         84 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012F894.s                    |      697 |         98 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_029/func_CF000_8017BE78.s           |      700 |         67 |        |                                 |       |
+| us/weapon/nonmatchings/w_029/func_ptr_80170024.s             |      700 |         67 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityTransparentWhiteCircle.s     |      704 |         71 |        |                                 |       |
 | us/dra/nonmatchings/5D6C4/func_80101A80.s                    |      710 |         66 |        | https://decomp.me/scratch/4oDuU | 0.99  |
 | us/st/sel/nonmatchings/2D260/TestCollisions.s                |      710 |         96 | Yes    | https://decomp.me/scratch/Lnt7z | 0.741 |
@@ -1461,19 +1461,19 @@
 | us/servant/tt_000/nonmatchings/10E8/func_80172120.s          |      759 |        111 | Yes    |                                 |       |
 | us/dra/nonmatchings/71830/func_801120B4.s                    |      761 |        136 | Yes    |                                 |       |
 | us/st/wrp/nonmatchings/6FD0/EntityWarpRoom.s                 |      779 |         72 | Yes    | https://decomp.me/scratch/aitte | 0.988 |
-| us/weapon/nonmatchings/w_047/func_14D000_8017A908.s          |      779 |         84 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_047/EntityWeaponAttack.s            |      779 |         84 | Yes    |                                 |       |
 | us/st/mad/nonmatchings/139E0/EntityRelicOrb.s                |      786 |         68 | Yes    | https://decomp.me/scratch/EdnoJ | 0.978 |
-| us/weapon/nonmatchings/w_010/func_4A000_8017B724.s           |      793 |         69 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_010/func_ptr_80170020.s             |      793 |         69 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityPlayerDissolves.s            |      798 |         63 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityAlucardWaterEffect.s      |      802 |        123 |        |                                 |       |
 | us/st/np3/nonmatchings/3DEF4/func_801C424C.s                 |      802 |        123 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/EntityHammer.s                  |      807 |        155 | Yes    | https://decomp.me/scratch/4CKDb | 0.904 |
-| us/weapon/nonmatchings/w_011/func_51000_8017B4BC.s           |      816 |         64 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_011/func_ptr_80170020.s             |      816 |         64 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/30030/func_801B0464.s                 |      817 |         90 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_008/func_3C000_8017B32C.s           |      819 |         61 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_008/func_ptr_80170020.s             |      819 |         61 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityMerman.s                  |      822 |        166 | Yes    | https://decomp.me/scratch/NZt5p | 0.997 |
-| us/weapon/nonmatchings/w_030/func_D6000_8017ABE0.s           |      830 |         75 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_030/func_D6000_8017B7EC.s           |      830 |         94 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_030/func_ptr_80170004.s             |      830 |         75 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_030/func_ptr_80170008.s             |      830 |         94 | Yes    |                                 |       |
 | us/ric/nonmatchings/1AC60/UpdateEntityRichter.s              |      842 |        155 | Yes    | https://decomp.me/scratch/ct7K5 | 0.753 |
 | us/st/mad/nonmatchings/EDB8/EntityRedDoor.s                  |      847 |        105 | Yes    | https://decomp.me/scratch/xOS2r | 0.97  |
 | us/dra/nonmatchings/62D70/func_80103238.s                    |      849 |        141 |        |                                 |       |
@@ -1492,13 +1492,13 @@
 | us/st/rwrp/nonmatchings/A59C/func_8018C948.s                 |      856 |        107 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/31CA0/EntityRedDoor.s                 |      856 |        107 | Yes    | https://decomp.me/scratch/xOS2r | 0.97  |
 | us/st/wrp/nonmatchings/861C/EntityRedDoor.s                  |      856 |        107 | Yes    | https://decomp.me/scratch/xOS2r | 0.97  |
-| us/weapon/nonmatchings/w_023/func_A5000_8017B5E0.s           |      857 |         70 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_023/func_ptr_80170020.s             |      857 |         70 | Yes    |                                 |       |
 | us/st/rwrp/nonmatchings/8DF0/func_801891C0.s                 |      868 |         81 | Yes    |                                 |       |
 | us/dra/nonmatchings/5D6C4/func_80100B50.s                    |      886 |         99 |        | https://decomp.me/scratch/gGwVm | 0.844 |
 | us/dra/nonmatchings/75F54/func_80116B0C.s                    |      886 |        178 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/3642C/func_801B69F8.s                 |      893 |         96 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityCutscenePhotograph.s      |      905 |         68 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_009/func_43000_8017B32C.s           |      916 |         68 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_009/func_ptr_80170020.s             |      916 |         68 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityWarg.s                    |      930 |        168 | Yes    |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010EDB8.s                    |      933 |        157 | Yes    | https://decomp.me/scratch/G7vpg | 0.501 |
 | us/dra/nonmatchings/73AAC/AlucardHandleDamage.s              |      938 |        168 | Yes    | https://decomp.me/scratch/eKFtd | 0.796 |
@@ -1506,16 +1506,16 @@
 | us/st/st0/nonmatchings/31CA0/TestCollisions.s                |      954 |        133 |        | https://decomp.me/scratch/Lnt7z | 0.741 |
 | us/ric/nonmatchings/32324/func_8016F6F0.s                    |      957 |         56 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4B018/EntityGurkha.s                  |      963 |        184 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_028/func_C8000_8017B4D8.s           |      965 |         73 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_025/func_B3000_8017B3C0.s           |      973 |         75 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_028/func_ptr_80170020.s             |      965 |         73 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_025/func_ptr_80170020.s             |      973 |         75 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801D0D40.s                 |     1002 |        202 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_024/func_AC000_8017B6CC.s           |     1016 |         70 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_024/func_ptr_80170020.s             |     1016 |         70 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityStopWatch.s                  |     1028 |         98 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_052/func_170000_8017B62C.s          |     1044 |         87 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_026/func_BA000_8017B484.s           |     1053 |         79 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_052/func_ptr_80170020.s             |     1044 |         87 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_026/func_ptr_80170020.s             |     1053 |         79 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CB018.s                 |     1058 |        214 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/28BF8/EntityDialogue.s                |     1106 |        128 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_020/func_90000_8017AF68.s           |     1109 |         91 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_020/EntityWeaponAttack.s            |     1109 |         91 | Yes    |                                 |       |
 | us/dra/nonmatchings/47BB8/RenderEntities.s                   |     1116 |         86 |        |                                 |       |
 | us/st/no3/nonmatchings/3E134/EntityRoomTransition1.s         |     1127 |        131 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_80166784.s                    |     1132 |        146 | Yes    |                                 |       |

@@ -15,18 +15,18 @@
 <ellipse fill="red" stroke="black" cx="157.29" cy="-18" rx="157.07" ry="18"/>
 <text text-anchor="middle" x="157.29" y="-14.3" font-family="Times,serif" font-size="14.00">w_049.func_15B000_8017B88C</text>
 </g>
-<!-- w_049.func_15B000_8017C14C -->
+<!-- w_049.func_ptr_8017000C -->
 <g id="node2" class="node">
-<title>w_049.func_15B000_8017C14C</title>
-<g id="a_node2"><a xlink:href="w_049.func_15B000_8017C14C.svg" xlink:title="w_049.func_15B000_8017C14C">
-<ellipse fill="red" stroke="black" cx="157.29" cy="-105" rx="157.07" ry="18"/>
-<text text-anchor="middle" x="157.29" y="-101.3" font-family="Times,serif" font-size="14.00">w_049.func_15B000_8017C14C</text>
+<title>w_049.func_ptr_8017000C</title>
+<g id="a_node2"><a xlink:href="w_049.func_ptr_8017000C.svg" xlink:title="w_049.func_ptr_8017000C">
+<ellipse fill="red" stroke="black" cx="157.29" cy="-105" rx="133.78" ry="18"/>
+<text text-anchor="middle" x="157.29" y="-101.3" font-family="Times,serif" font-size="14.00">w_049.func_ptr_8017000C</text>
 </a>
 </g>
 </g>
-<!-- w_049.func_15B000_8017C14C&#45;&gt;w_049.func_15B000_8017B88C -->
+<!-- w_049.func_ptr_8017000C&#45;&gt;w_049.func_15B000_8017B88C -->
 <g id="edge1" class="edge">
-<title>w_049.func_15B000_8017C14C&#45;&gt;w_049.func_15B000_8017B88C</title>
+<title>w_049.func_ptr_8017000C&#45;&gt;w_049.func_15B000_8017B88C</title>
 <path fill="none" stroke="black" d="M157.29,-86.8C157.29,-75.16 157.29,-59.55 157.29,-46.24"/>
 <polygon fill="black" stroke="black" points="160.79,-46.18 157.29,-36.18 153.79,-46.18 160.79,-46.18"/>
 <text text-anchor="middle" x="162.29" y="-57.8" font-family="Times,serif" font-size="14.00">1</text>
