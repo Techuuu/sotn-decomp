@@ -547,7 +547,7 @@
 <g id="node35" class="node">
 <title>w_000.SetWeaponProperties</title>
 <g id="a_node35"><a xlink:href="w_000.SetWeaponProperties.svg" xlink:title="w_000.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="9061.29" cy="-192" rx="144.07" ry="18"/>
+<ellipse fill="green" stroke="black" cx="9061.29" cy="-192" rx="144.07" ry="18"/>
 <text text-anchor="middle" x="9061.29" y="-188.3" font-family="Times,serif" font-size="14.00">w_000.SetWeaponProperties</text>
 </a>
 </g>
