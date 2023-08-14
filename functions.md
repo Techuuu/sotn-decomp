@@ -977,7 +977,7 @@
 | us/dra/nonmatchings/5298C/func_800FA60C.s                    |      133 |         17 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_8015A7D0.s                    |      134 |         21 |        | https://decomp.me/scratch/1JWA0 | 0.872 |
 | us/st/np3/nonmatchings/4B018/func_801CE4CC.s                 |      134 |         26 |        |                                 |       |
-| us/st/np3/nonmatchings/4B018/func_801D0B78.s                 |      134 |         34 |        |                                 |       |
+| us/st/np3/nonmatchings/4B018/func_801D0B78.s                 |      134 |         34 |        | https://decomp.me/scratch/EhmyW | 0.996 |
 | us/st/rwrp/nonmatchings/A59C/func_8019373C.s                 |      135 |         20 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_801104D0.s                    |      135 |         28 |        |                                 |       |
 | us/dra/nonmatchings/953A0/func_80136010.s                    |      136 |         14 |        |                                 |       |
@@ -1267,7 +1267,6 @@
 | us/dra/nonmatchings/75F54/EntityHolyWaterFlame.s             |      344 |         30 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_801309B4.s                    |      346 |         51 | Yes    |                                 |       |
 | us/dra/nonmatchings/953A0/func_8013572C.s                    |      346 |         52 |        |                                 |       |
-| us/st/no3/nonmatchings/377D4/EntityCastleDoor.s              |      347 |         39 | Yes    | https://decomp.me/scratch/UUcFd | 0.997 |
 | us/dra/nonmatchings/75F54/func_80130E94.s                    |      349 |         46 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_029/EntityWeaponAttack.s            |      351 |         33 | Yes    |                                 |       |
 | us/ric/nonmatchings/26C84/func_8016C1BC.s                    |      352 |         42 |        |                                 |       |

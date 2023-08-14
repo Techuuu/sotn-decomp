@@ -12,7 +12,7 @@
 <!-- no3.EntityCastleDoor -->
 <g id="node1" class="node">
 <title>no3.EntityCastleDoor</title>
-<ellipse fill="red" stroke="black" cx="1434.09" cy="-105" rx="111.28" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1434.09" cy="-105" rx="111.28" ry="18"/>
 <text text-anchor="middle" x="1434.09" y="-101.3" font-family="Times,serif" font-size="14.00">no3.EntityCastleDoor</text>
 </g>
 <!-- no3.InitializeEntity -->
