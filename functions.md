@@ -1431,7 +1431,6 @@
 | us/dra/nonmatchings/75F54/func_8012F894.s                    |      697 |         98 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_029/func_ptr_80170024.s             |      700 |         67 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityTransparentWhiteCircle.s     |      704 |         71 |        |                                 |       |
-| us/dra/nonmatchings/5D6C4/func_80101A80.s                    |      710 |         66 |        | https://decomp.me/scratch/4oDuU | 0.99  |
 | us/st/sel/nonmatchings/2D260/TestCollisions.s                |      710 |         96 | Yes    | https://decomp.me/scratch/Lnt7z | 0.741 |
 | us/st/st0/nonmatchings/36358/func_801BC5C0.s                 |      744 |         59 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityRelicOrb.s                |      749 |         68 | Yes    | https://decomp.me/scratch/EdnoJ | 0.978 |
