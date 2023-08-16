@@ -1,63 +1,5 @@
 | Filename                                                     |   Length |   Branches | Jtbl   | WIP                             | %     |
 |--------------------------------------------------------------|----------|------------|--------|---------------------------------|-------|
-| us/weapon/nonmatchings/w_001/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_002/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_003/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_004/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_005/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_006/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_007/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_008/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_009/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_010/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_011/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_012/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_013/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_014/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_016/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_017/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_018/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_019/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_020/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_021/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_022/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_023/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_024/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_025/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_026/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_027/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_028/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_029/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_030/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_031/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_032/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_033/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_034/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_035/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_036/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_037/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_038/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_039/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_040/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_041/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_042/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_043/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_044/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_045/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_046/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_047/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_048/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_049/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_050/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_051/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_052/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_053/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_054/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_055/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_056/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_057/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_ptr_80170018.s             |        8 |          1 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CF778.s                 |       16 |          1 |        | https://decomp.me/scratch/Rjk3N | 0.14  |
 | us/weapon/nonmatchings/w_001/ResetAnimation.s                |       16 |          1 |        |                                 |       |
 | us/weapon/nonmatchings/w_002/ResetAnimation.s                |       16 |          1 |        |                                 |       |
@@ -661,7 +603,7 @@
 | us/st/sel/nonmatchings/2D260/func_801B3F94.s                 |       55 |         10 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80193410.s                 |       55 |         11 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018C72C.s                 |       55 |         11 |        |                                 |       |
-| us/st/np3/nonmatchings/4B018/func_801CDF1C.s                 |       56 |          6 |        | https://decomp.me/scratch/CMSl2 | 0.844 |
+| us/st/np3/nonmatchings/4B018/func_801CDF1C.s                 |       56 |          6 |        | https://decomp.me/scratch/CMSl2 | 0.762 |
 | us/st/cen/nonmatchings/11280/func_80194394.s                 |       56 |          7 |        | https://decomp.me/scratch/uVgur | 0.973 |
 | us/st/cen/nonmatchings/11280/func_8019565C.s                 |       56 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018D6B0.s                 |       56 |          7 |        |                                 |       |
@@ -705,7 +647,6 @@
 | us/st/np3/nonmatchings/4B018/func_801CD91C.s                 |       70 |          6 |        | https://decomp.me/scratch/EBPOB | 1.0   |
 | us/st/rwrp/nonmatchings/A59C/func_801918A8.s                 |       70 |          6 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015FDB0.s                    |       71 |          4 |        |                                 |       |
-| us/weapon/nonmatchings/w_015/func_ptr_80170004.s             |       71 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_012/func_ptr_80170008.s             |       71 |          6 |        |                                 |       |
 | us/weapon/nonmatchings/w_013/func_ptr_80170004.s             |       71 |          6 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80198084.s                 |       71 |          7 |        |                                 |       |
