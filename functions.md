@@ -1,6 +1,6 @@
 | Filename                                                     |   Length |   Branches | Jtbl   | WIP                             | %     |
 |--------------------------------------------------------------|----------|------------|--------|---------------------------------|-------|
-| us/st/np3/nonmatchings/4B018/func_801CF778.s                 |       16 |          1 |        | https://decomp.me/scratch/Rjk3N | 0.14  |
+| us/st/np3/nonmatchings/4E69C/func_801CF778.s                 |       16 |          1 |        | https://decomp.me/scratch/Rjk3N | 0.14  |
 | us/weapon/nonmatchings/w_001/ResetAnimation.s                |       16 |          1 |        |                                 |       |
 | us/weapon/nonmatchings/w_002/ResetAnimation.s                |       16 |          1 |        |                                 |       |
 | us/weapon/nonmatchings/w_003/ResetAnimation.s                |       16 |          1 |        |                                 |       |
@@ -234,7 +234,7 @@
 | us/st/sel/nonmatchings/38D24/func_801BAB70.s                 |       19 |          0 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CE228.s                 |       19 |          2 |        | https://decomp.me/scratch/hvP7m | 1.0   |
 | us/weapon/nonmatchings/w_029/func_CF000_8017AFC8.s           |       19 |          2 |        |                                 |       |
-| us/st/np3/nonmatchings/4B018/func_801D0B40.s                 |       20 |          1 |        |                                 |       |
+| us/st/np3/nonmatchings/4E69C/func_801D0B40.s                 |       20 |          1 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018D8BC.s                 |       20 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018DF04.s                 |       20 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E0E0.s                 |       20 |          2 |        |                                 |       |
@@ -791,7 +791,7 @@
 | us/st/no3/nonmatchings/46684/func_801CC6F8.s                 |       87 |         23 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E3B4.s                 |       88 |         11 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801AEB74.s                 |       88 |         18 |        |                                 |       |
-| us/st/np3/nonmatchings/4B018/func_801D0A00.s                 |       89 |         10 |        | https://decomp.me/scratch/fUzos | 1.0   |
+| us/st/np3/nonmatchings/4E69C/func_801D0A00.s                 |       89 |         10 |        | https://decomp.me/scratch/fUzos | 1.0   |
 | us/dra/nonmatchings/75F54/func_80133FCC.s                    |       89 |         15 |        | https://decomp.me/scratch/4ozBW | 0.88  |
 | us/dra/nonmatchings/692E8/func_80110394.s                    |       90 |          9 |        | https://decomp.me/scratch/Akstc | 0.948 |
 | us/st/sel/nonmatchings/3642C/func_801B78BC.s                 |       90 |         27 |        |                                 |       |
@@ -803,7 +803,7 @@
 | us/st/dre/nonmatchings/1C7DC/func_801A2400.s                 |       94 |          7 |        |                                 |       |
 | us/st/mad/nonmatchings/139E0/func_80199388.s                 |       94 |          7 |        |                                 |       |
 | us/st/no3/nonmatchings/564B0/func_801D6C68.s                 |       94 |          7 |        |                                 |       |
-| us/st/np3/nonmatchings/4B018/func_801D2320.s                 |       94 |          7 |        |                                 |       |
+| us/st/np3/nonmatchings/4E69C/func_801D2320.s                 |       94 |          7 |        |                                 |       |
 | us/st/nz0/nonmatchings/49930/func_801C9D18.s                 |       94 |          7 |        | https://decomp.me/scratch/DYcYf | 0.29  |
 | us/st/rwrp/nonmatchings/A59C/func_801955D8.s                 |       94 |          7 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/func_801BD4A8.s                 |       94 |          7 |        |                                 |       |
@@ -884,7 +884,7 @@
 | us/st/no3/nonmatchings/377D4/EntityUnkId12.s                 |      125 |         18 |        |                                 |       |
 | us/st/no3/nonmatchings/3C4EC/EntityUnkId53.s                 |      125 |         18 |        | https://decomp.me/scratch/a1jYQ | 0.982 |
 | us/st/rwrp/nonmatchings/8DF0/func_80188ED0.s                 |      125 |         18 |        |                                 |       |
-| us/st/np3/nonmatchings/4B018/func_801CF7A0.s                 |      125 |         21 |        |                                 |       |
+| us/st/np3/nonmatchings/4E69C/func_801CF7A0.s                 |      125 |         21 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_80157A50.s                    |      125 |         25 |        | https://decomp.me/scratch/jGDCh | 0.998 |
 | us/weapon/nonmatchings/w_037/func_107000_8017AEF0.s          |      126 |         12 |        |                                 |       |
 | us/weapon/nonmatchings/w_049/func_15B000_8017B88C.s          |      126 |         12 |        |                                 |       |
@@ -1092,7 +1092,7 @@
 | us/weapon/nonmatchings/w_042/EntityWeaponAttack.s            |      241 |         27 |        |                                 |       |
 | us/weapon/nonmatchings/w_030/func_ptr_80170010.s             |      243 |         31 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B3A94.s                 |      244 |         38 | Yes    |                                 |       |
-| us/st/np3/nonmatchings/4B018/EntityGurkhaBodyParts.s         |      244 |         44 | Yes    |                                 |       |
+| us/st/np3/nonmatchings/4E69C/EntityGurkhaBodyParts.s         |      244 |         44 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntitySidewaysWaterDroplets.s   |      245 |         23 |        |                                 |       |
 | us/st/np3/nonmatchings/44DCC/func_801C5BC4.s                 |      245 |         23 |        |                                 |       |
 | us/dra/nonmatchings/62D70/func_80105078.s                    |      245 |         26 |        |                                 |       |
@@ -1110,7 +1110,7 @@
 | us/st/dre/nonmatchings/1C7DC/func_801A2018.s                 |      259 |         14 |        |                                 |       |
 | us/st/mad/nonmatchings/139E0/func_80198FA0.s                 |      259 |         14 |        |                                 |       |
 | us/st/no3/nonmatchings/564B0/func_801D6880.s                 |      259 |         14 |        |                                 |       |
-| us/st/np3/nonmatchings/4B018/func_801D1F38.s                 |      259 |         14 |        |                                 |       |
+| us/st/np3/nonmatchings/4E69C/func_801D1F38.s                 |      259 |         14 |        |                                 |       |
 | us/st/nz0/nonmatchings/49930/func_801C9930.s                 |      259 |         14 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_801951F0.s                 |      259 |         14 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/func_801BD0C0.s                 |      259 |         14 |        |                                 |       |
@@ -1391,7 +1391,7 @@
 | us/dra/nonmatchings/75F54/EntityPlayerDissolves.s            |      798 |         63 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityAlucardWaterEffect.s      |      802 |        123 |        |                                 |       |
 | us/st/np3/nonmatchings/3DEF4/func_801C424C.s                 |      802 |        123 |        |                                 |       |
-| us/st/np3/nonmatchings/4B018/EntityHammer.s                  |      807 |        155 | Yes    | https://decomp.me/scratch/4CKDb | 0.904 |
+| us/st/np3/nonmatchings/4E69C/EntityHammer.s                  |      807 |        155 | Yes    | https://decomp.me/scratch/4CKDb | 0.904 |
 | us/weapon/nonmatchings/w_011/func_ptr_80170020.s             |      816 |         64 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/30030/func_801B0464.s                 |      817 |         90 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_008/func_ptr_80170020.s             |      819 |         61 | Yes    |                                 |       |
@@ -1429,10 +1429,10 @@
 | us/st/nz0/nonmatchings/47CF0/EntityMagicallySealedDoor.s     |      941 |        113 | Yes    | https://decomp.me/scratch/NlnlG | 0.002 |
 | us/st/st0/nonmatchings/31CA0/TestCollisions.s                |      954 |        133 |        | https://decomp.me/scratch/Lnt7z | 0.741 |
 | us/ric/nonmatchings/32324/func_8016F6F0.s                    |      957 |         56 | Yes    |                                 |       |
-| us/st/np3/nonmatchings/4B018/EntityGurkha.s                  |      963 |        184 | Yes    |                                 |       |
+| us/st/np3/nonmatchings/4E69C/EntityGurkha.s                  |      963 |        184 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_028/func_ptr_80170020.s             |      965 |         73 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_025/func_ptr_80170020.s             |      973 |         75 | Yes    |                                 |       |
-| us/st/np3/nonmatchings/4B018/func_801D0D40.s                 |     1002 |        202 | Yes    |                                 |       |
+| us/st/np3/nonmatchings/4E69C/func_801D0D40.s                 |     1002 |        202 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_024/func_ptr_80170020.s             |     1016 |         70 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityStopWatch.s                  |     1028 |         98 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_052/func_ptr_80170020.s             |     1044 |         87 | Yes    |                                 |       |
