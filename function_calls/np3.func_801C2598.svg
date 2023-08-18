@@ -5,335 +5,335 @@
  -->
 <!-- Title: np3.func_801C2598 Pages: 1 -->
 <svg width="4471pt" height="404pt"
- viewBox="0.00 0.00 4471.43 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 4471.23 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
 <title>np3.func_801C2598</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 4467.43,-400 4467.43,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 4467.23,-400 4467.23,4 -4,4"/>
 <!-- np3.func_801C2598 -->
 <g id="node1" class="node">
 <title>np3.func_801C2598</title>
-<ellipse fill="green" stroke="black" cx="2319.64" cy="-198" rx="103.18" ry="18"/>
-<text text-anchor="middle" x="2319.64" y="-194.3" font-family="Times,serif" font-size="14.00">np3.func_801C2598</text>
+<ellipse fill="green" stroke="black" cx="2221.89" cy="-198" rx="103.18" ry="18"/>
+<text text-anchor="middle" x="2221.89" y="-194.3" font-family="Times,serif" font-size="14.00">np3.func_801C2598</text>
 </g>
 <!-- dra.func_80134714 -->
 <g id="node2" class="node">
 <title>dra.func_80134714</title>
 <g id="a_node2"><a xlink:href="dra.func_80134714.svg" xlink:title="dra.func_80134714">
-<ellipse fill="green" stroke="black" cx="2319.64" cy="-18" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="2319.64" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_80134714</text>
+<ellipse fill="green" stroke="black" cx="2221.89" cy="-18" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="2221.89" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_80134714</text>
 </a>
 </g>
 </g>
 <!-- np3.func_801C2598&#45;&gt;dra.func_80134714 -->
 <g id="edge1" class="edge">
 <title>np3.func_801C2598&#45;&gt;dra.func_80134714</title>
-<path fill="none" stroke="black" d="M2319.64,-179.93C2319.64,-148.97 2319.64,-83.3 2319.64,-46.13"/>
-<polygon fill="black" stroke="black" points="2323.14,-46.02 2319.64,-36.02 2316.14,-46.02 2323.14,-46.02"/>
-<text text-anchor="middle" x="2314.64" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M2221.89,-179.93C2221.89,-148.97 2221.89,-83.3 2221.89,-46.13"/>
+<polygon fill="black" stroke="black" points="2225.39,-46.02 2221.89,-36.02 2218.39,-46.02 2225.39,-46.02"/>
+<text text-anchor="middle" x="2216.89" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- np3.EntityMerman2 -->
+<!-- np3.EntityZombie -->
 <g id="node3" class="node">
-<title>np3.EntityMerman2</title>
-<g id="a_node3"><a xlink:href="np3.EntityMerman2.svg" xlink:title="np3.EntityMerman2">
-<ellipse fill="green" stroke="black" cx="104.64" cy="-378" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="104.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityMerman2</text>
+<title>np3.EntityZombie</title>
+<g id="a_node3"><a xlink:href="np3.EntityZombie.svg" xlink:title="np3.EntityZombie">
+<ellipse fill="green" stroke="black" cx="94.89" cy="-378" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="94.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityZombie</text>
 </a>
 </g>
 </g>
-<!-- np3.EntityMerman2&#45;&gt;np3.func_801C2598 -->
+<!-- np3.EntityZombie&#45;&gt;np3.func_801C2598 -->
 <g id="edge2" class="edge">
-<title>np3.EntityMerman2&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M178.09,-365.16C191.24,-363.26 204.83,-361.45 217.64,-360 979.06,-273.68 1901.03,-220.86 2211.62,-204.49"/>
-<polygon fill="black" stroke="black" points="2212.16,-207.96 2221.97,-203.94 2211.8,-200.97 2212.16,-207.96"/>
-<text text-anchor="middle" x="173.09" y="-353.96" font-family="Times,serif" font-size="14.00">3</text>
+<title>np3.EntityZombie&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M161.91,-365.21C174.19,-363.29 186.9,-361.45 198.89,-360 928.17,-271.53 1811.49,-220.37 2114.14,-204.43"/>
+<polygon fill="black" stroke="black" points="2114.43,-207.92 2124.23,-203.9 2114.06,-200.93 2114.43,-207.92"/>
+<text text-anchor="middle" x="156.91" y="-354.01" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- np3.func_801BD150 -->
+<!-- np3.EntityBoneScimitar -->
 <g id="node4" class="node">
-<title>np3.func_801BD150</title>
-<g id="a_node4"><a xlink:href="np3.func_801BD150.svg" xlink:title="np3.func_801BD150">
-<ellipse fill="green" stroke="black" cx="331.64" cy="-378" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="331.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801BD150</text>
+<title>np3.EntityBoneScimitar</title>
+<g id="a_node4"><a xlink:href="np3.EntityBoneScimitar.svg" xlink:title="np3.EntityBoneScimitar">
+<ellipse fill="green" stroke="black" cx="330.89" cy="-378" rx="122.68" ry="18"/>
+<text text-anchor="middle" x="330.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityBoneScimitar</text>
 </a>
 </g>
 </g>
-<!-- np3.func_801BD150&#45;&gt;np3.func_801C2598 -->
+<!-- np3.EntityBoneScimitar&#45;&gt;np3.func_801C2598 -->
 <g id="edge3" class="edge">
-<title>np3.func_801BD150&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M405.75,-365.26C419.02,-363.36 432.72,-361.52 445.64,-360 1117.19,-281.16 1928.42,-224.53 2214.01,-205.76"/>
-<polygon fill="black" stroke="black" points="2214.61,-209.23 2224.36,-205.08 2214.15,-202.24 2214.61,-209.23"/>
-<text text-anchor="middle" x="400.75" y="-354.06" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.func_801B5488 -->
-<g id="node5" class="node">
-<title>np3.func_801B5488</title>
-<g id="a_node5"><a xlink:href="np3.func_801B5488.svg" xlink:title="np3.func_801B5488">
-<ellipse fill="green" stroke="black" cx="557.64" cy="-378" rx="103.18" ry="18"/>
-<text text-anchor="middle" x="557.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801B5488</text>
-</a>
-</g>
-</g>
-<!-- np3.func_801B5488&#45;&gt;np3.func_801C2598 -->
-<g id="edge4" class="edge">
-<title>np3.func_801B5488&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M631.06,-365.28C643.91,-363.4 657.15,-361.56 669.64,-360 1253.76,-287.22 1957.67,-227.97 2217.16,-207.09"/>
-<polygon fill="black" stroke="black" points="2217.63,-210.56 2227.32,-206.27 2217.07,-203.58 2217.63,-210.56"/>
-<text text-anchor="middle" x="626.06" y="-354.08" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.EntityShuttingWindow -->
-<g id="node6" class="node">
-<title>np3.EntityShuttingWindow</title>
-<g id="a_node6"><a xlink:href="np3.EntityShuttingWindow.svg" xlink:title="np3.EntityShuttingWindow">
-<ellipse fill="green" stroke="black" cx="816.64" cy="-378" rx="137.58" ry="18"/>
-<text text-anchor="middle" x="816.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityShuttingWindow</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityShuttingWindow&#45;&gt;np3.func_801C2598 -->
-<g id="edge5" class="edge">
-<title>np3.EntityShuttingWindow&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M914.97,-365.36C1189.05,-332.9 1959.03,-241.71 2226.61,-210.02"/>
-<polygon fill="black" stroke="black" points="2227.16,-213.48 2236.68,-208.83 2226.34,-206.53 2227.16,-213.48"/>
-<text text-anchor="middle" x="909.97" y="-354.16" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.EntityPathBlockSmallWeight -->
-<g id="node7" class="node">
-<title>np3.EntityPathBlockSmallWeight</title>
-<g id="a_node7"><a xlink:href="np3.EntityPathBlockSmallWeight.svg" xlink:title="np3.EntityPathBlockSmallWeight">
-<ellipse fill="green" stroke="black" cx="1137.64" cy="-378" rx="165.17" ry="18"/>
-<text text-anchor="middle" x="1137.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityPathBlockSmallWeight</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityPathBlockSmallWeight&#45;&gt;np3.func_801C2598 -->
-<g id="edge6" class="edge">
-<title>np3.EntityPathBlockSmallWeight&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M1230.39,-363.03C1453.65,-329.41 2018.43,-244.36 2234.12,-211.88"/>
-<polygon fill="black" stroke="black" points="2234.75,-215.32 2244.12,-210.37 2233.71,-208.4 2234.75,-215.32"/>
-<text text-anchor="middle" x="1225.39" y="-351.83" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.func_801CB018 -->
-<g id="node8" class="node">
-<title>np3.func_801CB018</title>
-<g id="a_node8"><a xlink:href="np3.func_801CB018.svg" xlink:title="np3.func_801CB018">
-<ellipse fill="red" stroke="black" cx="1425.64" cy="-378" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="1425.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801CB018</text>
-</a>
-</g>
-</g>
-<!-- np3.func_801CB018&#45;&gt;np3.func_801C2598 -->
-<g id="edge7" class="edge">
-<title>np3.func_801CB018&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M1491.38,-363.91C1653.68,-331.6 2072.63,-248.18 2244.44,-213.97"/>
-<polygon fill="black" stroke="black" points="2245.29,-217.37 2254.41,-211.99 2243.92,-210.51 2245.29,-217.37"/>
-<text text-anchor="middle" x="1486.38" y="-352.71" font-family="Times,serif" font-size="14.00">8</text>
+<title>np3.EntityBoneScimitar&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M418.17,-365.3C433.08,-363.43 448.42,-361.59 462.89,-360 1091.49,-290.78 1848.8,-228.6 2119.54,-207.04"/>
+<polygon fill="black" stroke="black" points="2120.05,-210.51 2129.74,-206.23 2119.5,-203.54 2120.05,-210.51"/>
+<text text-anchor="middle" x="413.17" y="-354.1" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.func_801CC2E0 -->
-<g id="node9" class="node">
+<g id="node5" class="node">
 <title>np3.func_801CC2E0</title>
-<g id="a_node9"><a xlink:href="np3.func_801CC2E0.svg" xlink:title="np3.func_801CC2E0">
-<ellipse fill="red" stroke="black" cx="1653.64" cy="-378" rx="105.08" ry="18"/>
-<text text-anchor="middle" x="1653.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801CC2E0</text>
+<g id="a_node5"><a xlink:href="np3.func_801CC2E0.svg" xlink:title="np3.func_801CC2E0">
+<ellipse fill="red" stroke="black" cx="576.89" cy="-378" rx="105.08" ry="18"/>
+<text text-anchor="middle" x="576.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801CC2E0</text>
 </a>
 </g>
 </g>
 <!-- np3.func_801CC2E0&#45;&gt;np3.func_801C2598 -->
-<g id="edge8" class="edge">
+<g id="edge4" class="edge">
 <title>np3.func_801CC2E0&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M1707.86,-362.51C1829.84,-329.91 2125.35,-250.93 2255.87,-216.04"/>
-<polygon fill="black" stroke="black" points="2256.97,-219.37 2265.72,-213.41 2255.16,-212.61 2256.97,-219.37"/>
-<text text-anchor="middle" x="1698.36" y="-351.31" font-family="Times,serif" font-size="14.00">15</text>
+<path fill="none" stroke="black" d="M651.95,-365.34C664.92,-363.46 678.29,-361.6 690.89,-360 1229.66,-291.53 1877.75,-230.32 2122.15,-207.98"/>
+<polygon fill="black" stroke="black" points="2122.79,-211.44 2132.43,-207.04 2122.15,-204.47 2122.79,-211.44"/>
+<text text-anchor="middle" x="642.45" y="-354.14" font-family="Times,serif" font-size="14.00">15</text>
+</g>
+<!-- np3.func_801CB018 -->
+<g id="node6" class="node">
+<title>np3.func_801CB018</title>
+<g id="a_node6"><a xlink:href="np3.func_801CB018.svg" xlink:title="np3.func_801CB018">
+<ellipse fill="red" stroke="black" cx="804.89" cy="-378" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="804.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801CB018</text>
+</a>
+</g>
+</g>
+<!-- np3.func_801CB018&#45;&gt;np3.func_801C2598 -->
+<g id="edge5" class="edge">
+<title>np3.func_801CB018&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M880.28,-365.49C893.15,-363.6 906.4,-361.7 918.89,-360 1371.31,-298.33 1913.53,-234.59 2127.99,-209.78"/>
+<polygon fill="black" stroke="black" points="2128.42,-213.26 2137.96,-208.63 2127.62,-206.3 2128.42,-213.26"/>
+<text text-anchor="middle" x="875.28" y="-354.29" font-family="Times,serif" font-size="14.00">8</text>
+</g>
+<!-- np3.EntityBloodyZombie -->
+<g id="node7" class="node">
+<title>np3.EntityBloodyZombie</title>
+<g id="a_node7"><a xlink:href="np3.EntityBloodyZombie.svg" xlink:title="np3.EntityBloodyZombie">
+<ellipse fill="green" stroke="black" cx="1053.89" cy="-378" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="1053.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityBloodyZombie</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityBloodyZombie&#45;&gt;np3.func_801C2598 -->
+<g id="edge6" class="edge">
+<title>np3.EntityBloodyZombie&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M1136.95,-364.34C1351.14,-331.7 1920.51,-244.93 2136.86,-211.96"/>
+<polygon fill="black" stroke="black" points="2137.53,-215.4 2146.89,-210.43 2136.48,-208.48 2137.53,-215.4"/>
+<text text-anchor="middle" x="1131.95" y="-353.14" font-family="Times,serif" font-size="14.00">7</text>
 </g>
 <!-- np3.EntityHammer -->
-<g id="node10" class="node">
+<g id="node8" class="node">
 <title>np3.EntityHammer</title>
-<g id="a_node10"><a xlink:href="np3.EntityHammer.svg" xlink:title="np3.EntityHammer">
-<ellipse fill="red" stroke="black" cx="1877.64" cy="-378" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="1877.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityHammer</text>
+<g id="a_node8"><a xlink:href="np3.EntityHammer.svg" xlink:title="np3.EntityHammer">
+<ellipse fill="red" stroke="black" cx="1298.89" cy="-378" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="1298.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityHammer</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityHammer&#45;&gt;np3.func_801C2598 -->
-<g id="edge9" class="edge">
+<g id="edge7" class="edge">
 <title>np3.EntityHammer&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M1916.48,-361.36C1997.09,-328.9 2182.4,-254.27 2270.88,-218.63"/>
-<polygon fill="black" stroke="black" points="2272.45,-221.78 2280.42,-214.8 2269.83,-215.29 2272.45,-221.78"/>
-<text text-anchor="middle" x="1911.48" y="-350.16" font-family="Times,serif" font-size="14.00">7</text>
+<path fill="none" stroke="black" d="M1364.53,-364.34C1530.78,-332.28 1967.81,-248 2145.31,-213.77"/>
+<polygon fill="black" stroke="black" points="2146.19,-217.16 2155.35,-211.83 2144.87,-210.29 2146.19,-217.16"/>
+<text text-anchor="middle" x="1359.53" y="-353.14" font-family="Times,serif" font-size="14.00">7</text>
+</g>
+<!-- np3.EntityGurkha -->
+<g id="node9" class="node">
+<title>np3.EntityGurkha</title>
+<g id="a_node9"><a xlink:href="np3.EntityGurkha.svg" xlink:title="np3.EntityGurkha">
+<ellipse fill="red" stroke="black" cx="1511.89" cy="-378" rx="94.48" ry="18"/>
+<text text-anchor="middle" x="1511.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityGurkha</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityGurkha&#45;&gt;np3.func_801C2598 -->
+<g id="edge8" class="edge">
+<title>np3.EntityGurkha&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M1566.72,-363.25C1695.36,-331 2016.21,-250.56 2155.55,-215.63"/>
+<polygon fill="black" stroke="black" points="2156.42,-219.02 2165.27,-213.2 2154.72,-212.23 2156.42,-219.02"/>
+<text text-anchor="middle" x="1561.72" y="-352.05" font-family="Times,serif" font-size="14.00">6</text>
+</g>
+<!-- np3.EntityGurkhaSword -->
+<g id="node10" class="node">
+<title>np3.EntityGurkhaSword</title>
+<g id="a_node10"><a xlink:href="np3.EntityGurkhaSword.svg" xlink:title="np3.EntityGurkhaSword">
+<ellipse fill="green" stroke="black" cx="1747.89" cy="-378" rx="124.28" ry="18"/>
+<text text-anchor="middle" x="1747.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityGurkhaSword</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityGurkhaSword&#45;&gt;np3.func_801C2598 -->
+<g id="edge9" class="edge">
+<title>np3.EntityGurkhaSword&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M1790.37,-361.05C1877.61,-328.29 2076.64,-253.55 2170.76,-218.2"/>
+<polygon fill="black" stroke="black" points="2172.22,-221.39 2180.35,-214.6 2169.76,-214.84 2172.22,-221.39"/>
+<text text-anchor="middle" x="1785.37" y="-349.85" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.func_801D0D40 -->
 <g id="node11" class="node">
 <title>np3.func_801D0D40</title>
 <g id="a_node11"><a xlink:href="np3.func_801D0D40.svg" xlink:title="np3.func_801D0D40">
-<ellipse fill="red" stroke="black" cx="2101.64" cy="-378" rx="105.08" ry="18"/>
-<text text-anchor="middle" x="2101.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801D0D40</text>
+<ellipse fill="red" stroke="black" cx="1994.89" cy="-378" rx="105.08" ry="18"/>
+<text text-anchor="middle" x="1994.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801D0D40</text>
 </a>
 </g>
 </g>
 <!-- np3.func_801D0D40&#45;&gt;np3.func_801C2598 -->
 <g id="edge10" class="edge">
 <title>np3.func_801D0D40&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M2122.15,-360.25C2161.26,-328.32 2246.59,-258.65 2291.19,-222.23"/>
-<polygon fill="black" stroke="black" points="2293.5,-224.87 2299.03,-215.83 2289.07,-219.44 2293.5,-224.87"/>
-<text text-anchor="middle" x="2117.15" y="-349.05" font-family="Times,serif" font-size="14.00">8</text>
+<path fill="none" stroke="black" d="M2016.25,-360.25C2056.98,-328.32 2145.83,-258.65 2192.27,-222.23"/>
+<polygon fill="black" stroke="black" points="2194.72,-224.76 2200.43,-215.83 2190.4,-219.25 2194.72,-224.76"/>
+<text text-anchor="middle" x="2011.25" y="-349.05" font-family="Times,serif" font-size="14.00">8</text>
 </g>
-<!-- np3.EntityGurkha -->
+<!-- np3.func_801B5488 -->
 <g id="node12" class="node">
-<title>np3.EntityGurkha</title>
-<g id="a_node12"><a xlink:href="np3.EntityGurkha.svg" xlink:title="np3.EntityGurkha">
-<ellipse fill="red" stroke="black" cx="2319.64" cy="-378" rx="94.48" ry="18"/>
-<text text-anchor="middle" x="2319.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityGurkha</text>
+<title>np3.func_801B5488</title>
+<g id="a_node12"><a xlink:href="np3.func_801B5488.svg" xlink:title="np3.func_801B5488">
+<ellipse fill="green" stroke="black" cx="2221.89" cy="-378" rx="103.18" ry="18"/>
+<text text-anchor="middle" x="2221.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801B5488</text>
 </a>
 </g>
 </g>
-<!-- np3.EntityGurkha&#45;&gt;np3.func_801C2598 -->
+<!-- np3.func_801B5488&#45;&gt;np3.func_801C2598 -->
 <g id="edge11" class="edge">
-<title>np3.EntityGurkha&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M2319.64,-359.93C2319.64,-328.97 2319.64,-263.3 2319.64,-226.13"/>
-<polygon fill="black" stroke="black" points="2323.14,-226.02 2319.64,-216.02 2316.14,-226.02 2323.14,-226.02"/>
-<text text-anchor="middle" x="2314.64" y="-348.73" font-family="Times,serif" font-size="14.00">6</text>
+<title>np3.func_801B5488&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M2221.89,-359.93C2221.89,-328.97 2221.89,-263.3 2221.89,-226.13"/>
+<polygon fill="black" stroke="black" points="2225.39,-226.02 2221.89,-216.02 2218.39,-226.02 2225.39,-226.02"/>
+<text text-anchor="middle" x="2216.89" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- np3.EntityGurkhaSword -->
+<!-- np3.EntityPathBlockSmallWeight -->
 <g id="node13" class="node">
-<title>np3.EntityGurkhaSword</title>
-<g id="a_node13"><a xlink:href="np3.EntityGurkhaSword.svg" xlink:title="np3.EntityGurkhaSword">
-<ellipse fill="green" stroke="black" cx="2555.64" cy="-378" rx="124.28" ry="18"/>
-<text text-anchor="middle" x="2555.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityGurkhaSword</text>
+<title>np3.EntityPathBlockSmallWeight</title>
+<g id="a_node13"><a xlink:href="np3.EntityPathBlockSmallWeight.svg" xlink:title="np3.EntityPathBlockSmallWeight">
+<ellipse fill="green" stroke="black" cx="2507.89" cy="-378" rx="165.17" ry="18"/>
+<text text-anchor="middle" x="2507.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityPathBlockSmallWeight</text>
 </a>
 </g>
 </g>
-<!-- np3.EntityGurkhaSword&#45;&gt;np3.func_801C2598 -->
+<!-- np3.EntityPathBlockSmallWeight&#45;&gt;np3.func_801C2598 -->
 <g id="edge12" class="edge">
-<title>np3.EntityGurkhaSword&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M2533.44,-360.25C2491.01,-328.25 2398.34,-258.36 2350.14,-222"/>
-<polygon fill="black" stroke="black" points="2352.05,-219.06 2341.96,-215.83 2347.83,-224.65 2352.05,-219.06"/>
-<text text-anchor="middle" x="2528.44" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
+<title>np3.EntityPathBlockSmallWeight&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M2480.73,-360.09C2428.71,-327.72 2315.09,-257 2257.25,-221"/>
+<polygon fill="black" stroke="black" points="2258.8,-217.85 2248.46,-215.53 2255.1,-223.79 2258.8,-217.85"/>
+<text text-anchor="middle" x="2475.73" y="-348.89" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- np3.EntityBloodyZombie -->
+<!-- np3.EntityShuttingWindow -->
 <g id="node14" class="node">
-<title>np3.EntityBloodyZombie</title>
-<g id="a_node14"><a xlink:href="np3.EntityBloodyZombie.svg" xlink:title="np3.EntityBloodyZombie">
-<ellipse fill="green" stroke="black" cx="2823.64" cy="-378" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="2823.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityBloodyZombie</text>
+<title>np3.EntityShuttingWindow</title>
+<g id="a_node14"><a xlink:href="np3.EntityShuttingWindow.svg" xlink:title="np3.EntityShuttingWindow">
+<ellipse fill="green" stroke="black" cx="2828.89" cy="-378" rx="137.58" ry="18"/>
+<text text-anchor="middle" x="2828.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityShuttingWindow</text>
 </a>
 </g>
 </g>
-<!-- np3.EntityBloodyZombie&#45;&gt;np3.func_801C2598 -->
+<!-- np3.EntityShuttingWindow&#45;&gt;np3.func_801C2598 -->
 <g id="edge13" class="edge">
-<title>np3.EntityBloodyZombie&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M2778.47,-361.05C2685.29,-328.14 2472.16,-252.87 2372.65,-217.72"/>
-<polygon fill="black" stroke="black" points="2373.69,-214.38 2363.09,-214.35 2371.36,-220.98 2373.69,-214.38"/>
-<text text-anchor="middle" x="2773.47" y="-349.85" font-family="Times,serif" font-size="14.00">7</text>
-</g>
-<!-- np3.EntityBat -->
-<g id="node15" class="node">
-<title>np3.EntityBat</title>
-<g id="a_node15"><a xlink:href="np3.EntityBat.svg" xlink:title="np3.EntityBat">
-<ellipse fill="green" stroke="black" cx="3043.64" cy="-378" rx="76.09" ry="18"/>
-<text text-anchor="middle" x="3043.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityBat</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityBat&#45;&gt;np3.func_801C2598 -->
-<g id="edge14" class="edge">
-<title>np3.EntityBat&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M2993.02,-364.55C2865.4,-333.18 2530.5,-250.84 2386.76,-215.5"/>
-<polygon fill="black" stroke="black" points="2387.29,-212.03 2376.74,-213.04 2385.62,-218.82 2387.29,-212.03"/>
-<text text-anchor="middle" x="2988.02" y="-353.35" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.EntityZombie -->
-<g id="node16" class="node">
-<title>np3.EntityZombie</title>
-<g id="a_node16"><a xlink:href="np3.EntityZombie.svg" xlink:title="np3.EntityZombie">
-<ellipse fill="green" stroke="black" cx="3232.64" cy="-378" rx="94.78" ry="18"/>
-<text text-anchor="middle" x="3232.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityZombie</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityZombie&#45;&gt;np3.func_801C2598 -->
-<g id="edge15" class="edge">
-<title>np3.EntityZombie&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M3168.8,-364.55C3005.26,-332.67 2571.77,-248.16 2395.64,-213.82"/>
-<polygon fill="black" stroke="black" points="2396.16,-210.35 2385.68,-211.87 2394.82,-217.22 2396.16,-210.35"/>
-<text text-anchor="middle" x="3163.8" y="-353.35" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.EntitySlograSpear -->
-<g id="node17" class="node">
-<title>np3.EntitySlograSpear</title>
-<g id="a_node17"><a xlink:href="np3.EntitySlograSpear.svg" xlink:title="np3.EntitySlograSpear">
-<ellipse fill="green" stroke="black" cx="3463.64" cy="-378" rx="117.78" ry="18"/>
-<text text-anchor="middle" x="3463.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntitySlograSpear</text>
-</a>
-</g>
-</g>
-<!-- np3.EntitySlograSpear&#45;&gt;np3.func_801C2598 -->
-<g id="edge16" class="edge">
-<title>np3.EntitySlograSpear&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M3384.11,-364.62C3176.11,-332.26 2617.42,-245.33 2404.06,-212.13"/>
-<polygon fill="black" stroke="black" points="2404.58,-208.67 2394.16,-210.59 2403.5,-215.59 2404.58,-208.67"/>
-<text text-anchor="middle" x="3379.11" y="-353.42" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.EntitySlogra -->
-<g id="node18" class="node">
-<title>np3.EntitySlogra</title>
-<g id="a_node18"><a xlink:href="np3.EntitySlogra.svg" xlink:title="np3.EntitySlogra">
-<ellipse fill="green" stroke="black" cx="3689.64" cy="-378" rx="90.18" ry="18"/>
-<text text-anchor="middle" x="3689.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntitySlogra</text>
-</a>
-</g>
-</g>
-<!-- np3.EntitySlogra&#45;&gt;np3.func_801C2598 -->
-<g id="edge17" class="edge">
-<title>np3.EntitySlogra&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M3624.74,-365.43C3613.39,-363.53 3601.68,-361.65 3590.64,-360 3152.07,-294.6 2625.77,-233.42 2414.36,-209.55"/>
-<polygon fill="black" stroke="black" points="2414.55,-206.05 2404.22,-208.41 2413.77,-213.01 2414.55,-206.05"/>
-<text text-anchor="middle" x="3619.74" y="-354.23" font-family="Times,serif" font-size="14.00">7</text>
-</g>
-<!-- np3.EntityGaibon -->
-<g id="node19" class="node">
-<title>np3.EntityGaibon</title>
-<g id="a_node19"><a xlink:href="np3.EntityGaibon.svg" xlink:title="np3.EntityGaibon">
-<ellipse fill="red" stroke="black" cx="3890.64" cy="-378" rx="92.88" ry="18"/>
-<text text-anchor="middle" x="3890.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityGaibon</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityGaibon&#45;&gt;np3.func_801C2598 -->
-<g id="edge18" class="edge">
-<title>np3.EntityGaibon&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M3824.06,-365.35C3812.28,-363.45 3800.11,-361.58 3788.64,-360 3275.01,-289.11 2656.83,-229.81 2419.28,-207.98"/>
-<polygon fill="black" stroke="black" points="2419.56,-204.49 2409.28,-207.06 2418.92,-211.46 2419.56,-204.49"/>
-<text text-anchor="middle" x="3819.06" y="-354.15" font-family="Times,serif" font-size="14.00">9</text>
-</g>
-<!-- np3.EntityBoneScimitar -->
-<g id="node20" class="node">
-<title>np3.EntityBoneScimitar</title>
-<g id="a_node20"><a xlink:href="np3.EntityBoneScimitar.svg" xlink:title="np3.EntityBoneScimitar">
-<ellipse fill="green" stroke="black" cx="4124.64" cy="-378" rx="122.68" ry="18"/>
-<text text-anchor="middle" x="4124.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityBoneScimitar</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityBoneScimitar&#45;&gt;np3.func_801C2598 -->
-<g id="edge19" class="edge">
-<title>np3.EntityBoneScimitar&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M4037,-365.31C4022.2,-363.45 4006.99,-361.61 3992.64,-360 3397.47,-293.05 2681.19,-229.96 2420.62,-207.58"/>
-<polygon fill="black" stroke="black" points="2420.69,-204.07 2410.42,-206.7 2420.09,-211.05 2420.69,-204.07"/>
-<text text-anchor="middle" x="4032" y="-354.11" font-family="Times,serif" font-size="14.00">1</text>
+<title>np3.EntityShuttingWindow&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M2775.56,-361.36C2662.72,-328.27 2400.5,-251.37 2281.97,-216.62"/>
+<polygon fill="black" stroke="black" points="2282.9,-213.24 2272.32,-213.79 2280.93,-219.96 2282.9,-213.24"/>
+<text text-anchor="middle" x="2770.56" y="-350.16" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.EntityMerman -->
-<g id="node21" class="node">
+<g id="node15" class="node">
 <title>np3.EntityMerman</title>
-<g id="a_node21"><a xlink:href="np3.EntityMerman.svg" xlink:title="np3.EntityMerman">
-<ellipse fill="green" stroke="black" cx="4364.64" cy="-378" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="4364.64" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityMerman</text>
+<g id="a_node15"><a xlink:href="np3.EntityMerman.svg" xlink:title="np3.EntityMerman">
+<ellipse fill="green" stroke="black" cx="3083.89" cy="-378" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="3083.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityMerman</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityMerman&#45;&gt;np3.func_801C2598 -->
-<g id="edge20" class="edge">
+<g id="edge14" class="edge">
 <title>np3.EntityMerman&#45;&gt;np3.func_801C2598</title>
-<path fill="none" stroke="black" d="M4294.74,-365.23C4282.08,-363.32 4268.98,-361.48 4256.64,-360 3560.89,-276.44 2719.32,-222.5 2426.32,-205.12"/>
-<polygon fill="black" stroke="black" points="2426.32,-201.61 2416.13,-204.51 2425.91,-208.6 2426.32,-201.61"/>
-<text text-anchor="middle" x="4289.74" y="-354.03" font-family="Times,serif" font-size="14.00">3</text>
+<path fill="none" stroke="black" d="M3021.2,-364.06C2865.71,-331.95 2462.84,-248.76 2295.97,-214.3"/>
+<polygon fill="black" stroke="black" points="2296.3,-210.79 2285.8,-212.2 2294.89,-217.65 2296.3,-210.79"/>
+<text text-anchor="middle" x="3016.2" y="-352.86" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- np3.EntityBat -->
+<g id="node16" class="node">
+<title>np3.EntityBat</title>
+<g id="a_node16"><a xlink:href="np3.EntityBat.svg" xlink:title="np3.EntityBat">
+<ellipse fill="green" stroke="black" cx="3276.89" cy="-378" rx="76.09" ry="18"/>
+<text text-anchor="middle" x="3276.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityBat</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityBat&#45;&gt;np3.func_801C2598 -->
+<g id="edge15" class="edge">
+<title>np3.EntityBat&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M3221.16,-365.58C3211.42,-363.66 3201.37,-361.73 3191.89,-360 2865.45,-300.28 2475.43,-238.42 2306.64,-212.11"/>
+<polygon fill="black" stroke="black" points="2307,-208.62 2296.58,-210.54 2305.92,-215.53 2307,-208.62"/>
+<text text-anchor="middle" x="3216.16" y="-354.38" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.func_801BD150 -->
+<g id="node17" class="node">
+<title>np3.func_801BD150</title>
+<g id="a_node17"><a xlink:href="np3.func_801BD150.svg" xlink:title="np3.func_801BD150">
+<ellipse fill="green" stroke="black" cx="3475.89" cy="-378" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="3475.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.func_801BD150</text>
+</a>
+</g>
+</g>
+<!-- np3.func_801BD150&#45;&gt;np3.func_801C2598 -->
+<g id="edge16" class="edge">
+<title>np3.func_801BD150&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M3399.87,-365.58C3387.19,-363.7 3374.17,-361.78 3361.89,-360 2969.83,-303.08 2501.51,-237.79 2310.02,-211.21"/>
+<polygon fill="black" stroke="black" points="2310.4,-207.73 2300.01,-209.82 2309.44,-214.66 2310.4,-207.73"/>
+<text text-anchor="middle" x="3394.87" y="-354.38" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.EntityMerman2 -->
+<g id="node18" class="node">
+<title>np3.EntityMerman2</title>
+<g id="a_node18"><a xlink:href="np3.EntityMerman2.svg" xlink:title="np3.EntityMerman2">
+<ellipse fill="green" stroke="black" cx="3702.89" cy="-378" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="3702.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityMerman2</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityMerman2&#45;&gt;np3.func_801C2598 -->
+<g id="edge17" class="edge">
+<title>np3.EntityMerman2&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M3627.87,-365.37C3615.2,-363.5 3602.18,-361.65 3589.89,-360 3113.11,-296.1 2540.95,-233.21 2317.69,-209.2"/>
+<polygon fill="black" stroke="black" points="2317.96,-205.71 2307.65,-208.12 2317.22,-212.67 2317.96,-205.71"/>
+<text text-anchor="middle" x="3622.87" y="-354.17" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- np3.EntitySlograSpear -->
+<g id="node19" class="node">
+<title>np3.EntitySlograSpear</title>
+<g id="a_node19"><a xlink:href="np3.EntitySlograSpear.svg" xlink:title="np3.EntitySlograSpear">
+<ellipse fill="green" stroke="black" cx="3942.89" cy="-378" rx="117.78" ry="18"/>
+<text text-anchor="middle" x="3942.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntitySlograSpear</text>
+</a>
+</g>
+</g>
+<!-- np3.EntitySlograSpear&#45;&gt;np3.func_801C2598 -->
+<g id="edge18" class="edge">
+<title>np3.EntitySlograSpear&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M3859.24,-365.31C3845.11,-363.46 3830.59,-361.62 3816.89,-360 3252.22,-293.43 2573.03,-230.58 2321.71,-207.9"/>
+<polygon fill="black" stroke="black" points="2321.78,-204.4 2311.5,-206.98 2321.15,-211.37 2321.78,-204.4"/>
+<text text-anchor="middle" x="3854.24" y="-354.11" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.EntityGaibon -->
+<g id="node20" class="node">
+<title>np3.EntityGaibon</title>
+<g id="a_node20"><a xlink:href="np3.EntityGaibon.svg" xlink:title="np3.EntityGaibon">
+<ellipse fill="red" stroke="black" cx="4171.89" cy="-378" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="4171.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityGaibon</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityGaibon&#45;&gt;np3.func_801C2598 -->
+<g id="edge19" class="edge">
+<title>np3.EntityGaibon&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M4106.16,-365.27C4094.12,-363.34 4081.65,-361.49 4069.89,-360 3409.9,-276.38 2611.76,-222.88 2328.15,-205.34"/>
+<polygon fill="black" stroke="black" points="2328.07,-201.82 2317.87,-204.7 2327.64,-208.81 2328.07,-201.82"/>
+<text text-anchor="middle" x="4101.16" y="-354.07" font-family="Times,serif" font-size="14.00">9</text>
+</g>
+<!-- np3.EntitySlogra -->
+<g id="node21" class="node">
+<title>np3.EntitySlogra</title>
+<g id="a_node21"><a xlink:href="np3.EntitySlogra.svg" xlink:title="np3.EntitySlogra">
+<ellipse fill="green" stroke="black" cx="4372.89" cy="-378" rx="90.18" ry="18"/>
+<text text-anchor="middle" x="4372.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntitySlogra</text>
+</a>
+</g>
+</g>
+<!-- np3.EntitySlogra&#45;&gt;np3.func_801C2598 -->
+<g id="edge20" class="edge">
+<title>np3.EntitySlogra&#45;&gt;np3.func_801C2598</title>
+<path fill="none" stroke="black" d="M4309.11,-365.16C4297.43,-363.25 4285.31,-361.43 4273.89,-360 3534.1,-267.66 2637.25,-218.9 2330.68,-204.01"/>
+<polygon fill="black" stroke="black" points="2330.62,-200.51 2320.46,-203.52 2330.28,-207.5 2330.62,-200.51"/>
+<text text-anchor="middle" x="4304.11" y="-353.96" font-family="Times,serif" font-size="14.00">7</text>
 </g>
 </g>
 </svg>

@@ -12,40 +12,40 @@
 <!-- rwrp.SetStep -->
 <g id="node1" class="node">
 <title>rwrp.SetStep</title>
-<ellipse fill="green" stroke="black" cx="246.19" cy="-18" rx="73.39" ry="18"/>
-<text text-anchor="middle" x="246.19" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp.SetStep</text>
-</g>
-<!-- rwrp.CollectSubweapon -->
-<g id="node2" class="node">
-<title>rwrp.CollectSubweapon</title>
-<g id="a_node2"><a xlink:href="rwrp.CollectSubweapon.svg" xlink:title="rwrp.CollectSubweapon">
-<ellipse fill="green" stroke="black" cx="122.19" cy="-198" rx="122.38" ry="18"/>
-<text text-anchor="middle" x="122.19" y="-194.3" font-family="Times,serif" font-size="14.00">rwrp.CollectSubweapon</text>
-</a>
-</g>
-</g>
-<!-- rwrp.CollectSubweapon&#45;&gt;rwrp.SetStep -->
-<g id="edge1" class="edge">
-<title>rwrp.CollectSubweapon&#45;&gt;rwrp.SetStep</title>
-<path fill="none" stroke="black" d="M134.08,-179.93C156.02,-148.43 202.97,-81.03 228.61,-44.24"/>
-<polygon fill="black" stroke="black" points="231.49,-46.22 234.34,-36.02 225.75,-42.22 231.49,-46.22"/>
-<text text-anchor="middle" x="129.08" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="232.54" cy="-18" rx="73.39" ry="18"/>
+<text text-anchor="middle" x="232.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp.SetStep</text>
 </g>
 <!-- rwrp.func_8018F9B4 -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>rwrp.func_8018F9B4</title>
-<g id="a_node3"><a xlink:href="rwrp.func_8018F9B4.svg" xlink:title="rwrp.func_8018F9B4">
-<ellipse fill="red" stroke="black" cx="371.19" cy="-198" rx="108.58" ry="18"/>
-<text text-anchor="middle" x="371.19" y="-194.3" font-family="Times,serif" font-size="14.00">rwrp.func_8018F9B4</text>
+<g id="a_node2"><a xlink:href="rwrp.func_8018F9B4.svg" xlink:title="rwrp.func_8018F9B4">
+<ellipse fill="red" stroke="black" cx="108.54" cy="-198" rx="108.58" ry="18"/>
+<text text-anchor="middle" x="108.54" y="-194.3" font-family="Times,serif" font-size="14.00">rwrp.func_8018F9B4</text>
 </a>
 </g>
 </g>
 <!-- rwrp.func_8018F9B4&#45;&gt;rwrp.SetStep -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>rwrp.func_8018F9B4&#45;&gt;rwrp.SetStep</title>
-<path fill="none" stroke="black" d="M359.2,-179.93C337.08,-148.43 289.75,-81.03 263.91,-44.24"/>
-<polygon fill="black" stroke="black" points="266.75,-42.19 258.14,-36.02 261.02,-46.21 266.75,-42.19"/>
-<text text-anchor="middle" x="354.2" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M120.43,-179.93C142.37,-148.43 189.33,-81.03 214.96,-44.24"/>
+<polygon fill="black" stroke="black" points="217.84,-46.22 220.69,-36.02 212.1,-42.22 217.84,-46.22"/>
+<text text-anchor="middle" x="115.43" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- rwrp.CollectSubweapon -->
+<g id="node3" class="node">
+<title>rwrp.CollectSubweapon</title>
+<g id="a_node3"><a xlink:href="rwrp.CollectSubweapon.svg" xlink:title="rwrp.CollectSubweapon">
+<ellipse fill="green" stroke="black" cx="357.54" cy="-198" rx="122.38" ry="18"/>
+<text text-anchor="middle" x="357.54" y="-194.3" font-family="Times,serif" font-size="14.00">rwrp.CollectSubweapon</text>
+</a>
+</g>
+</g>
+<!-- rwrp.CollectSubweapon&#45;&gt;rwrp.SetStep -->
+<g id="edge2" class="edge">
+<title>rwrp.CollectSubweapon&#45;&gt;rwrp.SetStep</title>
+<path fill="none" stroke="black" d="M345.55,-179.93C323.44,-148.43 276.1,-81.03 250.27,-44.24"/>
+<polygon fill="black" stroke="black" points="253.1,-42.19 244.49,-36.02 247.37,-46.21 253.1,-42.19"/>
+<text text-anchor="middle" x="340.55" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>
