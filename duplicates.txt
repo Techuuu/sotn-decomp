@@ -1628,6 +1628,15 @@
 | 1.00 | false    | func_8018EC90                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018EC90.s 
 | 1.00 | true     | CollectGold                         | ../../asm/us/st/wrp/nonmatchings/861C/CollectGold.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/cen/nonmatchings/1B274/UnkLoopFunc.s 
+| 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/dre/nonmatchings/1C7DC/UnkLoopFunc.s 
+| 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/no3/nonmatchings/564B0/UnkLoopFunc.s 
+| 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/np3/nonmatchings/4E69C/UnkLoopFunc.s 
+| 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/nz0/nonmatchings/49930/UnkLoopFunc.s 
+| 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/rwrp/nonmatchings/A59C/UnkLoopFunc.s 
+| 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/st0/nonmatchings/36358/UnkLoopFunc.s 
+| 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/wrp/nonmatchings/D020/UnkLoopFunc.s 
+-------------------------------------------------------------------------------
 | 1.00 | false    | func_8019BBA4                       | ../../asm/us/st/cen/nonmatchings/1B274/func_8019BBA4.s 
 | 1.00 | false    | func_801A1CE8                       | ../../asm/us/st/dre/nonmatchings/1C7DC/func_801A1CE8.s 
 | 1.00 | false    | func_801D06FC                       | ../../asm/us/st/no3/nonmatchings/46684/func_801D06FC.s 
@@ -1636,15 +1645,6 @@
 | 1.00 | false    | func_80194EC0                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_80194EC0.s 
 | 1.00 | false    | func_801BA7D8                       | ../../asm/us/st/st0/nonmatchings/36358/func_801BA7D8.s 
 | 1.00 | false    | func_80192F40                       | ../../asm/us/st/wrp/nonmatchings/D020/func_80192F40.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_8019C6A0                       | ../../asm/us/st/cen/nonmatchings/1B274/func_8019C6A0.s 
-| 1.00 | true     | func_801A27E4                       | ../../asm/us/st/dre/nonmatchings/1C7DC/func_801A27E4.s 
-| 1.00 | true     | func_801D704C                       | ../../asm/us/st/no3/nonmatchings/564B0/func_801D704C.s 
-| 1.00 | true     | func_801D2704                       | ../../asm/us/st/np3/nonmatchings/4E69C/func_801D2704.s 
-| 1.00 | true     | func_801CA0FC                       | ../../asm/us/st/nz0/nonmatchings/49930/func_801CA0FC.s 
-| 1.00 | false    | func_801959BC                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_801959BC.s 
-| 1.00 | true     | func_801BD88C                       | ../../asm/us/st/st0/nonmatchings/36358/func_801BD88C.s 
-| 1.00 | true     | func_80193A3C                       | ../../asm/us/st/wrp/nonmatchings/D020/func_80193A3C.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_800E92F4                       | ../../asm/us/dra/nonmatchings/47BB8/func_800E92F4.s 
 | 1.00 | true     | func_800FAC30                       | ../../asm/us/dra/nonmatchings/5298C/func_800FAC30.s 
@@ -1842,12 +1842,6 @@
 | 1.00 | true     | func_801B0958                       | ../../asm/us/st/nz0/nonmatchings/30958/func_801B0958.s 
 | 1.00 | true     | func_801A7D64                       | ../../asm/us/st/st0/nonmatchings/27D64/func_801A7D64.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | GsClearVcount                       | ../../asm/us/main/nonmatchings/72A4/GsClearVcount.s 
-| 1.00 | false    | GsGetVcount                         | ../../asm/us/main/nonmatchings/72A4/GsGetVcount.s 
-| 0.90 | true     | def_cbread                          | ../../asm/us/main/nonmatchings/72A4/def_cbread.s 
-| 0.90 | true     | def_cbready                         | ../../asm/us/main/nonmatchings/72A4/def_cbready.s 
-| 0.90 | true     | def_cbsync                          | ../../asm/us/main/nonmatchings/72A4/def_cbsync.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | SetIR123                            | ../../asm/us/main/nonmatchings/72A4/SetIR123.s 
 | 1.00 | false    | SetMAC123                           | ../../asm/us/main/nonmatchings/72A4/SetMAC123.s 
 | 1.00 | false    | SetRii                              | ../../asm/us/main/nonmatchings/72A4/SetRii.s 
@@ -1879,6 +1873,11 @@
 | 1.00 | true     | func_800E928C                       | ../../asm/us/dra/nonmatchings/47BB8/func_800E928C.s 
 | 1.00 | true     | _clear_event                        | ../../asm/us/st/sel/nonmatchings/3642C/_clear_event.s 
 | 1.00 | true     | _clear_event_x                      | ../../asm/us/st/sel/nonmatchings/3642C/_clear_event_x.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | func_800F6A48                       | ../../asm/us/dra/nonmatchings/5298C/func_800F6A48.s 
+| 0.90 | true     | def_cbread                          | ../../asm/us/main/nonmatchings/72A4/def_cbread.s 
+| 0.90 | true     | def_cbready                         | ../../asm/us/main/nonmatchings/72A4/def_cbready.s 
+| 0.90 | true     | def_cbsync                          | ../../asm/us/main/nonmatchings/72A4/def_cbsync.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_80111928                       | ../../asm/us/dra/nonmatchings/71830/func_80111928.s 
 | 1.00 | true     | SpuVmDamperOff                      | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vm_doff/SpuVmDamperOff.s 
@@ -2227,6 +2226,9 @@
 -------------------------------------------------------------------------------
 | 1.00 | false    | EnterCriticalSection                | ../../asm/us/main/nonmatchings/5E78/EnterCriticalSection.s 
 | 1.00 | false    | ExitCriticalSection                 | ../../asm/us/main/nonmatchings/5E78/ExitCriticalSection.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | GsClearVcount                       | ../../asm/us/main/nonmatchings/72A4/GsClearVcount.s 
+| 1.00 | false    | GsGetVcount                         | ../../asm/us/main/nonmatchings/72A4/GsGetVcount.s 
 -------------------------------------------------------------------------------
 | 0.90 | false    | ColorDpq                            | ../../asm/us/main/nonmatchings/72A4/ColorDpq.s 
 | 1.00 | false    | NormalColorDpq                      | ../../asm/us/main/nonmatchings/72A4/NormalColorDpq.s 

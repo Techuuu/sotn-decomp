@@ -432,7 +432,6 @@
 | us/weapon/nonmatchings/w_056/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
 | us/weapon/nonmatchings/w_057/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
 | us/weapon/nonmatchings/w_058/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_801959BC.s                 |       35 |          5 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E160.s                 |       35 |          6 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CDFD8.s                 |       36 |          4 |        | https://decomp.me/scratch/obhN8 | 1.0   |
 | us/weapon/nonmatchings/w_001/DestroyEntityWeapon.s           |       36 |          6 |        |                                 |       |
