@@ -5,111 +5,111 @@
  -->
 <!-- Title: w_013.DestroyEntity Pages: 1 -->
 <svg width="1449pt" height="404pt"
- viewBox="0.00 0.00 1449.02 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1449.48 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
 <title>w_013.DestroyEntity</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 1445.02,-400 1445.02,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 1445.48,-400 1445.48,4 -4,4"/>
 <!-- w_013.DestroyEntity -->
 <g id="node1" class="node">
 <title>w_013.DestroyEntity</title>
-<ellipse fill="red" stroke="black" cx="713.44" cy="-198" rx="108.58" ry="18"/>
-<text text-anchor="middle" x="713.44" y="-194.3" font-family="Times,serif" font-size="14.00">w_013.DestroyEntity</text>
+<ellipse fill="red" stroke="black" cx="732.59" cy="-198" rx="108.58" ry="18"/>
+<text text-anchor="middle" x="732.59" y="-194.3" font-family="Times,serif" font-size="14.00">w_013.DestroyEntity</text>
 </g>
 <!-- dra.FreePrimitives -->
 <g id="node2" class="node">
 <title>dra.FreePrimitives</title>
 <g id="a_node2"><a xlink:href="dra.FreePrimitives.svg" xlink:title="dra.FreePrimitives">
-<ellipse fill="green" stroke="black" cx="713.44" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="713.44" y="-14.3" font-family="Times,serif" font-size="14.00">dra.FreePrimitives</text>
+<ellipse fill="green" stroke="black" cx="732.59" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="732.59" y="-14.3" font-family="Times,serif" font-size="14.00">dra.FreePrimitives</text>
 </a>
 </g>
 </g>
 <!-- w_013.DestroyEntity&#45;&gt;dra.FreePrimitives -->
 <g id="edge1" class="edge">
 <title>w_013.DestroyEntity&#45;&gt;dra.FreePrimitives</title>
-<path fill="none" stroke="black" d="M713.44,-179.93C713.44,-148.97 713.44,-83.3 713.44,-46.13"/>
-<polygon fill="black" stroke="black" points="716.94,-46.02 713.44,-36.02 709.94,-46.02 716.94,-46.02"/>
-<text text-anchor="middle" x="708.44" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_013.EntityWeaponAttack -->
-<g id="node3" class="node">
-<title>w_013.EntityWeaponAttack</title>
-<g id="a_node3"><a xlink:href="w_013.EntityWeaponAttack.svg" xlink:title="w_013.EntityWeaponAttack">
-<ellipse fill="red" stroke="black" cx="138.44" cy="-378" rx="138.38" ry="18"/>
-<text text-anchor="middle" x="138.44" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.EntityWeaponAttack</text>
-</a>
-</g>
-</g>
-<!-- w_013.EntityWeaponAttack&#45;&gt;w_013.DestroyEntity -->
-<g id="edge2" class="edge">
-<title>w_013.EntityWeaponAttack&#45;&gt;w_013.DestroyEntity</title>
-<path fill="none" stroke="black" d="M189.47,-361.2C296.05,-328.21 541.77,-252.14 654.71,-217.18"/>
-<polygon fill="black" stroke="black" points="656.05,-220.43 664.57,-214.13 653.98,-213.74 656.05,-220.43"/>
-<text text-anchor="middle" x="184.47" y="-350" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_013.func_ptr_80170008 -->
-<g id="node4" class="node">
-<title>w_013.func_ptr_80170008</title>
-<g id="a_node4"><a xlink:href="w_013.func_ptr_80170008.svg" xlink:title="w_013.func_ptr_80170008">
-<ellipse fill="red" stroke="black" cx="428.44" cy="-378" rx="133.48" ry="18"/>
-<text text-anchor="middle" x="428.44" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.func_ptr_80170008</text>
-</a>
-</g>
-</g>
-<!-- w_013.func_ptr_80170008&#45;&gt;w_013.DestroyEntity -->
-<g id="edge3" class="edge">
-<title>w_013.func_ptr_80170008&#45;&gt;w_013.DestroyEntity</title>
-<path fill="none" stroke="black" d="M455.25,-360.25C506.94,-327.97 620.37,-257.13 678.13,-221.05"/>
-<polygon fill="black" stroke="black" points="680.28,-223.84 686.9,-215.57 676.57,-217.9 680.28,-223.84"/>
-<text text-anchor="middle" x="450.25" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_013.func_ptr_8017000C -->
-<g id="node5" class="node">
-<title>w_013.func_ptr_8017000C</title>
-<g id="a_node5"><a xlink:href="w_013.func_ptr_8017000C.svg" xlink:title="w_013.func_ptr_8017000C">
-<ellipse fill="red" stroke="black" cx="713.44" cy="-378" rx="133.78" ry="18"/>
-<text text-anchor="middle" x="713.44" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.func_ptr_8017000C</text>
-</a>
-</g>
-</g>
-<!-- w_013.func_ptr_8017000C&#45;&gt;w_013.DestroyEntity -->
-<g id="edge4" class="edge">
-<title>w_013.func_ptr_8017000C&#45;&gt;w_013.DestroyEntity</title>
-<path fill="none" stroke="black" d="M713.44,-359.93C713.44,-328.97 713.44,-263.3 713.44,-226.13"/>
-<polygon fill="black" stroke="black" points="716.94,-226.02 713.44,-216.02 709.94,-226.02 716.94,-226.02"/>
-<text text-anchor="middle" x="708.44" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_013.func_ptr_80170004 -->
-<g id="node6" class="node">
-<title>w_013.func_ptr_80170004</title>
-<g id="a_node6"><a xlink:href="w_013.func_ptr_80170004.svg" xlink:title="w_013.func_ptr_80170004">
-<ellipse fill="red" stroke="black" cx="998.44" cy="-378" rx="133.48" ry="18"/>
-<text text-anchor="middle" x="998.44" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.func_ptr_80170004</text>
-</a>
-</g>
-</g>
-<!-- w_013.func_ptr_80170004&#45;&gt;w_013.DestroyEntity -->
-<g id="edge5" class="edge">
-<title>w_013.func_ptr_80170004&#45;&gt;w_013.DestroyEntity</title>
-<path fill="none" stroke="black" d="M971.63,-360.25C919.93,-327.97 806.51,-257.13 748.75,-221.05"/>
-<polygon fill="black" stroke="black" points="750.31,-217.9 739.97,-215.57 746.6,-223.84 750.31,-217.9"/>
-<text text-anchor="middle" x="966.63" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M732.59,-179.93C732.59,-148.97 732.59,-83.3 732.59,-46.13"/>
+<polygon fill="black" stroke="black" points="736.09,-46.02 732.59,-36.02 729.09,-46.02 736.09,-46.02"/>
+<text text-anchor="middle" x="727.59" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_013.DestroyEntityWeapon -->
-<g id="node7" class="node">
+<g id="node3" class="node">
 <title>w_013.DestroyEntityWeapon</title>
-<g id="a_node7"><a xlink:href="w_013.DestroyEntityWeapon.svg" xlink:title="w_013.DestroyEntityWeapon">
-<ellipse fill="red" stroke="black" cx="1295.44" cy="-378" rx="145.67" ry="18"/>
-<text text-anchor="middle" x="1295.44" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.DestroyEntityWeapon</text>
+<g id="a_node3"><a xlink:href="w_013.DestroyEntityWeapon.svg" xlink:title="w_013.DestroyEntityWeapon">
+<ellipse fill="red" stroke="black" cx="145.59" cy="-378" rx="145.67" ry="18"/>
+<text text-anchor="middle" x="145.59" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.DestroyEntityWeapon</text>
 </a>
 </g>
 </g>
 <!-- w_013.DestroyEntityWeapon&#45;&gt;w_013.DestroyEntity -->
-<g id="edge6" class="edge">
+<g id="edge2" class="edge">
 <title>w_013.DestroyEntityWeapon&#45;&gt;w_013.DestroyEntity</title>
-<path fill="none" stroke="black" d="M1243.53,-361.13C1135.38,-328.05 886.51,-251.93 772.47,-217.05"/>
-<polygon fill="black" stroke="black" points="773.43,-213.69 762.85,-214.11 771.39,-220.38 773.43,-213.69"/>
-<text text-anchor="middle" x="1238.53" y="-349.93" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M197.94,-361.13C307.02,-328.05 558.03,-251.93 673.05,-217.05"/>
+<polygon fill="black" stroke="black" points="674.2,-220.36 682.75,-214.11 672.17,-213.66 674.2,-220.36"/>
+<text text-anchor="middle" x="192.94" y="-349.93" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- w_013.func_ptr_80170004 -->
+<g id="node4" class="node">
+<title>w_013.func_ptr_80170004</title>
+<g id="a_node4"><a xlink:href="w_013.func_ptr_80170004.svg" xlink:title="w_013.func_ptr_80170004">
+<ellipse fill="red" stroke="black" cx="442.59" cy="-378" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="442.59" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.func_ptr_80170004</text>
+</a>
+</g>
+</g>
+<!-- w_013.func_ptr_80170004&#45;&gt;w_013.DestroyEntity -->
+<g id="edge3" class="edge">
+<title>w_013.func_ptr_80170004&#45;&gt;w_013.DestroyEntity</title>
+<path fill="none" stroke="black" d="M469.87,-360.25C522.58,-327.9 638.36,-256.84 697.02,-220.83"/>
+<polygon fill="black" stroke="black" points="698.9,-223.79 705.59,-215.57 695.23,-217.82 698.9,-223.79"/>
+<text text-anchor="middle" x="464.87" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_013.EntityWeaponAttack -->
+<g id="node5" class="node">
+<title>w_013.EntityWeaponAttack</title>
+<g id="a_node5"><a xlink:href="w_013.EntityWeaponAttack.svg" xlink:title="w_013.EntityWeaponAttack">
+<ellipse fill="red" stroke="black" cx="732.59" cy="-378" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="732.59" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.EntityWeaponAttack</text>
+</a>
+</g>
+</g>
+<!-- w_013.EntityWeaponAttack&#45;&gt;w_013.DestroyEntity -->
+<g id="edge4" class="edge">
+<title>w_013.EntityWeaponAttack&#45;&gt;w_013.DestroyEntity</title>
+<path fill="none" stroke="black" d="M732.59,-359.93C732.59,-328.97 732.59,-263.3 732.59,-226.13"/>
+<polygon fill="black" stroke="black" points="736.09,-226.02 732.59,-216.02 729.09,-226.02 736.09,-226.02"/>
+<text text-anchor="middle" x="727.59" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_013.func_ptr_80170008 -->
+<g id="node6" class="node">
+<title>w_013.func_ptr_80170008</title>
+<g id="a_node6"><a xlink:href="w_013.func_ptr_80170008.svg" xlink:title="w_013.func_ptr_80170008">
+<ellipse fill="red" stroke="black" cx="1022.59" cy="-378" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="1022.59" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.func_ptr_80170008</text>
+</a>
+</g>
+</g>
+<!-- w_013.func_ptr_80170008&#45;&gt;w_013.DestroyEntity -->
+<g id="edge5" class="edge">
+<title>w_013.func_ptr_80170008&#45;&gt;w_013.DestroyEntity</title>
+<path fill="none" stroke="black" d="M995.3,-360.25C942.6,-327.9 826.81,-256.84 768.15,-220.83"/>
+<polygon fill="black" stroke="black" points="769.94,-217.82 759.59,-215.57 766.28,-223.79 769.94,-217.82"/>
+<text text-anchor="middle" x="990.3" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_013.func_ptr_8017000C -->
+<g id="node7" class="node">
+<title>w_013.func_ptr_8017000C</title>
+<g id="a_node7"><a xlink:href="w_013.func_ptr_8017000C.svg" xlink:title="w_013.func_ptr_8017000C">
+<ellipse fill="red" stroke="black" cx="1307.59" cy="-378" rx="133.78" ry="18"/>
+<text text-anchor="middle" x="1307.59" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.func_ptr_8017000C</text>
+</a>
+</g>
+</g>
+<!-- w_013.func_ptr_8017000C&#45;&gt;w_013.DestroyEntity -->
+<g id="edge6" class="edge">
+<title>w_013.func_ptr_8017000C&#45;&gt;w_013.DestroyEntity</title>
+<path fill="none" stroke="black" d="M1256.81,-361.28C1150.38,-328.33 904.44,-252.2 791.38,-217.2"/>
+<polygon fill="black" stroke="black" points="792.1,-213.76 781.51,-214.15 790.03,-220.45 792.1,-213.76"/>
+<text text-anchor="middle" x="1251.81" y="-350.08" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

@@ -855,7 +855,7 @@
 | us/dra/nonmatchings/692E8/func_801106A4.s                    |      112 |         21 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80116994.s                    |      113 |         22 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B38B4.s                 |      116 |          8 |        |                                 |       |
-| us/dra/nonmatchings/75F54/func_801238CC.s                    |      116 |         11 |        |                                 |       |
+| us/dra/nonmatchings/75F54/func_801238CC.s                    |      116 |         11 |        | https://decomp.me/scratch/XIydD | 0.984 |
 | us/dra/nonmatchings/692E8/func_8010DBFC.s                    |      118 |         14 |        |                                 |       |
 | us/weapon/nonmatchings/w_043/func_ptr_80170008.s             |      118 |         14 |        |                                 |       |
 | us/st/mad/nonmatchings/D8C8/func_8018DF0C.s                  |      118 |         16 |        | https://decomp.me/scratch/Iz0E6 | 1.0   |
@@ -964,7 +964,7 @@
 | us/st/st0/nonmatchings/31CA0/func_801B5BF0.s                 |      166 |         31 |        |                                 |       |
 | us/weapon/nonmatchings/w_031/EntityWeaponAttack.s            |      167 |         19 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntitySmallUpwardsSplash.s      |      167 |         20 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/func_801C5F58.s                 |      167 |         20 |        | https://decomp.me/scratch/Fw6kc | 0.999 |
+| us/st/np3/nonmatchings/44DCC/func_801C5F58.s                 |      167 |         20 |        | https://decomp.me/scratch/Fw6kc | 0.998 |
 | us/weapon/nonmatchings/w_005/EntityWeaponAttack.s            |      168 |         17 |        |                                 |       |
 | us/weapon/nonmatchings/w_013/func_ptr_8017000C.s             |      168 |         23 |        |                                 |       |
 | us/weapon/nonmatchings/w_055/EntityWeaponAttack.s            |      169 |         18 |        |                                 |       |
@@ -1142,7 +1142,7 @@
 | us/weapon/nonmatchings/w_050/func_ptr_80170010.s             |      288 |         34 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E7E08.s                    |      288 |         57 | Yes    | https://decomp.me/scratch/g2A7S | 0.974 |
 | us/st/no3/nonmatchings/46684/EntityLargeWaterSplash.s        |      289 |         28 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/func_801C7954.s                 |      289 |         28 |        | https://decomp.me/scratch/jYNF0 | 0.598 |
+| us/st/np3/nonmatchings/44DCC/func_801C7954.s                 |      289 |         28 |        | https://decomp.me/scratch/jYNF0 | 0.638 |
 | us/dra/nonmatchings/75F54/func_80123B40.s                    |      292 |         22 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHolyWaterBreakGlass.s        |      293 |         26 |        |                                 |       |
 | us/weapon/nonmatchings/w_050/func_ptr_80170008.s             |      294 |         29 |        |                                 |       |
