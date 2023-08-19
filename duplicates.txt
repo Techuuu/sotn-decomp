@@ -1011,7 +1011,7 @@
 | 1.00 | true     | EntityPrizeDrop                     | ../../asm/us/st/no3/nonmatchings/46684/EntityPrizeDrop.s 
 | 1.00 | true     | EntityPrizeDrop                     | ../../asm/us/st/np3/nonmatchings/3DEF4/EntityPrizeDrop.s 
 | 1.00 | true     | EntityPrizeDrop                     | ../../asm/us/st/nz0/nonmatchings/3E30C/EntityPrizeDrop.s 
-| 1.00 | false    | func_8018EFA0                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018EFA0.s 
+| 1.00 | false    | EntityPrizeDrop                     | ../../asm/us/st/rwrp/nonmatchings/A59C/EntityPrizeDrop.s 
 | 0.94 | true     | EntityPrizeDrop                     | ../../asm/us/st/st0/nonmatchings/36358/EntityPrizeDrop.s 
 | 1.00 | true     | EntityPrizeDrop                     | ../../asm/us/st/wrp/nonmatchings/D020/EntityPrizeDrop.s 
 -------------------------------------------------------------------------------
@@ -1115,6 +1115,16 @@
 | 1.00 | true     | MoveEntity                          | ../../asm/us/st/st0/nonmatchings/31CA0/MoveEntity.s 
 | 1.00 | true     | MoveEntity                          | ../../asm/us/st/wrp/nonmatchings/861C/MoveEntity.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/cen/nonmatchings/11280/PreventEntityFromRespawning.s 
+| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/dre/nonmatchings/173C4/PreventEntityFromRespawning.s 
+| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/mad/nonmatchings/EDB8/PreventEntityFromRespawning.s 
+| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/no3/nonmatchings/41C80/PreventEntityFromRespawning.s 
+| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/np3/nonmatchings/394F0/PreventEntityFromRespawning.s 
+| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/nz0/nonmatchings/39908/PreventEntityFromRespawning.s 
+| 1.00 | false    | PreventEntityFromRespawning         | ../../asm/us/st/rwrp/nonmatchings/A59C/PreventEntityFromRespawning.s 
+| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/st0/nonmatchings/31CA0/PreventEntityFromRespawning.s 
+| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/wrp/nonmatchings/861C/PreventEntityFromRespawning.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | SetStep                             | ../../asm/us/st/cen/nonmatchings/11280/SetStep.s 
 | 1.00 | true     | SetStep                             | ../../asm/us/st/dre/nonmatchings/173C4/SetStep.s 
 | 1.00 | true     | func_80192BD0                       | ../../asm/us/st/mad/nonmatchings/EDB8/func_80192BD0.s 
@@ -1134,16 +1144,6 @@
 | 1.00 | false    | func_8018C72C                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018C72C.s 
 | 1.00 | true     | func_801B3AB4                       | ../../asm/us/st/st0/nonmatchings/31CA0/func_801B3AB4.s 
 | 1.00 | true     | func_8018A7AC                       | ../../asm/us/st/wrp/nonmatchings/861C/func_8018A7AC.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | func_8019434C                       | ../../asm/us/st/cen/nonmatchings/11280/func_8019434C.s 
-| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/dre/nonmatchings/173C4/PreventEntityFromRespawning.s 
-| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/mad/nonmatchings/EDB8/PreventEntityFromRespawning.s 
-| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/no3/nonmatchings/41C80/PreventEntityFromRespawning.s 
-| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/np3/nonmatchings/394F0/PreventEntityFromRespawning.s 
-| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/nz0/nonmatchings/39908/PreventEntityFromRespawning.s 
-| 1.00 | false    | func_8018D668                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018D668.s 
-| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/st0/nonmatchings/31CA0/PreventEntityFromRespawning.s 
-| 1.00 | true     | PreventEntityFromRespawning         | ../../asm/us/st/wrp/nonmatchings/861C/PreventEntityFromRespawning.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_8019444C                       | ../../asm/us/st/cen/nonmatchings/11280/func_8019444C.s 
 | 1.00 | true     | func_8019A590                       | ../../asm/us/st/dre/nonmatchings/173C4/func_8019A590.s 
@@ -1610,13 +1610,13 @@
 | 1.00 | false    | func_8018E634                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018E634.s 
 | 1.00 | false    | func_8018C6B4                       | ../../asm/us/st/wrp/nonmatchings/861C/func_8018C6B4.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_8019565C                       | ../../asm/us/st/cen/nonmatchings/11280/func_8019565C.s 
+| 1.00 | true     | func_8019565C                       | ../../asm/us/st/cen/nonmatchings/11280/func_8019565C.s 
 | 1.00 | true     | func_8019B7A0                       | ../../asm/us/st/dre/nonmatchings/173C4/func_8019B7A0.s 
 | 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/mad/nonmatchings/EDB8/ReplaceBreakableWithItemDrop.s 
 | 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/no3/nonmatchings/41C80/ReplaceBreakableWithItemDrop.s 
 | 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/np3/nonmatchings/394F0/ReplaceBreakableWithItemDrop.s 
 | 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/nz0/nonmatchings/39908/ReplaceBreakableWithItemDrop.s 
-| 1.00 | false    | func_8018E978                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018E978.s 
+| 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/rwrp/nonmatchings/A59C/ReplaceBreakableWithItemDrop.s 
 | 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/wrp/nonmatchings/861C/ReplaceBreakableWithItemDrop.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_80195974                       | ../../asm/us/st/cen/nonmatchings/11280/func_80195974.s 
@@ -1691,7 +1691,7 @@
 | 1.00 | true     | EntityEquipItemDrop                 | ../../asm/us/st/no3/nonmatchings/46684/EntityEquipItemDrop.s 
 | 1.00 | true     | EntityEquipItemDrop                 | ../../asm/us/st/np3/nonmatchings/3DEF4/EntityEquipItemDrop.s 
 | 1.00 | true     | EntityEquipItemDrop                 | ../../asm/us/st/nz0/nonmatchings/3E30C/EntityEquipItemDrop.s 
-| 1.00 | false    | func_8018F9B4                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018F9B4.s 
+| 1.00 | false    | EntityEquipItemDrop                 | ../../asm/us/st/rwrp/nonmatchings/A59C/EntityEquipItemDrop.s 
 | 1.00 | true     | EntityEquipItemDrop                 | ../../asm/us/st/wrp/nonmatchings/D020/EntityEquipItemDrop.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | EntityRelicOrb                      | ../../asm/us/st/cen/nonmatchings/11280/EntityRelicOrb.s 
@@ -1832,7 +1832,7 @@
 | 1.00 | true     | EntityBreakable                     | ../../asm/us/st/mad/nonmatchings/D8C8/EntityBreakable.s 
 | 1.00 | true     | EntityBreakable                     | ../../asm/us/st/no3/nonmatchings/377D4/EntityBreakable.s 
 | 1.00 | true     | EntityBreakable                     | ../../asm/us/st/np3/nonmatchings/3246C/EntityBreakable.s 
-| 1.00 | false    | func_8018908C                       | ../../asm/us/st/rwrp/nonmatchings/8DF0/func_8018908C.s 
+| 1.00 | false    | EntityBreakable                     | ../../asm/us/st/rwrp/nonmatchings/8DF0/EntityBreakable.s 
 | 1.00 | true     | EntityBreakable                     | ../../asm/us/st/wrp/nonmatchings/6FD0/EntityBreakable.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | EntityRoomForeground                | ../../asm/us/st/mad/nonmatchings/139E0/EntityRoomForeground.s 
