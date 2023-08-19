@@ -5,431 +5,431 @@
  -->
 <!-- Title: cen.InitializeEntity Pages: 1 -->
 <svg width="6305pt" height="224pt"
- viewBox="0.00 0.00 6304.58 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 6304.98 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>cen.InitializeEntity</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 6300.58,-220 6300.58,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 6300.98,-220 6300.98,4 -4,4"/>
 <!-- cen.InitializeEntity -->
 <g id="node1" class="node">
 <title>cen.InitializeEntity</title>
-<ellipse fill="red" stroke="black" cx="3161.59" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="3161.59" y="-14.3" font-family="Times,serif" font-size="14.00">cen.InitializeEntity</text>
+<ellipse fill="red" stroke="black" cx="3128.74" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="3128.74" y="-14.3" font-family="Times,serif" font-size="14.00">cen.InitializeEntity</text>
 </g>
-<!-- cen.EntityMovingElevator -->
+<!-- cen.EntityBackgroundBlock -->
 <g id="node2" class="node">
-<title>cen.EntityMovingElevator</title>
-<g id="a_node2"><a xlink:href="cen.EntityMovingElevator.svg" xlink:title="cen.EntityMovingElevator">
-<ellipse fill="green" stroke="black" cx="132.59" cy="-198" rx="132.68" ry="18"/>
-<text text-anchor="middle" x="132.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityMovingElevator</text>
+<title>cen.EntityBackgroundBlock</title>
+<g id="a_node2"><a xlink:href="cen.EntityBackgroundBlock.svg" xlink:title="cen.EntityBackgroundBlock">
+<ellipse fill="green" stroke="black" cx="139.74" cy="-198" rx="139.98" ry="18"/>
+<text text-anchor="middle" x="139.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityBackgroundBlock</text>
 </a>
 </g>
 </g>
-<!-- cen.EntityMovingElevator&#45;&gt;cen.InitializeEntity -->
+<!-- cen.EntityBackgroundBlock&#45;&gt;cen.InitializeEntity -->
 <g id="edge1" class="edge">
-<title>cen.EntityMovingElevator&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M224.65,-185.04C240.94,-183.17 257.75,-181.4 273.59,-180 1357.65,-84.53 2675.91,-35.32 3055,-22.47"/>
-<polygon fill="black" stroke="black" points="3055.26,-25.96 3065.14,-22.12 3055.02,-18.96 3055.26,-25.96"/>
-<text text-anchor="middle" x="219.65" y="-173.84" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityUnkId12 -->
-<g id="node3" class="node">
-<title>cen.EntityUnkId12</title>
-<g id="a_node3"><a xlink:href="cen.EntityUnkId12.svg" xlink:title="cen.EntityUnkId12">
-<ellipse fill="red" stroke="black" cx="381.59" cy="-198" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="381.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId12</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityUnkId12&#45;&gt;cen.InitializeEntity -->
-<g id="edge2" class="edge">
-<title>cen.EntityUnkId12&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M450.88,-185.09C463.72,-183.16 477.04,-181.36 489.59,-180 1482.9,-72.15 2692.38,-31.9 3054.35,-21.77"/>
-<polygon fill="black" stroke="black" points="3054.65,-25.26 3064.55,-21.48 3054.46,-18.26 3054.65,-25.26"/>
-<text text-anchor="middle" x="445.88" y="-173.89" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityElevatorStationary -->
-<g id="node4" class="node">
-<title>cen.EntityElevatorStationary</title>
-<g id="a_node4"><a xlink:href="cen.EntityElevatorStationary.svg" xlink:title="cen.EntityElevatorStationary">
-<ellipse fill="green" stroke="black" cx="645.59" cy="-198" rx="146.77" ry="18"/>
-<text text-anchor="middle" x="645.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityElevatorStationary</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityElevatorStationary&#45;&gt;cen.InitializeEntity -->
-<g id="edge3" class="edge">
-<title>cen.EntityElevatorStationary&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M748.74,-185.16C766.36,-183.31 784.49,-181.51 801.59,-180 1673.09,-102.82 2728.5,-42.6 3058.15,-24.56"/>
-<polygon fill="black" stroke="black" points="3058.37,-28.05 3068.16,-24.01 3057.99,-21.06 3058.37,-28.05"/>
-<text text-anchor="middle" x="743.74" y="-173.96" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityUnkId01 -->
-<g id="node5" class="node">
-<title>cen.EntityUnkId01</title>
-<g id="a_node5"><a xlink:href="cen.EntityUnkId01.svg" xlink:title="cen.EntityUnkId01">
-<ellipse fill="green" stroke="black" cx="909.59" cy="-198" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="909.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId01</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityUnkId01&#45;&gt;cen.InitializeEntity -->
-<g id="edge4" class="edge">
-<title>cen.EntityUnkId01&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M979.19,-185.19C991.94,-183.27 1005.14,-181.44 1017.59,-180 1798.25,-89.4 2745.05,-38.92 3056.65,-23.86"/>
-<polygon fill="black" stroke="black" points="3057.2,-27.33 3067.02,-23.36 3056.86,-20.34 3057.2,-27.33"/>
-<text text-anchor="middle" x="974.19" y="-173.99" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityUnkId1B -->
-<g id="node6" class="node">
-<title>cen.EntityUnkId1B</title>
-<g id="a_node6"><a xlink:href="cen.EntityUnkId1B.svg" xlink:title="cen.EntityUnkId1B">
-<ellipse fill="green" stroke="black" cx="1125.59" cy="-198" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="1125.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId1B</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityUnkId1B&#45;&gt;cen.InitializeEntity -->
-<g id="edge5" class="edge">
-<title>cen.EntityUnkId1B&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M1195.78,-185.19C1208.35,-183.29 1221.34,-181.47 1233.59,-180 1928.99,-96.35 2770.74,-42.15 3059.02,-24.93"/>
-<polygon fill="black" stroke="black" points="3059.26,-28.42 3069.04,-24.33 3058.85,-21.43 3059.26,-28.42"/>
-<text text-anchor="middle" x="1190.78" y="-173.99" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityRoomDarkness -->
-<g id="node7" class="node">
-<title>cen.EntityRoomDarkness</title>
-<g id="a_node7"><a xlink:href="cen.EntityRoomDarkness.svg" xlink:title="cen.EntityRoomDarkness">
-<ellipse fill="green" stroke="black" cx="1370.59" cy="-198" rx="128.08" ry="18"/>
-<text text-anchor="middle" x="1370.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityRoomDarkness</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityRoomDarkness&#45;&gt;cen.InitializeEntity -->
-<g id="edge6" class="edge">
-<title>cen.EntityRoomDarkness&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M1461.93,-185.33C1477.17,-183.48 1492.82,-181.63 1507.59,-180 2098.3,-114.61 2809.33,-50.21 3064.54,-27.54"/>
-<polygon fill="black" stroke="black" points="3064.88,-31.03 3074.53,-26.66 3064.26,-24.06 3064.88,-31.03"/>
-<text text-anchor="middle" x="1456.93" y="-174.13" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityMaria -->
-<g id="node8" class="node">
-<title>cen.EntityMaria</title>
-<g id="a_node8"><a xlink:href="cen.EntityMaria.svg" xlink:title="cen.EntityMaria">
-<ellipse fill="green" stroke="black" cx="1602.59" cy="-198" rx="85.59" ry="18"/>
-<text text-anchor="middle" x="1602.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityMaria</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityMaria&#45;&gt;cen.InitializeEntity -->
-<g id="edge7" class="edge">
-<title>cen.EntityMaria&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M1664.07,-185.37C1675.2,-183.45 1686.73,-181.57 1697.59,-180 2210.36,-106.01 2828.51,-48.29 3064.04,-27.43"/>
-<polygon fill="black" stroke="black" points="3064.63,-30.89 3074.28,-26.53 3064.02,-23.92 3064.63,-30.89"/>
-<text text-anchor="middle" x="1659.07" y="-174.17" font-family="Times,serif" font-size="14.00">1</text>
+<title>cen.EntityBackgroundBlock&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M237.44,-185.05C254.52,-183.19 272.13,-181.42 288.74,-180 1354.18,-89.09 2649.01,-36.79 3022.99,-22.82"/>
+<polygon fill="black" stroke="black" points="3023.12,-26.32 3032.98,-22.45 3022.86,-19.32 3023.12,-26.32"/>
+<text text-anchor="middle" x="232.44" y="-173.85" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- cen.func_8018DB18 -->
-<g id="node9" class="node">
+<g id="node3" class="node">
 <title>cen.func_8018DB18</title>
-<g id="a_node9"><a xlink:href="cen.func_8018DB18.svg" xlink:title="cen.func_8018DB18">
-<ellipse fill="green" stroke="black" cx="1809.59" cy="-198" rx="103.18" ry="18"/>
-<text text-anchor="middle" x="1809.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.func_8018DB18</text>
+<g id="a_node3"><a xlink:href="cen.func_8018DB18.svg" xlink:title="cen.func_8018DB18">
+<ellipse fill="green" stroke="black" cx="400.74" cy="-198" rx="103.18" ry="18"/>
+<text text-anchor="middle" x="400.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.func_8018DB18</text>
 </a>
 </g>
 </g>
 <!-- cen.func_8018DB18&#45;&gt;cen.InitializeEntity -->
-<g id="edge8" class="edge">
+<g id="edge2" class="edge">
 <title>cen.func_8018DB18&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M1883.96,-185.48C1896.51,-183.6 1909.42,-181.71 1921.59,-180 2352.04,-119.39 2867.78,-55.09 3072.01,-29.96"/>
-<polygon fill="black" stroke="black" points="3072.58,-33.42 3082.08,-28.72 3071.73,-26.47 3072.58,-33.42"/>
-<text text-anchor="middle" x="1878.96" y="-174.28" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M472.91,-185.08C486.13,-183.17 499.83,-181.37 512.74,-180 1483.85,-76.62 2665.37,-33.42 3021.92,-22.16"/>
+<polygon fill="black" stroke="black" points="3022.09,-25.65 3031.98,-21.84 3021.87,-18.66 3022.09,-25.65"/>
+<text text-anchor="middle" x="467.91" y="-173.88" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityRoomDarkness -->
+<g id="node4" class="node">
+<title>cen.EntityRoomDarkness</title>
+<g id="a_node4"><a xlink:href="cen.EntityRoomDarkness.svg" xlink:title="cen.EntityRoomDarkness">
+<ellipse fill="green" stroke="black" cx="649.74" cy="-198" rx="128.08" ry="18"/>
+<text text-anchor="middle" x="649.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityRoomDarkness</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityRoomDarkness&#45;&gt;cen.InitializeEntity -->
+<g id="edge3" class="edge">
+<title>cen.EntityRoomDarkness&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M739.57,-185.14C755.27,-183.27 771.47,-181.47 786.74,-180 1649.75,-96.85 2695.71,-40.72 3024.61,-24.12"/>
+<polygon fill="black" stroke="black" points="3024.79,-27.61 3034.6,-23.61 3024.44,-20.62 3024.79,-27.61"/>
+<text text-anchor="middle" x="734.57" y="-173.94" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityMaria -->
+<g id="node5" class="node">
+<title>cen.EntityMaria</title>
+<g id="a_node5"><a xlink:href="cen.EntityMaria.svg" xlink:title="cen.EntityMaria">
+<ellipse fill="green" stroke="black" cx="881.74" cy="-198" rx="85.59" ry="18"/>
+<text text-anchor="middle" x="881.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityMaria</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityMaria&#45;&gt;cen.InitializeEntity -->
+<g id="edge4" class="edge">
+<title>cen.EntityMaria&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M942.41,-185.19C953.79,-183.25 965.6,-181.41 976.74,-180 1758.86,-81.03 2709.17,-35.98 3022.76,-23.08"/>
+<polygon fill="black" stroke="black" points="3023.35,-26.56 3033.2,-22.65 3023.07,-19.57 3023.35,-26.56"/>
+<text text-anchor="middle" x="937.41" y="-173.99" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityElevatorStationary -->
+<g id="node6" class="node">
+<title>cen.EntityElevatorStationary</title>
+<g id="a_node6"><a xlink:href="cen.EntityElevatorStationary.svg" xlink:title="cen.EntityElevatorStationary">
+<ellipse fill="green" stroke="black" cx="1132.74" cy="-198" rx="146.77" ry="18"/>
+<text text-anchor="middle" x="1132.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityElevatorStationary</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityElevatorStationary&#45;&gt;cen.InitializeEntity -->
+<g id="edge5" class="edge">
+<title>cen.EntityElevatorStationary&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M1237.18,-185.31C1254.4,-183.47 1272.06,-181.64 1288.74,-180 1953.49,-114.7 2754.66,-49.07 3030.14,-26.88"/>
+<polygon fill="black" stroke="black" points="3030.42,-30.37 3040.11,-26.08 3029.86,-23.4 3030.42,-30.37"/>
+<text text-anchor="middle" x="1232.18" y="-174.11" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityUnkId01 -->
+<g id="node7" class="node">
+<title>cen.EntityUnkId01</title>
+<g id="a_node7"><a xlink:href="cen.EntityUnkId01.svg" xlink:title="cen.EntityUnkId01">
+<ellipse fill="green" stroke="black" cx="1396.74" cy="-198" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="1396.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId01</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityUnkId01&#45;&gt;cen.InitializeEntity -->
+<g id="edge6" class="edge">
+<title>cen.EntityUnkId01&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M1467.24,-185.31C1479.71,-183.41 1492.59,-181.56 1504.74,-180 2080.94,-106.15 2775.89,-47.32 3029.77,-26.82"/>
+<polygon fill="black" stroke="black" points="3030.39,-30.28 3040.08,-25.99 3029.83,-23.31 3030.39,-30.28"/>
+<text text-anchor="middle" x="1462.24" y="-174.11" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityUnkId12 -->
+<g id="node8" class="node">
+<title>cen.EntityUnkId12</title>
+<g id="a_node8"><a xlink:href="cen.EntityUnkId12.svg" xlink:title="cen.EntityUnkId12">
+<ellipse fill="red" stroke="black" cx="1612.74" cy="-198" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="1612.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId12</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityUnkId12&#45;&gt;cen.InitializeEntity -->
+<g id="edge7" class="edge">
+<title>cen.EntityUnkId12&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M1683.18,-185.36C1695.36,-183.48 1707.9,-181.62 1719.74,-180 2213.16,-112.65 2806.46,-51.22 3033.78,-28.4"/>
+<polygon fill="black" stroke="black" points="3034.4,-31.85 3044,-27.37 3033.71,-24.89 3034.4,-31.85"/>
+<text text-anchor="middle" x="1678.18" y="-174.16" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityMovingElevator -->
+<g id="node9" class="node">
+<title>cen.EntityMovingElevator</title>
+<g id="a_node9"><a xlink:href="cen.EntityMovingElevator.svg" xlink:title="cen.EntityMovingElevator">
+<ellipse fill="green" stroke="black" cx="1861.74" cy="-198" rx="132.68" ry="18"/>
+<text text-anchor="middle" x="1861.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityMovingElevator</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityMovingElevator&#45;&gt;cen.InitializeEntity -->
+<g id="edge8" class="edge">
+<title>cen.EntityMovingElevator&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M1950.33,-184.55C2183.7,-151.77 2813.18,-63.33 3043.13,-31.03"/>
+<polygon fill="black" stroke="black" points="3043.7,-34.48 3053.12,-29.62 3042.73,-27.55 3043.7,-34.48"/>
+<text text-anchor="middle" x="1945.33" y="-173.35" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- cen.EntityPlatform -->
 <g id="node10" class="node">
 <title>cen.EntityPlatform</title>
 <g id="a_node10"><a xlink:href="cen.EntityPlatform.svg" xlink:title="cen.EntityPlatform">
-<ellipse fill="green" stroke="black" cx="2029.59" cy="-198" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="2029.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityPlatform</text>
+<ellipse fill="green" stroke="black" cx="2110.74" cy="-198" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="2110.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityPlatform</text>
 </a>
 </g>
 </g>
 <!-- cen.EntityPlatform&#45;&gt;cen.InitializeEntity -->
 <g id="edge9" class="edge">
 <title>cen.EntityPlatform&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M2101.62,-185.66C2113.63,-183.77 2125.96,-181.83 2137.59,-180 2487.72,-124.92 2905.2,-59.3 3079.17,-31.95"/>
-<polygon fill="black" stroke="black" points="3079.93,-35.38 3089.27,-30.37 3078.85,-28.46 3079.93,-35.38"/>
-<text text-anchor="middle" x="2096.62" y="-174.46" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M2179.51,-184.97C2361.83,-153.1 2856.79,-66.55 3049.99,-32.77"/>
+<polygon fill="black" stroke="black" points="3050.82,-36.18 3060.07,-31.01 3049.61,-29.28 3050.82,-36.18"/>
+<text text-anchor="middle" x="2174.51" y="-173.77" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- cen.EntityBackgroundBlock -->
+<!-- cen.EntityUnkId1B -->
 <g id="node11" class="node">
-<title>cen.EntityBackgroundBlock</title>
-<g id="a_node11"><a xlink:href="cen.EntityBackgroundBlock.svg" xlink:title="cen.EntityBackgroundBlock">
-<ellipse fill="green" stroke="black" cx="2286.59" cy="-198" rx="139.98" ry="18"/>
-<text text-anchor="middle" x="2286.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityBackgroundBlock</text>
+<title>cen.EntityUnkId1B</title>
+<g id="a_node11"><a xlink:href="cen.EntityUnkId1B.svg" xlink:title="cen.EntityUnkId1B">
+<ellipse fill="green" stroke="black" cx="2326.74" cy="-198" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="2326.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId1B</text>
 </a>
 </g>
 </g>
-<!-- cen.EntityBackgroundBlock&#45;&gt;cen.InitializeEntity -->
+<!-- cen.EntityUnkId1B&#45;&gt;cen.InitializeEntity -->
 <g id="edge10" class="edge">
-<title>cen.EntityBackgroundBlock&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M2357.82,-182.51C2521.37,-149.24 2922.4,-67.66 3088.11,-33.95"/>
-<polygon fill="black" stroke="black" points="3089.1,-37.32 3098.2,-31.89 3087.7,-30.46 3089.1,-37.32"/>
-<text text-anchor="middle" x="2352.82" y="-171.31" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityEnemyBlood -->
-<g id="node12" class="node">
-<title>cen.EntityEnemyBlood</title>
-<g id="a_node12"><a xlink:href="cen.EntityEnemyBlood.svg" xlink:title="cen.EntityEnemyBlood">
-<ellipse fill="green" stroke="black" cx="2561.59" cy="-198" rx="116.98" ry="18"/>
-<text text-anchor="middle" x="2561.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityEnemyBlood</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityEnemyBlood&#45;&gt;cen.InitializeEntity -->
-<g id="edge11" class="edge">
-<title>cen.EntityEnemyBlood&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M2613,-181.75C2723.87,-148.86 2984.87,-71.43 3102.4,-36.56"/>
-<polygon fill="black" stroke="black" points="3103.71,-39.82 3112.3,-33.62 3101.72,-33.11 3103.71,-39.82"/>
-<text text-anchor="middle" x="2608" y="-170.55" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntitySoulStealOrb -->
-<g id="node13" class="node">
-<title>cen.EntitySoulStealOrb</title>
-<g id="a_node13"><a xlink:href="cen.EntitySoulStealOrb.svg" xlink:title="cen.EntitySoulStealOrb">
-<ellipse fill="green" stroke="black" cx="2816.59" cy="-198" rx="120.48" ry="18"/>
-<text text-anchor="middle" x="2816.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntitySoulStealOrb</text>
-</a>
-</g>
-</g>
-<!-- cen.EntitySoulStealOrb&#45;&gt;cen.InitializeEntity -->
-<g id="edge12" class="edge">
-<title>cen.EntitySoulStealOrb&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M2848.43,-180.57C2911.49,-148.04 3052.14,-75.47 3121.44,-39.72"/>
-<polygon fill="black" stroke="black" points="3123.04,-42.83 3130.33,-35.13 3119.83,-36.6 3123.04,-42.83"/>
-<text text-anchor="middle" x="2843.43" y="-169.37" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityUnkId08 -->
-<g id="node14" class="node">
-<title>cen.EntityUnkId08</title>
-<g id="a_node14"><a xlink:href="cen.EntityUnkId08.svg" xlink:title="cen.EntityUnkId08">
-<ellipse fill="green" stroke="black" cx="3053.59" cy="-198" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="3053.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId08</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityUnkId08&#45;&gt;cen.InitializeEntity -->
-<g id="edge13" class="edge">
-<title>cen.EntityUnkId08&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M3063.94,-179.93C3082.97,-148.57 3123.6,-81.6 3145.99,-44.71"/>
-<polygon fill="black" stroke="black" points="3149.07,-46.38 3151.26,-36.02 3143.08,-42.75 3149.07,-46.38"/>
-<text text-anchor="middle" x="3058.94" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<title>cen.EntityUnkId1B&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M2387.02,-183.62C2532.72,-151.28 2903.42,-69.01 3058.67,-34.55"/>
+<polygon fill="black" stroke="black" points="3059.57,-37.94 3068.58,-32.35 3058.06,-31.1 3059.57,-37.94"/>
+<text text-anchor="middle" x="2382.02" y="-172.42" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- cen.EntityRedDoor -->
-<g id="node15" class="node">
+<g id="node12" class="node">
 <title>cen.EntityRedDoor</title>
-<g id="a_node15"><a xlink:href="cen.EntityRedDoor.svg" xlink:title="cen.EntityRedDoor">
-<ellipse fill="red" stroke="black" cx="3269.59" cy="-198" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="3269.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityRedDoor</text>
+<g id="a_node12"><a xlink:href="cen.EntityRedDoor.svg" xlink:title="cen.EntityRedDoor">
+<ellipse fill="red" stroke="black" cx="2542.74" cy="-198" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="2542.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityRedDoor</text>
 </a>
 </g>
 </g>
 <!-- cen.EntityRedDoor&#45;&gt;cen.InitializeEntity -->
-<g id="edge14" class="edge">
+<g id="edge11" class="edge">
 <title>cen.EntityRedDoor&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M3259.23,-179.93C3240.2,-148.57 3199.57,-81.6 3177.19,-44.71"/>
-<polygon fill="black" stroke="black" points="3180.09,-42.75 3171.91,-36.02 3174.11,-46.38 3180.09,-42.75"/>
-<text text-anchor="middle" x="3254.23" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M2591.19,-182.28C2698.3,-149.75 2954.86,-71.82 3070.48,-36.69"/>
+<polygon fill="black" stroke="black" points="3071.68,-39.99 3080.23,-33.74 3069.64,-33.29 3071.68,-39.99"/>
+<text text-anchor="middle" x="2586.19" y="-171.08" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityRelicOrb -->
+<g id="node13" class="node">
+<title>cen.EntityRelicOrb</title>
+<g id="a_node13"><a xlink:href="cen.EntityRelicOrb.svg" xlink:title="cen.EntityRelicOrb">
+<ellipse fill="red" stroke="black" cx="2758.74" cy="-198" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="2758.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityRelicOrb</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityRelicOrb&#45;&gt;cen.InitializeEntity -->
+<g id="edge12" class="edge">
+<title>cen.EntityRelicOrb&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M2792.23,-180.89C2859.69,-148.43 3011.87,-75.22 3086.22,-39.45"/>
+<polygon fill="black" stroke="black" points="3087.83,-42.56 3095.33,-35.07 3084.8,-36.25 3087.83,-42.56"/>
+<text text-anchor="middle" x="2787.23" y="-169.69" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- cen.EntityEquipItemDrop -->
-<g id="node16" class="node">
+<g id="node14" class="node">
 <title>cen.EntityEquipItemDrop</title>
-<g id="a_node16"><a xlink:href="cen.EntityEquipItemDrop.svg" xlink:title="cen.EntityEquipItemDrop">
-<ellipse fill="red" stroke="black" cx="3516.59" cy="-198" rx="129.98" ry="18"/>
-<text text-anchor="middle" x="3516.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityEquipItemDrop</text>
+<g id="a_node14"><a xlink:href="cen.EntityEquipItemDrop.svg" xlink:title="cen.EntityEquipItemDrop">
+<ellipse fill="red" stroke="black" cx="3005.74" cy="-198" rx="129.98" ry="18"/>
+<text text-anchor="middle" x="3005.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityEquipItemDrop</text>
 </a>
 </g>
 </g>
 <!-- cen.EntityEquipItemDrop&#45;&gt;cen.InitializeEntity -->
-<g id="edge15" class="edge">
+<g id="edge13" class="edge">
 <title>cen.EntityEquipItemDrop&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M3483.83,-180.57C3418.94,-148.04 3274.2,-75.47 3202.9,-39.72"/>
-<polygon fill="black" stroke="black" points="3204.27,-36.48 3193.76,-35.13 3201.13,-42.74 3204.27,-36.48"/>
-<text text-anchor="middle" x="3478.83" y="-169.37" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M3017.53,-179.93C3039.2,-148.57 3085.48,-81.6 3110.97,-44.71"/>
+<polygon fill="black" stroke="black" points="3114.17,-46.23 3116.98,-36.02 3108.42,-42.25 3114.17,-46.23"/>
+<text text-anchor="middle" x="3012.53" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityUnkId13 -->
+<g id="node15" class="node">
+<title>cen.EntityUnkId13</title>
+<g id="a_node15"><a xlink:href="cen.EntityUnkId13.svg" xlink:title="cen.EntityUnkId13">
+<ellipse fill="green" stroke="black" cx="3252.74" cy="-198" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="3252.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId13</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityUnkId13&#45;&gt;cen.InitializeEntity -->
+<g id="edge14" class="edge">
+<title>cen.EntityUnkId13&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M3240.85,-179.93C3218.91,-148.43 3171.95,-81.03 3146.32,-44.24"/>
+<polygon fill="black" stroke="black" points="3149.18,-42.22 3140.59,-36.02 3143.44,-46.22 3149.18,-42.22"/>
+<text text-anchor="middle" x="3235.85" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.func_80198680 -->
+<g id="node16" class="node">
+<title>cen.func_80198680</title>
+<g id="a_node16"><a xlink:href="cen.func_80198680.svg" xlink:title="cen.func_80198680">
+<ellipse fill="red" stroke="black" cx="3470.74" cy="-198" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="3470.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.func_80198680</text>
+</a>
+</g>
+</g>
+<!-- cen.func_80198680&#45;&gt;cen.InitializeEntity -->
+<g id="edge15" class="edge">
+<title>cen.func_80198680&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M3439.48,-180.73C3377.27,-148.35 3238.03,-75.88 3169.05,-39.98"/>
+<polygon fill="black" stroke="black" points="3170.28,-36.68 3159.8,-35.17 3167.05,-42.89 3170.28,-36.68"/>
+<text text-anchor="middle" x="3434.48" y="-169.53" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- cen.EntityUnkId0E -->
 <g id="node17" class="node">
 <title>cen.EntityUnkId0E</title>
 <g id="a_node17"><a xlink:href="cen.EntityUnkId0E.svg" xlink:title="cen.EntityUnkId0E">
-<ellipse fill="red" stroke="black" cx="3763.59" cy="-198" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="3763.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId0E</text>
+<ellipse fill="red" stroke="black" cx="3688.74" cy="-198" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="3688.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId0E</text>
 </a>
 </g>
 </g>
 <!-- cen.EntityUnkId0E&#45;&gt;cen.InitializeEntity -->
 <g id="edge16" class="edge">
 <title>cen.EntityUnkId0E&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M3714.07,-182.36C3603.96,-149.8 3339.22,-71.52 3220.7,-36.48"/>
-<polygon fill="black" stroke="black" points="3221.64,-33.11 3211.06,-33.63 3219.65,-39.82 3221.64,-33.11"/>
-<text text-anchor="middle" x="3709.07" y="-171.16" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityNumericDamage -->
-<g id="node18" class="node">
-<title>cen.EntityNumericDamage</title>
-<g id="a_node18"><a xlink:href="cen.EntityNumericDamage.svg" xlink:title="cen.EntityNumericDamage">
-<ellipse fill="red" stroke="black" cx="4017.59" cy="-198" rx="136.48" ry="18"/>
-<text text-anchor="middle" x="4017.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityNumericDamage</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityNumericDamage&#45;&gt;cen.InitializeEntity -->
-<g id="edge17" class="edge">
-<title>cen.EntityNumericDamage&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M3947.9,-182.51C3788.1,-149.28 3396.54,-67.86 3234.07,-34.07"/>
-<polygon fill="black" stroke="black" points="3234.67,-30.62 3224.17,-32.01 3233.25,-37.48 3234.67,-30.62"/>
-<text text-anchor="middle" x="3942.9" y="-171.31" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityRelicOrb -->
-<g id="node19" class="node">
-<title>cen.EntityRelicOrb</title>
-<g id="a_node19"><a xlink:href="cen.EntityRelicOrb.svg" xlink:title="cen.EntityRelicOrb">
-<ellipse fill="red" stroke="black" cx="4270.59" cy="-198" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="4270.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityRelicOrb</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityRelicOrb&#45;&gt;cen.InitializeEntity -->
-<g id="edge18" class="edge">
-<title>cen.EntityRelicOrb&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M4199.1,-185.53C4001.98,-153.89 3451.51,-65.53 3243.02,-32.07"/>
-<polygon fill="black" stroke="black" points="3243.48,-28.6 3233.05,-30.47 3242.37,-35.51 3243.48,-28.6"/>
-<text text-anchor="middle" x="4194.1" y="-174.33" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.func_8019902C -->
-<g id="node20" class="node">
-<title>cen.func_8019902C</title>
-<g id="a_node20"><a xlink:href="cen.func_8019902C.svg" xlink:title="cen.func_8019902C">
-<ellipse fill="red" stroke="black" cx="4489.59" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="4489.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.func_8019902C</text>
-</a>
-</g>
-</g>
-<!-- cen.func_8019902C&#45;&gt;cen.InitializeEntity -->
-<g id="edge19" class="edge">
-<title>cen.func_8019902C&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M4415.88,-185.5C4403.44,-183.62 4390.65,-181.72 4378.59,-180 3956.87,-119.82 3451.8,-55.47 3250.61,-30.14"/>
-<polygon fill="black" stroke="black" points="3251.05,-26.67 3240.69,-28.9 3250.17,-33.62 3251.05,-26.67"/>
-<text text-anchor="middle" x="4410.88" y="-174.3" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.func_80199278 -->
-<g id="node21" class="node">
-<title>cen.func_80199278</title>
-<g id="a_node21"><a xlink:href="cen.func_80199278.svg" xlink:title="cen.func_80199278">
-<ellipse fill="red" stroke="black" cx="4710.59" cy="-198" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="4710.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.func_80199278</text>
-</a>
-</g>
-</g>
-<!-- cen.func_80199278&#45;&gt;cen.InitializeEntity -->
-<g id="edge20" class="edge">
-<title>cen.func_80199278&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M4638.46,-185.41C4625.85,-183.51 4612.85,-181.63 4600.59,-180 4095.09,-112.69 3487.14,-50.96 3256.52,-28.23"/>
-<polygon fill="black" stroke="black" points="3256.78,-24.74 3246.49,-27.24 3256.09,-31.71 3256.78,-24.74"/>
-<text text-anchor="middle" x="4633.46" y="-174.21" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityUnkId13 -->
-<g id="node22" class="node">
-<title>cen.EntityUnkId13</title>
-<g id="a_node22"><a xlink:href="cen.EntityUnkId13.svg" xlink:title="cen.EntityUnkId13">
-<ellipse fill="green" stroke="black" cx="4928.59" cy="-198" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="4928.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId13</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityUnkId13&#45;&gt;cen.InitializeEntity -->
-<g id="edge21" class="edge">
-<title>cen.EntityUnkId13&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M4858.38,-185.33C4845.81,-183.42 4832.83,-181.56 4820.59,-180 4230.66,-105.01 3518.79,-46.67 3260.91,-26.57"/>
-<polygon fill="black" stroke="black" points="3261.06,-23.07 3250.82,-25.78 3260.51,-30.05 3261.06,-23.07"/>
-<text text-anchor="middle" x="4853.38" y="-174.13" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityStageNamePopup -->
-<g id="node23" class="node">
-<title>cen.EntityStageNamePopup</title>
-<g id="a_node23"><a xlink:href="cen.EntityStageNamePopup.svg" xlink:title="cen.EntityStageNamePopup">
-<ellipse fill="red" stroke="black" cx="5186.59" cy="-198" rx="141.88" ry="18"/>
-<text text-anchor="middle" x="5186.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityStageNamePopup</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityStageNamePopup&#45;&gt;cen.InitializeEntity -->
-<g id="edge22" class="edge">
-<title>cen.EntityStageNamePopup&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M5086.17,-185.24C5069.62,-183.41 5052.63,-181.6 5036.59,-180 4358.58,-112.48 3540.91,-48.12 3261.09,-26.59"/>
-<polygon fill="black" stroke="black" points="3261.2,-23.08 3250.96,-25.81 3260.66,-30.06 3261.2,-23.08"/>
-<text text-anchor="middle" x="5081.17" y="-174.04" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityPrizeDrop -->
-<g id="node24" class="node">
-<title>cen.EntityPrizeDrop</title>
-<g id="a_node24"><a xlink:href="cen.EntityPrizeDrop.svg" xlink:title="cen.EntityPrizeDrop">
-<ellipse fill="red" stroke="black" cx="5451.59" cy="-198" rx="105.08" ry="18"/>
-<text text-anchor="middle" x="5451.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityPrizeDrop</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityPrizeDrop&#45;&gt;cen.InitializeEntity -->
-<g id="edge23" class="edge">
-<title>cen.EntityPrizeDrop&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M5377.49,-185.14C5364.23,-183.24 5350.52,-181.44 5337.59,-180 4543.13,-91.5 3579.89,-39.51 3265.93,-23.97"/>
-<polygon fill="black" stroke="black" points="3266.09,-20.47 3255.93,-23.47 3265.75,-27.46 3266.09,-20.47"/>
-<text text-anchor="middle" x="5372.49" y="-173.94" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.func_80198680 -->
-<g id="node25" class="node">
-<title>cen.func_80198680</title>
-<g id="a_node25"><a xlink:href="cen.func_80198680.svg" xlink:title="cen.func_80198680">
-<ellipse fill="red" stroke="black" cx="5675.59" cy="-198" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="5675.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.func_80198680</text>
-</a>
-</g>
-</g>
-<!-- cen.func_80198680&#45;&gt;cen.InitializeEntity -->
-<g id="edge24" class="edge">
-<title>cen.func_80198680&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M5604.7,-185.12C5591.72,-183.21 5578.26,-181.4 5565.59,-180 4680.35,-82.14 3604.68,-35.69 3267.71,-22.83"/>
-<polygon fill="black" stroke="black" points="3267.6,-19.32 3257.47,-22.44 3267.33,-26.32 3267.6,-19.32"/>
-<text text-anchor="middle" x="5599.7" y="-173.92" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- cen.EntityIntenseExplosion -->
-<g id="node26" class="node">
-<title>cen.EntityIntenseExplosion</title>
-<g id="a_node26"><a xlink:href="cen.EntityIntenseExplosion.svg" xlink:title="cen.EntityIntenseExplosion">
-<ellipse fill="green" stroke="black" cx="5932.59" cy="-198" rx="138.38" ry="18"/>
-<text text-anchor="middle" x="5932.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityIntenseExplosion</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityIntenseExplosion&#45;&gt;cen.InitializeEntity -->
-<g id="edge25" class="edge">
-<title>cen.EntityIntenseExplosion&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M5835.8,-185.06C5819.07,-183.21 5801.84,-181.44 5785.59,-180 4808.14,-93.56 3621.73,-38.75 3266.75,-23.42"/>
-<polygon fill="black" stroke="black" points="3266.89,-19.92 3256.75,-22.98 3266.58,-26.91 3266.89,-19.92"/>
-<text text-anchor="middle" x="5830.8" y="-173.86" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M3641.47,-181.98C3538.83,-149.35 3295.9,-72.13 3185.32,-36.98"/>
+<polygon fill="black" stroke="black" points="3186.27,-33.61 3175.68,-33.92 3184.15,-40.28 3186.27,-33.61"/>
+<text text-anchor="middle" x="3636.47" y="-170.78" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- cen.EntityExplosion -->
-<g id="node27" class="node">
+<g id="node18" class="node">
 <title>cen.EntityExplosion</title>
-<g id="a_node27"><a xlink:href="cen.EntityExplosion.svg" xlink:title="cen.EntityExplosion">
-<ellipse fill="red" stroke="black" cx="6192.59" cy="-198" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="6192.59" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityExplosion</text>
+<g id="a_node18"><a xlink:href="cen.EntityExplosion.svg" xlink:title="cen.EntityExplosion">
+<ellipse fill="red" stroke="black" cx="3909.74" cy="-198" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="3909.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityExplosion</text>
 </a>
 </g>
 </g>
 <!-- cen.EntityExplosion&#45;&gt;cen.InitializeEntity -->
-<g id="edge26" class="edge">
+<g id="edge17" class="edge">
 <title>cen.EntityExplosion&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M6120.08,-185.06C6106.64,-183.14 6092.71,-181.35 6079.59,-180 4985.8,-67.8 3652.78,-30.19 3269.39,-21.28"/>
-<polygon fill="black" stroke="black" points="3269.22,-17.78 3259.14,-21.05 3269.06,-24.78 3269.22,-17.78"/>
-<text text-anchor="middle" x="6115.08" y="-173.86" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M3849.43,-183.25C3706.73,-150.73 3349.03,-69.21 3197.88,-34.76"/>
+<polygon fill="black" stroke="black" points="3198.32,-31.27 3187.79,-32.46 3196.77,-38.09 3198.32,-31.27"/>
+<text text-anchor="middle" x="3844.43" y="-172.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityStageNamePopup -->
+<g id="node19" class="node">
+<title>cen.EntityStageNamePopup</title>
+<g id="a_node19"><a xlink:href="cen.EntityStageNamePopup.svg" xlink:title="cen.EntityStageNamePopup">
+<ellipse fill="red" stroke="black" cx="4173.74" cy="-198" rx="141.88" ry="18"/>
+<text text-anchor="middle" x="4173.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityStageNamePopup</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityStageNamePopup&#45;&gt;cen.InitializeEntity -->
+<g id="edge18" class="edge">
+<title>cen.EntityStageNamePopup&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M4092.61,-183.18C3897.21,-149.9 3402.37,-65.61 3208.44,-32.58"/>
+<polygon fill="black" stroke="black" points="3208.77,-29.08 3198.32,-30.85 3207.59,-35.98 3208.77,-29.08"/>
+<text text-anchor="middle" x="4087.61" y="-171.98" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.func_80199278 -->
+<g id="node20" class="node">
+<title>cen.func_80199278</title>
+<g id="a_node20"><a xlink:href="cen.func_80199278.svg" xlink:title="cen.func_80199278">
+<ellipse fill="red" stroke="black" cx="4433.74" cy="-198" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="4433.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.func_80199278</text>
+</a>
+</g>
+</g>
+<!-- cen.func_80199278&#45;&gt;cen.InitializeEntity -->
+<g id="edge19" class="edge">
+<title>cen.func_80199278&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M4361.07,-185.45C4348.94,-183.58 4336.49,-181.71 4324.74,-180 3911.04,-119.9 3415.67,-55.68 3217.26,-30.27"/>
+<polygon fill="black" stroke="black" points="3217.54,-26.78 3207.18,-28.98 3216.65,-33.72 3217.54,-26.78"/>
+<text text-anchor="middle" x="4356.07" y="-174.25" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityNumericDamage -->
+<g id="node21" class="node">
+<title>cen.EntityNumericDamage</title>
+<g id="a_node21"><a xlink:href="cen.EntityNumericDamage.svg" xlink:title="cen.EntityNumericDamage">
+<ellipse fill="red" stroke="black" cx="4688.74" cy="-198" rx="136.48" ry="18"/>
+<text text-anchor="middle" x="4688.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityNumericDamage</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityNumericDamage&#45;&gt;cen.InitializeEntity -->
+<g id="edge20" class="edge">
+<title>cen.EntityNumericDamage&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M4590.47,-185.43C4574.84,-183.61 4558.84,-181.75 4543.74,-180 4044.53,-122.34 3446.06,-54.75 3220.62,-29.34"/>
+<polygon fill="black" stroke="black" points="3220.83,-25.85 3210.5,-28.2 3220.04,-32.8 3220.83,-25.85"/>
+<text text-anchor="middle" x="4585.47" y="-174.23" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.func_8019902C -->
+<g id="node22" class="node">
+<title>cen.func_8019902C</title>
+<g id="a_node22"><a xlink:href="cen.func_8019902C.svg" xlink:title="cen.func_8019902C">
+<ellipse fill="red" stroke="black" cx="4945.74" cy="-198" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="4945.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.func_8019902C</text>
+</a>
+</g>
+</g>
+<!-- cen.func_8019902C&#45;&gt;cen.InitializeEntity -->
+<g id="edge21" class="edge">
+<title>cen.func_8019902C&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M4872.92,-185.34C4859.89,-183.42 4846.43,-181.56 4833.74,-180 4225.84,-105.22 3492.26,-46.54 3228.89,-26.47"/>
+<polygon fill="black" stroke="black" points="3228.83,-22.95 3218.59,-25.69 3228.29,-29.93 3228.83,-22.95"/>
+<text text-anchor="middle" x="4867.92" y="-174.14" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityPrizeDrop -->
+<g id="node23" class="node">
+<title>cen.EntityPrizeDrop</title>
+<g id="a_node23"><a xlink:href="cen.EntityPrizeDrop.svg" xlink:title="cen.EntityPrizeDrop">
+<ellipse fill="red" stroke="black" cx="5170.74" cy="-198" rx="105.08" ry="18"/>
+<text text-anchor="middle" x="5170.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityPrizeDrop</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityPrizeDrop&#45;&gt;cen.InitializeEntity -->
+<g id="edge22" class="edge">
+<title>cen.EntityPrizeDrop&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M5096.32,-185.19C5083.16,-183.31 5069.56,-181.49 5056.74,-180 4360.59,-99.11 3518.46,-43.13 3230.76,-25.18"/>
+<polygon fill="black" stroke="black" points="3230.96,-21.69 3220.76,-24.56 3230.53,-28.68 3230.96,-21.69"/>
+<text text-anchor="middle" x="5091.32" y="-173.99" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityIntenseExplosion -->
+<g id="node24" class="node">
+<title>cen.EntityIntenseExplosion</title>
+<g id="a_node24"><a xlink:href="cen.EntityIntenseExplosion.svg" xlink:title="cen.EntityIntenseExplosion">
+<ellipse fill="green" stroke="black" cx="5432.74" cy="-198" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="5432.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityIntenseExplosion</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityIntenseExplosion&#45;&gt;cen.InitializeEntity -->
+<g id="edge23" class="edge">
+<title>cen.EntityIntenseExplosion&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M5334.87,-185.2C5318.16,-183.35 5300.96,-181.54 5284.74,-180 4495.44,-105.23 3540.86,-44.24 3231.09,-25.19"/>
+<polygon fill="black" stroke="black" points="3230.98,-21.68 3220.78,-24.56 3230.55,-28.66 3230.98,-21.68"/>
+<text text-anchor="middle" x="5329.87" y="-174" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityEnemyBlood -->
+<g id="node25" class="node">
+<title>cen.EntityEnemyBlood</title>
+<g id="a_node25"><a xlink:href="cen.EntityEnemyBlood.svg" xlink:title="cen.EntityEnemyBlood">
+<ellipse fill="green" stroke="black" cx="5705.74" cy="-198" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="5705.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityEnemyBlood</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityEnemyBlood&#45;&gt;cen.InitializeEntity -->
+<g id="edge24" class="edge">
+<title>cen.EntityEnemyBlood&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M5623.82,-185.12C5609.16,-183.23 5594.01,-181.43 5579.74,-180 4673.71,-89.23 3573.91,-37.87 3233.93,-23.33"/>
+<polygon fill="black" stroke="black" points="3233.99,-19.83 3223.85,-22.9 3233.69,-26.82 3233.99,-19.83"/>
+<text text-anchor="middle" x="5618.82" y="-173.92" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntityUnkId08 -->
+<g id="node26" class="node">
+<title>cen.EntityUnkId08</title>
+<g id="a_node26"><a xlink:href="cen.EntityUnkId08.svg" xlink:title="cen.EntityUnkId08">
+<ellipse fill="green" stroke="black" cx="5939.74" cy="-198" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="5939.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId08</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityUnkId08&#45;&gt;cen.InitializeEntity -->
+<g id="edge25" class="edge">
+<title>cen.EntityUnkId08&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M5870.44,-185.08C5857.6,-183.16 5844.29,-181.36 5831.74,-180 4825.79,-71.13 3600.67,-31.52 3236.01,-21.67"/>
+<polygon fill="black" stroke="black" points="3236.08,-18.17 3225.99,-21.4 3235.89,-25.16 3236.08,-18.17"/>
+<text text-anchor="middle" x="5865.44" y="-173.88" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.EntitySoulStealOrb -->
+<g id="node27" class="node">
+<title>cen.EntitySoulStealOrb</title>
+<g id="a_node27"><a xlink:href="cen.EntitySoulStealOrb.svg" xlink:title="cen.EntitySoulStealOrb">
+<ellipse fill="green" stroke="black" cx="6176.74" cy="-198" rx="120.48" ry="18"/>
+<text text-anchor="middle" x="6176.74" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntitySoulStealOrb</text>
+</a>
+</g>
+</g>
+<!-- cen.EntitySoulStealOrb&#45;&gt;cen.InitializeEntity -->
+<g id="edge26" class="edge">
+<title>cen.EntitySoulStealOrb&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M6092.88,-185.01C6077.87,-183.13 6062.36,-181.36 6047.74,-180 4951.97,-77.73 3618.27,-33.2 3235.85,-21.97"/>
+<polygon fill="black" stroke="black" points="3235.73,-18.47 3225.63,-21.67 3235.52,-25.46 3235.73,-18.47"/>
+<text text-anchor="middle" x="6087.88" y="-173.81" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

@@ -853,7 +853,6 @@
 | us/dra/nonmatchings/692E8/func_801106A4.s                    |      112 |         21 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80116994.s                    |      113 |         22 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B38B4.s                 |      116 |          8 |        |                                 |       |
-| us/dra/nonmatchings/75F54/func_801238CC.s                    |      116 |         11 |        | https://decomp.me/scratch/XIydD | 0.984 |
 | us/dra/nonmatchings/692E8/func_8010DBFC.s                    |      118 |         14 |        |                                 |       |
 | us/weapon/nonmatchings/w_043/func_ptr_80170008.s             |      118 |         14 |        |                                 |       |
 | us/st/mad/nonmatchings/D8C8/func_8018DF0C.s                  |      118 |         16 |        | https://decomp.me/scratch/Iz0E6 | 1.0   |

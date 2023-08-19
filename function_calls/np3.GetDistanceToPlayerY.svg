@@ -5,79 +5,79 @@
  -->
 <!-- Title: np3.GetDistanceToPlayerY Pages: 1 -->
 <svg width="856pt" height="224pt"
- viewBox="0.00 0.00 856.13 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 855.78 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>np3.GetDistanceToPlayerY</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 852.13,-220 852.13,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 851.78,-220 851.78,4 -4,4"/>
 <!-- np3.GetDistanceToPlayerY -->
 <g id="node1" class="node">
 <title>np3.GetDistanceToPlayerY</title>
-<ellipse fill="green" stroke="black" cx="397.29" cy="-18" rx="134.58" ry="18"/>
-<text text-anchor="middle" x="397.29" y="-14.3" font-family="Times,serif" font-size="14.00">np3.GetDistanceToPlayerY</text>
-</g>
-<!-- np3.func_801CC2E0 -->
-<g id="node2" class="node">
-<title>np3.func_801CC2E0</title>
-<g id="a_node2"><a xlink:href="np3.func_801CC2E0.svg" xlink:title="np3.func_801CC2E0">
-<ellipse fill="red" stroke="black" cx="105.29" cy="-198" rx="105.08" ry="18"/>
-<text text-anchor="middle" x="105.29" y="-194.3" font-family="Times,serif" font-size="14.00">np3.func_801CC2E0</text>
-</a>
-</g>
-</g>
-<!-- np3.func_801CC2E0&#45;&gt;np3.GetDistanceToPlayerY -->
-<g id="edge1" class="edge">
-<title>np3.func_801CC2E0&#45;&gt;np3.GetDistanceToPlayerY</title>
-<path fill="none" stroke="black" d="M132.24,-180.57C185.01,-148.4 302.01,-77.08 361.32,-40.93"/>
-<polygon fill="black" stroke="black" points="363.27,-43.84 369.98,-35.65 359.62,-37.86 363.27,-43.84"/>
-<text text-anchor="middle" x="127.24" y="-169.37" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.EntityBat -->
-<g id="node3" class="node">
-<title>np3.EntityBat</title>
-<g id="a_node3"><a xlink:href="np3.EntityBat.svg" xlink:title="np3.EntityBat">
-<ellipse fill="green" stroke="black" cx="304.29" cy="-198" rx="76.09" ry="18"/>
-<text text-anchor="middle" x="304.29" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityBat</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityBat&#45;&gt;np3.GetDistanceToPlayerY -->
-<g id="edge2" class="edge">
-<title>np3.EntityBat&#45;&gt;np3.GetDistanceToPlayerY</title>
-<path fill="none" stroke="black" d="M313.21,-179.93C329.53,-148.7 364.29,-82.17 383.61,-45.18"/>
-<polygon fill="black" stroke="black" points="386.87,-46.5 388.4,-36.02 380.67,-43.26 386.87,-46.5"/>
-<text text-anchor="middle" x="308.21" y="-168.73" font-family="Times,serif" font-size="14.00">2</text>
-</g>
-<!-- np3.EntityGaibon -->
-<g id="node4" class="node">
-<title>np3.EntityGaibon</title>
-<g id="a_node4"><a xlink:href="np3.EntityGaibon.svg" xlink:title="np3.EntityGaibon">
-<ellipse fill="red" stroke="black" cx="491.29" cy="-198" rx="92.88" ry="18"/>
-<text text-anchor="middle" x="491.29" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityGaibon</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityGaibon&#45;&gt;np3.GetDistanceToPlayerY -->
-<g id="edge3" class="edge">
-<title>np3.EntityGaibon&#45;&gt;np3.GetDistanceToPlayerY</title>
-<path fill="none" stroke="black" d="M482.28,-179.93C465.78,-148.7 430.65,-82.17 411.12,-45.18"/>
-<polygon fill="black" stroke="black" points="414.04,-43.22 406.28,-36.02 407.85,-46.49 414.04,-43.22"/>
-<text text-anchor="middle" x="477.28" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="467.84" cy="-18" rx="134.58" ry="18"/>
+<text text-anchor="middle" x="467.84" y="-14.3" font-family="Times,serif" font-size="14.00">np3.GetDistanceToPlayerY</text>
 </g>
 <!-- np3.EntityBoneScimitar -->
-<g id="node5" class="node">
+<g id="node2" class="node">
 <title>np3.EntityBoneScimitar</title>
-<g id="a_node5"><a xlink:href="np3.EntityBoneScimitar.svg" xlink:title="np3.EntityBoneScimitar">
-<ellipse fill="green" stroke="black" cx="725.29" cy="-198" rx="122.68" ry="18"/>
-<text text-anchor="middle" x="725.29" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityBoneScimitar</text>
+<g id="a_node2"><a xlink:href="np3.EntityBoneScimitar.svg" xlink:title="np3.EntityBoneScimitar">
+<ellipse fill="green" stroke="black" cx="122.84" cy="-198" rx="122.68" ry="18"/>
+<text text-anchor="middle" x="122.84" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityBoneScimitar</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityBoneScimitar&#45;&gt;np3.GetDistanceToPlayerY -->
-<g id="edge4" class="edge">
+<g id="edge1" class="edge">
 <title>np3.EntityBoneScimitar&#45;&gt;np3.GetDistanceToPlayerY</title>
-<path fill="none" stroke="black" d="M694.73,-180.41C635.03,-148.02 503.01,-76.37 436.79,-40.43"/>
-<polygon fill="black" stroke="black" points="438.35,-37.3 427.9,-35.61 435.02,-43.45 438.35,-37.3"/>
-<text text-anchor="middle" x="689.73" y="-169.21" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M154.68,-180.57C217.5,-148.16 357.33,-76.02 426.9,-40.12"/>
+<polygon fill="black" stroke="black" points="428.55,-43.21 435.83,-35.52 425.34,-36.99 428.55,-43.21"/>
+<text text-anchor="middle" x="149.68" y="-169.37" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.func_801CC2E0 -->
+<g id="node3" class="node">
+<title>np3.func_801CC2E0</title>
+<g id="a_node3"><a xlink:href="np3.func_801CC2E0.svg" xlink:title="np3.func_801CC2E0">
+<ellipse fill="red" stroke="black" cx="368.84" cy="-198" rx="105.08" ry="18"/>
+<text text-anchor="middle" x="368.84" y="-194.3" font-family="Times,serif" font-size="14.00">np3.func_801CC2E0</text>
+</a>
+</g>
+</g>
+<!-- np3.func_801CC2E0&#45;&gt;np3.GetDistanceToPlayerY -->
+<g id="edge2" class="edge">
+<title>np3.func_801CC2E0&#45;&gt;np3.GetDistanceToPlayerY</title>
+<path fill="none" stroke="black" d="M378.33,-179.93C395.7,-148.7 432.71,-82.17 453.28,-45.18"/>
+<polygon fill="black" stroke="black" points="456.57,-46.46 458.38,-36.02 450.46,-43.05 456.57,-46.46"/>
+<text text-anchor="middle" x="373.33" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.EntityBat -->
+<g id="node4" class="node">
+<title>np3.EntityBat</title>
+<g id="a_node4"><a xlink:href="np3.EntityBat.svg" xlink:title="np3.EntityBat">
+<ellipse fill="green" stroke="black" cx="567.84" cy="-198" rx="76.09" ry="18"/>
+<text text-anchor="middle" x="567.84" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityBat</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityBat&#45;&gt;np3.GetDistanceToPlayerY -->
+<g id="edge3" class="edge">
+<title>np3.EntityBat&#45;&gt;np3.GetDistanceToPlayerY</title>
+<path fill="none" stroke="black" d="M558.25,-179.93C540.7,-148.7 503.33,-82.17 482.55,-45.18"/>
+<polygon fill="black" stroke="black" points="485.35,-43.02 477.4,-36.02 479.25,-46.45 485.35,-43.02"/>
+<text text-anchor="middle" x="553.25" y="-168.73" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- np3.EntityGaibon -->
+<g id="node5" class="node">
+<title>np3.EntityGaibon</title>
+<g id="a_node5"><a xlink:href="np3.EntityGaibon.svg" xlink:title="np3.EntityGaibon">
+<ellipse fill="red" stroke="black" cx="754.84" cy="-198" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="754.84" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityGaibon</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityGaibon&#45;&gt;np3.GetDistanceToPlayerY -->
+<g id="edge4" class="edge">
+<title>np3.EntityGaibon&#45;&gt;np3.GetDistanceToPlayerY</title>
+<path fill="none" stroke="black" d="M728.35,-180.57C676.48,-148.4 561.49,-77.08 503.19,-40.93"/>
+<polygon fill="black" stroke="black" points="505.02,-37.94 494.68,-35.65 501.33,-43.89 505.02,-37.94"/>
+<text text-anchor="middle" x="723.35" y="-169.37" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

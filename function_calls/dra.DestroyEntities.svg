@@ -5,143 +5,143 @@
  -->
 <!-- Title: dra.DestroyEntities Pages: 1 -->
 <svg width="1475pt" height="404pt"
- viewBox="0.00 0.00 1475.33 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1474.58 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
 <title>dra.DestroyEntities</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 1471.33,-400 1471.33,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 1470.58,-400 1470.58,4 -4,4"/>
 <!-- dra.DestroyEntities -->
 <g id="node1" class="node">
 <title>dra.DestroyEntities</title>
-<ellipse fill="green" stroke="black" cx="716.54" cy="-198" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="716.54" y="-194.3" font-family="Times,serif" font-size="14.00">dra.DestroyEntities</text>
+<ellipse fill="green" stroke="black" cx="742.04" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="742.04" y="-194.3" font-family="Times,serif" font-size="14.00">dra.DestroyEntities</text>
 </g>
 <!-- dra.DestroyEntity -->
 <g id="node2" class="node">
 <title>dra.DestroyEntity</title>
 <g id="a_node2"><a xlink:href="dra.DestroyEntity.svg" xlink:title="dra.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="716.54" cy="-18" rx="94.78" ry="18"/>
-<text text-anchor="middle" x="716.54" y="-14.3" font-family="Times,serif" font-size="14.00">dra.DestroyEntity</text>
+<ellipse fill="green" stroke="black" cx="742.04" cy="-18" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="742.04" y="-14.3" font-family="Times,serif" font-size="14.00">dra.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- dra.DestroyEntities&#45;&gt;dra.DestroyEntity -->
 <g id="edge1" class="edge">
 <title>dra.DestroyEntities&#45;&gt;dra.DestroyEntity</title>
-<path fill="none" stroke="black" d="M716.54,-179.93C716.54,-148.97 716.54,-83.3 716.54,-46.13"/>
-<polygon fill="black" stroke="black" points="720.04,-46.02 716.54,-36.02 713.04,-46.02 720.04,-46.02"/>
-<text text-anchor="middle" x="711.54" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.HandleEnding -->
-<g id="node3" class="node">
-<title>dra.HandleEnding</title>
-<g id="a_node3"><a xlink:href="dra.HandleEnding.svg" xlink:title="dra.HandleEnding">
-<ellipse fill="green" stroke="black" cx="95.54" cy="-378" rx="95.58" ry="18"/>
-<text text-anchor="middle" x="95.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleEnding</text>
-</a>
-</g>
-</g>
-<!-- dra.HandleEnding&#45;&gt;dra.DestroyEntities -->
-<g id="edge2" class="edge">
-<title>dra.HandleEnding&#45;&gt;dra.DestroyEntities</title>
-<path fill="none" stroke="black" d="M145.57,-362.66C258.55,-330.28 533.08,-251.59 655.67,-216.45"/>
-<polygon fill="black" stroke="black" points="656.64,-219.81 665.29,-213.69 654.71,-213.08 656.64,-219.81"/>
-<text text-anchor="middle" x="140.57" y="-351.46" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M742.04,-179.93C742.04,-148.97 742.04,-83.3 742.04,-46.13"/>
+<polygon fill="black" stroke="black" points="745.54,-46.02 742.04,-36.02 738.54,-46.02 745.54,-46.02"/>
+<text text-anchor="middle" x="737.04" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_800F298C -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>dra.func_800F298C</title>
-<g id="a_node4"><a xlink:href="dra.func_800F298C.svg" xlink:title="dra.func_800F298C">
-<ellipse fill="red" stroke="black" cx="311.54" cy="-378" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="311.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800F298C</text>
+<g id="a_node3"><a xlink:href="dra.func_800F298C.svg" xlink:title="dra.func_800F298C">
+<ellipse fill="red" stroke="black" cx="102.04" cy="-378" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="102.04" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800F298C</text>
 </a>
 </g>
 </g>
 <!-- dra.func_800F298C&#45;&gt;dra.DestroyEntities -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>dra.func_800F298C&#45;&gt;dra.DestroyEntities</title>
-<path fill="none" stroke="black" d="M347.84,-361.05C421.81,-328.53 589.87,-254.67 671.02,-219.01"/>
-<polygon fill="black" stroke="black" points="672.72,-222.08 680.47,-214.85 669.91,-215.67 672.72,-222.08"/>
-<text text-anchor="middle" x="342.84" y="-349.85" font-family="Times,serif" font-size="14.00">6</text>
-</g>
-<!-- dra.HandlePlay -->
-<g id="node5" class="node">
-<title>dra.HandlePlay</title>
-<g id="a_node5"><a xlink:href="dra.HandlePlay.svg" xlink:title="dra.HandlePlay">
-<ellipse fill="green" stroke="black" cx="514.54" cy="-378" rx="82.59" ry="18"/>
-<text text-anchor="middle" x="514.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandlePlay</text>
-</a>
-</g>
-</g>
-<!-- dra.HandlePlay&#45;&gt;dra.DestroyEntities -->
-<g id="edge4" class="edge">
-<title>dra.HandlePlay&#45;&gt;dra.DestroyEntities</title>
-<path fill="none" stroke="black" d="M533.55,-360.25C569.71,-328.38 648.53,-258.94 689.92,-222.45"/>
-<polygon fill="black" stroke="black" points="692.25,-225.07 697.44,-215.83 687.62,-219.82 692.25,-225.07"/>
-<text text-anchor="middle" x="528.55" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.func_800E4970 -->
-<g id="node6" class="node">
-<title>dra.func_800E4970</title>
-<g id="a_node6"><a xlink:href="dra.func_800E4970.svg" xlink:title="dra.func_800E4970">
-<ellipse fill="green" stroke="black" cx="716.54" cy="-378" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="716.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800E4970</text>
-</a>
-</g>
-</g>
-<!-- dra.func_800E4970&#45;&gt;dra.DestroyEntities -->
-<g id="edge5" class="edge">
-<title>dra.func_800E4970&#45;&gt;dra.DestroyEntities</title>
-<path fill="none" stroke="black" d="M716.54,-359.93C716.54,-328.97 716.54,-263.3 716.54,-226.13"/>
-<polygon fill="black" stroke="black" points="720.04,-226.02 716.54,-216.02 713.04,-226.02 720.04,-226.02"/>
-<text text-anchor="middle" x="711.54" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.HandleTitle -->
-<g id="node7" class="node">
-<title>dra.HandleTitle</title>
-<g id="a_node7"><a xlink:href="dra.HandleTitle.svg" xlink:title="dra.HandleTitle">
-<ellipse fill="green" stroke="black" cx="919.54" cy="-378" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="919.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleTitle</text>
-</a>
-</g>
-</g>
-<!-- dra.HandleTitle&#45;&gt;dra.DestroyEntities -->
-<g id="edge6" class="edge">
-<title>dra.HandleTitle&#45;&gt;dra.DestroyEntities</title>
-<path fill="none" stroke="black" d="M900.44,-360.25C864.1,-328.38 784.89,-258.94 743.29,-222.45"/>
-<polygon fill="black" stroke="black" points="745.56,-219.79 735.74,-215.83 740.95,-225.06 745.56,-219.79"/>
-<text text-anchor="middle" x="895.44" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M154.14,-362.51C271.09,-329.98 554.07,-251.28 679.91,-216.28"/>
+<polygon fill="black" stroke="black" points="681.09,-219.59 689.78,-213.53 679.21,-212.84 681.09,-219.59"/>
+<text text-anchor="middle" x="149.14" y="-351.31" font-family="Times,serif" font-size="14.00">6</text>
 </g>
 <!-- dra.entrypoint_sotn -->
-<g id="node8" class="node">
+<g id="node4" class="node">
 <title>dra.entrypoint_sotn</title>
-<g id="a_node8"><a xlink:href="dra.entrypoint_sotn.svg" xlink:title="dra.entrypoint_sotn">
-<ellipse fill="green" stroke="black" cx="1123.54" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="1123.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.entrypoint_sotn</text>
+<g id="a_node4"><a xlink:href="dra.entrypoint_sotn.svg" xlink:title="dra.entrypoint_sotn">
+<ellipse fill="green" stroke="black" cx="325.04" cy="-378" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="325.04" y="-374.3" font-family="Times,serif" font-size="14.00">dra.entrypoint_sotn</text>
 </a>
 </g>
 </g>
 <!-- dra.entrypoint_sotn&#45;&gt;dra.DestroyEntities -->
-<g id="edge7" class="edge">
+<g id="edge3" class="edge">
 <title>dra.entrypoint_sotn&#45;&gt;dra.DestroyEntities</title>
-<path fill="none" stroke="black" d="M1087.06,-361.05C1012.72,-328.53 843.84,-254.67 762.29,-219.01"/>
-<polygon fill="black" stroke="black" points="763.35,-215.65 752.79,-214.85 760.55,-222.07 763.35,-215.65"/>
-<text text-anchor="middle" x="1082.06" y="-349.85" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M362.05,-361.2C438.15,-328.72 612.04,-254.49 695.57,-218.83"/>
+<polygon fill="black" stroke="black" points="697,-222.03 704.82,-214.89 694.25,-215.6 697,-222.03"/>
+<text text-anchor="middle" x="357.05" y="-350" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.HandleTitle -->
+<g id="node5" class="node">
+<title>dra.HandleTitle</title>
+<g id="a_node5"><a xlink:href="dra.HandleTitle.svg" xlink:title="dra.HandleTitle">
+<ellipse fill="green" stroke="black" cx="529.04" cy="-378" rx="83.39" ry="18"/>
+<text text-anchor="middle" x="529.04" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleTitle</text>
+</a>
+</g>
+</g>
+<!-- dra.HandleTitle&#45;&gt;dra.DestroyEntities -->
+<g id="edge4" class="edge">
+<title>dra.HandleTitle&#45;&gt;dra.DestroyEntities</title>
+<path fill="none" stroke="black" d="M549.08,-360.25C587.22,-328.38 670.32,-258.94 713.97,-222.45"/>
+<polygon fill="black" stroke="black" points="716.47,-224.93 721.9,-215.83 711.98,-219.56 716.47,-224.93"/>
+<text text-anchor="middle" x="544.08" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.HandleGameOver -->
-<g id="node9" class="node">
+<g id="node6" class="node">
 <title>dra.HandleGameOver</title>
-<g id="a_node9"><a xlink:href="dra.HandleGameOver.svg" xlink:title="dra.HandleGameOver">
-<ellipse fill="red" stroke="black" cx="1355.54" cy="-378" rx="111.58" ry="18"/>
-<text text-anchor="middle" x="1355.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleGameOver</text>
+<g id="a_node6"><a xlink:href="dra.HandleGameOver.svg" xlink:title="dra.HandleGameOver">
+<ellipse fill="red" stroke="black" cx="742.04" cy="-378" rx="111.58" ry="18"/>
+<text text-anchor="middle" x="742.04" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleGameOver</text>
 </a>
 </g>
 </g>
 <!-- dra.HandleGameOver&#45;&gt;dra.DestroyEntities -->
-<g id="edge8" class="edge">
+<g id="edge5" class="edge">
 <title>dra.HandleGameOver&#45;&gt;dra.DestroyEntities</title>
-<path fill="none" stroke="black" d="M1302.16,-362.13C1184.61,-329.39 903.93,-251.2 778.7,-216.31"/>
-<polygon fill="black" stroke="black" points="779.45,-212.89 768.87,-213.58 777.57,-219.63 779.45,-212.89"/>
-<text text-anchor="middle" x="1297.16" y="-350.93" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M742.04,-359.93C742.04,-328.97 742.04,-263.3 742.04,-226.13"/>
+<polygon fill="black" stroke="black" points="745.54,-226.02 742.04,-216.02 738.54,-226.02 745.54,-226.02"/>
+<text text-anchor="middle" x="737.04" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.func_800E4970 -->
+<g id="node7" class="node">
+<title>dra.func_800E4970</title>
+<g id="a_node7"><a xlink:href="dra.func_800E4970.svg" xlink:title="dra.func_800E4970">
+<ellipse fill="green" stroke="black" cx="973.04" cy="-378" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="973.04" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800E4970</text>
+</a>
+</g>
+</g>
+<!-- dra.func_800E4970&#45;&gt;dra.DestroyEntities -->
+<g id="edge6" class="edge">
+<title>dra.func_800E4970&#45;&gt;dra.DestroyEntities</title>
+<path fill="none" stroke="black" d="M951.31,-360.25C909.78,-328.25 819.07,-258.36 771.89,-222"/>
+<polygon fill="black" stroke="black" points="773.94,-219.16 763.88,-215.83 769.67,-224.71 773.94,-219.16"/>
+<text text-anchor="middle" x="946.31" y="-349.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.HandlePlay -->
+<g id="node8" class="node">
+<title>dra.HandlePlay</title>
+<g id="a_node8"><a xlink:href="dra.HandlePlay.svg" xlink:title="dra.HandlePlay">
+<ellipse fill="green" stroke="black" cx="1175.04" cy="-378" rx="82.59" ry="18"/>
+<text text-anchor="middle" x="1175.04" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandlePlay</text>
+</a>
+</g>
+</g>
+<!-- dra.HandlePlay&#45;&gt;dra.DestroyEntities -->
+<g id="edge7" class="edge">
+<title>dra.HandlePlay&#45;&gt;dra.DestroyEntities</title>
+<path fill="none" stroke="black" d="M1138.12,-361.82C1059.77,-329.61 876.88,-254.43 789.79,-218.63"/>
+<polygon fill="black" stroke="black" points="790.99,-215.34 780.41,-214.77 788.33,-221.81 790.99,-215.34"/>
+<text text-anchor="middle" x="1133.12" y="-350.62" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.HandleEnding -->
+<g id="node9" class="node">
+<title>dra.HandleEnding</title>
+<g id="a_node9"><a xlink:href="dra.HandleEnding.svg" xlink:title="dra.HandleEnding">
+<ellipse fill="green" stroke="black" cx="1371.04" cy="-378" rx="95.58" ry="18"/>
+<text text-anchor="middle" x="1371.04" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleEnding</text>
+</a>
+</g>
+</g>
+<!-- dra.HandleEnding&#45;&gt;dra.DestroyEntities -->
+<g id="edge8" class="edge">
+<title>dra.HandleEnding&#45;&gt;dra.DestroyEntities</title>
+<path fill="none" stroke="black" d="M1320.37,-362.66C1205.94,-330.28 927.87,-251.59 803.7,-216.45"/>
+<polygon fill="black" stroke="black" points="804.53,-213.05 793.96,-213.69 802.62,-219.78 804.53,-213.05"/>
+<text text-anchor="middle" x="1315.37" y="-351.46" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>
