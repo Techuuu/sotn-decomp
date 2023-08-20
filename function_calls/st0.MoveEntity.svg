@@ -5,367 +5,367 @@
  -->
 <!-- Title: st0.MoveEntity Pages: 1 -->
 <svg width="5489pt" height="224pt"
- viewBox="0.00 0.00 5489.03 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 5489.08 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>st0.MoveEntity</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 5485.03,-220 5485.03,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 5485.08,-220 5485.08,4 -4,4"/>
 <!-- st0.MoveEntity -->
 <g id="node1" class="node">
 <title>st0.MoveEntity</title>
-<ellipse fill="green" stroke="black" cx="2583.69" cy="-18" rx="82.59" ry="18"/>
-<text text-anchor="middle" x="2583.69" y="-14.3" font-family="Times,serif" font-size="14.00">st0.MoveEntity</text>
-</g>
-<!-- st0.func_801B4FD4 -->
-<g id="node2" class="node">
-<title>st0.func_801B4FD4</title>
-<g id="a_node2"><a xlink:href="st0.func_801B4FD4.svg" xlink:title="st0.func_801B4FD4">
-<ellipse fill="red" stroke="black" cx="102.69" cy="-198" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="102.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B4FD4</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B4FD4&#45;&gt;st0.MoveEntity -->
-<g id="edge1" class="edge">
-<title>st0.func_801B4FD4&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M174.87,-185.15C188.09,-183.23 201.79,-181.42 214.69,-180 1099.93,-82.9 2178.11,-35.03 2493.21,-22.45"/>
-<polygon fill="black" stroke="black" points="2493.35,-25.95 2503.2,-22.05 2493.07,-18.95 2493.35,-25.95"/>
-<text text-anchor="middle" x="169.87" y="-173.95" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.func_801B5F4C -->
-<g id="node3" class="node">
-<title>st0.func_801B5F4C</title>
-<g id="a_node3"><a xlink:href="st0.func_801B5F4C.svg" xlink:title="st0.func_801B5F4C">
-<ellipse fill="green" stroke="black" cx="325.69" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="325.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B5F4C</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B5F4C&#45;&gt;st0.MoveEntity -->
-<g id="edge2" class="edge">
-<title>st0.func_801B5F4C&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M397.53,-185.17C410.54,-183.26 424,-181.45 436.69,-180 1231.78,-89.44 2198.56,-37.75 2493.82,-23.25"/>
-<polygon fill="black" stroke="black" points="2494.22,-26.74 2504.04,-22.75 2493.88,-19.74 2494.22,-26.74"/>
-<text text-anchor="middle" x="392.53" y="-173.97" font-family="Times,serif" font-size="14.00">2</text>
+<ellipse fill="green" stroke="black" cx="2861.04" cy="-18" rx="82.59" ry="18"/>
+<text text-anchor="middle" x="2861.04" y="-14.3" font-family="Times,serif" font-size="14.00">st0.MoveEntity</text>
 </g>
 <!-- st0.func_801B4D18 -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>st0.func_801B4D18</title>
-<g id="a_node4"><a xlink:href="st0.func_801B4D18.svg" xlink:title="st0.func_801B4D18">
-<ellipse fill="green" stroke="black" cx="547.69" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="547.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B4D18</text>
+<g id="a_node2"><a xlink:href="st0.func_801B4D18.svg" xlink:title="st0.func_801B4D18">
+<ellipse fill="green" stroke="black" cx="102.04" cy="-198" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="102.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B4D18</text>
 </a>
 </g>
 </g>
 <!-- st0.func_801B4D18&#45;&gt;st0.MoveEntity -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>st0.func_801B4D18&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M619.84,-185.22C632.76,-183.32 646.11,-181.49 658.69,-180 1364.42,-96.54 2220.74,-40.94 2494.83,-24.26"/>
-<polygon fill="black" stroke="black" points="2495.34,-27.73 2505.11,-23.63 2494.91,-20.75 2495.34,-27.73"/>
-<text text-anchor="middle" x="614.84" y="-174.02" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M173.27,-185.11C186.47,-183.18 200.15,-181.38 213.04,-180 1211.9,-73.37 2430.85,-31.57 2769.82,-21.53"/>
+<polygon fill="black" stroke="black" points="2769.94,-25.03 2779.83,-21.23 2769.73,-18.03 2769.94,-25.03"/>
+<text text-anchor="middle" x="168.27" y="-173.91" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0.func_801B4D5C -->
-<g id="node5" class="node">
+<g id="node3" class="node">
 <title>st0.func_801B4D5C</title>
-<g id="a_node5"><a xlink:href="st0.func_801B4D5C.svg" xlink:title="st0.func_801B4D5C">
-<ellipse fill="green" stroke="black" cx="770.69" cy="-198" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="770.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B4D5C</text>
+<g id="a_node3"><a xlink:href="st0.func_801B4D5C.svg" xlink:title="st0.func_801B4D5C">
+<ellipse fill="green" stroke="black" cx="325.04" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="325.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B4D5C</text>
 </a>
 </g>
 </g>
 <!-- st0.func_801B4D5C&#45;&gt;st0.MoveEntity -->
-<g id="edge4" class="edge">
+<g id="edge2" class="edge">
 <title>st0.func_801B4D5C&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M843.81,-185.3C856.74,-183.4 870.1,-181.55 882.69,-180 1499.39,-104.07 2245.73,-44.61 2496.66,-25.5"/>
-<polygon fill="black" stroke="black" points="2497.1,-28.97 2506.81,-24.73 2496.57,-21.99 2497.1,-28.97"/>
-<text text-anchor="middle" x="838.81" y="-174.1" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M397.22,-185.13C410.44,-183.22 424.14,-181.41 437.04,-180 1344.37,-81.19 2449.82,-34.39 2770.11,-22.27"/>
+<polygon fill="black" stroke="black" points="2770.41,-25.76 2780.27,-21.89 2770.14,-18.77 2770.41,-25.76"/>
+<text text-anchor="middle" x="392.22" y="-173.93" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- st0.EntitySecretStairs -->
-<g id="node6" class="node">
-<title>st0.EntitySecretStairs</title>
-<g id="a_node6"><a xlink:href="st0.EntitySecretStairs.svg" xlink:title="st0.EntitySecretStairs">
-<ellipse fill="green" stroke="black" cx="1006.69" cy="-198" rx="115.08" ry="18"/>
-<text text-anchor="middle" x="1006.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntitySecretStairs</text>
+<!-- st0.func_801B5F4C -->
+<g id="node4" class="node">
+<title>st0.func_801B5F4C</title>
+<g id="a_node4"><a xlink:href="st0.func_801B5F4C.svg" xlink:title="st0.func_801B5F4C">
+<ellipse fill="green" stroke="black" cx="548.04" cy="-198" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="548.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B5F4C</text>
 </a>
 </g>
 </g>
-<!-- st0.EntitySecretStairs&#45;&gt;st0.MoveEntity -->
-<g id="edge5" class="edge">
-<title>st0.EntitySecretStairs&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M1089.03,-185.41C1102.93,-183.54 1117.21,-181.67 1130.69,-180 1651.31,-115.48 2278.46,-50.19 2500.7,-27.44"/>
-<polygon fill="black" stroke="black" points="2501.07,-30.92 2510.66,-26.42 2500.36,-23.95 2501.07,-30.92"/>
-<text text-anchor="middle" x="1084.03" y="-174.21" font-family="Times,serif" font-size="14.00">1</text>
+<!-- st0.func_801B5F4C&#45;&gt;st0.MoveEntity -->
+<g id="edge3" class="edge">
+<title>st0.func_801B5F4C&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M619.88,-185.15C632.89,-183.25 646.35,-181.43 659.04,-180 1475.89,-87.73 2469.47,-37.07 2770.43,-23.05"/>
+<polygon fill="black" stroke="black" points="2771.02,-26.53 2780.84,-22.57 2770.69,-19.54 2771.02,-26.53"/>
+<text text-anchor="middle" x="614.88" y="-173.95" font-family="Times,serif" font-size="14.00">2</text>
 </g>
-<!-- st0.EntitySecretButton -->
-<g id="node7" class="node">
-<title>st0.EntitySecretButton</title>
-<g id="a_node7"><a xlink:href="st0.EntitySecretButton.svg" xlink:title="st0.EntitySecretButton">
-<ellipse fill="green" stroke="black" cx="1258.69" cy="-198" rx="118.88" ry="18"/>
-<text text-anchor="middle" x="1258.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntitySecretButton</text>
+<!-- st0.func_801B4FD4 -->
+<g id="node5" class="node">
+<title>st0.func_801B4FD4</title>
+<g id="a_node5"><a xlink:href="st0.func_801B4FD4.svg" xlink:title="st0.func_801B4FD4">
+<ellipse fill="red" stroke="black" cx="771.04" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="771.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B4FD4</text>
 </a>
 </g>
 </g>
-<!-- st0.EntitySecretButton&#45;&gt;st0.MoveEntity -->
-<g id="edge6" class="edge">
-<title>st0.EntitySecretButton&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M1344.35,-185.49C1586.38,-152.98 2272.8,-60.77 2505.46,-29.51"/>
-<polygon fill="black" stroke="black" points="2506.09,-32.96 2515.53,-28.16 2505.15,-26.02 2506.09,-32.96"/>
-<text text-anchor="middle" x="1339.35" y="-174.29" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.func_801B8434 -->
-<g id="node8" class="node">
-<title>st0.func_801B8434</title>
-<g id="a_node8"><a xlink:href="st0.func_801B8434.svg" xlink:title="st0.func_801B8434">
-<ellipse fill="green" stroke="black" cx="1496.69" cy="-198" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="1496.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B8434</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B8434&#45;&gt;st0.MoveEntity -->
-<g id="edge7" class="edge">
-<title>st0.func_801B8434&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M1568.43,-185.25C1764.96,-153.07 2310.59,-63.72 2509.73,-31.11"/>
-<polygon fill="black" stroke="black" points="2510.49,-34.53 2519.8,-29.46 2509.36,-27.62 2510.49,-34.53"/>
-<text text-anchor="middle" x="1563.43" y="-174.05" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.func_801B8D00 -->
-<g id="node9" class="node">
-<title>st0.func_801B8D00</title>
-<g id="a_node9"><a xlink:href="st0.func_801B8D00.svg" xlink:title="st0.func_801B8D00">
-<ellipse fill="green" stroke="black" cx="1717.69" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="1717.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B8D00</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B8D00&#45;&gt;st0.MoveEntity -->
-<g id="edge8" class="edge">
-<title>st0.func_801B8D00&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M1781.37,-183.91C1940.24,-151.26 2353.02,-66.41 2516.04,-32.91"/>
-<polygon fill="black" stroke="black" points="2516.86,-36.31 2525.95,-30.87 2515.45,-29.45 2516.86,-36.31"/>
-<text text-anchor="middle" x="1776.37" y="-172.71" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntityEquipItemDrop -->
-<g id="node10" class="node">
-<title>st0.EntityEquipItemDrop</title>
-<g id="a_node10"><a xlink:href="st0.EntityEquipItemDrop.svg" xlink:title="st0.EntityEquipItemDrop">
-<ellipse fill="red" stroke="black" cx="1966.69" cy="-198" rx="128.88" ry="18"/>
-<text text-anchor="middle" x="1966.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityEquipItemDrop</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityEquipItemDrop&#45;&gt;st0.MoveEntity -->
-<g id="edge9" class="edge">
-<title>st0.EntityEquipItemDrop&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M2020.1,-181.59C2135.56,-148.28 2407.58,-69.81 2526.43,-35.52"/>
-<polygon fill="black" stroke="black" points="2527.45,-38.87 2536.09,-32.73 2525.51,-32.14 2527.45,-38.87"/>
-<text text-anchor="middle" x="2015.1" y="-170.39" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntityEnemyBlood -->
-<g id="node11" class="node">
-<title>st0.EntityEnemyBlood</title>
-<g id="a_node11"><a xlink:href="st0.EntityEnemyBlood.svg" xlink:title="st0.EntityEnemyBlood">
-<ellipse fill="green" stroke="black" cx="2228.69" cy="-198" rx="115.88" ry="18"/>
-<text text-anchor="middle" x="2228.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityEnemyBlood</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityEnemyBlood&#45;&gt;st0.MoveEntity -->
-<g id="edge10" class="edge">
-<title>st0.EntityEnemyBlood&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M2261.45,-180.57C2326.59,-147.91 2472.17,-74.92 2543.18,-39.31"/>
-<polygon fill="black" stroke="black" points="2544.91,-42.36 2552.28,-34.75 2541.78,-36.1 2544.91,-42.36"/>
-<text text-anchor="middle" x="2256.45" y="-169.37" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.func_801B8AB4 -->
-<g id="node12" class="node">
-<title>st0.func_801B8AB4</title>
-<g id="a_node12"><a xlink:href="st0.func_801B8AB4.svg" xlink:title="st0.func_801B8AB4">
-<ellipse fill="green" stroke="black" cx="2464.69" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="2464.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B8AB4</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B8AB4&#45;&gt;st0.MoveEntity -->
-<g id="edge11" class="edge">
-<title>st0.func_801B8AB4&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M2476.1,-179.93C2497.07,-148.57 2541.84,-81.6 2566.5,-44.71"/>
-<polygon fill="black" stroke="black" points="2569.67,-46.27 2572.32,-36.02 2563.85,-42.38 2569.67,-46.27"/>
-<text text-anchor="middle" x="2471.1" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntitySoulStealOrb -->
-<g id="node13" class="node">
-<title>st0.EntitySoulStealOrb</title>
-<g id="a_node13"><a xlink:href="st0.EntitySoulStealOrb.svg" xlink:title="st0.EntitySoulStealOrb">
-<ellipse fill="green" stroke="black" cx="2703.69" cy="-198" rx="118.88" ry="18"/>
-<text text-anchor="middle" x="2703.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntitySoulStealOrb</text>
-</a>
-</g>
-</g>
-<!-- st0.EntitySoulStealOrb&#45;&gt;st0.MoveEntity -->
-<g id="edge12" class="edge">
-<title>st0.EntitySoulStealOrb&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M2692.18,-179.93C2671.04,-148.57 2625.89,-81.6 2601.02,-44.71"/>
-<polygon fill="black" stroke="black" points="2603.65,-42.35 2595.16,-36.02 2597.85,-46.26 2603.65,-42.35"/>
-<text text-anchor="middle" x="2687.18" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.func_801B6C5C -->
-<g id="node14" class="node">
-<title>st0.func_801B6C5C</title>
-<g id="a_node14"><a xlink:href="st0.func_801B6C5C.svg" xlink:title="st0.func_801B6C5C">
-<ellipse fill="green" stroke="black" cx="2943.69" cy="-198" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="2943.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B6C5C</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B6C5C&#45;&gt;st0.MoveEntity -->
-<g id="edge13" class="edge">
-<title>st0.func_801B6C5C&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M2911.11,-180.89C2845.35,-148.37 2696.89,-74.97 2624.68,-39.26"/>
-<polygon fill="black" stroke="black" points="2625.94,-35.99 2615.43,-34.69 2622.84,-42.26 2625.94,-35.99"/>
-<text text-anchor="middle" x="2906.11" y="-169.69" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntityPrizeDrop -->
-<g id="node15" class="node">
-<title>st0.EntityPrizeDrop</title>
-<g id="a_node15"><a xlink:href="st0.EntityPrizeDrop.svg" xlink:title="st0.EntityPrizeDrop">
-<ellipse fill="green" stroke="black" cx="3168.69" cy="-198" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="3168.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityPrizeDrop</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityPrizeDrop&#45;&gt;st0.MoveEntity -->
-<g id="edge14" class="edge">
-<title>st0.EntityPrizeDrop&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M3119.57,-182.05C3011.47,-149.16 2753.54,-70.68 2639.52,-35.99"/>
-<polygon fill="black" stroke="black" points="2640.51,-32.63 2629.93,-33.07 2638.48,-39.33 2640.51,-32.63"/>
-<text text-anchor="middle" x="3114.57" y="-170.85" font-family="Times,serif" font-size="14.00">2</text>
-</g>
-<!-- st0.func_801A8328 -->
-<g id="node16" class="node">
-<title>st0.func_801A8328</title>
-<g id="a_node16"><a xlink:href="st0.func_801A8328.svg" xlink:title="st0.func_801A8328">
-<ellipse fill="green" stroke="black" cx="3390.69" cy="-198" rx="100.18" ry="18"/>
-<text text-anchor="middle" x="3390.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801A8328</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801A8328&#45;&gt;st0.MoveEntity -->
-<g id="edge15" class="edge">
-<title>st0.func_801A8328&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M3330.03,-183.62C3182.05,-150.98 2803.39,-67.46 2649.85,-33.59"/>
-<polygon fill="black" stroke="black" points="2650.15,-30.08 2639.63,-31.34 2648.64,-36.91 2650.15,-30.08"/>
-<text text-anchor="middle" x="3325.03" y="-172.42" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.func_801AD838 -->
-<g id="node17" class="node">
-<title>st0.func_801AD838</title>
-<g id="a_node17"><a xlink:href="st0.func_801AD838.svg" xlink:title="st0.func_801AD838">
-<ellipse fill="green" stroke="black" cx="3609.69" cy="-198" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="3609.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801AD838</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801AD838&#45;&gt;st0.MoveEntity -->
-<g id="edge16" class="edge">
-<title>st0.func_801AD838&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M3539.98,-184.91C3353.65,-152.58 2845.45,-64.41 2656.08,-31.56"/>
-<polygon fill="black" stroke="black" points="2656.68,-28.11 2646.23,-29.85 2655.48,-35.01 2656.68,-28.11"/>
-<text text-anchor="middle" x="3534.98" y="-173.71" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntityDraculaRainAttack -->
-<g id="node18" class="node">
-<title>st0.EntityDraculaRainAttack</title>
-<g id="a_node18"><a xlink:href="st0.EntityDraculaRainAttack.svg" xlink:title="st0.EntityDraculaRainAttack">
-<ellipse fill="green" stroke="black" cx="3872.69" cy="-198" rx="143.77" ry="18"/>
-<text text-anchor="middle" x="3872.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaRainAttack</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityDraculaRainAttack&#45;&gt;st0.MoveEntity -->
-<g id="edge17" class="edge">
-<title>st0.EntityDraculaRainAttack&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M3779.99,-184.2C3537.37,-150.7 2886.96,-60.88 2661.73,-29.78"/>
-<polygon fill="black" stroke="black" points="2662.04,-26.29 2651.65,-28.39 2661.08,-33.22 2662.04,-26.29"/>
-<text text-anchor="middle" x="3774.99" y="-173" font-family="Times,serif" font-size="14.00">2</text>
-</g>
-<!-- st0.EntityDraculaMeteorball -->
-<g id="node19" class="node">
-<title>st0.EntityDraculaMeteorball</title>
-<g id="a_node19"><a xlink:href="st0.EntityDraculaMeteorball.svg" xlink:title="st0.EntityDraculaMeteorball">
-<ellipse fill="green" stroke="black" cx="4177.69" cy="-198" rx="143.77" ry="18"/>
-<text text-anchor="middle" x="4177.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaMeteorball</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityDraculaMeteorball&#45;&gt;st0.MoveEntity -->
-<g id="edge18" class="edge">
-<title>st0.EntityDraculaMeteorball&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M4074.26,-185.43C4058.01,-183.61 4041.39,-181.75 4025.69,-180 3507.87,-122.14 2885.45,-52.67 2665.5,-28.13"/>
-<polygon fill="black" stroke="black" points="2665.66,-24.63 2655.34,-26.99 2664.89,-31.58 2665.66,-24.63"/>
-<text text-anchor="middle" x="4069.26" y="-174.23" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntityDraculaMegaFireball -->
-<g id="node20" class="node">
-<title>st0.EntityDraculaMegaFireball</title>
-<g id="a_node20"><a xlink:href="st0.EntityDraculaMegaFireball.svg" xlink:title="st0.EntityDraculaMegaFireball">
-<ellipse fill="green" stroke="black" cx="4494.69" cy="-198" rx="155.17" ry="18"/>
-<text text-anchor="middle" x="4494.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaMegaFireball</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityDraculaMegaFireball&#45;&gt;st0.MoveEntity -->
-<g id="edge19" class="edge">
-<title>st0.EntityDraculaMegaFireball&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M4384,-185.35C4366.18,-183.53 4347.93,-181.69 4330.69,-180 3692.35,-117.5 2922.09,-48.88 2668.87,-26.5"/>
-<polygon fill="black" stroke="black" points="2668.91,-22.99 2658.64,-25.6 2668.29,-29.97 2668.91,-22.99"/>
-<text text-anchor="middle" x="4379" y="-174.15" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntityDraculaFinalForm -->
-<g id="node21" class="node">
-<title>st0.EntityDraculaFinalForm</title>
-<g id="a_node21"><a xlink:href="st0.EntityDraculaFinalForm.svg" xlink:title="st0.EntityDraculaFinalForm">
-<ellipse fill="red" stroke="black" cx="4808.69" cy="-198" rx="141.07" ry="18"/>
-<text text-anchor="middle" x="4808.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaFinalForm</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityDraculaFinalForm&#45;&gt;st0.MoveEntity -->
-<g id="edge20" class="edge">
-<title>st0.EntityDraculaFinalForm&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M4709.1,-185.21C4692.28,-183.37 4675,-181.56 4658.69,-180 3889.91,-106.63 2958.45,-43.55 2671.83,-24.72"/>
-<polygon fill="black" stroke="black" points="2671.71,-21.2 2661.5,-24.04 2671.25,-28.19 2671.71,-21.2"/>
-<text text-anchor="middle" x="4704.1" y="-174.01" font-family="Times,serif" font-size="14.00">4</text>
-</g>
-<!-- st0.EntityDraculaGlass -->
-<g id="node22" class="node">
-<title>st0.EntityDraculaGlass</title>
-<g id="a_node22"><a xlink:href="st0.EntityDraculaGlass.svg" xlink:title="st0.EntityDraculaGlass">
-<ellipse fill="green" stroke="black" cx="5085.69" cy="-198" rx="118.08" ry="18"/>
-<text text-anchor="middle" x="5085.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaGlass</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityDraculaGlass&#45;&gt;st0.MoveEntity -->
-<g id="edge21" class="edge">
-<title>st0.EntityDraculaGlass&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M5002.78,-185.11C4988.11,-183.23 4972.97,-181.44 4958.69,-180 4069.89,-90.48 2988.81,-37.35 2673.8,-22.98"/>
-<polygon fill="black" stroke="black" points="2673.96,-19.49 2663.81,-22.53 2673.64,-26.48 2673.96,-19.49"/>
-<text text-anchor="middle" x="4997.78" y="-173.91" font-family="Times,serif" font-size="14.00">2</text>
+<!-- st0.func_801B4FD4&#45;&gt;st0.MoveEntity -->
+<g id="edge4" class="edge">
+<title>st0.func_801B4FD4&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M843.54,-185.24C856.67,-183.33 870.25,-181.49 883.04,-180 1610.27,-95.32 2493.08,-40.29 2772.1,-24.03"/>
+<polygon fill="black" stroke="black" points="2772.39,-27.52 2782.17,-23.45 2771.98,-20.53 2772.39,-27.52"/>
+<text text-anchor="middle" x="838.54" y="-174.04" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0.EntityDraculaFireball -->
-<g id="node23" class="node">
+<g id="node6" class="node">
 <title>st0.EntityDraculaFireball</title>
-<g id="a_node23"><a xlink:href="st0.EntityDraculaFireball.svg" xlink:title="st0.EntityDraculaFireball">
-<ellipse fill="green" stroke="black" cx="5351.69" cy="-198" rx="129.18" ry="18"/>
-<text text-anchor="middle" x="5351.69" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaFireball</text>
+<g id="a_node6"><a xlink:href="st0.EntityDraculaFireball.svg" xlink:title="st0.EntityDraculaFireball">
+<ellipse fill="green" stroke="black" cx="1021.04" cy="-198" rx="129.18" ry="18"/>
+<text text-anchor="middle" x="1021.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaFireball</text>
 </a>
 </g>
 </g>
 <!-- st0.EntityDraculaFireball&#45;&gt;st0.MoveEntity -->
-<g id="edge22" class="edge">
+<g id="edge5" class="edge">
 <title>st0.EntityDraculaFireball&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M5260.93,-185.1C5244.88,-183.22 5228.31,-181.43 5212.69,-180 4219.74,-88.96 3010.95,-36.2 2674.41,-22.56"/>
-<polygon fill="black" stroke="black" points="2674.36,-19.06 2664.23,-22.15 2674.08,-26.05 2674.36,-19.06"/>
-<text text-anchor="middle" x="5255.93" y="-173.9" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1113.05,-185.3C1128.4,-183.45 1144.16,-181.62 1159.04,-180 1778.2,-112.59 2525.89,-47.52 2775.38,-26.24"/>
+<polygon fill="black" stroke="black" points="2775.8,-29.72 2785.47,-25.38 2775.21,-22.74 2775.8,-29.72"/>
+<text text-anchor="middle" x="1108.05" y="-174.1" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntityDraculaMeteorball -->
+<g id="node7" class="node">
+<title>st0.EntityDraculaMeteorball</title>
+<g id="a_node7"><a xlink:href="st0.EntityDraculaMeteorball.svg" xlink:title="st0.EntityDraculaMeteorball">
+<ellipse fill="green" stroke="black" cx="1312.04" cy="-198" rx="143.77" ry="18"/>
+<text text-anchor="middle" x="1312.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaMeteorball</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityDraculaMeteorball&#45;&gt;st0.MoveEntity -->
+<g id="edge6" class="edge">
+<title>st0.EntityDraculaMeteorball&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M1413.97,-185.29C1702.02,-152.19 2518.03,-58.42 2779.41,-28.38"/>
+<polygon fill="black" stroke="black" points="2780.05,-31.83 2789.59,-27.21 2779.25,-24.88 2780.05,-31.83"/>
+<text text-anchor="middle" x="1408.97" y="-174.09" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.func_801AD838 -->
+<g id="node8" class="node">
+<title>st0.func_801AD838</title>
+<g id="a_node8"><a xlink:href="st0.func_801AD838.svg" xlink:title="st0.func_801AD838">
+<ellipse fill="green" stroke="black" cx="1575.04" cy="-198" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="1575.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801AD838</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801AD838&#45;&gt;st0.MoveEntity -->
+<g id="edge7" class="edge">
+<title>st0.func_801AD838&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M1648.38,-185.48C1660.62,-183.62 1673.19,-181.73 1685.04,-180 2097.52,-119.9 2592.38,-54.26 2781.91,-29.35"/>
+<polygon fill="black" stroke="black" points="2782.6,-32.79 2792.06,-28.02 2781.68,-25.85 2782.6,-32.79"/>
+<text text-anchor="middle" x="1643.38" y="-174.28" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntityDraculaFinalForm -->
+<g id="node9" class="node">
+<title>st0.EntityDraculaFinalForm</title>
+<g id="a_node9"><a xlink:href="st0.EntityDraculaFinalForm.svg" xlink:title="st0.EntityDraculaFinalForm">
+<ellipse fill="red" stroke="black" cx="1835.04" cy="-198" rx="141.07" ry="18"/>
+<text text-anchor="middle" x="1835.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaFinalForm</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityDraculaFinalForm&#45;&gt;st0.MoveEntity -->
+<g id="edge8" class="edge">
+<title>st0.EntityDraculaFinalForm&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M1915.12,-183.11C2109.27,-149.42 2602.75,-63.81 2788.68,-31.55"/>
+<polygon fill="black" stroke="black" points="2789.37,-34.99 2798.63,-29.83 2788.18,-28.09 2789.37,-34.99"/>
+<text text-anchor="middle" x="1910.12" y="-171.91" font-family="Times,serif" font-size="14.00">4</text>
+</g>
+<!-- st0.EntityDraculaGlass -->
+<g id="node10" class="node">
+<title>st0.EntityDraculaGlass</title>
+<g id="a_node10"><a xlink:href="st0.EntityDraculaGlass.svg" xlink:title="st0.EntityDraculaGlass">
+<ellipse fill="green" stroke="black" cx="2112.04" cy="-198" rx="118.08" ry="18"/>
+<text text-anchor="middle" x="2112.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaGlass</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityDraculaGlass&#45;&gt;st0.MoveEntity -->
+<g id="edge9" class="edge">
+<title>st0.EntityDraculaGlass&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M2173.02,-182.51C2312.85,-149.28 2655.5,-67.85 2797.64,-34.07"/>
+<polygon fill="black" stroke="black" points="2798.61,-37.44 2807.53,-31.72 2796.99,-30.62 2798.61,-37.44"/>
+<text text-anchor="middle" x="2168.02" y="-171.31" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- st0.EntityDraculaMegaFireball -->
+<g id="node11" class="node">
+<title>st0.EntityDraculaMegaFireball</title>
+<g id="a_node11"><a xlink:href="st0.EntityDraculaMegaFireball.svg" xlink:title="st0.EntityDraculaMegaFireball">
+<ellipse fill="green" stroke="black" cx="2404.04" cy="-198" rx="155.17" ry="18"/>
+<text text-anchor="middle" x="2404.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaMegaFireball</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityDraculaMegaFireball&#45;&gt;st0.MoveEntity -->
+<g id="edge10" class="edge">
+<title>st0.EntityDraculaMegaFireball&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M2446.22,-180.57C2531.39,-147.4 2723.43,-72.6 2813.15,-37.65"/>
+<polygon fill="black" stroke="black" points="2814.5,-40.88 2822.54,-33.99 2811.96,-34.36 2814.5,-40.88"/>
+<text text-anchor="middle" x="2441.22" y="-169.37" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntityDraculaRainAttack -->
+<g id="node12" class="node">
+<title>st0.EntityDraculaRainAttack</title>
+<g id="a_node12"><a xlink:href="st0.EntityDraculaRainAttack.svg" xlink:title="st0.EntityDraculaRainAttack">
+<ellipse fill="green" stroke="black" cx="2721.04" cy="-198" rx="143.77" ry="18"/>
+<text text-anchor="middle" x="2721.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaRainAttack</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityDraculaRainAttack&#45;&gt;st0.MoveEntity -->
+<g id="edge11" class="edge">
+<title>st0.EntityDraculaRainAttack&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M2734.46,-179.93C2759.24,-148.43 2812.25,-81.03 2841.19,-44.24"/>
+<polygon fill="black" stroke="black" points="2844.23,-46.04 2847.66,-36.02 2838.72,-41.71 2844.23,-46.04"/>
+<text text-anchor="middle" x="2729.46" y="-168.73" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- st0.EntitySecretButton -->
+<g id="node13" class="node">
+<title>st0.EntitySecretButton</title>
+<g id="a_node13"><a xlink:href="st0.EntitySecretButton.svg" xlink:title="st0.EntitySecretButton">
+<ellipse fill="green" stroke="black" cx="3002.04" cy="-198" rx="118.88" ry="18"/>
+<text text-anchor="middle" x="3002.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntitySecretButton</text>
+</a>
+</g>
+</g>
+<!-- st0.EntitySecretButton&#45;&gt;st0.MoveEntity -->
+<g id="edge12" class="edge">
+<title>st0.EntitySecretButton&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M2988.52,-179.93C2963.57,-148.43 2910.18,-81.03 2881.03,-44.24"/>
+<polygon fill="black" stroke="black" points="2883.47,-41.68 2874.52,-36.02 2877.99,-46.03 2883.47,-41.68"/>
+<text text-anchor="middle" x="2983.52" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntitySecretStairs -->
+<g id="node14" class="node">
+<title>st0.EntitySecretStairs</title>
+<g id="a_node14"><a xlink:href="st0.EntitySecretStairs.svg" xlink:title="st0.EntitySecretStairs">
+<ellipse fill="green" stroke="black" cx="3254.04" cy="-198" rx="115.08" ry="18"/>
+<text text-anchor="middle" x="3254.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntitySecretStairs</text>
+</a>
+</g>
+</g>
+<!-- st0.EntitySecretStairs&#45;&gt;st0.MoveEntity -->
+<g id="edge13" class="edge">
+<title>st0.EntitySecretStairs&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M3218.12,-180.73C3145.8,-147.98 2982.87,-74.18 2904.61,-38.73"/>
+<polygon fill="black" stroke="black" points="2905.6,-35.34 2895.05,-34.4 2902.71,-41.72 2905.6,-35.34"/>
+<text text-anchor="middle" x="3213.12" y="-169.53" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.func_801A8328 -->
+<g id="node15" class="node">
+<title>st0.func_801A8328</title>
+<g id="a_node15"><a xlink:href="st0.func_801A8328.svg" xlink:title="st0.func_801A8328">
+<ellipse fill="green" stroke="black" cx="3487.04" cy="-198" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="3487.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801A8328</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801A8328&#45;&gt;st0.MoveEntity -->
+<g id="edge14" class="edge">
+<title>st0.func_801A8328&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M3435.81,-182.43C3320.36,-149.6 3040.46,-70.02 2918.94,-35.46"/>
+<polygon fill="black" stroke="black" points="2919.65,-32.03 2909.08,-32.66 2917.74,-38.76 2919.65,-32.03"/>
+<text text-anchor="middle" x="3430.81" y="-171.23" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntityEquipItemDrop -->
+<g id="node16" class="node">
+<title>st0.EntityEquipItemDrop</title>
+<g id="a_node16"><a xlink:href="st0.EntityEquipItemDrop.svg" xlink:title="st0.EntityEquipItemDrop">
+<ellipse fill="red" stroke="black" cx="3734.04" cy="-198" rx="128.88" ry="18"/>
+<text text-anchor="middle" x="3734.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityEquipItemDrop</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityEquipItemDrop&#45;&gt;st0.MoveEntity -->
+<g id="edge15" class="edge">
+<title>st0.EntityEquipItemDrop&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M3664.44,-182.81C3500.44,-149.37 3091.36,-65.96 2929,-32.86"/>
+<polygon fill="black" stroke="black" points="2929.63,-29.41 2919.13,-30.84 2928.23,-36.27 2929.63,-29.41"/>
+<text text-anchor="middle" x="3659.44" y="-171.61" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntityEnemyBlood -->
+<g id="node17" class="node">
+<title>st0.EntityEnemyBlood</title>
+<g id="a_node17"><a xlink:href="st0.EntityEnemyBlood.svg" xlink:title="st0.EntityEnemyBlood">
+<ellipse fill="green" stroke="black" cx="3996.04" cy="-198" rx="115.88" ry="18"/>
+<text text-anchor="middle" x="3996.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityEnemyBlood</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityEnemyBlood&#45;&gt;st0.MoveEntity -->
+<g id="edge16" class="edge">
+<title>st0.EntityEnemyBlood&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M3917.58,-184.7C3708.73,-151.94 3141.21,-62.94 2936.2,-30.79"/>
+<polygon fill="black" stroke="black" points="2936.55,-27.3 2926.13,-29.21 2935.47,-34.21 2936.55,-27.3"/>
+<text text-anchor="middle" x="3912.58" y="-173.5" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.func_801B6C5C -->
+<g id="node18" class="node">
+<title>st0.func_801B6C5C</title>
+<g id="a_node18"><a xlink:href="st0.func_801B6C5C.svg" xlink:title="st0.func_801B6C5C">
+<ellipse fill="green" stroke="black" cx="4232.04" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="4232.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B6C5C</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B6C5C&#45;&gt;st0.MoveEntity -->
+<g id="edge17" class="edge">
+<title>st0.func_801B6C5C&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M4158.34,-185.45C4145.9,-183.58 4133.11,-181.69 4121.04,-180 3676.44,-117.56 3142.12,-52.61 2941.96,-28.63"/>
+<polygon fill="black" stroke="black" points="2942.17,-25.13 2931.82,-27.42 2941.34,-32.08 2942.17,-25.13"/>
+<text text-anchor="middle" x="4153.34" y="-174.25" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.func_801B8AB4 -->
+<g id="node19" class="node">
+<title>st0.func_801B8AB4</title>
+<g id="a_node19"><a xlink:href="st0.func_801B8AB4.svg" xlink:title="st0.func_801B8AB4">
+<ellipse fill="green" stroke="black" cx="4455.04" cy="-198" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="4455.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B8AB4</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B8AB4&#45;&gt;st0.MoveEntity -->
+<g id="edge18" class="edge">
+<title>st0.func_801B8AB4&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M4381.96,-185.34C4369.33,-183.46 4356.32,-181.61 4344.04,-180 3812.94,-110.54 3172.04,-48.23 2945.4,-26.85"/>
+<polygon fill="black" stroke="black" points="2945.53,-23.35 2935.25,-25.89 2944.87,-30.32 2945.53,-23.35"/>
+<text text-anchor="middle" x="4376.96" y="-174.14" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntitySoulStealOrb -->
+<g id="node20" class="node">
+<title>st0.EntitySoulStealOrb</title>
+<g id="a_node20"><a xlink:href="st0.EntitySoulStealOrb.svg" xlink:title="st0.EntitySoulStealOrb">
+<ellipse fill="green" stroke="black" cx="4694.04" cy="-198" rx="118.88" ry="18"/>
+<text text-anchor="middle" x="4694.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntitySoulStealOrb</text>
+</a>
+</g>
+</g>
+<!-- st0.EntitySoulStealOrb&#45;&gt;st0.MoveEntity -->
+<g id="edge19" class="edge">
+<title>st0.EntitySoulStealOrb&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M4609.41,-185.3C4594.95,-183.43 4580.07,-181.59 4566.04,-180 3946.48,-109.63 3197.79,-46.51 2947.32,-25.98"/>
+<polygon fill="black" stroke="black" points="2947.45,-22.48 2937.2,-25.16 2946.88,-29.46 2947.45,-22.48"/>
+<text text-anchor="middle" x="4604.41" y="-174.1" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntityPrizeDrop -->
+<g id="node21" class="node">
+<title>st0.EntityPrizeDrop</title>
+<g id="a_node21"><a xlink:href="st0.EntityPrizeDrop.svg" xlink:title="st0.EntityPrizeDrop">
+<ellipse fill="green" stroke="black" cx="4935.04" cy="-198" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="4935.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityPrizeDrop</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityPrizeDrop&#45;&gt;st0.MoveEntity -->
+<g id="edge20" class="edge">
+<title>st0.EntityPrizeDrop&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M4861.59,-185.22C4848.44,-183.32 4834.85,-181.49 4822.04,-180 4101.42,-96.31 3226.84,-40.67 2949.69,-24.14"/>
+<polygon fill="black" stroke="black" points="2949.88,-20.65 2939.69,-23.55 2949.47,-27.63 2949.88,-20.65"/>
+<text text-anchor="middle" x="4856.59" y="-174.02" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- st0.func_801B8434 -->
+<g id="node22" class="node">
+<title>st0.func_801B8434</title>
+<g id="a_node22"><a xlink:href="st0.func_801B8434.svg" xlink:title="st0.func_801B8434">
+<ellipse fill="green" stroke="black" cx="5158.04" cy="-198" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="5158.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B8434</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B8434&#45;&gt;st0.MoveEntity -->
+<g id="edge21" class="edge">
+<title>st0.func_801B8434&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M5087.15,-185.19C5074.16,-183.27 5060.71,-181.44 5048.04,-180 4237.28,-87.66 3251.1,-37.08 2951.55,-23.07"/>
+<polygon fill="black" stroke="black" points="2951.34,-19.55 2941.19,-22.58 2951.02,-26.55 2951.34,-19.55"/>
+<text text-anchor="middle" x="5082.15" y="-173.99" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.func_801B8D00 -->
+<g id="node23" class="node">
+<title>st0.func_801B8D00</title>
+<g id="a_node23"><a xlink:href="st0.func_801B8D00.svg" xlink:title="st0.func_801B8D00">
+<ellipse fill="green" stroke="black" cx="5379.04" cy="-198" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="5379.04" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B8D00</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B8D00&#45;&gt;st0.MoveEntity -->
+<g id="edge22" class="edge">
+<title>st0.func_801B8D00&#45;&gt;st0.MoveEntity</title>
+<path fill="none" stroke="black" d="M5307.51,-185.13C5294.4,-183.21 5280.83,-181.4 5268.04,-180 4367.65,-81.12 3270.65,-34.4 2951.88,-22.28"/>
+<polygon fill="black" stroke="black" points="2951.9,-18.78 2941.77,-21.9 2951.64,-25.78 2951.9,-18.78"/>
+<text text-anchor="middle" x="5302.51" y="-173.93" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>
