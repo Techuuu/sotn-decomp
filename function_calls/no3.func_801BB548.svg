@@ -26,7 +26,7 @@
 <text text-anchor="middle" x="194.74" y="-171.34" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- no3.func_801BB548&#45;&gt;no3.func_801BB548 -->
-<g id="edge4" class="edge">
+<g id="edge5" class="edge">
 <title>no3.func_801BB548&#45;&gt;no3.func_801BB548</title>
 <path fill="none" stroke="black" d="M170.86,-215.62C219.69,-241.93 286.43,-236.06 286.43,-198 286.43,-162.25 227.52,-154.9 179.91,-175.96"/>
 <polygon fill="black" stroke="black" points="178.31,-172.85 170.86,-180.38 181.38,-179.13 178.31,-172.85"/>
@@ -74,7 +74,7 @@
 </g>
 </g>
 <!-- no3.EntityDeathSkySwirl&#45;&gt;no3.func_801BB548 -->
-<g id="edge5" class="edge">
+<g id="edge4" class="edge">
 <title>no3.EntityDeathSkySwirl&#45;&gt;no3.func_801BB548</title>
 <path fill="none" stroke="black" d="M146.44,-359.93C146.44,-328.97 146.44,-263.3 146.44,-226.13"/>
 <polygon fill="black" stroke="black" points="149.94,-226.02 146.44,-216.02 142.94,-226.02 149.94,-226.02"/>

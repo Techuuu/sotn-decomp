@@ -496,7 +496,7 @@
 | us/st/dre/nonmatchings/1C7DC/func_801A2580.s                 |       42 |          9 |        |                                 |       |
 | us/st/mad/nonmatchings/139E0/func_80199508.s                 |       42 |          9 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_80195758.s                 |       42 |          9 |        |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_8018E024.s                 |       43 |          5 |        |                                 |       |
+| us/st/rwrp/nonmatchings/A59C/UnkEntityFunc0.s                |       43 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_001/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
 | us/weapon/nonmatchings/w_002/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
 | us/weapon/nonmatchings/w_003/LoadWeaponPalette.s             |       46 |          4 |        |                                 |       |
@@ -1151,7 +1151,6 @@
 | us/dra/nonmatchings/62D70/func_801042C4.s                    |      325 |         24 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityStrongWargDeathBeams.s    |      325 |         33 |        |                                 |       |
 | us/weapon/nonmatchings/w_010/EntityWeaponAttack.s            |      325 |         35 | Yes    |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_80194924.s                 |      327 |         38 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnThrownVibhuti.s        |      327 |         41 |        |                                 |       |
 | us/st/no3/nonmatchings/377D4/EntityUnkId5C.s                 |      329 |         36 | Yes    | https://decomp.me/scratch/O9Bsq | 0.988 |
 | us/st/np3/nonmatchings/3246C/func_801B5790.s                 |      329 |         36 | Yes    |                                 |       |
