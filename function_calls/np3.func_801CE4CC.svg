@@ -12,14 +12,14 @@
 <!-- np3.func_801CE4CC -->
 <g id="node1" class="node">
 <title>np3.func_801CE4CC</title>
-<ellipse fill="red" stroke="black" cx="219.29" cy="-198" rx="106.68" ry="18"/>
+<ellipse fill="green" stroke="black" cx="219.29" cy="-198" rx="106.68" ry="18"/>
 <text text-anchor="middle" x="219.29" y="-194.3" font-family="Times,serif" font-size="14.00">np3.func_801CE4CC</text>
 </g>
 <!-- np3.func_801CE1E8 -->
 <g id="node2" class="node">
 <title>np3.func_801CE1E8</title>
 <g id="a_node2"><a xlink:href="np3.func_801CE1E8.svg" xlink:title="np3.func_801CE1E8">
-<ellipse fill="red" stroke="black" cx="105.29" cy="-18" rx="105.08" ry="18"/>
+<ellipse fill="green" stroke="black" cx="105.29" cy="-18" rx="105.08" ry="18"/>
 <text text-anchor="middle" x="105.29" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801CE1E8</text>
 </a>
 </g>

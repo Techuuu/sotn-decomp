@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="104.64" cy="-18" rx="104.78" ry="18"/>
 <text text-anchor="middle" x="104.64" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801BCF20</text>
 </g>
-<!-- np3.func_801CB018 -->
+<!-- np3.EntityOwl -->
 <g id="node2" class="node">
-<title>np3.func_801CB018</title>
-<g id="a_node2"><a xlink:href="np3.func_801CB018.svg" xlink:title="np3.func_801CB018">
-<ellipse fill="red" stroke="black" cx="104.64" cy="-198" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="104.64" y="-194.3" font-family="Times,serif" font-size="14.00">np3.func_801CB018</text>
+<title>np3.EntityOwl</title>
+<g id="a_node2"><a xlink:href="np3.EntityOwl.svg" xlink:title="np3.EntityOwl">
+<ellipse fill="red" stroke="black" cx="104.64" cy="-198" rx="77.99" ry="18"/>
+<text text-anchor="middle" x="104.64" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityOwl</text>
 </a>
 </g>
 </g>
-<!-- np3.func_801CB018&#45;&gt;np3.func_801BCF20 -->
+<!-- np3.EntityOwl&#45;&gt;np3.func_801BCF20 -->
 <g id="edge1" class="edge">
-<title>np3.func_801CB018&#45;&gt;np3.func_801BCF20</title>
+<title>np3.EntityOwl&#45;&gt;np3.func_801BCF20</title>
 <path fill="none" stroke="black" d="M104.64,-179.93C104.64,-148.97 104.64,-83.3 104.64,-46.13"/>
 <polygon fill="black" stroke="black" points="108.14,-46.02 104.64,-36.02 101.14,-46.02 108.14,-46.02"/>
 <text text-anchor="middle" x="99.64" y="-168.73" font-family="Times,serif" font-size="14.00">2</text>
