@@ -12,88 +12,88 @@
 <!-- nz0.func_801CA07C -->
 <g id="node1" class="node">
 <title>nz0.func_801CA07C</title>
-<ellipse fill="green" stroke="black" cx="481.69" cy="-198" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="481.69" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.func_801CA07C</text>
+<ellipse fill="green" stroke="black" cx="519.54" cy="-198" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="519.54" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.func_801CA07C</text>
 </g>
 <!-- nz0.func_801C9F9C -->
 <g id="node2" class="node">
 <title>nz0.func_801C9F9C</title>
 <g id="a_node2"><a xlink:href="nz0.func_801C9F9C.svg" xlink:title="nz0.func_801C9F9C">
-<ellipse fill="green" stroke="black" cx="481.69" cy="-18" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="481.69" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.func_801C9F9C</text>
+<ellipse fill="green" stroke="black" cx="519.54" cy="-18" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="519.54" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.func_801C9F9C</text>
 </a>
 </g>
 </g>
 <!-- nz0.func_801CA07C&#45;&gt;nz0.func_801C9F9C -->
 <g id="edge1" class="edge">
 <title>nz0.func_801CA07C&#45;&gt;nz0.func_801C9F9C</title>
-<path fill="none" stroke="black" d="M481.69,-179.93C481.69,-148.97 481.69,-83.3 481.69,-46.13"/>
-<polygon fill="black" stroke="black" points="485.19,-46.02 481.69,-36.02 478.19,-46.02 485.19,-46.02"/>
-<text text-anchor="middle" x="476.69" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M519.54,-179.93C519.54,-148.97 519.54,-83.3 519.54,-46.13"/>
+<polygon fill="black" stroke="black" points="523.04,-46.02 519.54,-36.02 516.04,-46.02 523.04,-46.02"/>
+<text text-anchor="middle" x="514.54" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- nz0.func_801C4198 -->
+<!-- nz0.EntityLifeUpSpawn -->
 <g id="node3" class="node">
-<title>nz0.func_801C4198</title>
-<g id="a_node3"><a xlink:href="nz0.func_801C4198.svg" xlink:title="nz0.func_801C4198">
-<ellipse fill="red" stroke="black" cx="102.69" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="102.69" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.func_801C4198</text>
+<title>nz0.EntityLifeUpSpawn</title>
+<g id="a_node3"><a xlink:href="nz0.EntityLifeUpSpawn.svg" xlink:title="nz0.EntityLifeUpSpawn">
+<ellipse fill="red" stroke="black" cx="121.54" cy="-378" rx="121.58" ry="18"/>
+<text text-anchor="middle" x="121.54" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityLifeUpSpawn</text>
 </a>
 </g>
 </g>
-<!-- nz0.func_801C4198&#45;&gt;nz0.func_801CA07C -->
+<!-- nz0.EntityLifeUpSpawn&#45;&gt;nz0.func_801CA07C -->
 <g id="edge2" class="edge">
-<title>nz0.func_801C4198&#45;&gt;nz0.func_801CA07C</title>
-<path fill="none" stroke="black" d="M136.99,-360.89C206.1,-328.43 361.98,-255.22 438.14,-219.45"/>
-<polygon fill="black" stroke="black" points="439.9,-222.49 447.47,-215.07 436.93,-216.16 439.9,-222.49"/>
-<text text-anchor="middle" x="131.99" y="-349.69" font-family="Times,serif" font-size="14.00">1</text>
+<title>nz0.EntityLifeUpSpawn&#45;&gt;nz0.func_801CA07C</title>
+<path fill="none" stroke="black" d="M157.91,-360.73C230.84,-328.11 394.76,-254.81 474.4,-219.19"/>
+<polygon fill="black" stroke="black" points="475.98,-222.32 483.68,-215.04 473.12,-215.93 475.98,-222.32"/>
+<text text-anchor="middle" x="152.91" y="-349.53" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- nz0.EntityBloodyZombie -->
 <g id="node4" class="node">
 <title>nz0.EntityBloodyZombie</title>
 <g id="a_node4"><a xlink:href="nz0.EntityBloodyZombie.svg" xlink:title="nz0.EntityBloodyZombie">
-<ellipse fill="green" stroke="black" cx="348.69" cy="-378" rx="125.38" ry="18"/>
-<text text-anchor="middle" x="348.69" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityBloodyZombie</text>
+<ellipse fill="green" stroke="black" cx="386.54" cy="-378" rx="125.38" ry="18"/>
+<text text-anchor="middle" x="386.54" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityBloodyZombie</text>
 </a>
 </g>
 </g>
 <!-- nz0.EntityBloodyZombie&#45;&gt;nz0.func_801CA07C -->
 <g id="edge3" class="edge">
 <title>nz0.EntityBloodyZombie&#45;&gt;nz0.func_801CA07C</title>
-<path fill="none" stroke="black" d="M361.44,-359.93C384.98,-328.43 435.34,-261.03 462.83,-224.24"/>
-<polygon fill="black" stroke="black" points="465.8,-226.12 468.98,-216.02 460.19,-221.93 465.8,-226.12"/>
-<text text-anchor="middle" x="356.44" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M399.29,-359.93C422.83,-328.43 473.19,-261.03 500.68,-224.24"/>
+<polygon fill="black" stroke="black" points="503.64,-226.12 506.83,-216.02 498.04,-221.93 503.64,-226.12"/>
+<text text-anchor="middle" x="394.29" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- nz0.EntityBloodSplatter -->
 <g id="node5" class="node">
 <title>nz0.EntityBloodSplatter</title>
 <g id="a_node5"><a xlink:href="nz0.EntityBloodSplatter.svg" xlink:title="nz0.EntityBloodSplatter">
-<ellipse fill="green" stroke="black" cx="615.69" cy="-378" rx="123.48" ry="18"/>
-<text text-anchor="middle" x="615.69" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityBloodSplatter</text>
+<ellipse fill="green" stroke="black" cx="653.54" cy="-378" rx="123.48" ry="18"/>
+<text text-anchor="middle" x="653.54" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityBloodSplatter</text>
 </a>
 </g>
 </g>
 <!-- nz0.EntityBloodSplatter&#45;&gt;nz0.func_801CA07C -->
 <g id="edge4" class="edge">
 <title>nz0.EntityBloodSplatter&#45;&gt;nz0.func_801CA07C</title>
-<path fill="none" stroke="black" d="M602.84,-359.93C579.13,-328.43 528.39,-261.03 500.69,-224.24"/>
-<polygon fill="black" stroke="black" points="503.31,-221.9 494.5,-216.02 497.72,-226.11 503.31,-221.9"/>
-<text text-anchor="middle" x="597.84" y="-348.73" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M640.69,-359.93C616.98,-328.43 566.24,-261.03 538.54,-224.24"/>
+<polygon fill="black" stroke="black" points="541.16,-221.9 532.35,-216.02 535.57,-226.11 541.16,-221.9"/>
+<text text-anchor="middle" x="635.69" y="-348.73" font-family="Times,serif" font-size="14.00">2</text>
 </g>
-<!-- nz0.EntityLifeUpSpawn -->
+<!-- nz0.func_801C4198 -->
 <g id="node6" class="node">
-<title>nz0.EntityLifeUpSpawn</title>
-<g id="a_node6"><a xlink:href="nz0.EntityLifeUpSpawn.svg" xlink:title="nz0.EntityLifeUpSpawn">
-<ellipse fill="red" stroke="black" cx="878.69" cy="-378" rx="121.58" ry="18"/>
-<text text-anchor="middle" x="878.69" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityLifeUpSpawn</text>
+<title>nz0.func_801C4198</title>
+<g id="a_node6"><a xlink:href="nz0.func_801C4198.svg" xlink:title="nz0.func_801C4198">
+<ellipse fill="red" stroke="black" cx="897.54" cy="-378" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="897.54" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.func_801C4198</text>
 </a>
 </g>
 </g>
-<!-- nz0.EntityLifeUpSpawn&#45;&gt;nz0.func_801CA07C -->
+<!-- nz0.func_801C4198&#45;&gt;nz0.func_801CA07C -->
 <g id="edge5" class="edge">
-<title>nz0.EntityLifeUpSpawn&#45;&gt;nz0.func_801CA07C</title>
-<path fill="none" stroke="black" d="M842.41,-360.73C769.66,-328.11 606.16,-254.81 526.72,-219.19"/>
-<polygon fill="black" stroke="black" points="528.02,-215.94 517.46,-215.04 525.15,-222.32 528.02,-215.94"/>
-<text text-anchor="middle" x="837.41" y="-349.53" font-family="Times,serif" font-size="14.00">1</text>
+<title>nz0.func_801C4198&#45;&gt;nz0.func_801CA07C</title>
+<path fill="none" stroke="black" d="M863.33,-360.89C794.4,-328.43 638.94,-255.22 562.97,-219.45"/>
+<polygon fill="black" stroke="black" points="564.21,-216.17 553.67,-215.07 561.23,-222.5 564.21,-216.17"/>
+<text text-anchor="middle" x="858.33" y="-349.69" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>
