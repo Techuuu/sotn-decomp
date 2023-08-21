@@ -15,37 +15,37 @@
 <ellipse fill="green" stroke="black" cx="314.79" cy="-198" rx="99.38" ry="18"/>
 <text text-anchor="middle" x="314.79" y="-194.3" font-family="Times,serif" font-size="14.00">sel.func_801B8A10</text>
 </g>
-<!-- sel._peek_event -->
-<g id="node2" class="node">
-<title>sel._peek_event</title>
-<g id="a_node2"><a xlink:href="sel._peek_event.svg" xlink:title="sel._peek_event">
-<ellipse fill="green" stroke="black" cx="246.79" cy="-18" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="246.79" y="-14.3" font-family="Times,serif" font-size="14.00">sel._peek_event</text>
-</a>
-</g>
-</g>
-<!-- sel.func_801B8A10&#45;&gt;sel._peek_event -->
-<g id="edge1" class="edge">
-<title>sel.func_801B8A10&#45;&gt;sel._peek_event</title>
-<path fill="none" stroke="black" d="M308.27,-179.93C296.39,-148.83 271.14,-82.73 256.97,-45.65"/>
-<polygon fill="black" stroke="black" points="260.13,-44.11 253.29,-36.02 253.59,-46.61 260.13,-44.11"/>
-<text text-anchor="middle" x="248.29" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
 <!-- close -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>close</title>
-<g id="a_node3"><a xlink:href="close.svg" xlink:title="close">
-<ellipse fill="lightblue" stroke="black" cx="382.79" cy="-18" rx="34.39" ry="18"/>
-<text text-anchor="middle" x="382.79" y="-14.3" font-family="Times,serif" font-size="14.00">close</text>
+<g id="a_node2"><a xlink:href="close.svg" xlink:title="close">
+<ellipse fill="lightblue" stroke="black" cx="246.79" cy="-18" rx="34.39" ry="18"/>
+<text text-anchor="middle" x="246.79" y="-14.3" font-family="Times,serif" font-size="14.00">close</text>
 </a>
 </g>
 </g>
 <!-- sel.func_801B8A10&#45;&gt;close -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>sel.func_801B8A10&#45;&gt;close</title>
-<path fill="none" stroke="black" d="M321.31,-179.93C333.22,-148.75 358.57,-82.4 372.72,-45.37"/>
-<polygon fill="black" stroke="black" points="376.09,-46.35 376.39,-35.76 369.55,-43.85 376.09,-46.35"/>
-<text text-anchor="middle" x="371.39" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M308.27,-179.93C296.36,-148.75 271.01,-82.4 256.86,-45.37"/>
+<polygon fill="black" stroke="black" points="260.03,-43.85 253.19,-35.76 253.49,-46.35 260.03,-43.85"/>
+<text text-anchor="middle" x="248.19" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- sel._peek_event -->
+<g id="node3" class="node">
+<title>sel._peek_event</title>
+<g id="a_node3"><a xlink:href="sel._peek_event.svg" xlink:title="sel._peek_event">
+<ellipse fill="green" stroke="black" cx="382.79" cy="-18" rx="83.39" ry="18"/>
+<text text-anchor="middle" x="382.79" y="-14.3" font-family="Times,serif" font-size="14.00">sel._peek_event</text>
+</a>
+</g>
+</g>
+<!-- sel.func_801B8A10&#45;&gt;sel._peek_event -->
+<g id="edge2" class="edge">
+<title>sel.func_801B8A10&#45;&gt;sel._peek_event</title>
+<path fill="none" stroke="black" d="M321.31,-179.93C333.19,-148.83 358.44,-82.73 372.61,-45.65"/>
+<polygon fill="black" stroke="black" points="375.99,-46.61 376.29,-36.02 369.45,-44.11 375.99,-46.61"/>
+<text text-anchor="middle" x="371.29" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- sel.func_801B3164 -->
 <g id="node4" class="node">

@@ -12,40 +12,40 @@
 <!-- main.restartIntr -->
 <g id="node1" class="node">
 <title>main.restartIntr</title>
-<ellipse fill="red" stroke="black" cx="169.09" cy="-198" rx="86.38" ry="18"/>
-<text text-anchor="middle" x="169.09" y="-194.3" font-family="Times,serif" font-size="14.00">main.restartIntr</text>
-</g>
-<!-- HookEntryInt -->
-<g id="node2" class="node">
-<title>HookEntryInt</title>
-<g id="a_node2"><a xlink:href="HookEntryInt.svg" xlink:title="HookEntryInt">
-<ellipse fill="lightblue" stroke="black" cx="74.09" cy="-18" rx="74.19" ry="18"/>
-<text text-anchor="middle" x="74.09" y="-14.3" font-family="Times,serif" font-size="14.00">HookEntryInt</text>
-</a>
-</g>
-</g>
-<!-- main.restartIntr&#45;&gt;HookEntryInt -->
-<g id="edge1" class="edge">
-<title>main.restartIntr&#45;&gt;HookEntryInt</title>
-<path fill="none" stroke="black" d="M159.98,-179.93C143.32,-148.7 107.81,-82.17 88.07,-45.18"/>
-<polygon fill="black" stroke="black" points="90.97,-43.19 83.17,-36.02 84.8,-46.49 90.97,-43.19"/>
-<text text-anchor="middle" x="78.17" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="red" stroke="black" cx="193.79" cy="-198" rx="86.38" ry="18"/>
+<text text-anchor="middle" x="193.79" y="-194.3" font-family="Times,serif" font-size="14.00">main.restartIntr</text>
 </g>
 <!-- ExitCriticalSection -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>ExitCriticalSection</title>
-<g id="a_node3"><a xlink:href="ExitCriticalSection.svg" xlink:title="ExitCriticalSection">
-<ellipse fill="lightblue" stroke="black" cx="265.09" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="265.09" y="-14.3" font-family="Times,serif" font-size="14.00">ExitCriticalSection</text>
+<g id="a_node2"><a xlink:href="ExitCriticalSection.svg" xlink:title="ExitCriticalSection">
+<ellipse fill="lightblue" stroke="black" cx="98.79" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="98.79" y="-14.3" font-family="Times,serif" font-size="14.00">ExitCriticalSection</text>
 </a>
 </g>
 </g>
 <!-- main.restartIntr&#45;&gt;ExitCriticalSection -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>main.restartIntr&#45;&gt;ExitCriticalSection</title>
-<path fill="none" stroke="black" d="M178.3,-179.93C195.14,-148.7 231.02,-82.17 250.97,-45.18"/>
-<polygon fill="black" stroke="black" points="254.25,-46.48 255.92,-36.02 248.09,-43.16 254.25,-46.48"/>
-<text text-anchor="middle" x="250.92" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M184.68,-179.93C168.01,-148.7 132.51,-82.17 112.76,-45.18"/>
+<polygon fill="black" stroke="black" points="115.67,-43.19 107.87,-36.02 109.49,-46.49 115.67,-43.19"/>
+<text text-anchor="middle" x="102.87" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- HookEntryInt -->
+<g id="node3" class="node">
+<title>HookEntryInt</title>
+<g id="a_node3"><a xlink:href="HookEntryInt.svg" xlink:title="HookEntryInt">
+<ellipse fill="lightblue" stroke="black" cx="289.79" cy="-18" rx="74.19" ry="18"/>
+<text text-anchor="middle" x="289.79" y="-14.3" font-family="Times,serif" font-size="14.00">HookEntryInt</text>
+</a>
+</g>
+</g>
+<!-- main.restartIntr&#45;&gt;HookEntryInt -->
+<g id="edge2" class="edge">
+<title>main.restartIntr&#45;&gt;HookEntryInt</title>
+<path fill="none" stroke="black" d="M203,-179.93C219.84,-148.7 255.72,-82.17 275.67,-45.18"/>
+<polygon fill="black" stroke="black" points="278.95,-46.48 280.61,-36.02 272.79,-43.16 278.95,-46.48"/>
+<text text-anchor="middle" x="275.61" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

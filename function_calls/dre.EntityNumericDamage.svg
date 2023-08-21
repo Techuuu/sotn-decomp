@@ -5,63 +5,63 @@
  -->
 <!-- Title: dre.EntityNumericDamage Pages: 1 -->
 <svg width="630pt" height="224pt"
- viewBox="0.00 0.00 629.68 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 630.23 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>dre.EntityNumericDamage</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 625.68,-220 625.68,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 626.23,-220 626.23,4 -4,4"/>
 <!-- dre.EntityNumericDamage -->
 <g id="node1" class="node">
 <title>dre.EntityNumericDamage</title>
-<ellipse fill="red" stroke="black" cx="314.79" cy="-198" rx="135.68" ry="18"/>
-<text text-anchor="middle" x="314.79" y="-194.3" font-family="Times,serif" font-size="14.00">dre.EntityNumericDamage</text>
-</g>
-<!-- dre.InitializeEntity -->
-<g id="node2" class="node">
-<title>dre.InitializeEntity</title>
-<g id="a_node2"><a xlink:href="dre.InitializeEntity.svg" xlink:title="dre.InitializeEntity">
-<ellipse fill="green" stroke="black" cx="98.79" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="98.79" y="-14.3" font-family="Times,serif" font-size="14.00">dre.InitializeEntity</text>
-</a>
-</g>
-</g>
-<!-- dre.EntityNumericDamage&#45;&gt;dre.InitializeEntity -->
-<g id="edge1" class="edge">
-<title>dre.EntityNumericDamage&#45;&gt;dre.InitializeEntity</title>
-<path fill="none" stroke="black" d="M294.08,-179.93C255.11,-147.82 170.87,-78.39 126.85,-42.13"/>
-<polygon fill="black" stroke="black" points="129.07,-39.41 119.12,-35.76 124.62,-44.82 129.07,-39.41"/>
-<text text-anchor="middle" x="114.12" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="red" stroke="black" cx="311.44" cy="-198" rx="135.68" ry="18"/>
+<text text-anchor="middle" x="311.44" y="-194.3" font-family="Times,serif" font-size="14.00">dre.EntityNumericDamage</text>
 </g>
 <!-- dra.AllocPrimitives -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>dra.AllocPrimitives</title>
-<g id="a_node3"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
-<ellipse fill="green" stroke="black" cx="314.79" cy="-18" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="314.79" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
+<g id="a_node2"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
+<ellipse fill="green" stroke="black" cx="99.44" cy="-18" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="99.44" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
 </a>
 </g>
 </g>
 <!-- dre.EntityNumericDamage&#45;&gt;dra.AllocPrimitives -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>dre.EntityNumericDamage&#45;&gt;dra.AllocPrimitives</title>
-<path fill="none" stroke="black" d="M314.79,-179.93C314.79,-148.97 314.79,-83.3 314.79,-46.13"/>
-<polygon fill="black" stroke="black" points="318.29,-46.02 314.79,-36.02 311.29,-46.02 318.29,-46.02"/>
-<text text-anchor="middle" x="309.79" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M291.11,-179.93C252.95,-147.89 170.52,-78.68 127.25,-42.35"/>
+<polygon fill="black" stroke="black" points="129.31,-39.51 119.4,-35.76 124.81,-44.87 129.31,-39.51"/>
+<text text-anchor="middle" x="114.4" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dre.DestroyEntity -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>dre.DestroyEntity</title>
-<g id="a_node4"><a xlink:href="dre.DestroyEntity.svg" xlink:title="dre.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="526.79" cy="-18" rx="94.78" ry="18"/>
-<text text-anchor="middle" x="526.79" y="-14.3" font-family="Times,serif" font-size="14.00">dre.DestroyEntity</text>
+<g id="a_node3"><a xlink:href="dre.DestroyEntity.svg" xlink:title="dre.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="311.44" cy="-18" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="311.44" y="-14.3" font-family="Times,serif" font-size="14.00">dre.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- dre.EntityNumericDamage&#45;&gt;dre.DestroyEntity -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>dre.EntityNumericDamage&#45;&gt;dre.DestroyEntity</title>
-<path fill="none" stroke="black" d="M335.12,-179.93C373.28,-147.89 455.71,-78.68 498.98,-42.35"/>
-<polygon fill="black" stroke="black" points="501.43,-44.87 506.83,-35.76 496.93,-39.51 501.43,-44.87"/>
-<text text-anchor="middle" x="501.83" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M311.44,-179.93C311.44,-148.97 311.44,-83.3 311.44,-46.13"/>
+<polygon fill="black" stroke="black" points="314.94,-46.02 311.44,-36.02 307.94,-46.02 314.94,-46.02"/>
+<text text-anchor="middle" x="306.44" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dre.InitializeEntity -->
+<g id="node4" class="node">
+<title>dre.InitializeEntity</title>
+<g id="a_node4"><a xlink:href="dre.InitializeEntity.svg" xlink:title="dre.InitializeEntity">
+<ellipse fill="green" stroke="black" cx="523.44" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="523.44" y="-14.3" font-family="Times,serif" font-size="14.00">dre.InitializeEntity</text>
+</a>
+</g>
+</g>
+<!-- dre.EntityNumericDamage&#45;&gt;dre.InitializeEntity -->
+<g id="edge3" class="edge">
+<title>dre.EntityNumericDamage&#45;&gt;dre.InitializeEntity</title>
+<path fill="none" stroke="black" d="M331.77,-179.93C369.93,-147.89 452.36,-78.68 495.63,-42.35"/>
+<polygon fill="black" stroke="black" points="498.08,-44.87 503.48,-35.76 493.58,-39.51 498.08,-44.87"/>
+<text text-anchor="middle" x="498.48" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>
