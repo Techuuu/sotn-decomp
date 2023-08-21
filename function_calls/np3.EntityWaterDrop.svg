@@ -12,7 +12,7 @@
 <!-- np3.EntityWaterDrop -->
 <g id="node1" class="node">
 <title>np3.EntityWaterDrop</title>
-<ellipse fill="red" stroke="black" cx="400.74" cy="-198" rx="110.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="400.74" cy="-198" rx="110.48" ry="18"/>
 <text text-anchor="middle" x="400.74" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityWaterDrop</text>
 </g>
 <!-- np3.InitializeEntity -->

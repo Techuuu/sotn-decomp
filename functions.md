@@ -970,8 +970,6 @@
 | us/dra/nonmatchings/75F54/func_8013136C.s                    |      183 |         23 | Yes    | https://decomp.me/scratch/cu30D | 0.97  |
 | us/st/sel/nonmatchings/2D260/func_801B55C8.s                 |      183 |         25 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_051/EntityWeaponAttack.s            |      184 |         20 |        |                                 |       |
-| us/st/no3/nonmatchings/46684/EntityWaterDrop.s               |      186 |         22 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/EntityWaterDrop.s               |      186 |         22 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/DecompressData.s                   |      186 |         48 | Yes    | https://decomp.me/scratch/2ChLC | 0.908 |
 | us/weapon/nonmatchings/w_051/func_ptr_80170004.s             |      187 |         19 |        |                                 |       |
 | us/st/no3/nonmatchings/3E134/func_801BEA20.s                 |      187 |         20 |        |                                 |       |

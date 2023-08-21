@@ -5,63 +5,63 @@
  -->
 <!-- Title: w_025.SetSpriteBank1 Pages: 1 -->
 <svg width="854pt" height="224pt"
- viewBox="0.00 0.00 853.68 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 854.48 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>w_025.SetSpriteBank1</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 849.68,-220 849.68,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 850.48,-220 850.48,4 -4,4"/>
 <!-- w_025.SetSpriteBank1 -->
 <g id="node1" class="node">
 <title>w_025.SetSpriteBank1</title>
-<ellipse fill="red" stroke="black" cx="428.44" cy="-18" rx="116.98" ry="18"/>
-<text text-anchor="middle" x="428.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_025.SetSpriteBank1</text>
-</g>
-<!-- w_025.EntityWeaponAttack -->
-<g id="node2" class="node">
-<title>w_025.EntityWeaponAttack</title>
-<g id="a_node2"><a xlink:href="w_025.EntityWeaponAttack.svg" xlink:title="w_025.EntityWeaponAttack">
-<ellipse fill="red" stroke="black" cx="138.44" cy="-198" rx="138.38" ry="18"/>
-<text text-anchor="middle" x="138.44" y="-194.3" font-family="Times,serif" font-size="14.00">w_025.EntityWeaponAttack</text>
-</a>
-</g>
-</g>
-<!-- w_025.EntityWeaponAttack&#45;&gt;w_025.SetSpriteBank1 -->
-<g id="edge1" class="edge">
-<title>w_025.EntityWeaponAttack&#45;&gt;w_025.SetSpriteBank1</title>
-<path fill="none" stroke="black" d="M165.72,-180.25C218.43,-147.9 334.21,-76.84 392.87,-40.83"/>
-<polygon fill="black" stroke="black" points="394.75,-43.79 401.44,-35.57 391.09,-37.82 394.75,-43.79"/>
-<text text-anchor="middle" x="160.72" y="-169.05" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_025.func_ptr_80170020 -->
-<g id="node3" class="node">
-<title>w_025.func_ptr_80170020</title>
-<g id="a_node3"><a xlink:href="w_025.func_ptr_80170020.svg" xlink:title="w_025.func_ptr_80170020">
-<ellipse fill="red" stroke="black" cx="428.44" cy="-198" rx="133.48" ry="18"/>
-<text text-anchor="middle" x="428.44" y="-194.3" font-family="Times,serif" font-size="14.00">w_025.func_ptr_80170020</text>
-</a>
-</g>
-</g>
-<!-- w_025.func_ptr_80170020&#45;&gt;w_025.SetSpriteBank1 -->
-<g id="edge2" class="edge">
-<title>w_025.func_ptr_80170020&#45;&gt;w_025.SetSpriteBank1</title>
-<path fill="none" stroke="black" d="M428.44,-179.93C428.44,-148.97 428.44,-83.3 428.44,-46.13"/>
-<polygon fill="black" stroke="black" points="431.94,-46.02 428.44,-36.02 424.94,-46.02 431.94,-46.02"/>
-<text text-anchor="middle" x="423.44" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="red" stroke="black" cx="423.24" cy="-18" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="423.24" y="-14.3" font-family="Times,serif" font-size="14.00">w_025.SetSpriteBank1</text>
 </g>
 <!-- w_025.func_ptr_80170024 -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>w_025.func_ptr_80170024</title>
-<g id="a_node4"><a xlink:href="w_025.func_ptr_80170024.svg" xlink:title="w_025.func_ptr_80170024">
-<ellipse fill="red" stroke="black" cx="712.44" cy="-198" rx="133.48" ry="18"/>
-<text text-anchor="middle" x="712.44" y="-194.3" font-family="Times,serif" font-size="14.00">w_025.func_ptr_80170024</text>
+<g id="a_node2"><a xlink:href="w_025.func_ptr_80170024.svg" xlink:title="w_025.func_ptr_80170024">
+<ellipse fill="red" stroke="black" cx="133.24" cy="-198" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="133.24" y="-194.3" font-family="Times,serif" font-size="14.00">w_025.func_ptr_80170024</text>
 </a>
 </g>
 </g>
 <!-- w_025.func_ptr_80170024&#45;&gt;w_025.SetSpriteBank1 -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>w_025.func_ptr_80170024&#45;&gt;w_025.SetSpriteBank1</title>
-<path fill="none" stroke="black" d="M685.72,-180.25C634.21,-147.97 521.18,-77.13 463.62,-41.05"/>
-<polygon fill="black" stroke="black" points="465.21,-37.92 454.88,-35.57 461.49,-43.85 465.21,-37.92"/>
-<text text-anchor="middle" x="680.72" y="-169.05" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M160.52,-180.25C213.23,-147.9 329.01,-76.84 387.67,-40.83"/>
+<polygon fill="black" stroke="black" points="389.55,-43.79 396.24,-35.57 385.89,-37.82 389.55,-43.79"/>
+<text text-anchor="middle" x="155.52" y="-169.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_025.EntityWeaponAttack -->
+<g id="node3" class="node">
+<title>w_025.EntityWeaponAttack</title>
+<g id="a_node3"><a xlink:href="w_025.EntityWeaponAttack.svg" xlink:title="w_025.EntityWeaponAttack">
+<ellipse fill="red" stroke="black" cx="423.24" cy="-198" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="423.24" y="-194.3" font-family="Times,serif" font-size="14.00">w_025.EntityWeaponAttack</text>
+</a>
+</g>
+</g>
+<!-- w_025.EntityWeaponAttack&#45;&gt;w_025.SetSpriteBank1 -->
+<g id="edge2" class="edge">
+<title>w_025.EntityWeaponAttack&#45;&gt;w_025.SetSpriteBank1</title>
+<path fill="none" stroke="black" d="M423.24,-179.93C423.24,-148.97 423.24,-83.3 423.24,-46.13"/>
+<polygon fill="black" stroke="black" points="426.74,-46.02 423.24,-36.02 419.74,-46.02 426.74,-46.02"/>
+<text text-anchor="middle" x="418.24" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_025.func_ptr_80170020 -->
+<g id="node4" class="node">
+<title>w_025.func_ptr_80170020</title>
+<g id="a_node4"><a xlink:href="w_025.func_ptr_80170020.svg" xlink:title="w_025.func_ptr_80170020">
+<ellipse fill="red" stroke="black" cx="713.24" cy="-198" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="713.24" y="-194.3" font-family="Times,serif" font-size="14.00">w_025.func_ptr_80170020</text>
+</a>
+</g>
+</g>
+<!-- w_025.func_ptr_80170020&#45;&gt;w_025.SetSpriteBank1 -->
+<g id="edge3" class="edge">
+<title>w_025.func_ptr_80170020&#45;&gt;w_025.SetSpriteBank1</title>
+<path fill="none" stroke="black" d="M685.96,-180.25C633.25,-147.9 517.46,-76.84 458.8,-40.83"/>
+<polygon fill="black" stroke="black" points="460.59,-37.82 450.24,-35.57 456.93,-43.79 460.59,-37.82"/>
+<text text-anchor="middle" x="680.96" y="-169.05" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>
