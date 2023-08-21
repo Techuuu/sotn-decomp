@@ -12,7 +12,7 @@
 <!-- np3.EntitySurfacingWater -->
 <g id="node1" class="node">
 <title>np3.EntitySurfacingWater</title>
-<ellipse fill="red" stroke="black" cx="641.44" cy="-198" rx="132.68" ry="18"/>
+<ellipse fill="green" stroke="black" cx="641.44" cy="-198" rx="132.68" ry="18"/>
 <text text-anchor="middle" x="641.44" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntitySurfacingWater</text>
 </g>
 <!-- dra.AllocPrimitives -->

@@ -1118,7 +1118,7 @@
 | us/weapon/nonmatchings/w_050/func_ptr_80170010.s             |      288 |         34 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E7E08.s                    |      288 |         57 | Yes    | https://decomp.me/scratch/g2A7S | 0.974 |
 | us/st/no3/nonmatchings/46684/EntityLargeWaterSplash.s        |      289 |         28 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/func_801C7954.s                 |      289 |         28 |        | https://decomp.me/scratch/jYNF0 | 0.715 |
+| us/st/np3/nonmatchings/44DCC/func_801C7954.s                 |      289 |         28 |        | https://decomp.me/scratch/nsw53 | 0.882 |
 | us/dra/nonmatchings/75F54/func_80123B40.s                    |      292 |         22 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHolyWaterBreakGlass.s        |      293 |         26 |        |                                 |       |
 | us/weapon/nonmatchings/w_050/func_ptr_80170008.s             |      294 |         29 |        |                                 |       |
@@ -1157,8 +1157,6 @@
 | us/ric/nonmatchings/22380/func_80160788.s                    |      334 |         38 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_023/func_ptr_80170024.s             |      334 |         38 |        |                                 |       |
 | us/dra/nonmatchings/gameover/func_800E5D30.s                 |      335 |         31 |        |                                 |       |
-| us/st/no3/nonmatchings/46684/EntitySurfacingWater.s          |      340 |         34 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/EntitySurfacingWater.s          |      340 |         34 |        |                                 |       |
 | us/st/no3/nonmatchings/3FF00/EntityDeathStolenItem.s         |      342 |         27 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_80134F50.s                    |      343 |         99 | Yes    | https://decomp.me/scratch/5pgiv | 0.025 |
 | us/dra/nonmatchings/75F54/EntityHolyWaterFlame.s             |      344 |         30 |        |                                 |       |
