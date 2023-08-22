@@ -12,40 +12,40 @@
 <!-- wrp.SetStep -->
 <g id="node1" class="node">
 <title>wrp.SetStep</title>
-<ellipse fill="green" stroke="black" cx="251.64" cy="-18" rx="68.79" ry="18"/>
-<text text-anchor="middle" x="251.64" y="-14.3" font-family="Times,serif" font-size="14.00">wrp.SetStep</text>
-</g>
-<!-- wrp.CollectSubweapon -->
-<g id="node2" class="node">
-<title>wrp.CollectSubweapon</title>
-<g id="a_node2"><a xlink:href="wrp.CollectSubweapon.svg" xlink:title="wrp.CollectSubweapon">
-<ellipse fill="green" stroke="black" cx="117.64" cy="-198" rx="117.78" ry="18"/>
-<text text-anchor="middle" x="117.64" y="-194.3" font-family="Times,serif" font-size="14.00">wrp.CollectSubweapon</text>
-</a>
-</g>
-</g>
-<!-- wrp.CollectSubweapon&#45;&gt;wrp.SetStep -->
-<g id="edge1" class="edge">
-<title>wrp.CollectSubweapon&#45;&gt;wrp.SetStep</title>
-<path fill="none" stroke="black" d="M130.49,-179.93C154.26,-148.35 205.2,-80.69 232.85,-43.96"/>
-<polygon fill="black" stroke="black" points="235.81,-45.85 239.03,-35.76 230.22,-41.64 235.81,-45.85"/>
-<text text-anchor="middle" x="125.49" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="265.94" cy="-18" rx="68.79" ry="18"/>
+<text text-anchor="middle" x="265.94" y="-14.3" font-family="Times,serif" font-size="14.00">wrp.SetStep</text>
 </g>
 <!-- wrp.EntityEquipItemDrop -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>wrp.EntityEquipItemDrop</title>
-<g id="a_node3"><a xlink:href="wrp.EntityEquipItemDrop.svg" xlink:title="wrp.EntityEquipItemDrop">
-<ellipse fill="green" stroke="black" cx="385.64" cy="-198" rx="131.88" ry="18"/>
-<text text-anchor="middle" x="385.64" y="-194.3" font-family="Times,serif" font-size="14.00">wrp.EntityEquipItemDrop</text>
+<g id="a_node2"><a xlink:href="wrp.EntityEquipItemDrop.svg" xlink:title="wrp.EntityEquipItemDrop">
+<ellipse fill="green" stroke="black" cx="131.94" cy="-198" rx="131.88" ry="18"/>
+<text text-anchor="middle" x="131.94" y="-194.3" font-family="Times,serif" font-size="14.00">wrp.EntityEquipItemDrop</text>
 </a>
 </g>
 </g>
 <!-- wrp.EntityEquipItemDrop&#45;&gt;wrp.SetStep -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>wrp.EntityEquipItemDrop&#45;&gt;wrp.SetStep</title>
-<path fill="none" stroke="black" d="M372.79,-179.93C349.02,-148.35 298.08,-80.69 270.43,-43.96"/>
-<polygon fill="black" stroke="black" points="273.06,-41.64 264.25,-35.76 267.47,-45.85 273.06,-41.64"/>
-<text text-anchor="middle" x="367.79" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M144.79,-179.93C168.56,-148.35 219.5,-80.69 247.15,-43.96"/>
+<polygon fill="black" stroke="black" points="250.11,-45.85 253.32,-35.76 244.51,-41.64 250.11,-45.85"/>
+<text text-anchor="middle" x="139.79" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- wrp.CollectSubweapon -->
+<g id="node3" class="node">
+<title>wrp.CollectSubweapon</title>
+<g id="a_node3"><a xlink:href="wrp.CollectSubweapon.svg" xlink:title="wrp.CollectSubweapon">
+<ellipse fill="green" stroke="black" cx="399.94" cy="-198" rx="117.78" ry="18"/>
+<text text-anchor="middle" x="399.94" y="-194.3" font-family="Times,serif" font-size="14.00">wrp.CollectSubweapon</text>
+</a>
+</g>
+</g>
+<!-- wrp.CollectSubweapon&#45;&gt;wrp.SetStep -->
+<g id="edge2" class="edge">
+<title>wrp.CollectSubweapon&#45;&gt;wrp.SetStep</title>
+<path fill="none" stroke="black" d="M387.09,-179.93C363.32,-148.35 312.38,-80.69 284.73,-43.96"/>
+<polygon fill="black" stroke="black" points="287.36,-41.64 278.55,-35.76 281.77,-45.85 287.36,-41.64"/>
+<text text-anchor="middle" x="382.09" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

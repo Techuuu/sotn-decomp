@@ -12,56 +12,56 @@
 <!-- dra.ApplyJosephsCloakPalette -->
 <g id="node1" class="node">
 <title>dra.ApplyJosephsCloakPalette</title>
-<ellipse fill="green" stroke="black" cx="183.54" cy="-198" rx="149.47" ry="18"/>
-<text text-anchor="middle" x="183.54" y="-194.3" font-family="Times,serif" font-size="14.00">dra.ApplyJosephsCloakPalette</text>
+<ellipse fill="green" stroke="black" cx="202.39" cy="-198" rx="149.47" ry="18"/>
+<text text-anchor="middle" x="202.39" y="-194.3" font-family="Times,serif" font-size="14.00">dra.ApplyJosephsCloakPalette</text>
 </g>
 <!-- dra.DarkenCloakColor -->
 <g id="node2" class="node">
 <title>dra.DarkenCloakColor</title>
 <g id="a_node2"><a xlink:href="dra.DarkenCloakColor.svg" xlink:title="dra.DarkenCloakColor">
-<ellipse fill="green" stroke="black" cx="183.54" cy="-18" rx="113.98" ry="18"/>
-<text text-anchor="middle" x="183.54" y="-14.3" font-family="Times,serif" font-size="14.00">dra.DarkenCloakColor</text>
+<ellipse fill="green" stroke="black" cx="202.39" cy="-18" rx="113.98" ry="18"/>
+<text text-anchor="middle" x="202.39" y="-14.3" font-family="Times,serif" font-size="14.00">dra.DarkenCloakColor</text>
 </a>
 </g>
 </g>
 <!-- dra.ApplyJosephsCloakPalette&#45;&gt;dra.DarkenCloakColor -->
 <g id="edge1" class="edge">
 <title>dra.ApplyJosephsCloakPalette&#45;&gt;dra.DarkenCloakColor</title>
-<path fill="none" stroke="black" d="M183.54,-179.93C183.54,-148.97 183.54,-83.3 183.54,-46.13"/>
-<polygon fill="black" stroke="black" points="187.04,-46.02 183.54,-36.02 180.04,-46.02 187.04,-46.02"/>
-<text text-anchor="middle" x="178.54" y="-39.82" font-family="Times,serif" font-size="14.00">6</text>
-</g>
-<!-- dra.HandlePlay -->
-<g id="node3" class="node">
-<title>dra.HandlePlay</title>
-<g id="a_node3"><a xlink:href="dra.HandlePlay.svg" xlink:title="dra.HandlePlay">
-<ellipse fill="green" stroke="black" cx="82.54" cy="-378" rx="82.59" ry="18"/>
-<text text-anchor="middle" x="82.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandlePlay</text>
-</a>
-</g>
-</g>
-<!-- dra.HandlePlay&#45;&gt;dra.ApplyJosephsCloakPalette -->
-<g id="edge2" class="edge">
-<title>dra.HandlePlay&#45;&gt;dra.ApplyJosephsCloakPalette</title>
-<path fill="none" stroke="black" d="M92.23,-359.93C109.95,-328.7 147.7,-262.17 168.69,-225.18"/>
-<polygon fill="black" stroke="black" points="172,-226.44 173.89,-216.02 165.91,-222.99 172,-226.44"/>
-<text text-anchor="middle" x="87.23" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M202.39,-179.93C202.39,-148.97 202.39,-83.3 202.39,-46.13"/>
+<polygon fill="black" stroke="black" points="205.89,-46.02 202.39,-36.02 198.89,-46.02 205.89,-46.02"/>
+<text text-anchor="middle" x="197.39" y="-39.82" font-family="Times,serif" font-size="14.00">6</text>
 </g>
 <!-- dra.func_800F6A70 -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>dra.func_800F6A70</title>
-<g id="a_node4"><a xlink:href="dra.func_800F6A70.svg" xlink:title="dra.func_800F6A70">
-<ellipse fill="red" stroke="black" cx="284.54" cy="-378" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="284.54" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800F6A70</text>
+<g id="a_node3"><a xlink:href="dra.func_800F6A70.svg" xlink:title="dra.func_800F6A70">
+<ellipse fill="red" stroke="black" cx="101.39" cy="-378" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="101.39" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800F6A70</text>
 </a>
 </g>
 </g>
 <!-- dra.func_800F6A70&#45;&gt;dra.ApplyJosephsCloakPalette -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>dra.func_800F6A70&#45;&gt;dra.ApplyJosephsCloakPalette</title>
-<path fill="none" stroke="black" d="M274.86,-359.93C257.14,-328.7 219.39,-262.17 198.4,-225.18"/>
-<polygon fill="black" stroke="black" points="201.18,-222.99 193.2,-216.02 195.09,-226.44 201.18,-222.99"/>
-<text text-anchor="middle" x="269.86" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M111.08,-359.93C128.8,-328.7 166.55,-262.17 187.54,-225.18"/>
+<polygon fill="black" stroke="black" points="190.85,-226.44 192.74,-216.02 184.76,-222.99 190.85,-226.44"/>
+<text text-anchor="middle" x="106.08" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.HandlePlay -->
+<g id="node4" class="node">
+<title>dra.HandlePlay</title>
+<g id="a_node4"><a xlink:href="dra.HandlePlay.svg" xlink:title="dra.HandlePlay">
+<ellipse fill="green" stroke="black" cx="303.39" cy="-378" rx="82.59" ry="18"/>
+<text text-anchor="middle" x="303.39" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandlePlay</text>
+</a>
+</g>
+</g>
+<!-- dra.HandlePlay&#45;&gt;dra.ApplyJosephsCloakPalette -->
+<g id="edge3" class="edge">
+<title>dra.HandlePlay&#45;&gt;dra.ApplyJosephsCloakPalette</title>
+<path fill="none" stroke="black" d="M293.71,-359.93C275.99,-328.7 238.23,-262.17 217.25,-225.18"/>
+<polygon fill="black" stroke="black" points="220.03,-222.99 212.05,-216.02 213.94,-226.44 220.03,-222.99"/>
+<text text-anchor="middle" x="288.71" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

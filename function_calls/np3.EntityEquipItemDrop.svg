@@ -5,271 +5,271 @@
  -->
 <!-- Title: np3.EntityEquipItemDrop Pages: 1 -->
 <svg width="3308pt" height="224pt"
- viewBox="0.00 0.00 3308.33 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 3307.88 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>np3.EntityEquipItemDrop</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 3304.33,-220 3304.33,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 3303.88,-220 3303.88,4 -4,4"/>
 <!-- np3.EntityEquipItemDrop -->
 <g id="node1" class="node">
 <title>np3.EntityEquipItemDrop</title>
-<ellipse fill="green" stroke="black" cx="1649.69" cy="-198" rx="131.88" ry="18"/>
-<text text-anchor="middle" x="1649.69" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityEquipItemDrop</text>
+<ellipse fill="green" stroke="black" cx="1637.24" cy="-198" rx="131.88" ry="18"/>
+<text text-anchor="middle" x="1637.24" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityEquipItemDrop</text>
 </g>
-<!-- dra.AddToInventory -->
+<!-- np3.SetStep -->
 <g id="node2" class="node">
-<title>dra.AddToInventory</title>
-<g id="a_node2"><a xlink:href="dra.AddToInventory.svg" xlink:title="dra.AddToInventory">
-<ellipse fill="red" stroke="black" cx="102.69" cy="-18" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="102.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AddToInventory</text>
+<title>np3.SetStep</title>
+<g id="a_node2"><a xlink:href="np3.SetStep.svg" xlink:title="np3.SetStep">
+<ellipse fill="green" stroke="black" cx="68.24" cy="-18" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="68.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.SetStep</text>
 </a>
 </g>
 </g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;dra.AddToInventory -->
+<!-- np3.EntityEquipItemDrop&#45;&gt;np3.SetStep -->
 <g id="edge1" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;dra.AddToInventory</title>
-<path fill="none" stroke="black" d="M1545.98,-186.76C1309.51,-163.11 712.39,-101.67 214.69,-36 205.5,-34.79 195.9,-33.45 186.35,-32.06"/>
-<polygon fill="black" stroke="black" points="186.84,-28.6 176.43,-30.61 185.82,-35.52 186.84,-28.6"/>
-<text text-anchor="middle" x="171.43" y="-34.41" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.AllocPrimitives -->
-<g id="node3" class="node">
-<title>dra.AllocPrimitives</title>
-<g id="a_node3"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
-<ellipse fill="green" stroke="black" cx="322.69" cy="-18" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="322.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;dra.AllocPrimitives -->
-<g id="edge2" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;dra.AllocPrimitives</title>
-<path fill="none" stroke="black" d="M1555.6,-185.32C1350.98,-159.76 850.23,-96.29 431.69,-36 423.01,-34.75 413.95,-33.4 404.93,-32.04"/>
-<polygon fill="black" stroke="black" points="405.19,-28.53 394.77,-30.48 404.13,-35.45 405.19,-28.53"/>
-<text text-anchor="middle" x="389.77" y="-34.28" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.CheckCollision -->
-<g id="node4" class="node">
-<title>dra.CheckCollision</title>
-<g id="a_node4"><a xlink:href="dra.CheckCollision.svg" xlink:title="dra.CheckCollision">
-<ellipse fill="green" stroke="black" cx="537.69" cy="-18" rx="97.48" ry="18"/>
-<text text-anchor="middle" x="537.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.CheckCollision</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;dra.CheckCollision -->
-<g id="edge3" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;dra.CheckCollision</title>
-<path fill="none" stroke="black" d="M1567.54,-183.86C1395.93,-156.41 986.87,-90.98 643.69,-36 635.56,-34.7 627.07,-33.34 618.6,-31.98"/>
-<polygon fill="black" stroke="black" points="619.11,-28.52 608.68,-30.39 618,-35.43 619.11,-28.52"/>
-<text text-anchor="middle" x="603.68" y="-34.19" font-family="Times,serif" font-size="14.00">3</text>
-</g>
-<!-- dra.FreePrimitives -->
-<g id="node5" class="node">
-<title>dra.FreePrimitives</title>
-<g id="a_node5"><a xlink:href="dra.FreePrimitives.svg" xlink:title="dra.FreePrimitives">
-<ellipse fill="green" stroke="black" cx="751.69" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="751.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.FreePrimitives</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;dra.FreePrimitives -->
-<g id="edge4" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;dra.FreePrimitives</title>
-<path fill="none" stroke="black" d="M1578.1,-182.81C1410.76,-149.64 995.37,-67.3 825.68,-33.67"/>
-<polygon fill="black" stroke="black" points="826.33,-30.23 815.84,-31.72 824.97,-37.09 826.33,-30.23"/>
-<text text-anchor="middle" x="810.84" y="-35.52" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.LoadEquipIcon -->
-<g id="node6" class="node">
-<title>dra.LoadEquipIcon</title>
-<g id="a_node6"><a xlink:href="dra.LoadEquipIcon.svg" xlink:title="dra.LoadEquipIcon">
-<ellipse fill="green" stroke="black" cx="967.69" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="967.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.LoadEquipIcon</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;dra.LoadEquipIcon -->
-<g id="edge5" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;dra.LoadEquipIcon</title>
-<path fill="none" stroke="black" d="M1591.54,-181.82C1464.71,-148.72 1164.01,-70.24 1031.86,-35.75"/>
-<polygon fill="black" stroke="black" points="1032.44,-32.28 1021.88,-33.14 1030.68,-39.06 1032.44,-32.28"/>
-<text text-anchor="middle" x="1016.88" y="-36.94" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.PlaySfx -->
-<g id="node7" class="node">
-<title>dra.PlaySfx</title>
-<g id="a_node7"><a xlink:href="dra.PlaySfx.svg" xlink:title="dra.PlaySfx">
-<ellipse fill="green" stroke="black" cx="1148.69" cy="-18" rx="64.19" ry="18"/>
-<text text-anchor="middle" x="1148.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.PlaySfx</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;dra.PlaySfx -->
-<g id="edge6" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;dra.PlaySfx</title>
-<path fill="none" stroke="black" d="M1604.79,-181.05C1510.63,-147.59 1293.26,-70.36 1196.57,-36.01"/>
-<polygon fill="black" stroke="black" points="1197.64,-32.68 1187.04,-32.63 1195.29,-39.27 1197.64,-32.68"/>
-<text text-anchor="middle" x="1182.04" y="-36.43" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.DestroyEntity -->
-<g id="node8" class="node">
-<title>np3.DestroyEntity</title>
-<g id="a_node8"><a xlink:href="np3.DestroyEntity.svg" xlink:title="np3.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="1327.69" cy="-18" rx="96.68" ry="18"/>
-<text text-anchor="middle" x="1327.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.DestroyEntity</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;np3.DestroyEntity -->
-<g id="edge7" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;np3.DestroyEntity</title>
-<path fill="none" stroke="black" d="M1619.69,-180.41C1561.06,-148 1431.35,-76.3 1366.37,-40.38"/>
-<polygon fill="black" stroke="black" points="1367.71,-37.13 1357.27,-35.35 1364.33,-43.25 1367.71,-37.13"/>
-<text text-anchor="middle" x="1352.27" y="-39.15" font-family="Times,serif" font-size="14.00">2</text>
+<title>np3.EntityEquipItemDrop&#45;&gt;np3.SetStep</title>
+<path fill="none" stroke="black" d="M1522.96,-188.97C1272.32,-170.42 655.92,-119.67 145.24,-36 139.36,-35.04 133.25,-33.91 127.16,-32.7"/>
+<polygon fill="black" stroke="black" points="127.47,-29.19 116.97,-30.6 126.06,-36.05 127.47,-29.19"/>
+<text text-anchor="middle" x="111.97" y="-34.4" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.EntityPrizeDrop -->
-<g id="node9" class="node">
+<g id="node3" class="node">
 <title>np3.EntityPrizeDrop</title>
-<g id="a_node9"><a xlink:href="np3.EntityPrizeDrop.svg" xlink:title="np3.EntityPrizeDrop">
-<ellipse fill="green" stroke="black" cx="1548.69" cy="-18" rx="106.68" ry="18"/>
-<text text-anchor="middle" x="1548.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.EntityPrizeDrop</text>
+<g id="a_node3"><a xlink:href="np3.EntityPrizeDrop.svg" xlink:title="np3.EntityPrizeDrop">
+<ellipse fill="green" stroke="black" cx="261.24" cy="-18" rx="106.68" ry="18"/>
+<text text-anchor="middle" x="261.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.EntityPrizeDrop</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityEquipItemDrop&#45;&gt;np3.EntityPrizeDrop -->
-<g id="edge8" class="edge">
+<g id="edge2" class="edge">
 <title>np3.EntityEquipItemDrop&#45;&gt;np3.EntityPrizeDrop</title>
-<path fill="none" stroke="black" d="M1640.01,-179.93C1622.28,-148.7 1584.53,-82.17 1563.54,-45.18"/>
-<polygon fill="black" stroke="black" points="1566.33,-42.99 1558.35,-36.02 1560.24,-46.44 1566.33,-42.99"/>
-<text text-anchor="middle" x="1553.35" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1541.85,-185.47C1331.32,-159.89 811.06,-95.89 376.24,-36 367.04,-34.73 357.44,-33.37 347.86,-31.99"/>
+<polygon fill="black" stroke="black" points="348.32,-28.52 337.92,-30.55 347.31,-35.45 348.32,-28.52"/>
+<text text-anchor="middle" x="332.92" y="-34.35" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.InitializeEntity -->
+<g id="node4" class="node">
+<title>np3.InitializeEntity</title>
+<g id="a_node4"><a xlink:href="np3.InitializeEntity.svg" xlink:title="np3.InitializeEntity">
+<ellipse fill="green" stroke="black" cx="486.24" cy="-18" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="486.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.InitializeEntity</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;np3.InitializeEntity -->
+<g id="edge3" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;np3.InitializeEntity</title>
+<path fill="none" stroke="black" d="M1553.54,-184.06C1341.04,-151.19 782.53,-64.82 569.99,-31.95"/>
+<polygon fill="black" stroke="black" points="570.24,-28.45 559.83,-30.38 569.17,-35.37 570.24,-28.45"/>
+<text text-anchor="middle" x="554.83" y="-34.18" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.CheckCollision -->
+<g id="node5" class="node">
+<title>dra.CheckCollision</title>
+<g id="a_node5"><a xlink:href="dra.CheckCollision.svg" xlink:title="dra.CheckCollision">
+<ellipse fill="green" stroke="black" cx="702.24" cy="-18" rx="97.48" ry="18"/>
+<text text-anchor="middle" x="702.24" y="-14.3" font-family="Times,serif" font-size="14.00">dra.CheckCollision</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;dra.CheckCollision -->
+<g id="edge4" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;dra.CheckCollision</title>
+<path fill="none" stroke="black" d="M1563.88,-183.03C1389.78,-149.89 953.17,-66.77 777.35,-33.3"/>
+<polygon fill="black" stroke="black" points="777.88,-29.84 767.41,-31.41 776.57,-36.71 777.88,-29.84"/>
+<text text-anchor="middle" x="762.41" y="-35.21" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- dra.AllocPrimitives -->
+<g id="node6" class="node">
+<title>dra.AllocPrimitives</title>
+<g id="a_node6"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
+<ellipse fill="green" stroke="black" cx="917.24" cy="-18" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="917.24" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;dra.AllocPrimitives -->
+<g id="edge5" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;dra.AllocPrimitives</title>
+<path fill="none" stroke="black" d="M1576.48,-181.98C1442.52,-148.86 1122.72,-69.8 983.69,-35.43"/>
+<polygon fill="black" stroke="black" points="984.14,-31.93 973.59,-32.93 982.46,-38.73 984.14,-31.93"/>
+<text text-anchor="middle" x="968.59" y="-36.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.DestroyEntity -->
+<g id="node7" class="node">
+<title>np3.DestroyEntity</title>
+<g id="a_node7"><a xlink:href="np3.DestroyEntity.svg" xlink:title="np3.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="1131.24" cy="-18" rx="96.68" ry="18"/>
+<text text-anchor="middle" x="1131.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.DestroyEntity</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;np3.DestroyEntity -->
+<g id="edge6" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;np3.DestroyEntity</title>
+<path fill="none" stroke="black" d="M1591.89,-181.05C1498.23,-148.1 1283.83,-72.68 1184.09,-37.59"/>
+<polygon fill="black" stroke="black" points="1185.11,-34.24 1174.51,-34.22 1182.78,-40.84 1185.11,-34.24"/>
+<text text-anchor="middle" x="1169.51" y="-38.02" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- dra.LoadEquipIcon -->
+<g id="node8" class="node">
+<title>dra.LoadEquipIcon</title>
+<g id="a_node8"><a xlink:href="dra.LoadEquipIcon.svg" xlink:title="dra.LoadEquipIcon">
+<ellipse fill="green" stroke="black" cx="1345.24" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="1345.24" y="-14.3" font-family="Times,serif" font-size="14.00">dra.LoadEquipIcon</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;dra.LoadEquipIcon -->
+<g id="edge7" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;dra.LoadEquipIcon</title>
+<path fill="none" stroke="black" d="M1609.77,-180.25C1556.7,-147.9 1440.12,-76.84 1381.05,-40.83"/>
+<polygon fill="black" stroke="black" points="1382.79,-37.79 1372.43,-35.57 1379.15,-43.77 1382.79,-37.79"/>
+<text text-anchor="middle" x="1367.43" y="-39.37" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.MoveEntity -->
+<g id="node9" class="node">
+<title>np3.MoveEntity</title>
+<g id="a_node9"><a xlink:href="np3.MoveEntity.svg" xlink:title="np3.MoveEntity">
+<ellipse fill="green" stroke="black" cx="1547.24" cy="-18" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="1547.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.MoveEntity</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;np3.MoveEntity -->
+<g id="edge8" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;np3.MoveEntity</title>
+<path fill="none" stroke="black" d="M1628.61,-179.93C1612.82,-148.7 1579.18,-82.17 1560.48,-45.18"/>
+<polygon fill="black" stroke="black" points="1563.48,-43.36 1555.85,-36.02 1557.24,-46.52 1563.48,-43.36"/>
+<text text-anchor="middle" x="1550.85" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.FallEntity -->
 <g id="node10" class="node">
 <title>np3.FallEntity</title>
 <g id="a_node10"><a xlink:href="np3.FallEntity.svg" xlink:title="np3.FallEntity">
-<ellipse fill="green" stroke="black" cx="1750.69" cy="-18" rx="77.19" ry="18"/>
-<text text-anchor="middle" x="1750.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.FallEntity</text>
+<ellipse fill="green" stroke="black" cx="1727.24" cy="-18" rx="77.19" ry="18"/>
+<text text-anchor="middle" x="1727.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.FallEntity</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityEquipItemDrop&#45;&gt;np3.FallEntity -->
 <g id="edge9" class="edge">
 <title>np3.EntityEquipItemDrop&#45;&gt;np3.FallEntity</title>
-<path fill="none" stroke="black" d="M1659.38,-179.93C1677.1,-148.7 1714.85,-82.17 1735.84,-45.18"/>
-<polygon fill="black" stroke="black" points="1739.14,-46.44 1741.04,-36.02 1733.06,-42.99 1739.14,-46.44"/>
-<text text-anchor="middle" x="1736.04" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.InitializeEntity -->
-<g id="node11" class="node">
-<title>np3.InitializeEntity</title>
-<g id="a_node11"><a xlink:href="np3.InitializeEntity.svg" xlink:title="np3.InitializeEntity">
-<ellipse fill="green" stroke="black" cx="1946.69" cy="-18" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="1946.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.InitializeEntity</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;np3.InitializeEntity -->
-<g id="edge10" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;np3.InitializeEntity</title>
-<path fill="none" stroke="black" d="M1677.63,-180.25C1731.61,-147.9 1850.19,-76.84 1910.27,-40.83"/>
-<polygon fill="black" stroke="black" points="1912.26,-43.71 1919.04,-35.57 1908.66,-37.71 1912.26,-43.71"/>
-<text text-anchor="middle" x="1914.04" y="-39.37" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.MoveEntity -->
-<g id="node12" class="node">
-<title>np3.MoveEntity</title>
-<g id="a_node12"><a xlink:href="np3.MoveEntity.svg" xlink:title="np3.MoveEntity">
-<ellipse fill="green" stroke="black" cx="2150.69" cy="-18" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="2150.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.MoveEntity</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;np3.MoveEntity -->
-<g id="edge11" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;np3.MoveEntity</title>
-<path fill="none" stroke="black" d="M1694.59,-181.05C1787.68,-147.97 2001.21,-72.11 2099.48,-37.19"/>
-<polygon fill="black" stroke="black" points="2100.65,-40.49 2108.91,-33.85 2098.31,-33.9 2100.65,-40.49"/>
-<text text-anchor="middle" x="2103.91" y="-37.65" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- np3.SetStep -->
-<g id="node13" class="node">
-<title>np3.SetStep</title>
-<g id="a_node13"><a xlink:href="np3.SetStep.svg" xlink:title="np3.SetStep">
-<ellipse fill="green" stroke="black" cx="2321.69" cy="-18" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="2321.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.SetStep</text>
-</a>
-</g>
-</g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;np3.SetStep -->
-<g id="edge12" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;np3.SetStep</title>
-<path fill="none" stroke="black" d="M1707.28,-181.75C1834.64,-148.01 2138.9,-67.42 2265.22,-33.96"/>
-<polygon fill="black" stroke="black" points="2266.31,-37.29 2275.09,-31.34 2264.52,-30.52 2266.31,-37.29"/>
-<text text-anchor="middle" x="2270.09" y="-35.14" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1645.87,-179.93C1661.67,-148.7 1695.3,-82.17 1714.01,-45.18"/>
+<polygon fill="black" stroke="black" points="1717.25,-46.52 1718.64,-36.02 1711,-43.36 1717.25,-46.52"/>
+<text text-anchor="middle" x="1713.64" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.func_801BD430 -->
-<g id="node14" class="node">
+<g id="node11" class="node">
 <title>np3.func_801BD430</title>
-<g id="a_node14"><a xlink:href="np3.func_801BD430.svg" xlink:title="np3.func_801BD430">
-<ellipse fill="green" stroke="black" cx="2512.69" cy="-18" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="2512.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801BD430</text>
+<g id="a_node11"><a xlink:href="np3.func_801BD430.svg" xlink:title="np3.func_801BD430">
+<ellipse fill="green" stroke="black" cx="1927.24" cy="-18" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="1927.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801BD430</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityEquipItemDrop&#45;&gt;np3.func_801BD430 -->
-<g id="edge13" class="edge">
+<g id="edge10" class="edge">
 <title>np3.EntityEquipItemDrop&#45;&gt;np3.func_801BD430</title>
-<path fill="none" stroke="black" d="M1719.22,-182.66C1879.42,-149.62 2273.38,-68.36 2438.25,-34.35"/>
-<polygon fill="black" stroke="black" points="2439.21,-37.73 2448.3,-32.28 2437.8,-30.87 2439.21,-37.73"/>
-<text text-anchor="middle" x="2443.3" y="-36.08" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1664.53,-180.25C1717.23,-147.9 1833.02,-76.84 1891.68,-40.83"/>
+<polygon fill="black" stroke="black" points="1893.55,-43.79 1900.25,-35.57 1889.89,-37.82 1893.55,-43.79"/>
+<text text-anchor="middle" x="1895.25" y="-39.37" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.func_801BDA08 -->
-<g id="node15" class="node">
+<g id="node12" class="node">
 <title>np3.func_801BDA08</title>
-<g id="a_node15"><a xlink:href="np3.func_801BDA08.svg" xlink:title="np3.func_801BDA08">
-<ellipse fill="green" stroke="black" cx="2740.69" cy="-18" rx="105.08" ry="18"/>
-<text text-anchor="middle" x="2740.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801BDA08</text>
+<g id="a_node12"><a xlink:href="np3.func_801BDA08.svg" xlink:title="np3.func_801BDA08">
+<ellipse fill="green" stroke="black" cx="2155.24" cy="-18" rx="105.08" ry="18"/>
+<text text-anchor="middle" x="2155.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801BDA08</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityEquipItemDrop&#45;&gt;np3.func_801BDA08 -->
-<g id="edge14" class="edge">
+<g id="edge11" class="edge">
 <title>np3.EntityEquipItemDrop&#45;&gt;np3.func_801BDA08</title>
-<path fill="none" stroke="black" d="M1730.8,-183.77C1932.22,-150.9 2453.6,-65.84 2657.35,-32.6"/>
-<polygon fill="black" stroke="black" points="2658.09,-36.02 2667.4,-30.96 2656.96,-29.11 2658.09,-36.02"/>
-<text text-anchor="middle" x="2662.4" y="-34.76" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M1683.67,-181.05C1779.53,-148.1 1998.93,-72.71 2101.07,-37.61"/>
+<polygon fill="black" stroke="black" points="2102.27,-40.91 2110.59,-34.35 2099.99,-34.29 2102.27,-40.91"/>
+<text text-anchor="middle" x="2105.59" y="-38.15" font-family="Times,serif" font-size="14.00">2</text>
 </g>
-<!-- np3.func_801BE864 -->
-<g id="node16" class="node">
-<title>np3.func_801BE864</title>
-<g id="a_node16"><a xlink:href="np3.func_801BE864.svg" xlink:title="np3.func_801BE864">
-<ellipse fill="green" stroke="black" cx="2968.69" cy="-18" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="2968.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801BE864</text>
+<!-- dra.FreePrimitives -->
+<g id="node13" class="node">
+<title>dra.FreePrimitives</title>
+<g id="a_node13"><a xlink:href="dra.FreePrimitives.svg" xlink:title="dra.FreePrimitives">
+<ellipse fill="green" stroke="black" cx="2377.24" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="2377.24" y="-14.3" font-family="Times,serif" font-size="14.00">dra.FreePrimitives</text>
 </a>
 </g>
 </g>
-<!-- np3.EntityEquipItemDrop&#45;&gt;np3.func_801BE864 -->
-<g id="edge15" class="edge">
-<title>np3.EntityEquipItemDrop&#45;&gt;np3.func_801BE864</title>
-<path fill="none" stroke="black" d="M1742.35,-185.11C1944.48,-159.06 2440.12,-94.6 2854.69,-36 2863.88,-34.7 2873.48,-33.31 2883.05,-31.91"/>
-<polygon fill="black" stroke="black" points="2883.6,-35.37 2892.98,-30.45 2882.58,-28.45 2883.6,-35.37"/>
-<text text-anchor="middle" x="2887.98" y="-34.25" font-family="Times,serif" font-size="14.00">1</text>
+<!-- np3.EntityEquipItemDrop&#45;&gt;dra.FreePrimitives -->
+<g id="edge12" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;dra.FreePrimitives</title>
+<path fill="none" stroke="black" d="M1699.38,-182.05C1837.24,-148.89 2167.71,-69.4 2310.1,-35.15"/>
+<polygon fill="black" stroke="black" points="2311.12,-38.51 2320.02,-32.76 2309.48,-31.7 2311.12,-38.51"/>
+<text text-anchor="middle" x="2315.02" y="-36.56" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.PlaySfx -->
+<g id="node14" class="node">
+<title>dra.PlaySfx</title>
+<g id="a_node14"><a xlink:href="dra.PlaySfx.svg" xlink:title="dra.PlaySfx">
+<ellipse fill="green" stroke="black" cx="2558.24" cy="-18" rx="64.19" ry="18"/>
+<text text-anchor="middle" x="2558.24" y="-14.3" font-family="Times,serif" font-size="14.00">dra.PlaySfx</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;dra.PlaySfx -->
+<g id="edge13" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;dra.PlaySfx</title>
+<path fill="none" stroke="black" d="M1714.63,-183.41C1863.99,-156.93 2202.28,-95.78 2485.24,-36 2490.29,-34.93 2495.52,-33.79 2500.76,-32.62"/>
+<polygon fill="black" stroke="black" points="2501.81,-35.97 2510.79,-30.35 2500.27,-29.14 2501.81,-35.97"/>
+<text text-anchor="middle" x="2505.79" y="-34.15" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.AddToInventory -->
+<g id="node15" class="node">
+<title>dra.AddToInventory</title>
+<g id="a_node15"><a xlink:href="dra.AddToInventory.svg" xlink:title="dra.AddToInventory">
+<ellipse fill="red" stroke="black" cx="2743.24" cy="-18" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="2743.24" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AddToInventory</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;dra.AddToInventory -->
+<g id="edge14" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;dra.AddToInventory</title>
+<path fill="none" stroke="black" d="M1719.02,-183.84C1923.34,-150.96 2454.45,-65.48 2660.16,-32.37"/>
+<polygon fill="black" stroke="black" points="2660.98,-35.79 2670.29,-30.74 2659.86,-28.87 2660.98,-35.79"/>
+<text text-anchor="middle" x="2665.29" y="-34.54" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.func_801C3E14 -->
-<g id="node17" class="node">
+<g id="node16" class="node">
 <title>np3.func_801C3E14</title>
-<g id="a_node17"><a xlink:href="np3.func_801C3E14.svg" xlink:title="np3.func_801C3E14">
-<ellipse fill="red" stroke="black" cx="3195.69" cy="-18" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="3195.69" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801C3E14</text>
+<g id="a_node16"><a xlink:href="np3.func_801C3E14.svg" xlink:title="np3.func_801C3E14">
+<ellipse fill="red" stroke="black" cx="2968.24" cy="-18" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="2968.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801C3E14</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityEquipItemDrop&#45;&gt;np3.func_801C3E14 -->
-<g id="edge16" class="edge">
+<g id="edge15" class="edge">
 <title>np3.EntityEquipItemDrop&#45;&gt;np3.func_801C3E14</title>
-<path fill="none" stroke="black" d="M1752.81,-186.75C1988.63,-163.03 2585.32,-101.33 3082.69,-36 3091.89,-34.79 3101.5,-33.46 3111.06,-32.08"/>
-<polygon fill="black" stroke="black" points="3111.59,-35.54 3120.98,-30.64 3110.58,-28.62 3111.59,-35.54"/>
-<text text-anchor="middle" x="3115.98" y="-34.44" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1730.53,-185.25C1934.62,-159.41 2436.01,-95.24 2855.24,-36 2864.19,-34.74 2873.52,-33.38 2882.83,-32.02"/>
+<polygon fill="black" stroke="black" points="2883.52,-35.45 2892.9,-30.53 2882.5,-28.53 2883.52,-35.45"/>
+<text text-anchor="middle" x="2887.9" y="-34.33" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.func_801BE864 -->
+<g id="node17" class="node">
+<title>np3.func_801BE864</title>
+<g id="a_node17"><a xlink:href="np3.func_801BE864.svg" xlink:title="np3.func_801BE864">
+<ellipse fill="green" stroke="black" cx="3195.24" cy="-18" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="3195.24" y="-14.3" font-family="Times,serif" font-size="14.00">np3.func_801BE864</text>
+</a>
+</g>
+</g>
+<!-- np3.EntityEquipItemDrop&#45;&gt;np3.func_801BE864 -->
+<g id="edge16" class="edge">
+<title>np3.EntityEquipItemDrop&#45;&gt;np3.func_801BE864</title>
+<path fill="none" stroke="black" d="M1740.79,-186.84C1978.28,-163.24 2580.42,-101.68 3082.24,-36 3091.44,-34.8 3101.05,-33.46 3110.61,-32.09"/>
+<polygon fill="black" stroke="black" points="3111.14,-35.55 3120.54,-30.65 3110.14,-28.62 3111.14,-35.55"/>
+<text text-anchor="middle" x="3115.54" y="-34.45" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

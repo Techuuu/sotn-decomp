@@ -5,95 +5,95 @@
  -->
 <!-- Title: nz0.CollectGold Pages: 1 -->
 <svg width="788pt" height="404pt"
- viewBox="0.00 0.00 787.78 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 787.89 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
 <title>nz0.CollectGold</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 783.78,-400 783.78,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 783.89,-400 783.89,4 -4,4"/>
 <!-- nz0.CollectGold -->
 <g id="node1" class="node">
 <title>nz0.CollectGold</title>
-<ellipse fill="green" stroke="black" cx="368.79" cy="-198" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="368.79" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.CollectGold</text>
-</g>
-<!-- dra.FreePrimitives -->
-<g id="node2" class="node">
-<title>dra.FreePrimitives</title>
-<g id="a_node2"><a xlink:href="dra.FreePrimitives.svg" xlink:title="dra.FreePrimitives">
-<ellipse fill="green" stroke="black" cx="98.79" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="98.79" y="-14.3" font-family="Times,serif" font-size="14.00">dra.FreePrimitives</text>
-</a>
-</g>
-</g>
-<!-- nz0.CollectGold&#45;&gt;dra.FreePrimitives -->
-<g id="edge1" class="edge">
-<title>nz0.CollectGold&#45;&gt;dra.FreePrimitives</title>
-<path fill="none" stroke="black" d="M343.87,-180.57C295.27,-148.53 187.78,-77.67 132.73,-41.37"/>
-<polygon fill="black" stroke="black" points="134.32,-38.23 124.04,-35.65 130.46,-44.07 134.32,-38.23"/>
-<text text-anchor="middle" x="119.04" y="-39.45" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="355.34" cy="-198" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="355.34" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.CollectGold</text>
 </g>
 <!-- dra.PlaySfx -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>dra.PlaySfx</title>
-<g id="a_node3"><a xlink:href="dra.PlaySfx.svg" xlink:title="dra.PlaySfx">
-<ellipse fill="green" stroke="black" cx="279.79" cy="-18" rx="64.19" ry="18"/>
-<text text-anchor="middle" x="279.79" y="-14.3" font-family="Times,serif" font-size="14.00">dra.PlaySfx</text>
+<g id="a_node2"><a xlink:href="dra.PlaySfx.svg" xlink:title="dra.PlaySfx">
+<ellipse fill="green" stroke="black" cx="64.34" cy="-18" rx="64.19" ry="18"/>
+<text text-anchor="middle" x="64.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.PlaySfx</text>
 </a>
 </g>
 </g>
 <!-- nz0.CollectGold&#45;&gt;dra.PlaySfx -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>nz0.CollectGold&#45;&gt;dra.PlaySfx</title>
-<path fill="none" stroke="black" d="M360.26,-179.93C344.64,-148.7 311.38,-82.17 292.88,-45.18"/>
-<polygon fill="black" stroke="black" points="295.9,-43.39 288.3,-36.02 289.64,-46.53 295.9,-43.39"/>
-<text text-anchor="middle" x="283.3" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M329.01,-180.89C276.18,-148.57 157.31,-75.87 98.55,-39.92"/>
+<polygon fill="black" stroke="black" points="100.35,-36.92 90,-34.69 96.7,-42.89 100.35,-36.92"/>
+<text text-anchor="middle" x="85" y="-38.49" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- nz0.DestroyEntity -->
-<g id="node4" class="node">
-<title>nz0.DestroyEntity</title>
-<g id="a_node4"><a xlink:href="nz0.DestroyEntity.svg" xlink:title="nz0.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="457.79" cy="-18" rx="95.58" ry="18"/>
-<text text-anchor="middle" x="457.79" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.DestroyEntity</text>
+<!-- dra.FreePrimitives -->
+<g id="node3" class="node">
+<title>dra.FreePrimitives</title>
+<g id="a_node3"><a xlink:href="dra.FreePrimitives.svg" xlink:title="dra.FreePrimitives">
+<ellipse fill="green" stroke="black" cx="245.34" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="245.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.FreePrimitives</text>
 </a>
 </g>
 </g>
-<!-- nz0.CollectGold&#45;&gt;nz0.DestroyEntity -->
-<g id="edge3" class="edge">
-<title>nz0.CollectGold&#45;&gt;nz0.DestroyEntity</title>
-<path fill="none" stroke="black" d="M377.32,-179.93C392.94,-148.7 426.21,-82.17 444.7,-45.18"/>
-<polygon fill="black" stroke="black" points="447.94,-46.53 449.28,-36.02 441.68,-43.39 447.94,-46.53"/>
-<text text-anchor="middle" x="444.28" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<!-- nz0.CollectGold&#45;&gt;dra.FreePrimitives -->
+<g id="edge2" class="edge">
+<title>nz0.CollectGold&#45;&gt;dra.FreePrimitives</title>
+<path fill="none" stroke="black" d="M344.8,-179.93C325.41,-148.57 284.03,-81.6 261.23,-44.71"/>
+<polygon fill="black" stroke="black" points="264.09,-42.68 255.86,-36.02 258.14,-46.36 264.09,-42.68"/>
+<text text-anchor="middle" x="250.86" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- nz0.func_801C33D8 -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>nz0.func_801C33D8</title>
-<g id="a_node5"><a xlink:href="nz0.func_801C33D8.svg" xlink:title="nz0.func_801C33D8">
-<ellipse fill="red" stroke="black" cx="675.79" cy="-18" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="675.79" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.func_801C33D8</text>
+<g id="a_node4"><a xlink:href="nz0.func_801C33D8.svg" xlink:title="nz0.func_801C33D8">
+<ellipse fill="red" stroke="black" cx="466.34" cy="-18" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="466.34" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.func_801C33D8</text>
 </a>
 </g>
 </g>
 <!-- nz0.CollectGold&#45;&gt;nz0.func_801C33D8 -->
-<g id="edge4" class="edge">
+<g id="edge3" class="edge">
 <title>nz0.CollectGold&#45;&gt;nz0.func_801C33D8</title>
-<path fill="none" stroke="black" d="M396.58,-180.89C452.01,-148.75 576.33,-76.67 638.67,-40.52"/>
-<polygon fill="black" stroke="black" points="640.51,-43.5 647.4,-35.46 637,-37.45 640.51,-43.5"/>
-<text text-anchor="middle" x="642.4" y="-39.26" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M365.99,-179.93C385.55,-148.57 427.31,-81.6 450.31,-44.71"/>
+<polygon fill="black" stroke="black" points="453.41,-46.35 455.73,-36.02 447.47,-42.65 453.41,-46.35"/>
+<text text-anchor="middle" x="450.73" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- nz0.DestroyEntity -->
+<g id="node5" class="node">
+<title>nz0.DestroyEntity</title>
+<g id="a_node5"><a xlink:href="nz0.DestroyEntity.svg" xlink:title="nz0.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="684.34" cy="-18" rx="95.58" ry="18"/>
+<text text-anchor="middle" x="684.34" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.DestroyEntity</text>
+</a>
+</g>
+</g>
+<!-- nz0.CollectGold&#45;&gt;nz0.DestroyEntity -->
+<g id="edge4" class="edge">
+<title>nz0.CollectGold&#45;&gt;nz0.DestroyEntity</title>
+<path fill="none" stroke="black" d="M384.83,-181.05C444.33,-148.85 578.76,-76.13 645.39,-40.07"/>
+<polygon fill="black" stroke="black" points="647.2,-43.08 654.33,-35.24 643.87,-36.92 647.2,-43.08"/>
+<text text-anchor="middle" x="649.33" y="-39.04" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- nz0.EntityPrizeDrop -->
 <g id="node6" class="node">
 <title>nz0.EntityPrizeDrop</title>
 <g id="a_node6"><a xlink:href="nz0.EntityPrizeDrop.svg" xlink:title="nz0.EntityPrizeDrop">
-<ellipse fill="green" stroke="black" cx="368.79" cy="-378" rx="105.88" ry="18"/>
-<text text-anchor="middle" x="368.79" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityPrizeDrop</text>
+<ellipse fill="green" stroke="black" cx="355.34" cy="-378" rx="105.88" ry="18"/>
+<text text-anchor="middle" x="355.34" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityPrizeDrop</text>
 </a>
 </g>
 </g>
 <!-- nz0.EntityPrizeDrop&#45;&gt;nz0.CollectGold -->
 <g id="edge5" class="edge">
 <title>nz0.EntityPrizeDrop&#45;&gt;nz0.CollectGold</title>
-<path fill="none" stroke="black" d="M368.79,-359.93C368.79,-328.97 368.79,-263.3 368.79,-226.13"/>
-<polygon fill="black" stroke="black" points="372.29,-226.02 368.79,-216.02 365.29,-226.02 372.29,-226.02"/>
-<text text-anchor="middle" x="363.79" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M355.34,-359.93C355.34,-328.97 355.34,-263.3 355.34,-226.13"/>
+<polygon fill="black" stroke="black" points="358.84,-226.02 355.34,-216.02 351.84,-226.02 358.84,-226.02"/>
+<text text-anchor="middle" x="350.34" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

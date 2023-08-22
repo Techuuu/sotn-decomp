@@ -5,10 +5,10 @@
  -->
 <!-- Title: w_050.func_ptr_80170008 Pages: 1 -->
 <svg width="903pt" height="224pt"
- viewBox="0.00 0.00 902.73 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 902.98 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>w_050.func_ptr_80170008</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 898.73,-220 898.73,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 898.98,-220 898.98,4 -4,4"/>
 <!-- w_050.func_ptr_80170008 -->
 <g id="node1" class="node">
 <title>w_050.func_ptr_80170008</title>
@@ -63,37 +63,37 @@
 <polygon fill="black" stroke="black" points="327.94,-46.02 324.44,-36.02 320.94,-46.02 327.94,-46.02"/>
 <text text-anchor="middle" x="319.44" y="-39.82" font-family="Times,serif" font-size="14.00">4</text>
 </g>
-<!-- w_050.DestroyEntity -->
-<g id="node5" class="node">
-<title>w_050.DestroyEntity</title>
-<g id="a_node5"><a xlink:href="w_050.DestroyEntity.svg" xlink:title="w_050.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="479.44" cy="-18" rx="108.58" ry="18"/>
-<text text-anchor="middle" x="479.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_050.DestroyEntity</text>
-</a>
-</g>
-</g>
-<!-- w_050.func_ptr_80170008&#45;&gt;w_050.DestroyEntity -->
-<g id="edge4" class="edge">
-<title>w_050.func_ptr_80170008&#45;&gt;w_050.DestroyEntity</title>
-<path fill="none" stroke="black" d="M339.3,-179.93C366.85,-148.3 425.92,-80.46 457.87,-43.78"/>
-<polygon fill="black" stroke="black" points="460.7,-45.86 464.62,-36.02 455.42,-41.26 460.7,-45.86"/>
-<text text-anchor="middle" x="459.62" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
 <!-- w_050.SetWeaponProperties -->
-<g id="node6" class="node">
+<g id="node5" class="node">
 <title>w_050.SetWeaponProperties</title>
-<g id="a_node6"><a xlink:href="w_050.SetWeaponProperties.svg" xlink:title="w_050.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="750.44" cy="-18" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="750.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_050.SetWeaponProperties</text>
+<g id="a_node5"><a xlink:href="w_050.SetWeaponProperties.svg" xlink:title="w_050.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="515.44" cy="-18" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="515.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_050.SetWeaponProperties</text>
 </a>
 </g>
 </g>
 <!-- w_050.func_ptr_80170008&#45;&gt;w_050.SetWeaponProperties -->
-<g id="edge5" class="edge">
+<g id="edge4" class="edge">
 <title>w_050.func_ptr_80170008&#45;&gt;w_050.SetWeaponProperties</title>
-<path fill="none" stroke="black" d="M363.38,-180.73C441.3,-148.17 616.26,-75.07 701.67,-39.38"/>
-<polygon fill="black" stroke="black" points="703.26,-42.51 711.14,-35.42 700.56,-36.05 703.26,-42.51"/>
-<text text-anchor="middle" x="706.14" y="-39.22" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M342.76,-179.93C376.98,-148.04 450.71,-79.32 489.84,-42.86"/>
+<polygon fill="black" stroke="black" points="492.25,-45.39 497.18,-36.02 487.48,-40.27 492.25,-45.39"/>
+<text text-anchor="middle" x="492.18" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_050.DestroyEntity -->
+<g id="node6" class="node">
+<title>w_050.DestroyEntity</title>
+<g id="a_node6"><a xlink:href="w_050.DestroyEntity.svg" xlink:title="w_050.DestroyEntity">
+<ellipse fill="red" stroke="black" cx="786.44" cy="-18" rx="108.58" ry="18"/>
+<text text-anchor="middle" x="786.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_050.DestroyEntity</text>
+</a>
+</g>
+</g>
+<!-- w_050.func_ptr_80170008&#45;&gt;w_050.DestroyEntity -->
+<g id="edge5" class="edge">
+<title>w_050.func_ptr_80170008&#45;&gt;w_050.DestroyEntity</title>
+<path fill="none" stroke="black" d="M366.26,-180.89C451.42,-148.08 644.68,-73.62 736.37,-38.29"/>
+<polygon fill="black" stroke="black" points="737.64,-41.55 745.72,-34.69 735.13,-35.02 737.64,-41.55"/>
+<text text-anchor="middle" x="740.72" y="-38.49" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

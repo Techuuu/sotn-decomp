@@ -12,56 +12,56 @@
 <!-- dre.func_8019B7A0 -->
 <g id="node1" class="node">
 <title>dre.func_8019B7A0</title>
-<ellipse fill="green" stroke="black" cx="238.89" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="238.89" y="-194.3" font-family="Times,serif" font-size="14.00">dre.func_8019B7A0</text>
-</g>
-<!-- dre.DestroyEntity -->
-<g id="node2" class="node">
-<title>dre.DestroyEntity</title>
-<g id="a_node2"><a xlink:href="dre.DestroyEntity.svg" xlink:title="dre.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="94.89" cy="-18" rx="94.78" ry="18"/>
-<text text-anchor="middle" x="94.89" y="-14.3" font-family="Times,serif" font-size="14.00">dre.DestroyEntity</text>
-</a>
-</g>
-</g>
-<!-- dre.func_8019B7A0&#45;&gt;dre.DestroyEntity -->
-<g id="edge1" class="edge">
-<title>dre.func_8019B7A0&#45;&gt;dre.DestroyEntity</title>
-<path fill="none" stroke="black" d="M225.08,-179.93C199.6,-148.43 145.08,-81.03 115.31,-44.24"/>
-<polygon fill="black" stroke="black" points="117.67,-41.59 108.66,-36.02 112.23,-45.99 117.67,-41.59"/>
-<text text-anchor="middle" x="103.66" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="320.13" cy="-198" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="320.13" y="-194.3" font-family="Times,serif" font-size="14.00">dre.func_8019B7A0</text>
 </g>
 <!-- dre.PreventEntityFromRespawning -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>dre.PreventEntityFromRespawning</title>
-<g id="a_node3"><a xlink:href="dre.PreventEntityFromRespawning.svg" xlink:title="dre.PreventEntityFromRespawning">
-<ellipse fill="green" stroke="black" cx="383.89" cy="-18" rx="176.27" ry="18"/>
-<text text-anchor="middle" x="383.89" y="-14.3" font-family="Times,serif" font-size="14.00">dre.PreventEntityFromRespawning</text>
+<g id="a_node2"><a xlink:href="dre.PreventEntityFromRespawning.svg" xlink:title="dre.PreventEntityFromRespawning">
+<ellipse fill="green" stroke="black" cx="176.13" cy="-18" rx="176.27" ry="18"/>
+<text text-anchor="middle" x="176.13" y="-14.3" font-family="Times,serif" font-size="14.00">dre.PreventEntityFromRespawning</text>
 </a>
 </g>
 </g>
 <!-- dre.func_8019B7A0&#45;&gt;dre.PreventEntityFromRespawning -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>dre.func_8019B7A0&#45;&gt;dre.PreventEntityFromRespawning</title>
-<path fill="none" stroke="black" d="M252.79,-179.93C278.56,-148.3 333.82,-80.46 363.71,-43.78"/>
-<polygon fill="black" stroke="black" points="366.43,-45.98 370.03,-36.02 361,-41.56 366.43,-45.98"/>
-<text text-anchor="middle" x="365.03" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M306.33,-179.93C280.85,-148.43 226.32,-81.03 196.55,-44.24"/>
+<polygon fill="black" stroke="black" points="198.91,-41.59 189.9,-36.02 193.47,-45.99 198.91,-41.59"/>
+<text text-anchor="middle" x="184.9" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dre.DestroyEntity -->
+<g id="node3" class="node">
+<title>dre.DestroyEntity</title>
+<g id="a_node3"><a xlink:href="dre.DestroyEntity.svg" xlink:title="dre.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="465.13" cy="-18" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="465.13" y="-14.3" font-family="Times,serif" font-size="14.00">dre.DestroyEntity</text>
+</a>
+</g>
+</g>
+<!-- dre.func_8019B7A0&#45;&gt;dre.DestroyEntity -->
+<g id="edge2" class="edge">
+<title>dre.func_8019B7A0&#45;&gt;dre.DestroyEntity</title>
+<path fill="none" stroke="black" d="M334.04,-179.93C359.8,-148.3 415.06,-80.46 444.95,-43.78"/>
+<polygon fill="black" stroke="black" points="447.67,-45.98 451.27,-36.02 442.24,-41.56 447.67,-45.98"/>
+<text text-anchor="middle" x="446.27" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dre.EntityBreakable -->
 <g id="node4" class="node">
 <title>dre.EntityBreakable</title>
 <g id="a_node4"><a xlink:href="dre.EntityBreakable.svg" xlink:title="dre.EntityBreakable">
-<ellipse fill="green" stroke="black" cx="238.89" cy="-378" rx="104.78" ry="18"/>
-<text text-anchor="middle" x="238.89" y="-374.3" font-family="Times,serif" font-size="14.00">dre.EntityBreakable</text>
+<ellipse fill="green" stroke="black" cx="320.13" cy="-378" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="320.13" y="-374.3" font-family="Times,serif" font-size="14.00">dre.EntityBreakable</text>
 </a>
 </g>
 </g>
 <!-- dre.EntityBreakable&#45;&gt;dre.func_8019B7A0 -->
 <g id="edge3" class="edge">
 <title>dre.EntityBreakable&#45;&gt;dre.func_8019B7A0</title>
-<path fill="none" stroke="black" d="M238.89,-359.93C238.89,-328.97 238.89,-263.3 238.89,-226.13"/>
-<polygon fill="black" stroke="black" points="242.39,-226.02 238.89,-216.02 235.39,-226.02 242.39,-226.02"/>
-<text text-anchor="middle" x="233.89" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M320.13,-359.93C320.13,-328.97 320.13,-263.3 320.13,-226.13"/>
+<polygon fill="black" stroke="black" points="323.63,-226.02 320.13,-216.02 316.63,-226.02 323.63,-226.02"/>
+<text text-anchor="middle" x="315.13" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

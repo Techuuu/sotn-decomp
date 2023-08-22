@@ -5,63 +5,63 @@
  -->
 <!-- Title: st0.EntityDraculaFireball Pages: 1 -->
 <svg width="595pt" height="224pt"
- viewBox="0.00 0.00 595.08 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 595.03 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>st0.EntityDraculaFireball</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 591.08,-220 591.08,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 591.03,-220 591.03,4 -4,4"/>
 <!-- st0.EntityDraculaFireball -->
 <g id="node1" class="node">
 <title>st0.EntityDraculaFireball</title>
-<ellipse fill="green" stroke="black" cx="306.54" cy="-198" rx="129.18" ry="18"/>
-<text text-anchor="middle" x="306.54" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaFireball</text>
-</g>
-<!-- st0.AnimateEntity -->
-<g id="node2" class="node">
-<title>st0.AnimateEntity</title>
-<g id="a_node2"><a xlink:href="st0.AnimateEntity.svg" xlink:title="st0.AnimateEntity">
-<ellipse fill="green" stroke="black" cx="95.54" cy="-18" rx="95.58" ry="18"/>
-<text text-anchor="middle" x="95.54" y="-14.3" font-family="Times,serif" font-size="14.00">st0.AnimateEntity</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityDraculaFireball&#45;&gt;st0.AnimateEntity -->
-<g id="edge1" class="edge">
-<title>st0.EntityDraculaFireball&#45;&gt;st0.AnimateEntity</title>
-<path fill="none" stroke="black" d="M286.31,-179.93C248.32,-147.89 166.29,-78.68 123.22,-42.35"/>
-<polygon fill="black" stroke="black" points="125.3,-39.53 115.4,-35.76 120.79,-44.88 125.3,-39.53"/>
-<text text-anchor="middle" x="110.4" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="308.49" cy="-198" rx="129.18" ry="18"/>
+<text text-anchor="middle" x="308.49" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaFireball</text>
 </g>
 <!-- st0.InitializeEntity -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>st0.InitializeEntity</title>
-<g id="a_node3"><a xlink:href="st0.InitializeEntity.svg" xlink:title="st0.InitializeEntity">
-<ellipse fill="green" stroke="black" cx="306.54" cy="-18" rx="97.48" ry="18"/>
-<text text-anchor="middle" x="306.54" y="-14.3" font-family="Times,serif" font-size="14.00">st0.InitializeEntity</text>
+<g id="a_node2"><a xlink:href="st0.InitializeEntity.svg" xlink:title="st0.InitializeEntity">
+<ellipse fill="green" stroke="black" cx="97.49" cy="-18" rx="97.48" ry="18"/>
+<text text-anchor="middle" x="97.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0.InitializeEntity</text>
 </a>
 </g>
 </g>
 <!-- st0.EntityDraculaFireball&#45;&gt;st0.InitializeEntity -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>st0.EntityDraculaFireball&#45;&gt;st0.InitializeEntity</title>
-<path fill="none" stroke="black" d="M306.54,-179.93C306.54,-148.97 306.54,-83.3 306.54,-46.13"/>
-<polygon fill="black" stroke="black" points="310.04,-46.02 306.54,-36.02 303.04,-46.02 310.04,-46.02"/>
-<text text-anchor="middle" x="301.54" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M288.26,-179.93C250.27,-147.89 168.24,-78.68 125.17,-42.35"/>
+<polygon fill="black" stroke="black" points="127.25,-39.53 117.35,-35.76 122.74,-44.88 127.25,-39.53"/>
+<text text-anchor="middle" x="112.35" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.AnimateEntity -->
+<g id="node3" class="node">
+<title>st0.AnimateEntity</title>
+<g id="a_node3"><a xlink:href="st0.AnimateEntity.svg" xlink:title="st0.AnimateEntity">
+<ellipse fill="green" stroke="black" cx="308.49" cy="-18" rx="95.58" ry="18"/>
+<text text-anchor="middle" x="308.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0.AnimateEntity</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityDraculaFireball&#45;&gt;st0.AnimateEntity -->
+<g id="edge2" class="edge">
+<title>st0.EntityDraculaFireball&#45;&gt;st0.AnimateEntity</title>
+<path fill="none" stroke="black" d="M308.49,-179.93C308.49,-148.97 308.49,-83.3 308.49,-46.13"/>
+<polygon fill="black" stroke="black" points="311.99,-46.02 308.49,-36.02 304.99,-46.02 311.99,-46.02"/>
+<text text-anchor="middle" x="303.49" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0.MoveEntity -->
 <g id="node4" class="node">
 <title>st0.MoveEntity</title>
 <g id="a_node4"><a xlink:href="st0.MoveEntity.svg" xlink:title="st0.MoveEntity">
-<ellipse fill="green" stroke="black" cx="504.54" cy="-18" rx="82.59" ry="18"/>
-<text text-anchor="middle" x="504.54" y="-14.3" font-family="Times,serif" font-size="14.00">st0.MoveEntity</text>
+<ellipse fill="green" stroke="black" cx="504.49" cy="-18" rx="82.59" ry="18"/>
+<text text-anchor="middle" x="504.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0.MoveEntity</text>
 </a>
 </g>
 </g>
 <!-- st0.EntityDraculaFireball&#45;&gt;st0.MoveEntity -->
 <g id="edge3" class="edge">
 <title>st0.EntityDraculaFireball&#45;&gt;st0.MoveEntity</title>
-<path fill="none" stroke="black" d="M325.53,-179.93C361.1,-147.95 437.83,-78.97 478.31,-42.58"/>
-<polygon fill="black" stroke="black" points="480.81,-45.04 485.9,-35.76 476.13,-39.84 480.81,-45.04"/>
-<text text-anchor="middle" x="480.9" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M327.28,-179.93C362.5,-147.95 438.46,-78.97 478.53,-42.58"/>
+<polygon fill="black" stroke="black" points="480.99,-45.07 486.04,-35.76 476.29,-39.89 480.99,-45.07"/>
+<text text-anchor="middle" x="481.04" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

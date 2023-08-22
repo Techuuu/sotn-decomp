@@ -5,1071 +5,1071 @@
  -->
 <!-- Title: dra.GetEquipProperties Pages: 1 -->
 <svg width="18844pt" height="404pt"
- viewBox="0.00 0.00 18843.58 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 18844.28 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
 <title>dra.GetEquipProperties</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 18839.58,-400 18839.58,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 18840.28,-400 18840.28,4 -4,4"/>
 <!-- dra.GetEquipProperties -->
 <g id="node1" class="node">
 <title>dra.GetEquipProperties</title>
-<ellipse fill="green" stroke="black" cx="9313.29" cy="-198" rx="122.38" ry="18"/>
-<text text-anchor="middle" x="9313.29" y="-194.3" font-family="Times,serif" font-size="14.00">dra.GetEquipProperties</text>
+<ellipse fill="green" stroke="black" cx="9327.99" cy="-198" rx="122.38" ry="18"/>
+<text text-anchor="middle" x="9327.99" y="-194.3" font-family="Times,serif" font-size="14.00">dra.GetEquipProperties</text>
+</g>
+<!-- rand -->
+<g id="node2" class="node">
+<title>rand</title>
+<g id="a_node2"><a xlink:href="rand.svg" xlink:title="rand">
+<ellipse fill="lightblue" stroke="black" cx="9110.99" cy="-18" rx="32.49" ry="18"/>
+<text text-anchor="middle" x="9110.99" y="-14.3" font-family="Times,serif" font-size="14.00">rand</text>
+</a>
+</g>
+</g>
+<!-- dra.GetEquipProperties&#45;&gt;rand -->
+<g id="edge1" class="edge">
+<title>dra.GetEquipProperties&#45;&gt;rand</title>
+<path fill="none" stroke="black" d="M9307.18,-179.93C9267.12,-147.07 9179.42,-75.13 9136.15,-39.64"/>
+<polygon fill="black" stroke="black" points="9138.31,-36.89 9128.36,-33.25 9133.87,-42.3 9138.31,-36.89"/>
+<text text-anchor="middle" x="9123.36" y="-37.05" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- SquareRoot0 -->
-<g id="node2" class="node">
+<g id="node3" class="node">
 <title>SquareRoot0</title>
-<g id="a_node2"><a xlink:href="SquareRoot0.svg" xlink:title="SquareRoot0">
-<ellipse fill="lightblue" stroke="black" cx="9045.29" cy="-18" rx="71.49" ry="18"/>
-<text text-anchor="middle" x="9045.29" y="-14.3" font-family="Times,serif" font-size="14.00">SquareRoot0</text>
+<g id="a_node3"><a xlink:href="SquareRoot0.svg" xlink:title="SquareRoot0">
+<ellipse fill="lightblue" stroke="black" cx="9232.99" cy="-18" rx="71.49" ry="18"/>
+<text text-anchor="middle" x="9232.99" y="-14.3" font-family="Times,serif" font-size="14.00">SquareRoot0</text>
 </a>
 </g>
 </g>
 <!-- dra.GetEquipProperties&#45;&gt;SquareRoot0 -->
-<g id="edge1" class="edge">
-<title>dra.GetEquipProperties&#45;&gt;SquareRoot0</title>
-<path fill="none" stroke="black" d="M9288.08,-180.25C9239.32,-147.87 9132.16,-76.7 9078,-40.73"/>
-<polygon fill="black" stroke="black" points="9079.73,-37.68 9069.47,-35.06 9075.86,-43.51 9079.73,-37.68"/>
-<text text-anchor="middle" x="9064.47" y="-38.86" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.CalcAttack -->
-<g id="node3" class="node">
-<title>dra.CalcAttack</title>
-<g id="a_node3"><a xlink:href="dra.CalcAttack.svg" xlink:title="dra.CalcAttack">
-<ellipse fill="green" stroke="black" cx="9214.29" cy="-18" rx="79.09" ry="18"/>
-<text text-anchor="middle" x="9214.29" y="-14.3" font-family="Times,serif" font-size="14.00">dra.CalcAttack</text>
-</a>
-</g>
-</g>
-<!-- dra.GetEquipProperties&#45;&gt;dra.CalcAttack -->
 <g id="edge2" class="edge">
-<title>dra.GetEquipProperties&#45;&gt;dra.CalcAttack</title>
-<path fill="none" stroke="black" d="M9303.8,-179.93C9286.43,-148.7 9249.42,-82.17 9228.85,-45.18"/>
-<polygon fill="black" stroke="black" points="9231.67,-43.05 9223.75,-36.02 9225.55,-46.46 9231.67,-43.05"/>
-<text text-anchor="middle" x="9218.75" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<title>dra.GetEquipProperties&#45;&gt;SquareRoot0</title>
+<path fill="none" stroke="black" d="M9318.88,-179.93C9302.21,-148.7 9266.7,-82.17 9246.96,-45.18"/>
+<polygon fill="black" stroke="black" points="9249.87,-43.19 9242.07,-36.02 9243.69,-46.49 9249.87,-43.19"/>
+<text text-anchor="middle" x="9237.07" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_800F4994 -->
 <g id="node4" class="node">
 <title>dra.func_800F4994</title>
 <g id="a_node4"><a xlink:href="dra.func_800F4994.svg" xlink:title="dra.func_800F4994">
-<ellipse fill="green" stroke="black" cx="9412.29" cy="-18" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="9412.29" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F4994</text>
+<ellipse fill="green" stroke="black" cx="9422.99" cy="-18" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="9422.99" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F4994</text>
 </a>
 </g>
 </g>
 <!-- dra.GetEquipProperties&#45;&gt;dra.func_800F4994 -->
 <g id="edge3" class="edge">
 <title>dra.GetEquipProperties&#45;&gt;dra.func_800F4994</title>
-<path fill="none" stroke="black" d="M9322.78,-179.93C9340.15,-148.7 9377.16,-82.17 9397.73,-45.18"/>
-<polygon fill="black" stroke="black" points="9401.02,-46.46 9402.82,-36.02 9394.91,-43.05 9401.02,-46.46"/>
-<text text-anchor="middle" x="9397.82" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M9337.1,-179.93C9353.77,-148.7 9389.28,-82.17 9409.02,-45.18"/>
+<polygon fill="black" stroke="black" points="9412.29,-46.49 9413.91,-36.02 9406.11,-43.19 9412.29,-46.49"/>
+<text text-anchor="middle" x="9408.91" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- rand -->
+<!-- dra.CalcAttack -->
 <g id="node5" class="node">
-<title>rand</title>
-<g id="a_node5"><a xlink:href="rand.svg" xlink:title="rand">
-<ellipse fill="lightblue" stroke="black" cx="9563.29" cy="-18" rx="32.49" ry="18"/>
-<text text-anchor="middle" x="9563.29" y="-14.3" font-family="Times,serif" font-size="14.00">rand</text>
+<title>dra.CalcAttack</title>
+<g id="a_node5"><a xlink:href="dra.CalcAttack.svg" xlink:title="dra.CalcAttack">
+<ellipse fill="green" stroke="black" cx="9620.99" cy="-18" rx="79.09" ry="18"/>
+<text text-anchor="middle" x="9620.99" y="-14.3" font-family="Times,serif" font-size="14.00">dra.CalcAttack</text>
 </a>
 </g>
 </g>
-<!-- dra.GetEquipProperties&#45;&gt;rand -->
+<!-- dra.GetEquipProperties&#45;&gt;dra.CalcAttack -->
 <g id="edge4" class="edge">
-<title>dra.GetEquipProperties&#45;&gt;rand</title>
-<path fill="none" stroke="black" d="M9336.81,-180.25C9383.25,-147.19 9486.49,-73.68 9535.9,-38.5"/>
-<polygon fill="black" stroke="black" points="9538.08,-41.24 9544.2,-32.59 9534.02,-35.54 9538.08,-41.24"/>
-<text text-anchor="middle" x="9539.2" y="-36.39" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.EntityUnarmedAttack -->
-<g id="node6" class="node">
-<title>dra.EntityUnarmedAttack</title>
-<g id="a_node6"><a xlink:href="dra.EntityUnarmedAttack.svg" xlink:title="dra.EntityUnarmedAttack">
-<ellipse fill="green" stroke="black" cx="131.29" cy="-378" rx="131.08" ry="18"/>
-<text text-anchor="middle" x="131.29" y="-374.3" font-family="Times,serif" font-size="14.00">dra.EntityUnarmedAttack</text>
-</a>
-</g>
-</g>
-<!-- dra.EntityUnarmedAttack&#45;&gt;dra.GetEquipProperties -->
-<g id="edge5" class="edge">
-<title>dra.EntityUnarmedAttack&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M220.78,-364.74C237.53,-362.84 254.92,-361.14 271.29,-360 2113.68,-232.08 8205.97,-203.3 9181.11,-199.48"/>
-<polygon fill="black" stroke="black" points="9181.33,-202.98 9191.31,-199.44 9181.3,-195.98 9181.33,-202.98"/>
-<text text-anchor="middle" x="215.78" y="-353.54" font-family="Times,serif" font-size="14.00">1</text>
+<title>dra.GetEquipProperties&#45;&gt;dra.CalcAttack</title>
+<path fill="none" stroke="black" d="M9355.29,-180.41C9408.67,-147.99 9526.78,-76.23 9585.88,-40.33"/>
+<polygon fill="black" stroke="black" points="9587.77,-43.28 9594.5,-35.09 9584.14,-37.29 9587.77,-43.28"/>
+<text text-anchor="middle" x="9589.5" y="-38.89" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_8010EDB8 -->
-<g id="node7" class="node">
+<g id="node6" class="node">
 <title>dra.func_8010EDB8</title>
-<g id="a_node7"><a xlink:href="dra.func_8010EDB8.svg" xlink:title="dra.func_8010EDB8">
-<ellipse fill="red" stroke="black" cx="384.29" cy="-378" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="384.29" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_8010EDB8</text>
+<g id="a_node6"><a xlink:href="dra.func_8010EDB8.svg" xlink:title="dra.func_8010EDB8">
+<ellipse fill="red" stroke="black" cx="103.99" cy="-378" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="103.99" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_8010EDB8</text>
 </a>
 </g>
 </g>
 <!-- dra.func_8010EDB8&#45;&gt;dra.GetEquipProperties -->
-<g id="edge6" class="edge">
+<g id="edge5" class="edge">
 <title>dra.func_8010EDB8&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M455.55,-364.83C469.36,-362.88 483.75,-361.14 497.29,-360 2289.51,-209.47 8219.18,-199.63 9180.96,-199.03"/>
-<polygon fill="black" stroke="black" points="9181.02,-202.53 9191.02,-199.03 9181.02,-195.53 9181.02,-202.53"/>
-<text text-anchor="middle" x="450.55" y="-353.63" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M175.25,-364.82C189.06,-362.88 203.45,-361.13 216.99,-360 2071.91,-204.76 8215.15,-198.88 9195.55,-198.94"/>
+<polygon fill="black" stroke="black" points="9195.8,-202.44 9205.8,-198.94 9195.8,-195.44 9195.8,-202.44"/>
+<text text-anchor="middle" x="170.25" y="-353.62" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_8011B334 -->
-<g id="node8" class="node">
+<g id="node7" class="node">
 <title>dra.func_8011B334</title>
-<g id="a_node8"><a xlink:href="dra.func_8011B334.svg" xlink:title="dra.func_8011B334">
-<ellipse fill="green" stroke="black" cx="607.29" cy="-378" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="607.29" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_8011B334</text>
+<g id="a_node7"><a xlink:href="dra.func_8011B334.svg" xlink:title="dra.func_8011B334">
+<ellipse fill="green" stroke="black" cx="326.99" cy="-378" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="326.99" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_8011B334</text>
 </a>
 </g>
 </g>
 <!-- dra.func_8011B334&#45;&gt;dra.GetEquipProperties -->
-<g id="edge7" class="edge">
+<g id="edge6" class="edge">
 <title>dra.func_8011B334&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M676.99,-364.87C690.64,-362.91 704.89,-361.15 718.29,-360 2463.3,-210.7 8232.9,-199.83 9180.93,-199.06"/>
-<polygon fill="black" stroke="black" points="9181.19,-202.56 9191.18,-199.05 9181.18,-195.56 9181.19,-202.56"/>
-<text text-anchor="middle" x="671.99" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M396.69,-364.87C410.35,-362.9 424.59,-361.14 437.99,-360 2245.78,-205.89 8229.42,-199.05 9195.7,-198.96"/>
+<polygon fill="black" stroke="black" points="9195.81,-202.46 9205.81,-198.96 9195.81,-195.46 9195.81,-202.46"/>
+<text text-anchor="middle" x="391.69" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- w_000.SetWeaponProperties -->
-<g id="node9" class="node">
-<title>w_000.SetWeaponProperties</title>
-<g id="a_node9"><a xlink:href="w_000.SetWeaponProperties.svg" xlink:title="w_000.SetWeaponProperties">
-<ellipse fill="green" stroke="black" cx="871.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="871.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_000.SetWeaponProperties</text>
+<!-- dra.EntityUnarmedAttack -->
+<g id="node8" class="node">
+<title>dra.EntityUnarmedAttack</title>
+<g id="a_node8"><a xlink:href="dra.EntityUnarmedAttack.svg" xlink:title="dra.EntityUnarmedAttack">
+<ellipse fill="green" stroke="black" cx="577.99" cy="-378" rx="131.08" ry="18"/>
+<text text-anchor="middle" x="577.99" y="-374.3" font-family="Times,serif" font-size="14.00">dra.EntityUnarmedAttack</text>
 </a>
 </g>
 </g>
-<!-- w_000.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge8" class="edge">
-<title>w_000.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M969.76,-364.79C988.18,-362.88 1007.3,-361.16 1025.29,-360 2708.15,-250.99 8255.71,-206.64 9181.68,-199.92"/>
-<polygon fill="black" stroke="black" points="9181.73,-203.42 9191.7,-199.85 9181.68,-196.42 9181.73,-203.42"/>
-<text text-anchor="middle" x="964.76" y="-353.59" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_001.SetWeaponProperties -->
-<g id="node10" class="node">
-<title>w_001.SetWeaponProperties</title>
-<g id="a_node10"><a xlink:href="w_001.SetWeaponProperties.svg" xlink:title="w_001.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="1178.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="1178.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_001.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_001.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge9" class="edge">
-<title>w_001.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M1276.76,-364.8C1295.19,-362.89 1314.3,-361.17 1332.29,-360 2949.8,-254.62 8275.13,-207.4 9181.56,-200.03"/>
-<polygon fill="black" stroke="black" points="9181.73,-203.53 9191.7,-199.95 9181.67,-196.53 9181.73,-203.53"/>
-<text text-anchor="middle" x="1271.76" y="-353.6" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_002.SetWeaponProperties -->
-<g id="node11" class="node">
-<title>w_002.SetWeaponProperties</title>
-<g id="a_node11"><a xlink:href="w_002.SetWeaponProperties.svg" xlink:title="w_002.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="1485.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="1485.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_002.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_002.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge10" class="edge">
-<title>w_002.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M1583.76,-364.81C1602.19,-362.91 1621.3,-361.18 1639.29,-360 3191.48,-258.25 8294.74,-208.19 9181.38,-200.16"/>
-<polygon fill="black" stroke="black" points="9181.65,-203.66 9191.62,-200.07 9181.59,-196.66 9181.65,-203.66"/>
-<text text-anchor="middle" x="1578.76" y="-353.61" font-family="Times,serif" font-size="14.00">1</text>
+<!-- dra.EntityUnarmedAttack&#45;&gt;dra.GetEquipProperties -->
+<g id="edge7" class="edge">
+<title>dra.EntityUnarmedAttack&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M667.75,-364.8C684.74,-362.88 702.39,-361.15 718.99,-360 2469.25,-238.44 8247.74,-204.44 9195.83,-199.63"/>
+<polygon fill="black" stroke="black" points="9196.11,-203.13 9206.09,-199.58 9196.08,-196.13 9196.11,-203.13"/>
+<text text-anchor="middle" x="662.75" y="-353.6" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_003.SetWeaponProperties -->
-<g id="node12" class="node">
+<g id="node9" class="node">
 <title>w_003.SetWeaponProperties</title>
-<g id="a_node12"><a xlink:href="w_003.SetWeaponProperties.svg" xlink:title="w_003.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="1792.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="1792.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_003.SetWeaponProperties</text>
+<g id="a_node9"><a xlink:href="w_003.SetWeaponProperties.svg" xlink:title="w_003.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="871.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="871.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_003.SetWeaponProperties</text>
 </a>
 </g>
 </g>
 <!-- w_003.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge11" class="edge">
+<g id="edge8" class="edge">
 <title>w_003.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M1890.76,-364.82C1909.19,-362.92 1928.31,-361.19 1946.29,-360 3433.41,-261.86 8316.01,-209 9181.53,-200.29"/>
-<polygon fill="black" stroke="black" points="9181.87,-203.79 9191.84,-200.19 9181.8,-196.79 9181.87,-203.79"/>
-<text text-anchor="middle" x="1885.76" y="-353.62" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M970.46,-364.79C988.89,-362.88 1008.01,-361.16 1025.99,-360 2711.7,-250.84 8268.62,-206.61 9196.16,-199.92"/>
+<polygon fill="black" stroke="black" points="9196.22,-203.42 9206.2,-199.84 9196.17,-196.42 9196.22,-203.42"/>
+<text text-anchor="middle" x="965.46" y="-353.59" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- w_004.SetWeaponProperties -->
+<!-- w_029.func_CF000_8017B06C -->
+<g id="node10" class="node">
+<title>w_029.func_CF000_8017B06C</title>
+<g id="a_node10"><a xlink:href="w_029.func_CF000_8017B06C.svg" xlink:title="w_029.func_CF000_8017B06C">
+<ellipse fill="red" stroke="black" cx="1185.99" cy="-378" rx="151.37" ry="18"/>
+<text text-anchor="middle" x="1185.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_029.func_CF000_8017B06C</text>
+</a>
+</g>
+</g>
+<!-- w_029.func_CF000_8017B06C&#45;&gt;dra.GetEquipProperties -->
+<g id="edge9" class="edge">
+<title>w_029.func_CF000_8017B06C&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M1289.38,-364.77C1308.51,-362.88 1328.34,-361.17 1346.99,-360 2964.75,-258.46 8289.88,-208.06 9196.27,-200.12"/>
+<polygon fill="black" stroke="black" points="9196.44,-203.62 9206.4,-200.03 9196.37,-196.62 9196.44,-203.62"/>
+<text text-anchor="middle" x="1284.38" y="-353.57" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_023.SetWeaponProperties -->
+<g id="node11" class="node">
+<title>w_023.SetWeaponProperties</title>
+<g id="a_node11"><a xlink:href="w_023.SetWeaponProperties.svg" xlink:title="w_023.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="1499.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="1499.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_023.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_023.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge10" class="edge">
+<title>w_023.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M1598.46,-364.81C1616.89,-362.91 1636.01,-361.18 1653.99,-360 3206.18,-258.25 8309.45,-208.19 9196.09,-200.16"/>
+<polygon fill="black" stroke="black" points="9196.36,-203.66 9206.32,-200.07 9196.29,-196.66 9196.36,-203.66"/>
+<text text-anchor="middle" x="1593.46" y="-353.61" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_019.SetWeaponProperties -->
+<g id="node12" class="node">
+<title>w_019.SetWeaponProperties</title>
+<g id="a_node12"><a xlink:href="w_019.SetWeaponProperties.svg" xlink:title="w_019.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="1806.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="1806.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_019.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_019.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge11" class="edge">
+<title>w_019.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M1905.46,-364.82C1923.89,-362.92 1943.01,-361.19 1960.99,-360 3448.11,-261.86 8330.72,-209 9196.24,-200.29"/>
+<polygon fill="black" stroke="black" points="9196.58,-203.79 9206.54,-200.19 9196.51,-196.79 9196.58,-203.79"/>
+<text text-anchor="middle" x="1900.46" y="-353.62" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_053.SetWeaponProperties -->
 <g id="node13" class="node">
-<title>w_004.SetWeaponProperties</title>
-<g id="a_node13"><a xlink:href="w_004.SetWeaponProperties.svg" xlink:title="w_004.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="2099.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="2099.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_004.SetWeaponProperties</text>
+<title>w_053.SetWeaponProperties</title>
+<g id="a_node13"><a xlink:href="w_053.SetWeaponProperties.svg" xlink:title="w_053.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="2113.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="2113.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_053.SetWeaponProperties</text>
 </a>
 </g>
 </g>
-<!-- w_004.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<!-- w_053.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
 <g id="edge12" class="edge">
-<title>w_004.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M2197.76,-364.84C2216.19,-362.93 2235.31,-361.2 2253.29,-360 3675.56,-265.46 8338.83,-209.83 9181.99,-200.43"/>
-<polygon fill="black" stroke="black" points="9182.07,-203.93 9192.04,-200.32 9182,-196.93 9182.07,-203.93"/>
-<text text-anchor="middle" x="2192.76" y="-353.64" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_053.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M2212.46,-364.84C2230.89,-362.93 2250.01,-361.2 2267.99,-360 3690.27,-265.46 8353.53,-209.83 9196.69,-200.43"/>
+<polygon fill="black" stroke="black" points="9196.78,-203.93 9206.74,-200.32 9196.7,-196.93 9196.78,-203.93"/>
+<text text-anchor="middle" x="2207.46" y="-353.64" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- w_005.SetWeaponProperties -->
+<!-- w_020.SetWeaponProperties -->
 <g id="node14" class="node">
-<title>w_005.SetWeaponProperties</title>
-<g id="a_node14"><a xlink:href="w_005.SetWeaponProperties.svg" xlink:title="w_005.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="2406.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="2406.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_005.SetWeaponProperties</text>
+<title>w_020.SetWeaponProperties</title>
+<g id="a_node14"><a xlink:href="w_020.SetWeaponProperties.svg" xlink:title="w_020.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="2420.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="2420.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_020.SetWeaponProperties</text>
 </a>
 </g>
 </g>
-<!-- w_005.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<!-- w_020.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
 <g id="edge13" class="edge">
-<title>w_005.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M2505.17,-364.81C2523.47,-362.92 2542.44,-361.2 2560.29,-360 3917.44,-269.08 8359.83,-210.74 9181.84,-200.59"/>
-<polygon fill="black" stroke="black" points="9181.97,-204.08 9191.93,-200.46 9181.88,-197.09 9181.97,-204.08"/>
-<text text-anchor="middle" x="2500.17" y="-353.61" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_020.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M2519.88,-364.81C2538.18,-362.92 2557.14,-361.2 2574.99,-360 3932.14,-269.08 8374.53,-210.74 9196.54,-200.59"/>
+<polygon fill="black" stroke="black" points="9196.67,-204.08 9206.63,-200.46 9196.59,-197.09 9196.67,-204.08"/>
+<text text-anchor="middle" x="2514.88" y="-353.61" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- w_006.SetWeaponProperties -->
+<!-- w_014.SetWeaponProperties -->
 <g id="node15" class="node">
-<title>w_006.SetWeaponProperties</title>
-<g id="a_node15"><a xlink:href="w_006.SetWeaponProperties.svg" xlink:title="w_006.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="2713.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="2713.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_006.SetWeaponProperties</text>
+<title>w_014.SetWeaponProperties</title>
+<g id="a_node15"><a xlink:href="w_014.SetWeaponProperties.svg" xlink:title="w_014.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="2727.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="2727.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_014.SetWeaponProperties</text>
 </a>
 </g>
 </g>
-<!-- w_006.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<!-- w_014.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
 <g id="edge14" class="edge">
-<title>w_006.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M2812.17,-364.83C2830.48,-362.93 2849.44,-361.21 2867.29,-360 4159.62,-272.69 8382.81,-211.67 9182.1,-200.75"/>
-<polygon fill="black" stroke="black" points="9182.24,-204.25 9192.2,-200.62 9182.15,-197.25 9182.24,-204.25"/>
-<text text-anchor="middle" x="2807.17" y="-353.63" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_014.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M2826.88,-364.83C2845.18,-362.93 2864.14,-361.21 2881.99,-360 4174.32,-272.69 8397.51,-211.67 9196.8,-200.75"/>
+<polygon fill="black" stroke="black" points="9196.95,-204.25 9206.9,-200.62 9196.85,-197.25 9196.95,-204.25"/>
+<text text-anchor="middle" x="2821.88" y="-353.63" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- w_007.SetWeaponProperties -->
+<!-- w_021.SetWeaponProperties -->
 <g id="node16" class="node">
-<title>w_007.SetWeaponProperties</title>
-<g id="a_node16"><a xlink:href="w_007.SetWeaponProperties.svg" xlink:title="w_007.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="3020.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="3020.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_007.SetWeaponProperties</text>
+<title>w_021.SetWeaponProperties</title>
+<g id="a_node16"><a xlink:href="w_021.SetWeaponProperties.svg" xlink:title="w_021.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="3034.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="3034.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_021.SetWeaponProperties</text>
 </a>
 </g>
 </g>
-<!-- w_007.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<!-- w_021.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
 <g id="edge15" class="edge">
-<title>w_007.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M3119.18,-364.85C3137.48,-362.95 3156.44,-361.22 3174.29,-360 4401.92,-276.29 8406.69,-212.64 9182.47,-200.94"/>
-<polygon fill="black" stroke="black" points="9182.61,-204.43 9192.56,-200.78 9182.51,-197.44 9182.61,-204.43"/>
-<text text-anchor="middle" x="3114.18" y="-353.65" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_021.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M3133.88,-364.85C3152.18,-362.95 3171.14,-361.22 3188.99,-360 4416.63,-276.29 8421.39,-212.64 9197.18,-200.94"/>
+<polygon fill="black" stroke="black" points="9197.31,-204.43 9207.26,-200.78 9197.21,-197.44 9197.31,-204.43"/>
+<text text-anchor="middle" x="3128.88" y="-353.65" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- w_008.SetWeaponProperties -->
+<!-- w_032.SetWeaponProperties -->
 <g id="node17" class="node">
-<title>w_008.SetWeaponProperties</title>
-<g id="a_node17"><a xlink:href="w_008.SetWeaponProperties.svg" xlink:title="w_008.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="3327.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="3327.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_008.SetWeaponProperties</text>
+<title>w_032.SetWeaponProperties</title>
+<g id="a_node17"><a xlink:href="w_032.SetWeaponProperties.svg" xlink:title="w_032.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="3341.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="3341.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_032.SetWeaponProperties</text>
 </a>
 </g>
 </g>
-<!-- w_008.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<!-- w_032.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
 <g id="edge16" class="edge">
-<title>w_008.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M3426.18,-364.87C3444.48,-362.97 3463.44,-361.23 3481.29,-360 5759.01,-203.11 8547.09,-197.68 9180.92,-198.63"/>
-<polygon fill="black" stroke="black" points="9181,-202.13 9191,-198.64 9181.01,-195.13 9181,-202.13"/>
-<text text-anchor="middle" x="3421.18" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_009.SetWeaponProperties -->
-<g id="node18" class="node">
-<title>w_009.SetWeaponProperties</title>
-<g id="a_node18"><a xlink:href="w_009.SetWeaponProperties.svg" xlink:title="w_009.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="3634.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="3634.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_009.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_009.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge17" class="edge">
-<title>w_009.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M3733.18,-364.89C3751.48,-362.99 3770.44,-361.24 3788.29,-360 5937.83,-210.28 8567.2,-199.34 9180.9,-198.91"/>
-<polygon fill="black" stroke="black" points="9181.11,-202.41 9191.1,-198.91 9181.1,-195.41 9181.11,-202.41"/>
-<text text-anchor="middle" x="3728.18" y="-353.69" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_010.SetWeaponProperties -->
-<g id="node19" class="node">
-<title>w_010.SetWeaponProperties</title>
-<g id="a_node19"><a xlink:href="w_010.SetWeaponProperties.svg" xlink:title="w_010.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="3941.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="3941.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_010.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_010.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge18" class="edge">
-<title>w_010.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M4040.59,-364.87C4058.77,-362.98 4077.58,-361.25 4095.29,-360 6117.01,-217.45 8588.2,-201.09 9181,-199.23"/>
-<polygon fill="black" stroke="black" points="9181.29,-202.73 9191.28,-199.2 9181.27,-195.73 9181.29,-202.73"/>
-<text text-anchor="middle" x="4035.59" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_032.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M3440.88,-364.87C3459.18,-362.97 3478.15,-361.23 3495.99,-360 5773.72,-203.11 8561.8,-197.68 9195.63,-198.63"/>
+<polygon fill="black" stroke="black" points="9195.7,-202.13 9205.71,-198.64 9195.71,-195.13 9195.7,-202.13"/>
+<text text-anchor="middle" x="3435.88" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_011.SetWeaponProperties -->
-<g id="node20" class="node">
+<g id="node18" class="node">
 <title>w_011.SetWeaponProperties</title>
-<g id="a_node20"><a xlink:href="w_011.SetWeaponProperties.svg" xlink:title="w_011.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="4248.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="4248.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_011.SetWeaponProperties</text>
+<g id="a_node18"><a xlink:href="w_011.SetWeaponProperties.svg" xlink:title="w_011.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="3648.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="3648.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_011.SetWeaponProperties</text>
 </a>
 </g>
 </g>
 <!-- w_011.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge19" class="edge">
+<g id="edge17" class="edge">
 <title>w_011.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M4347.6,-364.9C4365.77,-363.01 4384.58,-361.27 4402.29,-360 6296.12,-224.63 8609.05,-202.95 9180.81,-199.59"/>
-<polygon fill="black" stroke="black" points="9181.17,-203.09 9191.15,-199.53 9181.13,-196.09 9181.17,-203.09"/>
-<text text-anchor="middle" x="4342.6" y="-353.7" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M3747.88,-364.89C3766.18,-362.99 3785.15,-361.24 3802.99,-360 5952.53,-210.28 8581.9,-199.34 9195.6,-198.91"/>
+<polygon fill="black" stroke="black" points="9195.81,-202.41 9205.81,-198.91 9195.81,-195.41 9195.81,-202.41"/>
+<text text-anchor="middle" x="3742.88" y="-353.69" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_039.SetWeaponProperties -->
+<g id="node19" class="node">
+<title>w_039.SetWeaponProperties</title>
+<g id="a_node19"><a xlink:href="w_039.SetWeaponProperties.svg" xlink:title="w_039.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="3955.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="3955.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_039.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_039.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge18" class="edge">
+<title>w_039.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M4055.3,-364.87C4073.47,-362.98 4092.28,-361.25 4109.99,-360 6131.71,-217.45 8602.9,-201.09 9195.7,-199.23"/>
+<polygon fill="black" stroke="black" points="9196,-202.73 9205.99,-199.2 9195.97,-195.73 9196,-202.73"/>
+<text text-anchor="middle" x="4050.3" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_016.SetWeaponProperties -->
+<g id="node20" class="node">
+<title>w_016.SetWeaponProperties</title>
+<g id="a_node20"><a xlink:href="w_016.SetWeaponProperties.svg" xlink:title="w_016.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="4262.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="4262.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_016.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_016.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge19" class="edge">
+<title>w_016.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M4362.3,-364.9C4380.47,-363.01 4399.28,-361.27 4416.99,-360 6310.83,-224.63 8623.75,-202.95 9195.52,-199.59"/>
+<polygon fill="black" stroke="black" points="9195.87,-203.09 9205.85,-199.53 9195.83,-196.09 9195.87,-203.09"/>
+<text text-anchor="middle" x="4357.3" y="-353.7" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_012.SetWeaponProperties -->
 <g id="node21" class="node">
 <title>w_012.SetWeaponProperties</title>
 <g id="a_node21"><a xlink:href="w_012.SetWeaponProperties.svg" xlink:title="w_012.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="4555.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="4555.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_012.SetWeaponProperties</text>
+<ellipse fill="red" stroke="black" cx="4569.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="4569.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_012.SetWeaponProperties</text>
 </a>
 </g>
 </g>
 <!-- w_012.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
 <g id="edge20" class="edge">
 <title>w_012.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M4654.6,-364.93C4672.77,-363.04 4691.58,-361.29 4709.29,-360 6476.36,-231.75 8632.65,-204.9 9181.41,-200"/>
-<polygon fill="black" stroke="black" points="9181.76,-203.49 9191.73,-199.9 9181.7,-196.49 9181.76,-203.49"/>
-<text text-anchor="middle" x="4649.6" y="-353.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_013.SetWeaponProperties -->
-<g id="node22" class="node">
-<title>w_013.SetWeaponProperties</title>
-<g id="a_node22"><a xlink:href="w_013.SetWeaponProperties.svg" xlink:title="w_013.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="4862.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="4862.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_013.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge21" class="edge">
-<title>w_013.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M4962.01,-364.92C4980.06,-363.04 4998.72,-361.3 5016.29,-360 6656.34,-238.91 8655.63,-207 9181.51,-200.46"/>
-<polygon fill="black" stroke="black" points="9181.82,-203.95 9191.78,-200.33 9181.74,-196.95 9181.82,-203.95"/>
-<text text-anchor="middle" x="4957.01" y="-353.72" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_014.SetWeaponProperties -->
-<g id="node23" class="node">
-<title>w_014.SetWeaponProperties</title>
-<g id="a_node23"><a xlink:href="w_014.SetWeaponProperties.svg" xlink:title="w_014.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="5169.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="5169.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_014.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_014.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge22" class="edge">
-<title>w_014.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M5269.02,-364.97C5287.06,-363.08 5305.72,-361.32 5323.29,-360 6837.22,-246.03 8680.79,-209.23 9182.16,-200.98"/>
-<polygon fill="black" stroke="black" points="9182.38,-204.47 9192.33,-200.81 9182.27,-197.47 9182.38,-204.47"/>
-<text text-anchor="middle" x="5264.02" y="-353.77" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_015.SetWeaponProperties -->
-<g id="node24" class="node">
-<title>w_015.SetWeaponProperties</title>
-<g id="a_node24"><a xlink:href="w_015.SetWeaponProperties.svg" xlink:title="w_015.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="5476.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="5476.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_015.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_015.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge23" class="edge">
-<title>w_015.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M5576.43,-364.97C5594.35,-363.1 5612.86,-361.34 5630.29,-360 7018.36,-253.16 8706.59,-211.65 9182.75,-201.58"/>
-<polygon fill="black" stroke="black" points="9183.17,-205.07 9193.09,-201.36 9183.02,-198.07 9183.17,-205.07"/>
-<text text-anchor="middle" x="5571.43" y="-353.77" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_016.SetWeaponProperties -->
-<g id="node25" class="node">
-<title>w_016.SetWeaponProperties</title>
-<g id="a_node25"><a xlink:href="w_016.SetWeaponProperties.svg" xlink:title="w_016.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="5783.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="5783.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_016.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_016.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge24" class="edge">
-<title>w_016.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M5883.44,-365.03C5901.35,-363.15 5919.86,-361.38 5937.29,-360 7200.3,-260.27 8734.36,-214.24 9183.8,-202.27"/>
-<polygon fill="black" stroke="black" points="9183.99,-205.77 9193.89,-202 9183.8,-198.77 9183.99,-205.77"/>
-<text text-anchor="middle" x="5878.44" y="-353.83" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_017.SetWeaponProperties -->
-<g id="node26" class="node">
-<title>w_017.SetWeaponProperties</title>
-<g id="a_node26"><a xlink:href="w_017.SetWeaponProperties.svg" xlink:title="w_017.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="6090.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="6090.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_017.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_017.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge25" class="edge">
-<title>w_017.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M6190.86,-365.06C6208.64,-363.18 6227,-361.41 6244.29,-360 7383.04,-267.35 8764.05,-217.05 9185.27,-203.08"/>
-<polygon fill="black" stroke="black" points="9185.47,-206.57 9195.34,-202.74 9185.23,-199.58 9185.47,-206.57"/>
-<text text-anchor="middle" x="6185.86" y="-353.86" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_018.SetWeaponProperties -->
-<g id="node27" class="node">
-<title>w_018.SetWeaponProperties</title>
-<g id="a_node27"><a xlink:href="w_018.SetWeaponProperties.svg" xlink:title="w_018.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="6397.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="6397.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_018.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_018.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge26" class="edge">
-<title>w_018.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M6498.28,-365.1C6515.93,-363.23 6534.13,-361.45 6551.29,-360 7566.26,-274.45 8794.91,-220.16 9186.8,-204.04"/>
-<polygon fill="black" stroke="black" points="9187.18,-207.53 9197.03,-203.62 9186.89,-200.53 9187.18,-207.53"/>
-<text text-anchor="middle" x="6493.28" y="-353.9" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_019.SetWeaponProperties -->
-<g id="node28" class="node">
-<title>w_019.SetWeaponProperties</title>
-<g id="a_node28"><a xlink:href="w_019.SetWeaponProperties.svg" xlink:title="w_019.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="6704.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="6704.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_019.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_019.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge27" class="edge">
-<title>w_019.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M6805.7,-365.16C6823.22,-363.3 6841.27,-361.5 6858.29,-360 7750.95,-281.5 8829.3,-223.54 9189.48,-205.17"/>
-<polygon fill="black" stroke="black" points="9189.85,-208.65 9199.66,-204.65 9189.5,-201.66 9189.85,-208.65"/>
-<text text-anchor="middle" x="6800.7" y="-353.96" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_020.SetWeaponProperties -->
-<g id="node29" class="node">
-<title>w_020.SetWeaponProperties</title>
-<g id="a_node29"><a xlink:href="w_020.SetWeaponProperties.svg" xlink:title="w_020.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="7011.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="7011.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_020.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_020.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge28" class="edge">
-<title>w_020.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M7113.13,-365.25C7130.52,-363.39 7148.41,-361.56 7165.29,-360 7936.79,-288.53 8866.46,-227.29 9192.94,-206.53"/>
-<polygon fill="black" stroke="black" points="9193.6,-210 9203.36,-205.87 9193.16,-203.01 9193.6,-210"/>
-<text text-anchor="middle" x="7108.13" y="-354.05" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_021.SetWeaponProperties -->
-<g id="node30" class="node">
-<title>w_021.SetWeaponProperties</title>
-<g id="a_node30"><a xlink:href="w_021.SetWeaponProperties.svg" xlink:title="w_021.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="7318.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="7318.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_021.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_021.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge29" class="edge">
-<title>w_021.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M7420.97,-365.34C7438.1,-363.49 7455.69,-361.64 7472.29,-360 8124.86,-295.46 8908.93,-231.35 9198.55,-208.12"/>
-<polygon fill="black" stroke="black" points="9198.95,-211.6 9208.64,-207.31 9198.39,-204.62 9198.95,-211.6"/>
-<text text-anchor="middle" x="7415.97" y="-354.14" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_022.SetWeaponProperties -->
-<g id="node31" class="node">
-<title>w_022.SetWeaponProperties</title>
-<g id="a_node31"><a xlink:href="w_022.SetWeaponProperties.svg" xlink:title="w_022.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="7625.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="7625.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_022.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_022.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge30" class="edge">
-<title>w_022.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M7729.24,-365.45C7745.97,-363.61 7763.11,-361.74 7779.29,-360 8315,-302.32 8956.25,-235.85 9206.19,-210.04"/>
-<polygon fill="black" stroke="black" points="9206.76,-213.5 9216.35,-208.99 9206.05,-206.54 9206.76,-213.5"/>
-<text text-anchor="middle" x="7724.24" y="-354.25" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_023.SetWeaponProperties -->
-<g id="node32" class="node">
-<title>w_023.SetWeaponProperties</title>
-<g id="a_node32"><a xlink:href="w_023.SetWeaponProperties.svg" xlink:title="w_023.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="7932.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="7932.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_023.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_023.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge31" class="edge">
-<title>w_023.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M8028.57,-364.59C8280.97,-332.06 8959.79,-244.56 9214.73,-211.7"/>
-<polygon fill="black" stroke="black" points="9215.24,-215.17 9224.71,-210.42 9214.35,-208.22 9215.24,-215.17"/>
-<text text-anchor="middle" x="8023.57" y="-353.39" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_024.SetWeaponProperties -->
-<g id="node33" class="node">
-<title>w_024.SetWeaponProperties</title>
-<g id="a_node33"><a xlink:href="w_024.SetWeaponProperties.svg" xlink:title="w_024.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="8239.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="8239.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_024.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_024.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge32" class="edge">
-<title>w_024.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M8322.22,-363.25C8520.73,-330.36 9021.75,-247.32 9225.29,-213.58"/>
-<polygon fill="black" stroke="black" points="9226.05,-217.01 9235.34,-211.92 9224.9,-210.1 9226.05,-217.01"/>
-<text text-anchor="middle" x="8317.22" y="-352.05" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_025.SetWeaponProperties -->
-<g id="node34" class="node">
-<title>w_025.SetWeaponProperties</title>
-<g id="a_node34"><a xlink:href="w_025.SetWeaponProperties.svg" xlink:title="w_025.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="8546.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="8546.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_025.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_025.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge33" class="edge">
-<title>w_025.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M8611.35,-361.9C8753.67,-328.87 9091.78,-250.4 9240.72,-215.84"/>
-<polygon fill="black" stroke="black" points="9241.73,-219.2 9250.68,-213.53 9240.15,-212.38 9241.73,-219.2"/>
-<text text-anchor="middle" x="8606.35" y="-350.7" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_026.SetWeaponProperties -->
-<g id="node35" class="node">
-<title>w_026.SetWeaponProperties</title>
-<g id="a_node35"><a xlink:href="w_026.SetWeaponProperties.svg" xlink:title="w_026.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="8853.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="8853.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_026.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_026.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge34" class="edge">
-<title>w_026.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M8895.33,-360.73C8980.05,-327.95 9170.99,-254.06 9262.51,-218.65"/>
-<polygon fill="black" stroke="black" points="9263.78,-221.91 9271.84,-215.04 9261.25,-215.38 9263.78,-221.91"/>
-<text text-anchor="middle" x="8890.33" y="-349.53" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_027.SetWeaponProperties -->
-<g id="node36" class="node">
-<title>w_027.SetWeaponProperties</title>
-<g id="a_node36"><a xlink:href="w_027.SetWeaponProperties.svg" xlink:title="w_027.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="9160.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="9160.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_027.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_027.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge35" class="edge">
-<title>w_027.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M9174.96,-359.93C9202.15,-328.3 9260.46,-260.46 9291.99,-223.78"/>
-<polygon fill="black" stroke="black" points="9294.8,-225.88 9298.66,-216.02 9289.49,-221.32 9294.8,-225.88"/>
-<text text-anchor="middle" x="9169.96" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_028.SetWeaponProperties -->
-<g id="node37" class="node">
-<title>w_028.SetWeaponProperties</title>
-<g id="a_node37"><a xlink:href="w_028.SetWeaponProperties.svg" xlink:title="w_028.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="9467.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="9467.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_028.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_028.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge36" class="edge">
-<title>w_028.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M9452.52,-359.93C9425.16,-328.3 9366.47,-260.46 9334.72,-223.78"/>
-<polygon fill="black" stroke="black" points="9337.2,-221.29 9328.01,-216.02 9331.91,-225.87 9337.2,-221.29"/>
-<text text-anchor="middle" x="9447.52" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_029.func_CF000_8017B06C -->
-<g id="node38" class="node">
-<title>w_029.func_CF000_8017B06C</title>
-<g id="a_node38"><a xlink:href="w_029.func_CF000_8017B06C.svg" xlink:title="w_029.func_CF000_8017B06C">
-<ellipse fill="red" stroke="black" cx="9781.29" cy="-378" rx="151.37" ry="18"/>
-<text text-anchor="middle" x="9781.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_029.func_CF000_8017B06C</text>
-</a>
-</g>
-</g>
-<!-- w_029.func_CF000_8017B06C&#45;&gt;dra.GetEquipProperties -->
-<g id="edge37" class="edge">
-<title>w_029.func_CF000_8017B06C&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M9738.52,-360.73C9652.32,-327.95 9458.06,-254.06 9364.95,-218.65"/>
-<polygon fill="black" stroke="black" points="9366.05,-215.32 9355.46,-215.04 9363.56,-221.86 9366.05,-215.32"/>
-<text text-anchor="middle" x="9733.52" y="-349.53" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_030.SetWeaponProperties -->
-<g id="node39" class="node">
-<title>w_030.SetWeaponProperties</title>
-<g id="a_node39"><a xlink:href="w_030.SetWeaponProperties.svg" xlink:title="w_030.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="10095.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="10095.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_030.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_030.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge38" class="edge">
-<title>w_030.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M10029.29,-361.98C9884.23,-328.96 9538.51,-250.26 9386.79,-215.73"/>
-<polygon fill="black" stroke="black" points="9387.17,-212.23 9376.65,-213.42 9385.62,-219.05 9387.17,-212.23"/>
-<text text-anchor="middle" x="10024.29" y="-350.78" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_031.SetWeaponProperties -->
-<g id="node40" class="node">
-<title>w_031.SetWeaponProperties</title>
-<g id="a_node40"><a xlink:href="w_031.SetWeaponProperties.svg" xlink:title="w_031.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="10402.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="10402.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_031.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_031.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge39" class="edge">
-<title>w_031.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M10318.64,-363.33C10117.37,-330.43 9607.47,-247.09 9401.56,-213.43"/>
-<polygon fill="black" stroke="black" points="9402.12,-209.97 9391.69,-211.81 9400.99,-216.88 9402.12,-209.97"/>
-<text text-anchor="middle" x="10313.64" y="-352.13" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_032.SetWeaponProperties -->
-<g id="node41" class="node">
-<title>w_032.SetWeaponProperties</title>
-<g id="a_node41"><a xlink:href="w_032.SetWeaponProperties.svg" xlink:title="w_032.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="10709.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="10709.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_032.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_032.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge40" class="edge">
-<title>w_032.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M10612.23,-364.62C10357.18,-332.1 9670,-244.48 9412.51,-211.65"/>
-<polygon fill="black" stroke="black" points="9412.79,-208.16 9402.43,-210.37 9411.9,-215.1 9412.79,-208.16"/>
-<text text-anchor="middle" x="10607.23" y="-353.42" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_033.SetWeaponProperties -->
-<g id="node42" class="node">
-<title>w_033.SetWeaponProperties</title>
-<g id="a_node42"><a xlink:href="w_033.SetWeaponProperties.svg" xlink:title="w_033.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="11016.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="11016.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_033.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_033.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge41" class="edge">
-<title>w_033.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M10912.34,-365.43C10895.6,-363.6 10878.47,-361.73 10862.29,-360 10321.04,-302 9673.04,-235.65 9420.98,-209.95"/>
-<polygon fill="black" stroke="black" points="9421.03,-206.44 9410.73,-208.91 9420.32,-213.41 9421.03,-206.44"/>
-<text text-anchor="middle" x="10907.34" y="-354.23" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_034.SetWeaponProperties -->
-<g id="node43" class="node">
-<title>w_034.SetWeaponProperties</title>
-<g id="a_node43"><a xlink:href="w_034.SetWeaponProperties.svg" xlink:title="w_034.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="11323.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="11323.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_034.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_034.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge42" class="edge">
-<title>w_034.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M11220.6,-365.33C11203.48,-363.48 11185.89,-361.64 11169.29,-360 10511.02,-295.12 9719.99,-231.15 9428.44,-208.05"/>
-<polygon fill="black" stroke="black" points="9428.52,-204.54 9418.28,-207.24 9427.97,-211.52 9428.52,-204.54"/>
-<text text-anchor="middle" x="11215.6" y="-354.13" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_035.SetWeaponProperties -->
-<g id="node44" class="node">
-<title>w_035.SetWeaponProperties</title>
-<g id="a_node44"><a xlink:href="w_035.SetWeaponProperties.svg" xlink:title="w_035.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="11630.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="11630.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_035.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_035.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge43" class="edge">
-<title>w_035.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M11528.45,-365.24C11511.06,-363.38 11493.16,-361.56 11476.29,-360 10698.56,-288.15 9761.2,-227.04 9433.41,-206.43"/>
-<polygon fill="black" stroke="black" points="9433.62,-202.94 9423.42,-205.81 9433.18,-209.93 9433.62,-202.94"/>
-<text text-anchor="middle" x="11523.45" y="-354.04" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_036.SetWeaponProperties -->
-<g id="node45" class="node">
-<title>w_036.SetWeaponProperties</title>
-<g id="a_node45"><a xlink:href="w_036.SetWeaponProperties.svg" xlink:title="w_036.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="11937.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="11937.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_036.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_036.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge44" class="edge">
-<title>w_036.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M11835.88,-365.15C11818.35,-363.29 11800.3,-361.49 11783.29,-360 10884.92,-281.18 9799.6,-223.39 9437.54,-205.12"/>
-<polygon fill="black" stroke="black" points="9437.46,-201.62 9427.3,-204.61 9437.11,-208.61 9437.46,-201.62"/>
-<text text-anchor="middle" x="11830.88" y="-353.95" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_037.SetWeaponProperties -->
-<g id="node46" class="node">
-<title>w_037.SetWeaponProperties</title>
-<g id="a_node46"><a xlink:href="w_037.SetWeaponProperties.svg" xlink:title="w_037.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="12244.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="12244.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_037.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_037.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge45" class="edge">
-<title>w_037.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M12143.3,-365.09C12125.65,-363.23 12107.44,-361.44 12090.29,-360 11069.21,-274.1 9833.04,-219.99 9439.77,-203.99"/>
-<polygon fill="black" stroke="black" points="9439.64,-200.48 9429.51,-203.57 9439.36,-207.47 9439.64,-200.48"/>
-<text text-anchor="middle" x="12138.3" y="-353.89" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_038.SetWeaponProperties -->
-<g id="node47" class="node">
-<title>w_038.SetWeaponProperties</title>
-<g id="a_node47"><a xlink:href="w_038.SetWeaponProperties.svg" xlink:title="w_038.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="12551.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="12551.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_038.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_038.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge46" class="edge">
-<title>w_038.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M12450.72,-365.05C12432.94,-363.18 12414.58,-361.4 12397.29,-360 11252.65,-267.02 9864.41,-216.92 9441.56,-203.04"/>
-<polygon fill="black" stroke="black" points="9441.56,-199.54 9431.45,-202.71 9441.33,-206.53 9441.56,-199.54"/>
-<text text-anchor="middle" x="12445.72" y="-353.85" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_039.SetWeaponProperties -->
-<g id="node48" class="node">
-<title>w_039.SetWeaponProperties</title>
-<g id="a_node48"><a xlink:href="w_039.SetWeaponProperties.svg" xlink:title="w_039.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="12858.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="12858.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_039.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_039.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge47" class="edge">
-<title>w_039.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M12758.14,-365.03C12740.23,-363.15 12721.72,-361.37 12704.29,-360 11435.3,-259.93 9893.9,-214.12 9442.97,-202.24"/>
-<polygon fill="black" stroke="black" points="9442.93,-198.74 9432.84,-201.97 9442.75,-205.73 9442.93,-198.74"/>
-<text text-anchor="middle" x="12753.14" y="-353.83" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_040.SetWeaponProperties -->
-<g id="node49" class="node">
-<title>w_040.SetWeaponProperties</title>
-<g id="a_node49"><a xlink:href="w_040.SetWeaponProperties.svg" xlink:title="w_040.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="13165.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="13165.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_040.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_040.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge48" class="edge">
-<title>w_040.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M13065.14,-364.97C13047.23,-363.1 13028.72,-361.34 13011.29,-360 11616.83,-252.8 9920.66,-211.51 9443.6,-201.54"/>
-<polygon fill="black" stroke="black" points="9443.65,-198.04 9433.58,-201.33 9443.5,-205.04 9443.65,-198.04"/>
-<text text-anchor="middle" x="13060.14" y="-353.77" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M4669.3,-364.93C4687.47,-363.04 4706.28,-361.29 4723.99,-360 6491.07,-231.75 8647.36,-204.9 9196.11,-200"/>
+<polygon fill="black" stroke="black" points="9196.46,-203.49 9206.43,-199.9 9196.4,-196.49 9196.46,-203.49"/>
+<text text-anchor="middle" x="4664.3" y="-353.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_041.SetWeaponProperties -->
-<g id="node50" class="node">
+<g id="node22" class="node">
 <title>w_041.SetWeaponProperties</title>
-<g id="a_node50"><a xlink:href="w_041.SetWeaponProperties.svg" xlink:title="w_041.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="13472.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="13472.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_041.SetWeaponProperties</text>
+<g id="a_node22"><a xlink:href="w_041.SetWeaponProperties.svg" xlink:title="w_041.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="4876.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="4876.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_041.SetWeaponProperties</text>
 </a>
 </g>
 </g>
 <!-- w_041.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge49" class="edge">
+<g id="edge21" class="edge">
 <title>w_041.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M13372.56,-364.96C13354.52,-363.08 13335.86,-361.32 13318.29,-360 11798.24,-245.69 9947.12,-209.12 9444.48,-200.95"/>
-<polygon fill="black" stroke="black" points="9444.35,-197.45 9434.29,-200.78 9444.23,-204.45 9444.35,-197.45"/>
-<text text-anchor="middle" x="13367.56" y="-353.76" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M4976.72,-364.92C4994.76,-363.04 5013.42,-361.3 5030.99,-360 6671.05,-238.91 8670.33,-207 9196.21,-200.46"/>
+<polygon fill="black" stroke="black" points="9196.53,-203.95 9206.48,-200.33 9196.44,-196.95 9196.53,-203.95"/>
+<text text-anchor="middle" x="4971.72" y="-353.72" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- w_042.SetWeaponProperties -->
-<g id="node51" class="node">
-<title>w_042.SetWeaponProperties</title>
-<g id="a_node51"><a xlink:href="w_042.SetWeaponProperties.svg" xlink:title="w_042.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="13779.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="13779.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_042.SetWeaponProperties</text>
+<!-- w_008.SetWeaponProperties -->
+<g id="node23" class="node">
+<title>w_008.SetWeaponProperties</title>
+<g id="a_node23"><a xlink:href="w_008.SetWeaponProperties.svg" xlink:title="w_008.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="5183.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="5183.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_008.SetWeaponProperties</text>
 </a>
 </g>
 </g>
-<!-- w_042.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge50" class="edge">
-<title>w_042.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M13679.56,-364.92C13661.52,-363.04 13642.86,-361.3 13625.29,-360 11979.04,-238.56 9972.12,-206.9 9445.08,-200.43"/>
-<polygon fill="black" stroke="black" points="9444.83,-196.93 9434.79,-200.31 9444.75,-203.93 9444.83,-196.93"/>
-<text text-anchor="middle" x="13674.56" y="-353.72" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_043.SetWeaponProperties -->
-<g id="node52" class="node">
-<title>w_043.SetWeaponProperties</title>
-<g id="a_node52"><a xlink:href="w_043.SetWeaponProperties.svg" xlink:title="w_043.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="14086.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="14086.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_043.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_043.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge51" class="edge">
-<title>w_043.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M13986.98,-364.93C13968.81,-363.04 13949.99,-361.28 13932.29,-360 12159.46,-231.43 9996.14,-204.82 9445.59,-199.98"/>
-<polygon fill="black" stroke="black" points="9445.27,-196.48 9435.24,-199.89 9445.21,-203.48 9445.27,-196.48"/>
-<text text-anchor="middle" x="13981.98" y="-353.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_044.SetWeaponProperties -->
-<g id="node53" class="node">
-<title>w_044.SetWeaponProperties</title>
-<g id="a_node53"><a xlink:href="w_044.SetWeaponProperties.svg" xlink:title="w_044.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="14393.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="14393.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_044.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_044.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge52" class="edge">
-<title>w_044.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M14293.98,-364.9C14275.81,-363.01 14257,-361.26 14239.29,-360 12339.14,-224.27 10018.38,-202.85 9445.69,-199.58"/>
-<polygon fill="black" stroke="black" points="9445.36,-196.07 9435.34,-199.52 9445.32,-203.07 9445.36,-196.07"/>
-<text text-anchor="middle" x="14288.98" y="-353.7" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_045.SetWeaponProperties -->
-<g id="node54" class="node">
-<title>w_045.SetWeaponProperties</title>
-<g id="a_node54"><a xlink:href="w_045.SetWeaponProperties.svg" xlink:title="w_045.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="14700.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="14700.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_045.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_045.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge53" class="edge">
-<title>w_045.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M14600.98,-364.87C14582.81,-362.98 14564,-361.25 14546.29,-360 12518.76,-217.13 10040.46,-201.01 9445.96,-199.22"/>
-<polygon fill="black" stroke="black" points="9445.66,-195.72 9435.64,-199.19 9445.63,-202.72 9445.66,-195.72"/>
-<text text-anchor="middle" x="14595.98" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_046.SetWeaponProperties -->
-<g id="node55" class="node">
-<title>w_046.SetWeaponProperties</title>
-<g id="a_node55"><a xlink:href="w_046.SetWeaponProperties.svg" xlink:title="w_046.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="15007.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="15007.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_046.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_046.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge54" class="edge">
-<title>w_046.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M14908.4,-364.89C14890.1,-362.99 14871.13,-361.24 14853.29,-360 12697.91,-209.96 10061.4,-199.26 9446.03,-198.9"/>
-<polygon fill="black" stroke="black" points="9445.81,-195.4 9435.8,-198.89 9445.8,-202.4 9445.81,-195.4"/>
-<text text-anchor="middle" x="14903.4" y="-353.69" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_047.SetWeaponProperties -->
-<g id="node56" class="node">
-<title>w_047.SetWeaponProperties</title>
-<g id="a_node56"><a xlink:href="w_047.SetWeaponProperties.svg" xlink:title="w_047.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="15314.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="15314.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_047.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_047.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge55" class="edge">
-<title>w_047.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M15215.4,-364.86C15197.1,-362.97 15178.13,-361.23 15160.29,-360 12876.39,-202.76 10080.68,-197.6 9445.73,-198.61"/>
-<polygon fill="black" stroke="black" points="9445.63,-195.11 9435.63,-198.63 9445.64,-202.11 9445.63,-195.11"/>
-<text text-anchor="middle" x="15210.4" y="-353.66" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_048.SetWeaponProperties -->
-<g id="node57" class="node">
-<title>w_048.SetWeaponProperties</title>
-<g id="a_node57"><a xlink:href="w_048.SetWeaponProperties.svg" xlink:title="w_048.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="15621.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="15621.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_048.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_048.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge56" class="edge">
-<title>w_048.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M15522.4,-364.84C15504.1,-362.95 15485.13,-361.22 15467.29,-360 14236.65,-276.13 10222.1,-212.61 9444.42,-200.93"/>
-<polygon fill="black" stroke="black" points="9444.36,-197.43 9434.31,-200.78 9444.26,-204.43 9444.36,-197.43"/>
-<text text-anchor="middle" x="15517.4" y="-353.64" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_049.SetWeaponProperties -->
-<g id="node58" class="node">
-<title>w_049.SetWeaponProperties</title>
-<g id="a_node58"><a xlink:href="w_049.SetWeaponProperties.svg" xlink:title="w_049.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="15928.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="15928.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_049.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_049.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge57" class="edge">
-<title>w_049.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M15829.4,-364.83C15811.1,-362.93 15792.14,-361.21 15774.29,-360 14478.78,-272.51 10244.79,-211.62 9444.46,-200.74"/>
-<polygon fill="black" stroke="black" points="9444.4,-197.24 9434.35,-200.61 9444.3,-204.24 9444.4,-197.24"/>
-<text text-anchor="middle" x="15824.4" y="-353.63" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_050.SetWeaponProperties -->
-<g id="node59" class="node">
-<title>w_050.SetWeaponProperties</title>
-<g id="a_node59"><a xlink:href="w_050.SetWeaponProperties.svg" xlink:title="w_050.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="16235.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="16235.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_050.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_050.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge58" class="edge">
-<title>w_050.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M16136.4,-364.81C16118.1,-362.92 16099.14,-361.2 16081.29,-360 14720.94,-268.91 10267.67,-210.69 9444.7,-200.58"/>
-<polygon fill="black" stroke="black" points="9444.64,-197.08 9434.6,-200.45 9444.56,-204.08 9444.64,-197.08"/>
-<text text-anchor="middle" x="16131.4" y="-353.61" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_051.SetWeaponProperties -->
-<g id="node60" class="node">
-<title>w_051.SetWeaponProperties</title>
-<g id="a_node60"><a xlink:href="w_051.SetWeaponProperties.svg" xlink:title="w_051.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="16542.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="16542.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_051.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_051.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge59" class="edge">
-<title>w_051.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M16443.82,-364.84C16425.39,-362.93 16406.27,-361.19 16388.29,-360 14962.8,-265.28 10288.56,-209.79 9444.52,-200.42"/>
-<polygon fill="black" stroke="black" points="9444.51,-196.92 9434.47,-200.31 9444.43,-203.92 9444.51,-196.92"/>
-<text text-anchor="middle" x="16438.82" y="-353.64" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_052.SetWeaponProperties -->
-<g id="node61" class="node">
-<title>w_052.SetWeaponProperties</title>
-<g id="a_node61"><a xlink:href="w_052.SetWeaponProperties.svg" xlink:title="w_052.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="16849.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="16849.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_052.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_052.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge60" class="edge">
-<title>w_052.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M16750.82,-364.82C16732.39,-362.92 16713.27,-361.19 16695.29,-360 15204.94,-261.68 10311.29,-208.95 9444.96,-200.28"/>
-<polygon fill="black" stroke="black" points="9444.68,-196.78 9434.65,-200.18 9444.61,-203.78 9444.68,-196.78"/>
-<text text-anchor="middle" x="16745.82" y="-353.62" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_053.SetWeaponProperties -->
-<g id="node62" class="node">
-<title>w_053.SetWeaponProperties</title>
-<g id="a_node62"><a xlink:href="w_053.SetWeaponProperties.svg" xlink:title="w_053.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="17156.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="17156.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_053.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_053.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge61" class="edge">
-<title>w_053.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M17057.82,-364.81C17039.39,-362.9 17020.27,-361.18 17002.29,-360 15446.86,-258.07 10332.46,-208.14 9445.09,-200.15"/>
-<polygon fill="black" stroke="black" points="9444.88,-196.65 9434.85,-200.06 9444.82,-203.65 9444.88,-196.65"/>
-<text text-anchor="middle" x="17052.82" y="-353.61" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_054.SetWeaponProperties -->
-<g id="node63" class="node">
-<title>w_054.SetWeaponProperties</title>
-<g id="a_node63"><a xlink:href="w_054.SetWeaponProperties.svg" xlink:title="w_054.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="17463.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="17463.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_054.SetWeaponProperties</text>
-</a>
-</g>
-</g>
-<!-- w_054.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge62" class="edge">
-<title>w_054.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M17364.82,-364.8C17346.39,-362.89 17327.27,-361.17 17309.29,-360 15688.73,-254.45 10353.4,-207.37 9445.26,-200.03"/>
-<polygon fill="black" stroke="black" points="9445.14,-196.53 9435.11,-199.95 9445.08,-203.53 9445.14,-196.53"/>
-<text text-anchor="middle" x="17359.82" y="-353.6" font-family="Times,serif" font-size="14.00">1</text>
+<!-- w_008.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge22" class="edge">
+<title>w_008.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M5283.72,-364.97C5301.76,-363.08 5320.42,-361.32 5337.99,-360 6851.92,-246.03 8695.49,-209.23 9196.87,-200.98"/>
+<polygon fill="black" stroke="black" points="9197.09,-204.47 9207.03,-200.81 9196.97,-197.47 9197.09,-204.47"/>
+<text text-anchor="middle" x="5278.72" y="-353.77" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_055.SetWeaponProperties -->
-<g id="node64" class="node">
+<g id="node24" class="node">
 <title>w_055.SetWeaponProperties</title>
-<g id="a_node64"><a xlink:href="w_055.SetWeaponProperties.svg" xlink:title="w_055.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="17770.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="17770.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_055.SetWeaponProperties</text>
+<g id="a_node24"><a xlink:href="w_055.SetWeaponProperties.svg" xlink:title="w_055.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="5490.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="5490.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_055.SetWeaponProperties</text>
 </a>
 </g>
 </g>
 <!-- w_055.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge63" class="edge">
+<g id="edge23" class="edge">
 <title>w_055.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M17671.82,-364.79C17653.39,-362.88 17634.27,-361.16 17616.29,-360 15930.38,-250.83 10372.78,-206.61 9445.14,-199.92"/>
-<polygon fill="black" stroke="black" points="9445.12,-196.42 9435.1,-199.84 9445.07,-203.42 9445.12,-196.42"/>
-<text text-anchor="middle" x="17666.82" y="-353.59" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M5591.14,-364.97C5609.05,-363.1 5627.56,-361.34 5644.99,-360 7033.06,-253.16 8721.29,-211.65 9197.45,-201.58"/>
+<polygon fill="black" stroke="black" points="9197.87,-205.07 9207.79,-201.36 9197.72,-198.07 9197.87,-205.07"/>
+<text text-anchor="middle" x="5586.14" y="-353.77" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- w_056.SetWeaponProperties -->
-<g id="node65" class="node">
-<title>w_056.SetWeaponProperties</title>
-<g id="a_node65"><a xlink:href="w_056.SetWeaponProperties.svg" xlink:title="w_056.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="18077.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="18077.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_056.SetWeaponProperties</text>
+<!-- w_022.SetWeaponProperties -->
+<g id="node25" class="node">
+<title>w_022.SetWeaponProperties</title>
+<g id="a_node25"><a xlink:href="w_022.SetWeaponProperties.svg" xlink:title="w_022.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="5797.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="5797.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_022.SetWeaponProperties</text>
 </a>
 </g>
 </g>
-<!-- w_056.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge64" class="edge">
-<title>w_056.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M17978.82,-364.78C17960.39,-362.87 17941.27,-361.16 17923.29,-360 16172.24,-247.22 10393.57,-205.9 9445.45,-199.81"/>
-<polygon fill="black" stroke="black" points="9445.21,-196.31 9435.19,-199.75 9445.17,-203.31 9445.21,-196.31"/>
-<text text-anchor="middle" x="17973.82" y="-353.58" font-family="Times,serif" font-size="14.00">1</text>
+<!-- w_022.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge24" class="edge">
+<title>w_022.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M5898.14,-365.03C5916.05,-363.15 5934.56,-361.38 5951.99,-360 7215,-260.27 8749.06,-214.24 9198.5,-202.27"/>
+<polygon fill="black" stroke="black" points="9198.69,-205.77 9208.59,-202 9198.5,-198.77 9198.69,-205.77"/>
+<text text-anchor="middle" x="5893.14" y="-353.83" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_054.SetWeaponProperties -->
+<g id="node26" class="node">
+<title>w_054.SetWeaponProperties</title>
+<g id="a_node26"><a xlink:href="w_054.SetWeaponProperties.svg" xlink:title="w_054.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="6104.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="6104.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_054.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_054.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge25" class="edge">
+<title>w_054.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M6205.56,-365.06C6223.34,-363.18 6241.7,-361.41 6258.99,-360 7397.74,-267.35 8778.75,-217.05 9199.97,-203.08"/>
+<polygon fill="black" stroke="black" points="9200.17,-206.57 9210.05,-202.74 9199.94,-199.58 9200.17,-206.57"/>
+<text text-anchor="middle" x="6200.56" y="-353.86" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_037.SetWeaponProperties -->
+<g id="node27" class="node">
+<title>w_037.SetWeaponProperties</title>
+<g id="a_node27"><a xlink:href="w_037.SetWeaponProperties.svg" xlink:title="w_037.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="6411.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="6411.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_037.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_037.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge26" class="edge">
+<title>w_037.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M6512.98,-365.1C6530.63,-363.23 6548.84,-361.45 6565.99,-360 7580.96,-274.45 8809.61,-220.16 9201.5,-204.04"/>
+<polygon fill="black" stroke="black" points="9201.88,-207.53 9211.73,-203.62 9201.6,-200.53 9201.88,-207.53"/>
+<text text-anchor="middle" x="6507.98" y="-353.9" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_046.SetWeaponProperties -->
+<g id="node28" class="node">
+<title>w_046.SetWeaponProperties</title>
+<g id="a_node28"><a xlink:href="w_046.SetWeaponProperties.svg" xlink:title="w_046.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="6718.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="6718.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_046.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_046.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge27" class="edge">
+<title>w_046.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M6820.4,-365.16C6837.93,-363.3 6855.98,-361.5 6872.99,-360 7765.65,-281.5 8844,-223.54 9204.18,-205.17"/>
+<polygon fill="black" stroke="black" points="9204.56,-208.65 9214.37,-204.65 9204.2,-201.66 9204.56,-208.65"/>
+<text text-anchor="middle" x="6815.4" y="-353.96" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_042.SetWeaponProperties -->
+<g id="node29" class="node">
+<title>w_042.SetWeaponProperties</title>
+<g id="a_node29"><a xlink:href="w_042.SetWeaponProperties.svg" xlink:title="w_042.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="7025.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="7025.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_042.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_042.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge28" class="edge">
+<title>w_042.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M7127.83,-365.25C7145.22,-363.39 7163.12,-361.56 7179.99,-360 7951.49,-288.53 8881.16,-227.29 9207.64,-206.53"/>
+<polygon fill="black" stroke="black" points="9208.3,-210 9218.06,-205.87 9207.86,-203.01 9208.3,-210"/>
+<text text-anchor="middle" x="7122.83" y="-354.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_025.SetWeaponProperties -->
+<g id="node30" class="node">
+<title>w_025.SetWeaponProperties</title>
+<g id="a_node30"><a xlink:href="w_025.SetWeaponProperties.svg" xlink:title="w_025.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="7332.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="7332.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_025.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_025.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge29" class="edge">
+<title>w_025.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M7435.68,-365.34C7452.8,-363.49 7470.39,-361.64 7486.99,-360 8139.56,-295.46 8923.63,-231.35 9213.25,-208.12"/>
+<polygon fill="black" stroke="black" points="9213.66,-211.6 9223.34,-207.31 9213.1,-204.62 9213.66,-211.6"/>
+<text text-anchor="middle" x="7430.68" y="-354.14" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_000.SetWeaponProperties -->
+<g id="node31" class="node">
+<title>w_000.SetWeaponProperties</title>
+<g id="a_node31"><a xlink:href="w_000.SetWeaponProperties.svg" xlink:title="w_000.SetWeaponProperties">
+<ellipse fill="green" stroke="black" cx="7639.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="7639.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_000.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_000.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge30" class="edge">
+<title>w_000.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M7743.94,-365.45C7760.68,-363.61 7777.81,-361.74 7793.99,-360 8329.7,-302.32 8970.95,-235.85 9220.89,-210.04"/>
+<polygon fill="black" stroke="black" points="9221.47,-213.5 9231.05,-208.99 9220.75,-206.54 9221.47,-213.5"/>
+<text text-anchor="middle" x="7738.94" y="-354.25" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_047.SetWeaponProperties -->
+<g id="node32" class="node">
+<title>w_047.SetWeaponProperties</title>
+<g id="a_node32"><a xlink:href="w_047.SetWeaponProperties.svg" xlink:title="w_047.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="7946.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="7946.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_047.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_047.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge31" class="edge">
+<title>w_047.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M8043.28,-364.59C8295.67,-332.06 8974.49,-244.56 9229.43,-211.7"/>
+<polygon fill="black" stroke="black" points="9229.95,-215.17 9239.42,-210.42 9229.05,-208.22 9229.95,-215.17"/>
+<text text-anchor="middle" x="8038.28" y="-353.39" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_057.SetWeaponProperties -->
-<g id="node66" class="node">
+<g id="node33" class="node">
 <title>w_057.SetWeaponProperties</title>
-<g id="a_node66"><a xlink:href="w_057.SetWeaponProperties.svg" xlink:title="w_057.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="18384.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="18384.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_057.SetWeaponProperties</text>
+<g id="a_node33"><a xlink:href="w_057.SetWeaponProperties.svg" xlink:title="w_057.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="8253.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="8253.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_057.SetWeaponProperties</text>
 </a>
 </g>
 </g>
 <!-- w_057.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge65" class="edge">
+<g id="edge32" class="edge">
 <title>w_057.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M18285.82,-364.77C18267.39,-362.87 18248.27,-361.15 18230.29,-360 16413.68,-243.58 10411.55,-205.2 9445.15,-199.71"/>
-<polygon fill="black" stroke="black" points="9445.06,-196.21 9435.04,-199.66 9445.02,-203.21 9445.06,-196.21"/>
-<text text-anchor="middle" x="18280.82" y="-353.57" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M8336.93,-363.25C8535.43,-330.36 9036.45,-247.32 9239.99,-213.58"/>
+<polygon fill="black" stroke="black" points="9240.75,-217.01 9250.04,-211.92 9239.6,-210.1 9240.75,-217.01"/>
+<text text-anchor="middle" x="8331.93" y="-352.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_036.SetWeaponProperties -->
+<g id="node34" class="node">
+<title>w_036.SetWeaponProperties</title>
+<g id="a_node34"><a xlink:href="w_036.SetWeaponProperties.svg" xlink:title="w_036.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="8560.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="8560.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_036.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_036.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge33" class="edge">
+<title>w_036.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M8626.05,-361.9C8768.37,-328.87 9106.49,-250.4 9255.42,-215.84"/>
+<polygon fill="black" stroke="black" points="9256.43,-219.2 9265.38,-213.53 9254.85,-212.38 9256.43,-219.2"/>
+<text text-anchor="middle" x="8621.05" y="-350.7" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_034.SetWeaponProperties -->
+<g id="node35" class="node">
+<title>w_034.SetWeaponProperties</title>
+<g id="a_node35"><a xlink:href="w_034.SetWeaponProperties.svg" xlink:title="w_034.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="8867.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="8867.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_034.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_034.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge34" class="edge">
+<title>w_034.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M8910.03,-360.73C8994.75,-327.95 9185.7,-254.06 9277.21,-218.65"/>
+<polygon fill="black" stroke="black" points="9278.48,-221.91 9286.54,-215.04 9275.96,-215.38 9278.48,-221.91"/>
+<text text-anchor="middle" x="8905.03" y="-349.53" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_044.SetWeaponProperties -->
+<g id="node36" class="node">
+<title>w_044.SetWeaponProperties</title>
+<g id="a_node36"><a xlink:href="w_044.SetWeaponProperties.svg" xlink:title="w_044.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="9174.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="9174.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_044.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_044.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge35" class="edge">
+<title>w_044.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M9189.66,-359.93C9216.85,-328.3 9275.16,-260.46 9306.69,-223.78"/>
+<polygon fill="black" stroke="black" points="9309.5,-225.88 9313.36,-216.02 9304.19,-221.32 9309.5,-225.88"/>
+<text text-anchor="middle" x="9184.66" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_013.SetWeaponProperties -->
+<g id="node37" class="node">
+<title>w_013.SetWeaponProperties</title>
+<g id="a_node37"><a xlink:href="w_013.SetWeaponProperties.svg" xlink:title="w_013.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="9481.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="9481.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_013.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_013.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge36" class="edge">
+<title>w_013.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M9467.22,-359.93C9439.86,-328.3 9381.17,-260.46 9349.43,-223.78"/>
+<polygon fill="black" stroke="black" points="9351.9,-221.29 9342.71,-216.02 9346.61,-225.87 9351.9,-221.29"/>
+<text text-anchor="middle" x="9462.22" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_005.SetWeaponProperties -->
+<g id="node38" class="node">
+<title>w_005.SetWeaponProperties</title>
+<g id="a_node38"><a xlink:href="w_005.SetWeaponProperties.svg" xlink:title="w_005.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="9788.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="9788.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_005.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_005.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge37" class="edge">
+<title>w_005.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M9746.86,-360.73C9661.95,-327.95 9470.59,-254.06 9378.88,-218.65"/>
+<polygon fill="black" stroke="black" points="9380.12,-215.37 9369.53,-215.04 9377.59,-221.9 9380.12,-215.37"/>
+<text text-anchor="middle" x="9741.86" y="-349.53" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_026.SetWeaponProperties -->
+<g id="node39" class="node">
+<title>w_026.SetWeaponProperties</title>
+<g id="a_node39"><a xlink:href="w_026.SetWeaponProperties.svg" xlink:title="w_026.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="10095.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="10095.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_026.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_026.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge38" class="edge">
+<title>w_026.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M10030.84,-361.9C9888.34,-328.87 9549.78,-250.4 9400.65,-215.84"/>
+<polygon fill="black" stroke="black" points="9401.21,-212.38 9390.68,-213.53 9399.63,-219.2 9401.21,-212.38"/>
+<text text-anchor="middle" x="10025.84" y="-350.7" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_001.SetWeaponProperties -->
+<g id="node40" class="node">
+<title>w_001.SetWeaponProperties</title>
+<g id="a_node40"><a xlink:href="w_001.SetWeaponProperties.svg" xlink:title="w_001.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="10402.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="10402.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_001.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_001.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge39" class="edge">
+<title>w_001.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M10319.98,-363.25C10121.29,-330.36 9619.8,-247.32 9416.07,-213.58"/>
+<polygon fill="black" stroke="black" points="9416.45,-210.1 9406.01,-211.92 9415.31,-217.01 9416.45,-210.1"/>
+<text text-anchor="middle" x="10314.98" y="-352.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_043.SetWeaponProperties -->
+<g id="node41" class="node">
+<title>w_043.SetWeaponProperties</title>
+<g id="a_node41"><a xlink:href="w_043.SetWeaponProperties.svg" xlink:title="w_043.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="10709.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="10709.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_043.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_043.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge40" class="edge">
+<title>w_043.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M10613.63,-364.59C10361.06,-332.06 9681.75,-244.56 9426.62,-211.7"/>
+<polygon fill="black" stroke="black" points="9426.99,-208.22 9416.63,-210.42 9426.1,-215.17 9426.99,-208.22"/>
+<text text-anchor="middle" x="10608.63" y="-353.39" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_004.SetWeaponProperties -->
+<g id="node42" class="node">
+<title>w_004.SetWeaponProperties</title>
+<g id="a_node42"><a xlink:href="w_004.SetWeaponProperties.svg" xlink:title="w_004.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="11016.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="11016.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_004.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_004.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge41" class="edge">
+<title>w_004.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M10913.04,-365.45C10896.3,-363.61 10879.17,-361.74 10862.99,-360 10326.93,-302.3 9685.27,-235.84 9435.16,-210.04"/>
+<polygon fill="black" stroke="black" points="9435.3,-206.53 9424.99,-208.99 9434.58,-213.5 9435.3,-206.53"/>
+<text text-anchor="middle" x="10908.04" y="-354.25" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_017.SetWeaponProperties -->
+<g id="node43" class="node">
+<title>w_017.SetWeaponProperties</title>
+<g id="a_node43"><a xlink:href="w_017.SetWeaponProperties.svg" xlink:title="w_017.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="11323.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="11323.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_017.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_017.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge42" class="edge">
+<title>w_017.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M11221.31,-365.34C11204.18,-363.48 11186.59,-361.64 11169.99,-360 10517.06,-295.44 9732.57,-231.34 9442.79,-208.12"/>
+<polygon fill="black" stroke="black" points="9442.94,-204.62 9432.69,-207.31 9442.38,-211.6 9442.94,-204.62"/>
+<text text-anchor="middle" x="11216.31" y="-354.14" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_045.SetWeaponProperties -->
+<g id="node44" class="node">
+<title>w_045.SetWeaponProperties</title>
+<g id="a_node44"><a xlink:href="w_045.SetWeaponProperties.svg" xlink:title="w_045.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="11630.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="11630.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_045.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_045.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge43" class="edge">
+<title>w_045.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M11529.15,-365.25C11511.76,-363.39 11493.86,-361.56 11476.99,-360 10705.13,-288.51 9775.03,-227.28 9448.4,-206.53"/>
+<polygon fill="black" stroke="black" points="9448.17,-203.01 9437.97,-205.87 9447.73,-209.99 9448.17,-203.01"/>
+<text text-anchor="middle" x="11524.15" y="-354.05" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_050.SetWeaponProperties -->
+<g id="node45" class="node">
+<title>w_050.SetWeaponProperties</title>
+<g id="a_node45"><a xlink:href="w_050.SetWeaponProperties.svg" xlink:title="w_050.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="11937.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="11937.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_050.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_050.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge44" class="edge">
+<title>w_050.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M11836.58,-365.16C11819.05,-363.3 11801.01,-361.5 11783.99,-360 10890.97,-281.48 9812.18,-223.53 9451.85,-205.17"/>
+<polygon fill="black" stroke="black" points="9451.83,-201.66 9441.66,-204.65 9451.47,-208.65 9451.83,-201.66"/>
+<text text-anchor="middle" x="11831.58" y="-353.96" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_048.SetWeaponProperties -->
+<g id="node46" class="node">
+<title>w_048.SetWeaponProperties</title>
+<g id="a_node46"><a xlink:href="w_048.SetWeaponProperties.svg" xlink:title="w_048.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="12244.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="12244.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_048.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_048.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge45" class="edge">
+<title>w_048.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M12144,-365.1C12126.35,-363.23 12108.15,-361.45 12090.99,-360 11075.65,-274.43 9846.56,-220.15 9454.52,-204.04"/>
+<polygon fill="black" stroke="black" points="9454.43,-200.53 9444.29,-203.62 9454.14,-207.53 9454.43,-200.53"/>
+<text text-anchor="middle" x="12139" y="-353.9" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_033.SetWeaponProperties -->
+<g id="node47" class="node">
+<title>w_033.SetWeaponProperties</title>
+<g id="a_node47"><a xlink:href="w_033.SetWeaponProperties.svg" xlink:title="w_033.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="12551.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="12551.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_033.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_033.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge46" class="edge">
+<title>w_033.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M12451.42,-365.06C12433.64,-363.18 12415.28,-361.41 12397.99,-360 11258.87,-267.33 9877.41,-217.04 9456.05,-203.07"/>
+<polygon fill="black" stroke="black" points="9456.08,-199.57 9445.97,-202.74 9455.85,-206.57 9456.08,-199.57"/>
+<text text-anchor="middle" x="12446.42" y="-353.86" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_024.SetWeaponProperties -->
+<g id="node48" class="node">
+<title>w_024.SetWeaponProperties</title>
+<g id="a_node48"><a xlink:href="w_024.SetWeaponProperties.svg" xlink:title="w_024.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="12858.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="12858.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_024.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_024.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge47" class="edge">
+<title>w_024.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M12758.84,-365.03C12740.93,-363.15 12722.42,-361.38 12704.99,-360 11441.6,-260.25 9907.09,-214.23 9457.52,-202.27"/>
+<polygon fill="black" stroke="black" points="9457.51,-198.77 9447.43,-202 9457.33,-205.77 9457.51,-198.77"/>
+<text text-anchor="middle" x="12753.84" y="-353.83" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_056.SetWeaponProperties -->
+<g id="node49" class="node">
+<title>w_056.SetWeaponProperties</title>
+<g id="a_node49"><a xlink:href="w_056.SetWeaponProperties.svg" xlink:title="w_056.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="13165.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="13165.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_056.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_056.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge48" class="edge">
+<title>w_056.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M13065.85,-364.97C13047.93,-363.1 13029.42,-361.34 13011.99,-360 11623.55,-253.14 9934.86,-211.64 9458.56,-201.58"/>
+<polygon fill="black" stroke="black" points="9458.29,-198.07 9448.22,-201.36 9458.14,-205.07 9458.29,-198.07"/>
+<text text-anchor="middle" x="13060.85" y="-353.77" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_030.SetWeaponProperties -->
+<g id="node50" class="node">
+<title>w_030.SetWeaponProperties</title>
+<g id="a_node50"><a xlink:href="w_030.SetWeaponProperties.svg" xlink:title="w_030.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="13472.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="13472.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_030.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_030.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge49" class="edge">
+<title>w_030.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M13373.26,-364.97C13355.22,-363.08 13336.56,-361.32 13318.99,-360 11804.68,-246.01 9960.65,-209.23 9459.15,-200.97"/>
+<polygon fill="black" stroke="black" points="9459.04,-197.47 9448.98,-200.81 9458.93,-204.47 9459.04,-197.47"/>
+<text text-anchor="middle" x="13368.26" y="-353.77" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_058.SetWeaponProperties -->
-<g id="node67" class="node">
+<g id="node51" class="node">
 <title>w_058.SetWeaponProperties</title>
-<g id="a_node67"><a xlink:href="w_058.SetWeaponProperties.svg" xlink:title="w_058.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="18691.29" cy="-378" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="18691.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_058.SetWeaponProperties</text>
+<g id="a_node51"><a xlink:href="w_058.SetWeaponProperties.svg" xlink:title="w_058.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="13779.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="13779.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_058.SetWeaponProperties</text>
 </a>
 </g>
 </g>
 <!-- w_058.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
-<g id="edge66" class="edge">
+<g id="edge50" class="edge">
 <title>w_058.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
-<path fill="none" stroke="black" d="M18592.82,-364.76C18574.39,-362.86 18555.27,-361.15 18537.29,-360 16655.38,-239.96 10431.26,-204.53 9445.36,-199.62"/>
-<polygon fill="black" stroke="black" points="9445.07,-196.12 9435.05,-199.57 9445.03,-203.12 9445.07,-196.12"/>
-<text text-anchor="middle" x="18587.82" y="-353.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M13680.27,-364.92C13662.22,-363.04 13643.56,-361.3 13625.99,-360 11985.55,-238.89 9985.81,-207 9459.8,-200.45"/>
+<polygon fill="black" stroke="black" points="9459.57,-196.95 9449.53,-200.33 9459.48,-203.95 9459.57,-196.95"/>
+<text text-anchor="middle" x="13675.27" y="-353.72" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_015.SetWeaponProperties -->
+<g id="node52" class="node">
+<title>w_015.SetWeaponProperties</title>
+<g id="a_node52"><a xlink:href="w_015.SetWeaponProperties.svg" xlink:title="w_015.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="14086.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="14086.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_015.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_015.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge51" class="edge">
+<title>w_015.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M13987.68,-364.93C13969.51,-363.04 13950.7,-361.29 13932.99,-360 12165.53,-231.73 10008.77,-204.9 9459.9,-199.99"/>
+<polygon fill="black" stroke="black" points="9459.61,-196.49 9449.57,-199.9 9459.54,-203.49 9459.61,-196.49"/>
+<text text-anchor="middle" x="13982.68" y="-353.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_035.SetWeaponProperties -->
+<g id="node53" class="node">
+<title>w_035.SetWeaponProperties</title>
+<g id="a_node53"><a xlink:href="w_035.SetWeaponProperties.svg" xlink:title="w_035.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="14393.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="14393.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_035.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_035.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge52" class="edge">
+<title>w_035.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M14294.68,-364.9C14276.51,-363.01 14257.7,-361.27 14239.99,-360 12345.77,-224.61 10032.37,-202.94 9460.49,-199.59"/>
+<polygon fill="black" stroke="black" points="9460.17,-196.09 9450.15,-199.53 9460.13,-203.09 9460.17,-196.09"/>
+<text text-anchor="middle" x="14289.68" y="-353.7" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_002.SetWeaponProperties -->
+<g id="node54" class="node">
+<title>w_002.SetWeaponProperties</title>
+<g id="a_node54"><a xlink:href="w_002.SetWeaponProperties.svg" xlink:title="w_002.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="14700.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="14700.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_002.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_002.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge53" class="edge">
+<title>w_002.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M14601.69,-364.87C14583.51,-362.98 14564.7,-361.25 14546.99,-360 12524.88,-217.42 10053.22,-201.09 9460.31,-199.23"/>
+<polygon fill="black" stroke="black" points="9460.03,-195.73 9450.02,-199.2 9460.01,-202.73 9460.03,-195.73"/>
+<text text-anchor="middle" x="14596.69" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_051.SetWeaponProperties -->
+<g id="node55" class="node">
+<title>w_051.SetWeaponProperties</title>
+<g id="a_node55"><a xlink:href="w_051.SetWeaponProperties.svg" xlink:title="w_051.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="15007.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="15007.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_051.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_051.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge54" class="edge">
+<title>w_051.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M14909.1,-364.89C14890.8,-362.99 14871.84,-361.24 14853.99,-360 12704.06,-210.26 10074.22,-199.34 9460.4,-198.91"/>
+<polygon fill="black" stroke="black" points="9460.2,-195.41 9450.2,-198.91 9460.19,-202.41 9460.2,-195.41"/>
+<text text-anchor="middle" x="14904.1" y="-353.69" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_031.SetWeaponProperties -->
+<g id="node56" class="node">
+<title>w_031.SetWeaponProperties</title>
+<g id="a_node56"><a xlink:href="w_031.SetWeaponProperties.svg" xlink:title="w_031.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="15314.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="15314.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_031.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_031.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge55" class="edge">
+<title>w_031.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M15216.1,-364.87C15197.8,-362.97 15178.84,-361.23 15160.99,-360 12882.87,-203.09 10094.32,-197.68 9460.38,-198.63"/>
+<polygon fill="black" stroke="black" points="9460.29,-195.13 9450.3,-198.64 9460.3,-202.13 9460.29,-195.13"/>
+<text text-anchor="middle" x="15211.1" y="-353.67" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_049.SetWeaponProperties -->
+<g id="node57" class="node">
+<title>w_049.SetWeaponProperties</title>
+<g id="a_node57"><a xlink:href="w_049.SetWeaponProperties.svg" xlink:title="w_049.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="15621.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="15621.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_049.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_049.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge56" class="edge">
+<title>w_049.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M15523.1,-364.85C15504.8,-362.95 15485.84,-361.22 15467.99,-360 14240.15,-276.28 10234.74,-212.64 9458.83,-200.94"/>
+<polygon fill="black" stroke="black" points="9458.79,-197.44 9448.74,-200.78 9458.69,-204.43 9458.79,-197.44"/>
+<text text-anchor="middle" x="15518.1" y="-353.65" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_018.SetWeaponProperties -->
+<g id="node58" class="node">
+<title>w_018.SetWeaponProperties</title>
+<g id="a_node58"><a xlink:href="w_018.SetWeaponProperties.svg" xlink:title="w_018.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="15928.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="15928.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_018.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_018.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge57" class="edge">
+<title>w_018.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M15830.1,-364.83C15811.8,-362.93 15792.84,-361.21 15774.99,-360 14482.46,-272.68 10258.61,-211.67 9459.2,-200.75"/>
+<polygon fill="black" stroke="black" points="9459.15,-197.25 9449.1,-200.62 9459.05,-204.25 9459.15,-197.25"/>
+<text text-anchor="middle" x="15825.1" y="-353.63" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_038.SetWeaponProperties -->
+<g id="node59" class="node">
+<title>w_038.SetWeaponProperties</title>
+<g id="a_node59"><a xlink:href="w_038.SetWeaponProperties.svg" xlink:title="w_038.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="16235.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="16235.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_038.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_038.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge58" class="edge">
+<title>w_038.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M16137.11,-364.81C16118.81,-362.92 16099.84,-361.2 16081.99,-360 14724.46,-269.06 10280.4,-210.72 9459.13,-200.58"/>
+<polygon fill="black" stroke="black" points="9459.09,-197.08 9449.05,-200.46 9459.01,-204.08 9459.09,-197.08"/>
+<text text-anchor="middle" x="16132.11" y="-353.61" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_028.SetWeaponProperties -->
+<g id="node60" class="node">
+<title>w_028.SetWeaponProperties</title>
+<g id="a_node60"><a xlink:href="w_028.SetWeaponProperties.svg" xlink:title="w_028.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="16542.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="16542.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_028.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_028.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge59" class="edge">
+<title>w_028.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M16444.52,-364.84C16426.09,-362.93 16406.97,-361.2 16388.99,-360 14966.51,-265.45 10302.59,-209.83 9459.31,-200.43"/>
+<polygon fill="black" stroke="black" points="9459.3,-196.93 9449.26,-200.32 9459.22,-203.93 9459.3,-196.93"/>
+<text text-anchor="middle" x="16439.52" y="-353.64" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_010.SetWeaponProperties -->
+<g id="node61" class="node">
+<title>w_010.SetWeaponProperties</title>
+<g id="a_node61"><a xlink:href="w_010.SetWeaponProperties.svg" xlink:title="w_010.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="16849.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="16849.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_010.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_010.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge60" class="edge">
+<title>w_010.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M16751.52,-364.82C16733.09,-362.92 16713.97,-361.19 16695.99,-360 15208.67,-261.85 10325.4,-209 9459.76,-200.29"/>
+<polygon fill="black" stroke="black" points="9459.49,-196.79 9449.46,-200.19 9459.42,-203.79 9459.49,-196.79"/>
+<text text-anchor="middle" x="16746.52" y="-353.62" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_006.SetWeaponProperties -->
+<g id="node62" class="node">
+<title>w_006.SetWeaponProperties</title>
+<g id="a_node62"><a xlink:href="w_006.SetWeaponProperties.svg" xlink:title="w_006.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="17156.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="17156.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_006.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_006.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge61" class="edge">
+<title>w_006.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M17058.52,-364.81C17040.09,-362.91 17020.97,-361.18 17002.99,-360 15450.6,-258.24 10346.67,-208.18 9459.91,-200.16"/>
+<polygon fill="black" stroke="black" points="9459.71,-196.66 9449.67,-200.07 9459.64,-203.66 9459.71,-196.66"/>
+<text text-anchor="middle" x="17053.52" y="-353.61" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_040.SetWeaponProperties -->
+<g id="node63" class="node">
+<title>w_040.SetWeaponProperties</title>
+<g id="a_node63"><a xlink:href="w_040.SetWeaponProperties.svg" xlink:title="w_040.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="17463.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="17463.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_040.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_040.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge62" class="edge">
+<title>w_040.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M17365.52,-364.8C17347.09,-362.89 17327.97,-361.17 17309.99,-360 15692.27,-254.61 10366.28,-207.39 9459.74,-200.03"/>
+<polygon fill="black" stroke="black" points="9459.62,-196.53 9449.6,-199.95 9459.57,-203.53 9459.62,-196.53"/>
+<text text-anchor="middle" x="17360.52" y="-353.6" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_052.SetWeaponProperties -->
+<g id="node64" class="node">
+<title>w_052.SetWeaponProperties</title>
+<g id="a_node64"><a xlink:href="w_052.SetWeaponProperties.svg" xlink:title="w_052.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="17770.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="17770.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_052.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_052.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge63" class="edge">
+<title>w_052.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M17672.52,-364.79C17654.09,-362.88 17634.98,-361.16 17616.99,-360 15933.93,-250.98 10385.7,-206.64 9459.62,-199.92"/>
+<polygon fill="black" stroke="black" points="9459.62,-196.42 9449.59,-199.85 9459.57,-203.42 9459.62,-196.42"/>
+<text text-anchor="middle" x="17667.52" y="-353.59" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_009.SetWeaponProperties -->
+<g id="node65" class="node">
+<title>w_009.SetWeaponProperties</title>
+<g id="a_node65"><a xlink:href="w_009.SetWeaponProperties.svg" xlink:title="w_009.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="18077.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="18077.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_009.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_009.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge64" class="edge">
+<title>w_009.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M17979.52,-364.78C17961.09,-362.88 17941.98,-361.16 17923.99,-360 16175.79,-247.37 10406.52,-205.93 9459.94,-199.82"/>
+<polygon fill="black" stroke="black" points="9459.72,-196.32 9449.69,-199.75 9459.67,-203.32 9459.72,-196.32"/>
+<text text-anchor="middle" x="17974.52" y="-353.58" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_007.SetWeaponProperties -->
+<g id="node66" class="node">
+<title>w_007.SetWeaponProperties</title>
+<g id="a_node66"><a xlink:href="w_007.SetWeaponProperties.svg" xlink:title="w_007.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="18384.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="18384.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_007.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_007.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge65" class="edge">
+<title>w_007.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M18286.52,-364.77C18268.1,-362.87 18248.98,-361.15 18230.99,-360 16417.48,-243.75 10426.12,-205.23 9460.03,-199.72"/>
+<polygon fill="black" stroke="black" points="9459.95,-196.22 9449.93,-199.66 9459.91,-203.22 9459.95,-196.22"/>
+<text text-anchor="middle" x="18281.52" y="-353.57" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- w_027.SetWeaponProperties -->
+<g id="node67" class="node">
+<title>w_027.SetWeaponProperties</title>
+<g id="a_node67"><a xlink:href="w_027.SetWeaponProperties.svg" xlink:title="w_027.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="18691.99" cy="-378" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="18691.99" y="-374.3" font-family="Times,serif" font-size="14.00">w_027.SetWeaponProperties</text>
+</a>
+</g>
+</g>
+<!-- w_027.SetWeaponProperties&#45;&gt;dra.GetEquipProperties -->
+<g id="edge66" class="edge">
+<title>w_027.SetWeaponProperties&#45;&gt;dra.GetEquipProperties</title>
+<path fill="none" stroke="black" d="M18593.52,-364.76C18575.1,-362.86 18555.98,-361.15 18537.99,-360 16659.19,-240.14 10445.91,-204.57 9460.25,-199.63"/>
+<polygon fill="black" stroke="black" points="9459.96,-196.13 9449.94,-199.58 9459.93,-203.13 9459.96,-196.13"/>
+<text text-anchor="middle" x="18588.52" y="-353.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

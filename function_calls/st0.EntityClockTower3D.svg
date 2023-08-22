@@ -5,159 +5,159 @@
  -->
 <!-- Title: st0.EntityClockTower3D Pages: 1 -->
 <svg width="1632pt" height="224pt"
- viewBox="0.00 0.00 1632.34 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1632.08 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>st0.EntityClockTower3D</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1628.34,-220 1628.34,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1628.08,-220 1628.08,4 -4,4"/>
 <!-- st0.EntityClockTower3D -->
 <g id="node1" class="node">
 <title>st0.EntityClockTower3D</title>
-<ellipse fill="red" stroke="black" cx="750.84" cy="-198" rx="124.28" ry="18"/>
-<text text-anchor="middle" x="750.84" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityClockTower3D</text>
+<ellipse fill="red" stroke="black" cx="856.49" cy="-198" rx="124.28" ry="18"/>
+<text text-anchor="middle" x="856.49" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityClockTower3D</text>
 </g>
-<!-- RotMatrix -->
+<!-- st0.InitializeEntity -->
 <g id="node2" class="node">
-<title>RotMatrix</title>
-<g id="a_node2"><a xlink:href="RotMatrix.svg" xlink:title="RotMatrix">
-<ellipse fill="lightblue" stroke="black" cx="57.84" cy="-18" rx="57.69" ry="18"/>
-<text text-anchor="middle" x="57.84" y="-14.3" font-family="Times,serif" font-size="14.00">RotMatrix</text>
+<title>st0.InitializeEntity</title>
+<g id="a_node2"><a xlink:href="st0.InitializeEntity.svg" xlink:title="st0.InitializeEntity">
+<ellipse fill="green" stroke="black" cx="97.49" cy="-18" rx="97.48" ry="18"/>
+<text text-anchor="middle" x="97.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0.InitializeEntity</text>
 </a>
 </g>
 </g>
-<!-- st0.EntityClockTower3D&#45;&gt;RotMatrix -->
+<!-- st0.EntityClockTower3D&#45;&gt;st0.InitializeEntity -->
 <g id="edge1" class="edge">
-<title>st0.EntityClockTower3D&#45;&gt;RotMatrix</title>
-<path fill="none" stroke="black" d="M692.66,-182.05C560.22,-148.04 237.94,-65.26 110.73,-32.58"/>
-<polygon fill="black" stroke="black" points="111.39,-29.14 100.84,-30.04 109.65,-35.92 111.39,-29.14"/>
-<text text-anchor="middle" x="95.84" y="-33.84" font-family="Times,serif" font-size="14.00">1</text>
+<title>st0.EntityClockTower3D&#45;&gt;st0.InitializeEntity</title>
+<path fill="none" stroke="black" d="M794.06,-182.36C653.11,-149.3 311.23,-69.13 165.31,-34.91"/>
+<polygon fill="black" stroke="black" points="165.69,-31.4 155.15,-32.52 164.09,-38.21 165.69,-31.4"/>
+<text text-anchor="middle" x="150.15" y="-36.32" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- SetGeomOffset -->
+<!-- dra.AllocPrimitives -->
 <g id="node3" class="node">
-<title>SetGeomOffset</title>
-<g id="a_node3"><a xlink:href="SetGeomOffset.svg" xlink:title="SetGeomOffset">
-<ellipse fill="lightblue" stroke="black" cx="214.84" cy="-18" rx="81.49" ry="18"/>
-<text text-anchor="middle" x="214.84" y="-14.3" font-family="Times,serif" font-size="14.00">SetGeomOffset</text>
+<title>dra.AllocPrimitives</title>
+<g id="a_node3"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
+<ellipse fill="green" stroke="black" cx="312.49" cy="-18" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="312.49" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
 </a>
 </g>
 </g>
-<!-- st0.EntityClockTower3D&#45;&gt;SetGeomOffset -->
+<!-- st0.EntityClockTower3D&#45;&gt;dra.AllocPrimitives -->
 <g id="edge2" class="edge">
-<title>st0.EntityClockTower3D&#45;&gt;SetGeomOffset</title>
-<path fill="none" stroke="black" d="M703.28,-181.2C603.38,-148.03 372.36,-71.31 267.87,-36.61"/>
-<polygon fill="black" stroke="black" points="268.75,-33.21 258.16,-33.38 266.55,-39.86 268.75,-33.21"/>
-<text text-anchor="middle" x="253.16" y="-37.18" font-family="Times,serif" font-size="14.00">1</text>
+<title>st0.EntityClockTower3D&#45;&gt;dra.AllocPrimitives</title>
+<path fill="none" stroke="black" d="M808.69,-181.36C708.12,-148.45 475.14,-72.22 368.1,-37.19"/>
+<polygon fill="black" stroke="black" points="369.04,-33.82 358.45,-34.04 366.86,-40.47 369.04,-33.82"/>
+<text text-anchor="middle" x="353.45" y="-37.84" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- SetGeomScreen -->
 <g id="node4" class="node">
 <title>SetGeomScreen</title>
 <g id="a_node4"><a xlink:href="SetGeomScreen.svg" xlink:title="SetGeomScreen">
-<ellipse fill="lightblue" stroke="black" cx="398.84" cy="-18" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="398.84" y="-14.3" font-family="Times,serif" font-size="14.00">SetGeomScreen</text>
+<ellipse fill="lightblue" stroke="black" cx="515.49" cy="-18" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="515.49" y="-14.3" font-family="Times,serif" font-size="14.00">SetGeomScreen</text>
 </a>
 </g>
 </g>
 <!-- st0.EntityClockTower3D&#45;&gt;SetGeomScreen -->
 <g id="edge3" class="edge">
 <title>st0.EntityClockTower3D&#45;&gt;SetGeomScreen</title>
-<path fill="none" stroke="black" d="M718.36,-180.57C653.86,-147.96 509.78,-75.1 439.28,-39.44"/>
-<polygon fill="black" stroke="black" points="440.74,-36.26 430.24,-34.87 437.58,-42.51 440.74,-36.26"/>
-<text text-anchor="middle" x="425.24" y="-38.67" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M825.02,-180.57C762.66,-148.02 623.53,-75.4 555.08,-39.66"/>
+<polygon fill="black" stroke="black" points="556.39,-36.4 545.9,-34.87 553.15,-42.6 556.39,-36.4"/>
+<text text-anchor="middle" x="540.9" y="-38.67" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- SetGeomOffset -->
+<g id="node5" class="node">
+<title>SetGeomOffset</title>
+<g id="a_node5"><a xlink:href="SetGeomOffset.svg" xlink:title="SetGeomOffset">
+<ellipse fill="lightblue" stroke="black" cx="699.49" cy="-18" rx="81.49" ry="18"/>
+<text text-anchor="middle" x="699.49" y="-14.3" font-family="Times,serif" font-size="14.00">SetGeomOffset</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityClockTower3D&#45;&gt;SetGeomOffset -->
+<g id="edge4" class="edge">
+<title>st0.EntityClockTower3D&#45;&gt;SetGeomOffset</title>
+<path fill="none" stroke="black" d="M841.44,-179.93C813.47,-148.22 753.4,-80.12 721.1,-43.5"/>
+<polygon fill="black" stroke="black" points="723.51,-40.94 714.27,-35.76 718.26,-45.57 723.51,-40.94"/>
+<text text-anchor="middle" x="709.27" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- RotMatrix -->
+<g id="node6" class="node">
+<title>RotMatrix</title>
+<g id="a_node6"><a xlink:href="RotMatrix.svg" xlink:title="RotMatrix">
+<ellipse fill="lightblue" stroke="black" cx="856.49" cy="-18" rx="57.69" ry="18"/>
+<text text-anchor="middle" x="856.49" y="-14.3" font-family="Times,serif" font-size="14.00">RotMatrix</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityClockTower3D&#45;&gt;RotMatrix -->
+<g id="edge5" class="edge">
+<title>st0.EntityClockTower3D&#45;&gt;RotMatrix</title>
+<path fill="none" stroke="black" d="M856.49,-179.93C856.49,-148.97 856.49,-83.3 856.49,-46.13"/>
+<polygon fill="black" stroke="black" points="859.99,-46.02 856.49,-36.02 852.99,-46.02 859.99,-46.02"/>
+<text text-anchor="middle" x="851.49" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- SetRotMatrix -->
-<g id="node5" class="node">
+<g id="node7" class="node">
 <title>SetRotMatrix</title>
-<g id="a_node5"><a xlink:href="SetRotMatrix.svg" xlink:title="SetRotMatrix">
-<ellipse fill="lightblue" stroke="black" cx="575.84" cy="-18" rx="73.39" ry="18"/>
-<text text-anchor="middle" x="575.84" y="-14.3" font-family="Times,serif" font-size="14.00">SetRotMatrix</text>
+<g id="a_node7"><a xlink:href="SetRotMatrix.svg" xlink:title="SetRotMatrix">
+<ellipse fill="lightblue" stroke="black" cx="1005.49" cy="-18" rx="73.39" ry="18"/>
+<text text-anchor="middle" x="1005.49" y="-14.3" font-family="Times,serif" font-size="14.00">SetRotMatrix</text>
 </a>
 </g>
 </g>
 <!-- st0.EntityClockTower3D&#45;&gt;SetRotMatrix -->
-<g id="edge4" class="edge">
+<g id="edge6" class="edge">
 <title>st0.EntityClockTower3D&#45;&gt;SetRotMatrix</title>
-<path fill="none" stroke="black" d="M734.07,-179.93C702.76,-148.09 635.37,-79.54 599.48,-43.04"/>
-<polygon fill="black" stroke="black" points="601.82,-40.43 592.32,-35.76 596.83,-45.34 601.82,-40.43"/>
-<text text-anchor="middle" x="587.32" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- SetTransMatrix -->
-<g id="node6" class="node">
-<title>SetTransMatrix</title>
-<g id="a_node6"><a xlink:href="SetTransMatrix.svg" xlink:title="SetTransMatrix">
-<ellipse fill="lightblue" stroke="black" cx="750.84" cy="-18" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="750.84" y="-14.3" font-family="Times,serif" font-size="14.00">SetTransMatrix</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityClockTower3D&#45;&gt;SetTransMatrix -->
-<g id="edge5" class="edge">
-<title>st0.EntityClockTower3D&#45;&gt;SetTransMatrix</title>
-<path fill="none" stroke="black" d="M750.84,-179.93C750.84,-148.97 750.84,-83.3 750.84,-46.13"/>
-<polygon fill="black" stroke="black" points="754.34,-46.02 750.84,-36.02 747.34,-46.02 754.34,-46.02"/>
-<text text-anchor="middle" x="745.84" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M870.78,-179.93C897.32,-148.22 954.33,-80.12 984.99,-43.5"/>
+<polygon fill="black" stroke="black" points="987.73,-45.67 991.47,-35.76 982.36,-41.18 987.73,-45.67"/>
+<text text-anchor="middle" x="986.47" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- TransMatrix -->
-<g id="node7" class="node">
+<g id="node8" class="node">
 <title>TransMatrix</title>
-<g id="a_node7"><a xlink:href="TransMatrix.svg" xlink:title="TransMatrix">
-<ellipse fill="lightblue" stroke="black" cx="920.84" cy="-18" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="920.84" y="-14.3" font-family="Times,serif" font-size="14.00">TransMatrix</text>
+<g id="a_node8"><a xlink:href="TransMatrix.svg" xlink:title="TransMatrix">
+<ellipse fill="lightblue" stroke="black" cx="1165.49" cy="-18" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="1165.49" y="-14.3" font-family="Times,serif" font-size="14.00">TransMatrix</text>
 </a>
 </g>
 </g>
 <!-- st0.EntityClockTower3D&#45;&gt;TransMatrix -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>st0.EntityClockTower3D&#45;&gt;TransMatrix</title>
-<path fill="none" stroke="black" d="M767.15,-179.93C797.56,-148.09 863.02,-79.54 897.89,-43.04"/>
-<polygon fill="black" stroke="black" points="900.47,-45.4 904.84,-35.76 895.4,-40.57 900.47,-45.4"/>
-<text text-anchor="middle" x="899.84" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M885.28,-180.41C941.86,-147.82 1067.4,-75.5 1129.41,-39.79"/>
+<polygon fill="black" stroke="black" points="1131.52,-42.61 1138.43,-34.59 1128.02,-36.54 1131.52,-42.61"/>
+<text text-anchor="middle" x="1133.43" y="-38.39" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.AllocPrimitives -->
-<g id="node8" class="node">
-<title>dra.AllocPrimitives</title>
-<g id="a_node8"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
-<ellipse fill="green" stroke="black" cx="1106.84" cy="-18" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="1106.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
+<!-- SetTransMatrix -->
+<g id="node9" class="node">
+<title>SetTransMatrix</title>
+<g id="a_node9"><a xlink:href="SetTransMatrix.svg" xlink:title="SetTransMatrix">
+<ellipse fill="lightblue" stroke="black" cx="1335.49" cy="-18" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="1335.49" y="-14.3" font-family="Times,serif" font-size="14.00">SetTransMatrix</text>
 </a>
 </g>
 </g>
-<!-- st0.EntityClockTower3D&#45;&gt;dra.AllocPrimitives -->
-<g id="edge7" class="edge">
-<title>st0.EntityClockTower3D&#45;&gt;dra.AllocPrimitives</title>
-<path fill="none" stroke="black" d="M783.7,-180.57C848.77,-148.04 993.91,-75.47 1065.41,-39.72"/>
-<polygon fill="black" stroke="black" points="1067.21,-42.73 1074.58,-35.13 1064.08,-36.47 1067.21,-42.73"/>
-<text text-anchor="middle" x="1069.58" y="-38.93" font-family="Times,serif" font-size="14.00">1</text>
+<!-- st0.EntityClockTower3D&#45;&gt;SetTransMatrix -->
+<g id="edge8" class="edge">
+<title>st0.EntityClockTower3D&#45;&gt;SetTransMatrix</title>
+<path fill="none" stroke="black" d="M899.42,-181.05C988.24,-148.04 1191.75,-72.41 1285.96,-37.41"/>
+<polygon fill="black" stroke="black" points="1287.39,-40.61 1295.54,-33.85 1284.95,-34.05 1287.39,-40.61"/>
+<text text-anchor="middle" x="1290.54" y="-37.65" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0.DestroyEntity -->
-<g id="node9" class="node">
+<g id="node10" class="node">
 <title>st0.DestroyEntity</title>
-<g id="a_node9"><a xlink:href="st0.DestroyEntity.svg" xlink:title="st0.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="1317.84" cy="-18" rx="93.68" ry="18"/>
-<text text-anchor="middle" x="1317.84" y="-14.3" font-family="Times,serif" font-size="14.00">st0.DestroyEntity</text>
+<g id="a_node10"><a xlink:href="st0.DestroyEntity.svg" xlink:title="st0.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="1530.49" cy="-18" rx="93.68" ry="18"/>
+<text text-anchor="middle" x="1530.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- st0.EntityClockTower3D&#45;&gt;st0.DestroyEntity -->
-<g id="edge8" class="edge">
-<title>st0.EntityClockTower3D&#45;&gt;st0.DestroyEntity</title>
-<path fill="none" stroke="black" d="M800.67,-181.36C905.98,-148.3 1150.64,-71.49 1261.47,-36.7"/>
-<polygon fill="black" stroke="black" points="1262.64,-40 1271.14,-33.66 1260.55,-33.32 1262.64,-40"/>
-<text text-anchor="middle" x="1266.14" y="-37.46" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.InitializeEntity -->
-<g id="node10" class="node">
-<title>st0.InitializeEntity</title>
-<g id="a_node10"><a xlink:href="st0.InitializeEntity.svg" xlink:title="st0.InitializeEntity">
-<ellipse fill="green" stroke="black" cx="1526.84" cy="-18" rx="97.48" ry="18"/>
-<text text-anchor="middle" x="1526.84" y="-14.3" font-family="Times,serif" font-size="14.00">st0.InitializeEntity</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityClockTower3D&#45;&gt;st0.InitializeEntity -->
 <g id="edge9" class="edge">
-<title>st0.EntityClockTower3D&#45;&gt;st0.InitializeEntity</title>
-<path fill="none" stroke="black" d="M814.35,-182.43C958.54,-149.36 1309.65,-68.82 1458.42,-34.69"/>
-<polygon fill="black" stroke="black" points="1459.39,-38.06 1468.35,-32.42 1457.82,-31.24 1459.39,-38.06"/>
-<text text-anchor="middle" x="1463.35" y="-36.22" font-family="Times,serif" font-size="14.00">1</text>
+<title>st0.EntityClockTower3D&#45;&gt;st0.DestroyEntity</title>
+<path fill="none" stroke="black" d="M913.38,-181.98C1038.65,-148.89 1337.54,-69.96 1467.9,-35.53"/>
+<polygon fill="black" stroke="black" points="1468.97,-38.87 1477.74,-32.93 1467.18,-32.1 1468.97,-38.87"/>
+<text text-anchor="middle" x="1472.74" y="-36.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

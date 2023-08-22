@@ -1055,7 +1055,7 @@
 | us/weapon/nonmatchings/w_050/func_ptr_8017000C.s             |      236 |         25 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80169F04.s                    |      237 |         27 |        |                                 |       |
 | us/st/no3/nonmatchings/377D4/EntityTransparentWater.s        |      237 |         28 |        |                                 |       |
-| us/st/np3/nonmatchings/3246C/func_801B39CC.s                 |      237 |         28 |        | https://decomp.me/scratch/nFz4q | 0.995 |
+| us/st/np3/nonmatchings/3246C/func_801B39CC.s                 |      237 |         28 |        | https://decomp.me/scratch/nFz4q | 0.999 |
 | us/st/sel/nonmatchings/38D24/func_801BABA4.s                 |      237 |         35 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010BFFC.s                    |      239 |         28 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012DBBC.s                    |      239 |         48 |        |                                 |       |
@@ -1065,8 +1065,6 @@
 | us/weapon/nonmatchings/w_030/func_ptr_80170010.s             |      243 |         31 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B3A94.s                 |      244 |         38 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4E69C/EntityGurkhaBodyParts.s         |      244 |         44 | Yes    |                                 |       |
-| us/st/no3/nonmatchings/46684/EntitySideWaterSplash.s         |      245 |         23 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/EntitySideWaterSplash.s         |      245 |         23 |        |                                 |       |
 | us/dra/nonmatchings/62D70/func_80105078.s                    |      245 |         26 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F7F64.s                    |      249 |         21 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_049/EntityWeaponAttack.s            |      249 |         29 |        |                                 |       |

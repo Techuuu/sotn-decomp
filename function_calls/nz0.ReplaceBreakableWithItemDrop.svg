@@ -12,56 +12,56 @@
 <!-- nz0.ReplaceBreakableWithItemDrop -->
 <g id="node1" class="node">
 <title>nz0.ReplaceBreakableWithItemDrop</title>
-<ellipse fill="green" stroke="black" cx="240.54" cy="-198" rx="180.07" ry="18"/>
-<text text-anchor="middle" x="240.54" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.ReplaceBreakableWithItemDrop</text>
-</g>
-<!-- nz0.DestroyEntity -->
-<g id="node2" class="node">
-<title>nz0.DestroyEntity</title>
-<g id="a_node2"><a xlink:href="nz0.DestroyEntity.svg" xlink:title="nz0.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="95.54" cy="-18" rx="95.58" ry="18"/>
-<text text-anchor="middle" x="95.54" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.DestroyEntity</text>
-</a>
-</g>
-</g>
-<!-- nz0.ReplaceBreakableWithItemDrop&#45;&gt;nz0.DestroyEntity -->
-<g id="edge1" class="edge">
-<title>nz0.ReplaceBreakableWithItemDrop&#45;&gt;nz0.DestroyEntity</title>
-<path fill="none" stroke="black" d="M226.64,-179.93C200.87,-148.3 145.61,-80.46 115.72,-43.78"/>
-<polygon fill="black" stroke="black" points="118.43,-41.56 109.4,-36.02 113,-45.98 118.43,-41.56"/>
-<text text-anchor="middle" x="104.4" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="321.78" cy="-198" rx="180.07" ry="18"/>
+<text text-anchor="middle" x="321.78" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.ReplaceBreakableWithItemDrop</text>
 </g>
 <!-- nz0.PreventEntityFromRespawning -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>nz0.PreventEntityFromRespawning</title>
-<g id="a_node3"><a xlink:href="nz0.PreventEntityFromRespawning.svg" xlink:title="nz0.PreventEntityFromRespawning">
-<ellipse fill="green" stroke="black" cx="385.54" cy="-18" rx="176.57" ry="18"/>
-<text text-anchor="middle" x="385.54" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.PreventEntityFromRespawning</text>
+<g id="a_node2"><a xlink:href="nz0.PreventEntityFromRespawning.svg" xlink:title="nz0.PreventEntityFromRespawning">
+<ellipse fill="green" stroke="black" cx="176.78" cy="-18" rx="176.57" ry="18"/>
+<text text-anchor="middle" x="176.78" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.PreventEntityFromRespawning</text>
 </a>
 </g>
 </g>
 <!-- nz0.ReplaceBreakableWithItemDrop&#45;&gt;nz0.PreventEntityFromRespawning -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>nz0.ReplaceBreakableWithItemDrop&#45;&gt;nz0.PreventEntityFromRespawning</title>
-<path fill="none" stroke="black" d="M254.44,-179.93C280.21,-148.3 335.47,-80.46 365.36,-43.78"/>
-<polygon fill="black" stroke="black" points="368.08,-45.98 371.68,-36.02 362.65,-41.56 368.08,-45.98"/>
-<text text-anchor="middle" x="366.68" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M307.88,-179.93C282.11,-148.3 226.85,-80.46 196.97,-43.78"/>
+<polygon fill="black" stroke="black" points="199.67,-41.56 190.65,-36.02 194.25,-45.98 199.67,-41.56"/>
+<text text-anchor="middle" x="185.65" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- nz0.DestroyEntity -->
+<g id="node3" class="node">
+<title>nz0.DestroyEntity</title>
+<g id="a_node3"><a xlink:href="nz0.DestroyEntity.svg" xlink:title="nz0.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="466.78" cy="-18" rx="95.58" ry="18"/>
+<text text-anchor="middle" x="466.78" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.DestroyEntity</text>
+</a>
+</g>
+</g>
+<!-- nz0.ReplaceBreakableWithItemDrop&#45;&gt;nz0.DestroyEntity -->
+<g id="edge2" class="edge">
+<title>nz0.ReplaceBreakableWithItemDrop&#45;&gt;nz0.DestroyEntity</title>
+<path fill="none" stroke="black" d="M335.69,-179.93C361.45,-148.3 416.71,-80.46 446.6,-43.78"/>
+<polygon fill="black" stroke="black" points="449.32,-45.98 452.92,-36.02 443.89,-41.56 449.32,-45.98"/>
+<text text-anchor="middle" x="447.92" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- nz0.EntityBreakable -->
 <g id="node4" class="node">
 <title>nz0.EntityBreakable</title>
 <g id="a_node4"><a xlink:href="nz0.EntityBreakable.svg" xlink:title="nz0.EntityBreakable">
-<ellipse fill="green" stroke="black" cx="240.54" cy="-378" rx="105.88" ry="18"/>
-<text text-anchor="middle" x="240.54" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityBreakable</text>
+<ellipse fill="green" stroke="black" cx="321.78" cy="-378" rx="105.88" ry="18"/>
+<text text-anchor="middle" x="321.78" y="-374.3" font-family="Times,serif" font-size="14.00">nz0.EntityBreakable</text>
 </a>
 </g>
 </g>
 <!-- nz0.EntityBreakable&#45;&gt;nz0.ReplaceBreakableWithItemDrop -->
 <g id="edge3" class="edge">
 <title>nz0.EntityBreakable&#45;&gt;nz0.ReplaceBreakableWithItemDrop</title>
-<path fill="none" stroke="black" d="M240.54,-359.93C240.54,-328.97 240.54,-263.3 240.54,-226.13"/>
-<polygon fill="black" stroke="black" points="244.04,-226.02 240.54,-216.02 237.04,-226.02 244.04,-226.02"/>
-<text text-anchor="middle" x="235.54" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M321.78,-359.93C321.78,-328.97 321.78,-263.3 321.78,-226.13"/>
+<polygon fill="black" stroke="black" points="325.28,-226.02 321.78,-216.02 318.28,-226.02 325.28,-226.02"/>
+<text text-anchor="middle" x="316.78" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

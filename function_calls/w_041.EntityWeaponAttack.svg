@@ -5,111 +5,111 @@
  -->
 <!-- Title: w_041.EntityWeaponAttack Pages: 1 -->
 <svg width="1209pt" height="224pt"
- viewBox="0.00 0.00 1208.68 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1208.53 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>w_041.EntityWeaponAttack</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1204.68,-220 1204.68,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1204.53,-220 1204.53,4 -4,4"/>
 <!-- w_041.EntityWeaponAttack -->
 <g id="node1" class="node">
 <title>w_041.EntityWeaponAttack</title>
-<ellipse fill="red" stroke="black" cx="553.69" cy="-198" rx="138.38" ry="18"/>
-<text text-anchor="middle" x="553.69" y="-194.3" font-family="Times,serif" font-size="14.00">w_041.EntityWeaponAttack</text>
+<ellipse fill="red" stroke="black" cx="565.99" cy="-198" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="565.99" y="-194.3" font-family="Times,serif" font-size="14.00">w_041.EntityWeaponAttack</text>
 </g>
-<!-- dra.func_8011AAFC -->
+<!-- w_041.SetSpriteBank1 -->
 <g id="node2" class="node">
-<title>dra.func_8011AAFC</title>
-<g id="a_node2"><a xlink:href="dra.func_8011AAFC.svg" xlink:title="dra.func_8011AAFC">
-<ellipse fill="green" stroke="black" cx="102.69" cy="-18" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="102.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_8011AAFC</text>
+<title>w_041.SetSpriteBank1</title>
+<g id="a_node2"><a xlink:href="w_041.SetSpriteBank1.svg" xlink:title="w_041.SetSpriteBank1">
+<ellipse fill="red" stroke="black" cx="116.99" cy="-18" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="116.99" y="-14.3" font-family="Times,serif" font-size="14.00">w_041.SetSpriteBank1</text>
 </a>
 </g>
 </g>
-<!-- w_041.EntityWeaponAttack&#45;&gt;dra.func_8011AAFC -->
+<!-- w_041.EntityWeaponAttack&#45;&gt;w_041.SetSpriteBank1 -->
 <g id="edge1" class="edge">
-<title>w_041.EntityWeaponAttack&#45;&gt;dra.func_8011AAFC</title>
-<path fill="none" stroke="black" d="M512.47,-180.73C429.18,-147.86 241.16,-73.65 151.73,-38.36"/>
-<polygon fill="black" stroke="black" points="152.94,-35.07 142.36,-34.66 150.37,-41.58 152.94,-35.07"/>
-<text text-anchor="middle" x="137.36" y="-38.46" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_041.EntityWeaponAttack&#45;&gt;w_041.SetSpriteBank1</title>
+<path fill="none" stroke="black" d="M524.95,-180.73C442.24,-147.94 255.79,-74.02 166.49,-38.62"/>
+<polygon fill="black" stroke="black" points="167.71,-35.34 157.12,-34.91 165.13,-41.85 167.71,-35.34"/>
+<text text-anchor="middle" x="152.12" y="-38.71" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.func_80134714 -->
+<!-- w_041.SetSpeedX -->
 <g id="node3" class="node">
-<title>dra.func_80134714</title>
-<g id="a_node3"><a xlink:href="dra.func_80134714.svg" xlink:title="dra.func_80134714">
-<ellipse fill="green" stroke="black" cx="323.69" cy="-18" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="323.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_80134714</text>
+<title>w_041.SetSpeedX</title>
+<g id="a_node3"><a xlink:href="w_041.SetSpeedX.svg" xlink:title="w_041.SetSpeedX">
+<ellipse fill="red" stroke="black" cx="345.99" cy="-18" rx="94.48" ry="18"/>
+<text text-anchor="middle" x="345.99" y="-14.3" font-family="Times,serif" font-size="14.00">w_041.SetSpeedX</text>
 </a>
 </g>
 </g>
-<!-- w_041.EntityWeaponAttack&#45;&gt;dra.func_80134714 -->
+<!-- w_041.EntityWeaponAttack&#45;&gt;w_041.SetSpeedX -->
 <g id="edge2" class="edge">
-<title>w_041.EntityWeaponAttack&#45;&gt;dra.func_80134714</title>
-<path fill="none" stroke="black" d="M531.64,-179.93C490.06,-147.75 400.06,-78.11 353.28,-41.9"/>
-<polygon fill="black" stroke="black" points="355.39,-39.11 345.34,-35.76 351.11,-44.64 355.39,-39.11"/>
-<text text-anchor="middle" x="340.34" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_041.EntityWeaponAttack&#45;&gt;w_041.SetSpeedX</title>
+<path fill="none" stroke="black" d="M544.9,-179.93C505.21,-147.82 419.4,-78.39 374.57,-42.13"/>
+<polygon fill="black" stroke="black" points="376.67,-39.32 366.7,-35.76 372.27,-44.77 376.67,-39.32"/>
+<text text-anchor="middle" x="361.7" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- rand -->
 <g id="node4" class="node">
 <title>rand</title>
 <g id="a_node4"><a xlink:href="rand.svg" xlink:title="rand">
-<ellipse fill="lightblue" stroke="black" cx="474.69" cy="-18" rx="32.49" ry="18"/>
-<text text-anchor="middle" x="474.69" y="-14.3" font-family="Times,serif" font-size="14.00">rand</text>
+<ellipse fill="lightblue" stroke="black" cx="490.99" cy="-18" rx="32.49" ry="18"/>
+<text text-anchor="middle" x="490.99" y="-14.3" font-family="Times,serif" font-size="14.00">rand</text>
 </a>
 </g>
 </g>
 <!-- w_041.EntityWeaponAttack&#45;&gt;rand -->
 <g id="edge3" class="edge">
 <title>w_041.EntityWeaponAttack&#45;&gt;rand</title>
-<path fill="none" stroke="black" d="M546.12,-179.93C532.28,-148.75 502.83,-82.4 486.39,-45.37"/>
-<polygon fill="black" stroke="black" points="489.38,-43.48 482.13,-35.76 482.99,-46.32 489.38,-43.48"/>
-<text text-anchor="middle" x="477.13" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M558.8,-179.93C545.66,-148.75 517.7,-82.4 502.1,-45.37"/>
+<polygon fill="black" stroke="black" points="505.16,-43.61 498.05,-35.76 498.71,-46.33 505.16,-43.61"/>
+<text text-anchor="middle" x="493.05" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.func_80134714 -->
+<g id="node5" class="node">
+<title>dra.func_80134714</title>
+<g id="a_node5"><a xlink:href="dra.func_80134714.svg" xlink:title="dra.func_80134714">
+<ellipse fill="green" stroke="black" cx="641.99" cy="-18" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="641.99" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_80134714</text>
+</a>
+</g>
+</g>
+<!-- w_041.EntityWeaponAttack&#45;&gt;dra.func_80134714 -->
+<g id="edge4" class="edge">
+<title>w_041.EntityWeaponAttack&#45;&gt;dra.func_80134714</title>
+<path fill="none" stroke="black" d="M573.28,-179.93C586.56,-148.83 614.78,-82.73 630.61,-45.65"/>
+<polygon fill="black" stroke="black" points="634.02,-46.59 634.72,-36.02 627.58,-43.84 634.02,-46.59"/>
+<text text-anchor="middle" x="629.72" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.func_8011AAFC -->
+<g id="node6" class="node">
+<title>dra.func_8011AAFC</title>
+<g id="a_node6"><a xlink:href="dra.func_8011AAFC.svg" xlink:title="dra.func_8011AAFC">
+<ellipse fill="green" stroke="black" cx="862.99" cy="-18" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="862.99" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_8011AAFC</text>
+</a>
+</g>
+</g>
+<!-- w_041.EntityWeaponAttack&#45;&gt;dra.func_8011AAFC -->
+<g id="edge5" class="edge">
+<title>w_041.EntityWeaponAttack&#45;&gt;dra.func_8011AAFC</title>
+<path fill="none" stroke="black" d="M593.93,-180.25C647.91,-147.9 766.49,-76.84 826.57,-40.83"/>
+<polygon fill="black" stroke="black" points="828.56,-43.71 835.34,-35.57 824.96,-37.71 828.56,-43.71"/>
+<text text-anchor="middle" x="830.34" y="-39.37" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_041.DestroyEntity -->
-<g id="node5" class="node">
+<g id="node7" class="node">
 <title>w_041.DestroyEntity</title>
-<g id="a_node5"><a xlink:href="w_041.DestroyEntity.svg" xlink:title="w_041.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="633.69" cy="-18" rx="108.58" ry="18"/>
-<text text-anchor="middle" x="633.69" y="-14.3" font-family="Times,serif" font-size="14.00">w_041.DestroyEntity</text>
+<g id="a_node7"><a xlink:href="w_041.DestroyEntity.svg" xlink:title="w_041.DestroyEntity">
+<ellipse fill="red" stroke="black" cx="1091.99" cy="-18" rx="108.58" ry="18"/>
+<text text-anchor="middle" x="1091.99" y="-14.3" font-family="Times,serif" font-size="14.00">w_041.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- w_041.EntityWeaponAttack&#45;&gt;w_041.DestroyEntity -->
-<g id="edge4" class="edge">
-<title>w_041.EntityWeaponAttack&#45;&gt;w_041.DestroyEntity</title>
-<path fill="none" stroke="black" d="M561.36,-179.93C575.4,-148.7 605.3,-82.17 621.93,-45.18"/>
-<polygon fill="black" stroke="black" points="625.14,-46.57 626.04,-36.02 618.75,-43.7 625.14,-46.57"/>
-<text text-anchor="middle" x="621.04" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_041.SetSpeedX -->
-<g id="node6" class="node">
-<title>w_041.SetSpeedX</title>
-<g id="a_node6"><a xlink:href="w_041.SetSpeedX.svg" xlink:title="w_041.SetSpeedX">
-<ellipse fill="red" stroke="black" cx="854.69" cy="-18" rx="94.48" ry="18"/>
-<text text-anchor="middle" x="854.69" y="-14.3" font-family="Times,serif" font-size="14.00">w_041.SetSpeedX</text>
-</a>
-</g>
-</g>
-<!-- w_041.EntityWeaponAttack&#45;&gt;w_041.SetSpeedX -->
-<g id="edge5" class="edge">
-<title>w_041.EntityWeaponAttack&#45;&gt;w_041.SetSpeedX</title>
-<path fill="none" stroke="black" d="M582.01,-180.25C636.85,-147.82 757.5,-76.47 818.24,-40.56"/>
-<polygon fill="black" stroke="black" points="820.28,-43.42 827.1,-35.31 816.71,-37.39 820.28,-43.42"/>
-<text text-anchor="middle" x="822.1" y="-39.11" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- w_041.SetSpriteBank1 -->
-<g id="node7" class="node">
-<title>w_041.SetSpriteBank1</title>
-<g id="a_node7"><a xlink:href="w_041.SetSpriteBank1.svg" xlink:title="w_041.SetSpriteBank1">
-<ellipse fill="red" stroke="black" cx="1083.69" cy="-18" rx="116.98" ry="18"/>
-<text text-anchor="middle" x="1083.69" y="-14.3" font-family="Times,serif" font-size="14.00">w_041.SetSpriteBank1</text>
-</a>
-</g>
-</g>
-<!-- w_041.EntityWeaponAttack&#45;&gt;w_041.SetSpriteBank1 -->
 <g id="edge6" class="edge">
-<title>w_041.EntityWeaponAttack&#45;&gt;w_041.SetSpriteBank1</title>
-<path fill="none" stroke="black" d="M601.19,-181.05C699.03,-148.19 922.63,-73.09 1027.48,-37.88"/>
-<polygon fill="black" stroke="black" points="1028.88,-41.1 1037.24,-34.6 1026.65,-34.46 1028.88,-41.1"/>
-<text text-anchor="middle" x="1032.24" y="-38.4" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_041.EntityWeaponAttack&#45;&gt;w_041.DestroyEntity</title>
+<path fill="none" stroke="black" d="M613.13,-181.05C710.36,-148.15 932.7,-72.9 1036.59,-37.75"/>
+<polygon fill="black" stroke="black" points="1037.92,-40.99 1046.27,-34.47 1035.67,-34.36 1037.92,-40.99"/>
+<text text-anchor="middle" x="1041.27" y="-38.27" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

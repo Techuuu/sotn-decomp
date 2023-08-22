@@ -12,264 +12,264 @@
 <!-- no3.EntityCastleDoor -->
 <g id="node1" class="node">
 <title>no3.EntityCastleDoor</title>
-<ellipse fill="green" stroke="black" cx="1381.14" cy="-198" rx="111.28" ry="18"/>
-<text text-anchor="middle" x="1381.14" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntityCastleDoor</text>
+<ellipse fill="green" stroke="black" cx="1434.09" cy="-198" rx="111.28" ry="18"/>
+<text text-anchor="middle" x="1434.09" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntityCastleDoor</text>
 </g>
-<!-- NormalColorCol -->
+<!-- no3.InitializeEntity -->
 <g id="node2" class="node">
-<title>NormalColorCol</title>
-<g id="a_node2"><a xlink:href="NormalColorCol.svg" xlink:title="NormalColorCol">
-<ellipse fill="lightblue" stroke="black" cx="85.14" cy="-18" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="85.14" y="-14.3" font-family="Times,serif" font-size="14.00">NormalColorCol</text>
+<title>no3.InitializeEntity</title>
+<g id="a_node2"><a xlink:href="no3.InitializeEntity.svg" xlink:title="no3.InitializeEntity">
+<ellipse fill="green" stroke="black" cx="100.09" cy="-18" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="100.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3.InitializeEntity</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;NormalColorCol -->
+<!-- no3.EntityCastleDoor&#45;&gt;no3.InitializeEntity -->
 <g id="edge1" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;NormalColorCol</title>
-<path fill="none" stroke="black" d="M1294.21,-186.74C1096.02,-163.05 595.64,-101.52 179.14,-36 171.8,-34.84 164.14,-33.57 156.5,-32.26"/>
-<polygon fill="black" stroke="black" points="156.96,-28.79 146.51,-30.52 155.76,-35.68 156.96,-28.79"/>
-<text text-anchor="middle" x="141.51" y="-34.32" font-family="Times,serif" font-size="14.00">2</text>
+<title>no3.EntityCastleDoor&#45;&gt;no3.InitializeEntity</title>
+<path fill="none" stroke="black" d="M1348.67,-186.44C1149.17,-161.62 637.09,-97.07 210.09,-36 201.17,-34.72 191.85,-33.35 182.57,-31.95"/>
+<polygon fill="black" stroke="black" points="182.95,-28.47 172.54,-30.43 181.9,-35.39 182.95,-28.47"/>
+<text text-anchor="middle" x="167.54" y="-34.23" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- RotAverageNclip4 -->
+<!-- dra.AllocPrimitives -->
 <g id="node3" class="node">
-<title>RotAverageNclip4</title>
-<g id="a_node3"><a xlink:href="RotAverageNclip4.svg" xlink:title="RotAverageNclip4">
-<ellipse fill="lightblue" stroke="black" cx="283.14" cy="-18" rx="94.78" ry="18"/>
-<text text-anchor="middle" x="283.14" y="-14.3" font-family="Times,serif" font-size="14.00">RotAverageNclip4</text>
+<title>dra.AllocPrimitives</title>
+<g id="a_node3"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
+<ellipse fill="green" stroke="black" cx="318.09" cy="-18" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="318.09" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;RotAverageNclip4 -->
+<!-- no3.EntityCastleDoor&#45;&gt;dra.AllocPrimitives -->
 <g id="edge2" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;RotAverageNclip4</title>
-<path fill="none" stroke="black" d="M1305.38,-184.77C1139.14,-157.92 729.87,-91.77 387.14,-36 379.18,-34.7 370.88,-33.35 362.59,-32"/>
-<polygon fill="black" stroke="black" points="362.94,-28.51 352.51,-30.35 361.81,-35.42 362.94,-28.51"/>
-<text text-anchor="middle" x="347.51" y="-34.15" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityCastleDoor&#45;&gt;dra.AllocPrimitives</title>
+<path fill="none" stroke="black" d="M1357.82,-184.84C1155.8,-152.61 608.09,-65.25 399.9,-32.05"/>
+<polygon fill="black" stroke="black" points="400.37,-28.58 389.94,-30.46 399.27,-35.49 400.37,-28.58"/>
+<text text-anchor="middle" x="384.94" y="-34.26" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- RotMatrix -->
+<!-- no3.DestroyEntity -->
 <g id="node4" class="node">
-<title>RotMatrix</title>
-<g id="a_node4"><a xlink:href="RotMatrix.svg" xlink:title="RotMatrix">
-<ellipse fill="lightblue" stroke="black" cx="454.14" cy="-18" rx="57.69" ry="18"/>
-<text text-anchor="middle" x="454.14" y="-14.3" font-family="Times,serif" font-size="14.00">RotMatrix</text>
+<title>no3.DestroyEntity</title>
+<g id="a_node4"><a xlink:href="no3.DestroyEntity.svg" xlink:title="no3.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="532.09" cy="-18" rx="96.38" ry="18"/>
+<text text-anchor="middle" x="532.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3.DestroyEntity</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;RotMatrix -->
+<!-- no3.EntityCastleDoor&#45;&gt;no3.DestroyEntity -->
 <g id="edge3" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;RotMatrix</title>
-<path fill="none" stroke="black" d="M1306.34,-184.64C1156.65,-159.54 809.86,-99.59 521.14,-36 516.48,-34.97 511.65,-33.86 506.81,-32.7"/>
-<polygon fill="black" stroke="black" points="507.48,-29.26 496.94,-30.29 505.82,-36.06 507.48,-29.26"/>
-<text text-anchor="middle" x="491.94" y="-34.09" font-family="Times,serif" font-size="14.00">2</text>
+<title>no3.EntityCastleDoor&#45;&gt;no3.DestroyEntity</title>
+<path fill="none" stroke="black" d="M1366.29,-183.62C1200.79,-150.96 777.17,-67.36 605.75,-33.54"/>
+<polygon fill="black" stroke="black" points="606.3,-30.08 595.81,-31.57 604.94,-36.94 606.3,-30.08"/>
+<text text-anchor="middle" x="590.81" y="-35.37" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- RotMatrixY -->
+<!-- dra.PlaySfx -->
 <g id="node5" class="node">
-<title>RotMatrixY</title>
-<g id="a_node5"><a xlink:href="RotMatrixY.svg" xlink:title="RotMatrixY">
-<ellipse fill="lightblue" stroke="black" cx="594.14" cy="-18" rx="63.89" ry="18"/>
-<text text-anchor="middle" x="594.14" y="-14.3" font-family="Times,serif" font-size="14.00">RotMatrixY</text>
+<title>dra.PlaySfx</title>
+<g id="a_node5"><a xlink:href="dra.PlaySfx.svg" xlink:title="dra.PlaySfx">
+<ellipse fill="green" stroke="black" cx="711.09" cy="-18" rx="64.19" ry="18"/>
+<text text-anchor="middle" x="711.09" y="-14.3" font-family="Times,serif" font-size="14.00">dra.PlaySfx</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;RotMatrixY -->
+<!-- no3.EntityCastleDoor&#45;&gt;dra.PlaySfx -->
 <g id="edge4" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;RotMatrixY</title>
-<path fill="none" stroke="black" d="M1318.55,-183.04C1194.3,-155.3 907.74,-91.14 667.14,-36 662.12,-34.85 656.9,-33.65 651.67,-32.44"/>
-<polygon fill="black" stroke="black" points="652.18,-28.96 641.65,-30.11 650.6,-35.78 652.18,-28.96"/>
-<text text-anchor="middle" x="636.65" y="-33.91" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- SetBackColor -->
-<g id="node6" class="node">
-<title>SetBackColor</title>
-<g id="a_node6"><a xlink:href="SetBackColor.svg" xlink:title="SetBackColor">
-<ellipse fill="lightblue" stroke="black" cx="749.14" cy="-18" rx="73.39" ry="18"/>
-<text text-anchor="middle" x="749.14" y="-14.3" font-family="Times,serif" font-size="14.00">SetBackColor</text>
-</a>
-</g>
-</g>
-<!-- no3.EntityCastleDoor&#45;&gt;SetBackColor -->
-<g id="edge5" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;SetBackColor</title>
-<path fill="none" stroke="black" d="M1328.35,-182.13C1210.47,-148.93 926.73,-69.02 805.55,-34.89"/>
-<polygon fill="black" stroke="black" points="806.3,-31.46 795.72,-32.12 804.4,-38.2 806.3,-31.46"/>
-<text text-anchor="middle" x="790.72" y="-35.92" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- SetColorMatrix -->
-<g id="node7" class="node">
-<title>SetColorMatrix</title>
-<g id="a_node7"><a xlink:href="SetColorMatrix.svg" xlink:title="SetColorMatrix">
-<ellipse fill="lightblue" stroke="black" cx="923.14" cy="-18" rx="82.59" ry="18"/>
-<text text-anchor="middle" x="923.14" y="-14.3" font-family="Times,serif" font-size="14.00">SetColorMatrix</text>
-</a>
-</g>
-</g>
-<!-- no3.EntityCastleDoor&#45;&gt;SetColorMatrix -->
-<g id="edge6" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;SetColorMatrix</title>
-<path fill="none" stroke="black" d="M1340.5,-181.2C1256.01,-148.37 1061.75,-72.87 971.22,-37.69"/>
-<polygon fill="black" stroke="black" points="972.34,-34.36 961.75,-34 969.8,-40.89 972.34,-34.36"/>
-<text text-anchor="middle" x="956.75" y="-37.8" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- SetGeomOffset -->
-<g id="node8" class="node">
-<title>SetGeomOffset</title>
-<g id="a_node8"><a xlink:href="SetGeomOffset.svg" xlink:title="SetGeomOffset">
-<ellipse fill="lightblue" stroke="black" cx="1105.14" cy="-18" rx="81.49" ry="18"/>
-<text text-anchor="middle" x="1105.14" y="-14.3" font-family="Times,serif" font-size="14.00">SetGeomOffset</text>
-</a>
-</g>
-</g>
-<!-- no3.EntityCastleDoor&#45;&gt;SetGeomOffset -->
-<g id="edge7" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;SetGeomOffset</title>
-<path fill="none" stroke="black" d="M1355.18,-180.25C1304.99,-147.89 1194.71,-76.77 1138.91,-40.78"/>
-<polygon fill="black" stroke="black" points="1140.74,-37.79 1130.44,-35.31 1136.95,-43.68 1140.74,-37.79"/>
-<text text-anchor="middle" x="1125.44" y="-39.11" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityCastleDoor&#45;&gt;dra.PlaySfx</title>
+<path fill="none" stroke="black" d="M1375.84,-182.66C1239.76,-149.16 902.36,-66.09 767.81,-32.96"/>
+<polygon fill="black" stroke="black" points="768.26,-29.47 757.71,-30.48 766.59,-36.27 768.26,-29.47"/>
+<text text-anchor="middle" x="752.71" y="-34.28" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- SetGeomScreen -->
-<g id="node9" class="node">
+<g id="node6" class="node">
 <title>SetGeomScreen</title>
-<g id="a_node9"><a xlink:href="SetGeomScreen.svg" xlink:title="SetGeomScreen">
-<ellipse fill="lightblue" stroke="black" cx="1289.14" cy="-18" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="1289.14" y="-14.3" font-family="Times,serif" font-size="14.00">SetGeomScreen</text>
+<g id="a_node6"><a xlink:href="SetGeomScreen.svg" xlink:title="SetGeomScreen">
+<ellipse fill="lightblue" stroke="black" cx="878.09" cy="-18" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="878.09" y="-14.3" font-family="Times,serif" font-size="14.00">SetGeomScreen</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityCastleDoor&#45;&gt;SetGeomScreen -->
-<g id="edge8" class="edge">
+<g id="edge5" class="edge">
 <title>no3.EntityCastleDoor&#45;&gt;SetGeomScreen</title>
-<path fill="none" stroke="black" d="M1372.32,-179.93C1356.18,-148.7 1321.79,-82.17 1302.67,-45.18"/>
-<polygon fill="black" stroke="black" points="1305.64,-43.29 1297.94,-36.02 1299.42,-46.51 1305.64,-43.29"/>
-<text text-anchor="middle" x="1292.94" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1386.21,-181.67C1283.27,-148.71 1041.44,-71.3 932.72,-36.49"/>
+<polygon fill="black" stroke="black" points="933.53,-33.07 922.94,-33.36 931.4,-39.74 933.53,-33.07"/>
+<text text-anchor="middle" x="917.94" y="-37.16" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- SetLightMatrix -->
-<g id="node10" class="node">
-<title>SetLightMatrix</title>
-<g id="a_node10"><a xlink:href="SetLightMatrix.svg" xlink:title="SetLightMatrix">
-<ellipse fill="lightblue" stroke="black" cx="1474.14" cy="-18" rx="81.79" ry="18"/>
-<text text-anchor="middle" x="1474.14" y="-14.3" font-family="Times,serif" font-size="14.00">SetLightMatrix</text>
+<!-- SetGeomOffset -->
+<g id="node7" class="node">
+<title>SetGeomOffset</title>
+<g id="a_node7"><a xlink:href="SetGeomOffset.svg" xlink:title="SetGeomOffset">
+<ellipse fill="lightblue" stroke="black" cx="1062.09" cy="-18" rx="81.49" ry="18"/>
+<text text-anchor="middle" x="1062.09" y="-14.3" font-family="Times,serif" font-size="14.00">SetGeomOffset</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;SetLightMatrix -->
+<!-- no3.EntityCastleDoor&#45;&gt;SetGeomOffset -->
+<g id="edge6" class="edge">
+<title>no3.EntityCastleDoor&#45;&gt;SetGeomOffset</title>
+<path fill="none" stroke="black" d="M1400.09,-180.73C1331.72,-148.02 1177.8,-74.37 1103.61,-38.87"/>
+<polygon fill="black" stroke="black" points="1105.08,-35.69 1094.55,-34.53 1102.06,-42 1105.08,-35.69"/>
+<text text-anchor="middle" x="1089.55" y="-38.33" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- RotMatrix -->
+<g id="node8" class="node">
+<title>RotMatrix</title>
+<g id="a_node8"><a xlink:href="RotMatrix.svg" xlink:title="RotMatrix">
+<ellipse fill="lightblue" stroke="black" cx="1219.09" cy="-18" rx="57.69" ry="18"/>
+<text text-anchor="middle" x="1219.09" y="-14.3" font-family="Times,serif" font-size="14.00">RotMatrix</text>
+</a>
+</g>
+</g>
+<!-- no3.EntityCastleDoor&#45;&gt;RotMatrix -->
+<g id="edge7" class="edge">
+<title>no3.EntityCastleDoor&#45;&gt;RotMatrix</title>
+<path fill="none" stroke="black" d="M1413.86,-180.25C1375.07,-148.14 1290.2,-77.87 1246.42,-41.62"/>
+<polygon fill="black" stroke="black" points="1248.42,-38.74 1238.49,-35.06 1243.96,-44.13 1248.42,-38.74"/>
+<text text-anchor="middle" x="1233.49" y="-38.86" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- RotMatrixY -->
+<g id="node9" class="node">
+<title>RotMatrixY</title>
+<g id="a_node9"><a xlink:href="RotMatrixY.svg" xlink:title="RotMatrixY">
+<ellipse fill="lightblue" stroke="black" cx="1359.09" cy="-18" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="1359.09" y="-14.3" font-family="Times,serif" font-size="14.00">RotMatrixY</text>
+</a>
+</g>
+</g>
+<!-- no3.EntityCastleDoor&#45;&gt;RotMatrixY -->
+<g id="edge8" class="edge">
+<title>no3.EntityCastleDoor&#45;&gt;RotMatrixY</title>
+<path fill="none" stroke="black" d="M1426.9,-179.93C1413.8,-148.83 1385.95,-82.73 1370.32,-45.65"/>
+<polygon fill="black" stroke="black" points="1373.37,-43.87 1366.26,-36.02 1366.92,-46.59 1373.37,-43.87"/>
+<text text-anchor="middle" x="1361.26" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- TransMatrix -->
+<g id="node10" class="node">
+<title>TransMatrix</title>
+<g id="a_node10"><a xlink:href="TransMatrix.svg" xlink:title="TransMatrix">
+<ellipse fill="lightblue" stroke="black" cx="1509.09" cy="-18" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="1509.09" y="-14.3" font-family="Times,serif" font-size="14.00">TransMatrix</text>
+</a>
+</g>
+</g>
+<!-- no3.EntityCastleDoor&#45;&gt;TransMatrix -->
 <g id="edge9" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;SetLightMatrix</title>
-<path fill="none" stroke="black" d="M1390.06,-179.93C1406.38,-148.7 1441.14,-82.17 1460.46,-45.18"/>
-<polygon fill="black" stroke="black" points="1463.72,-46.5 1465.25,-36.02 1457.52,-43.26 1463.72,-46.5"/>
-<text text-anchor="middle" x="1460.25" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityCastleDoor&#45;&gt;TransMatrix</title>
+<path fill="none" stroke="black" d="M1441.28,-179.93C1454.39,-148.83 1482.24,-82.73 1497.86,-45.65"/>
+<polygon fill="black" stroke="black" points="1501.26,-46.59 1501.92,-36.02 1494.81,-43.87 1501.26,-46.59"/>
+<text text-anchor="middle" x="1496.92" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- SetRotMatrix -->
 <g id="node11" class="node">
 <title>SetRotMatrix</title>
 <g id="a_node11"><a xlink:href="SetRotMatrix.svg" xlink:title="SetRotMatrix">
-<ellipse fill="lightblue" stroke="black" cx="1647.14" cy="-18" rx="73.39" ry="18"/>
-<text text-anchor="middle" x="1647.14" y="-14.3" font-family="Times,serif" font-size="14.00">SetRotMatrix</text>
+<ellipse fill="lightblue" stroke="black" cx="1669.09" cy="-18" rx="73.39" ry="18"/>
+<text text-anchor="middle" x="1669.09" y="-14.3" font-family="Times,serif" font-size="14.00">SetRotMatrix</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityCastleDoor&#45;&gt;SetRotMatrix -->
 <g id="edge10" class="edge">
 <title>no3.EntityCastleDoor&#45;&gt;SetRotMatrix</title>
-<path fill="none" stroke="black" d="M1406.17,-180.25C1454.56,-147.87 1560.92,-76.7 1614.68,-40.73"/>
-<polygon fill="black" stroke="black" points="1616.78,-43.53 1623.15,-35.06 1612.89,-37.71 1616.78,-43.53"/>
-<text text-anchor="middle" x="1618.15" y="-38.86" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1456.2,-180.25C1498.67,-148.09 1591.67,-77.64 1639.46,-41.45"/>
+<polygon fill="black" stroke="black" points="1641.69,-44.14 1647.55,-35.31 1637.47,-38.56 1641.69,-44.14"/>
+<text text-anchor="middle" x="1642.55" y="-39.11" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- SetTransMatrix -->
 <g id="node12" class="node">
 <title>SetTransMatrix</title>
 <g id="a_node12"><a xlink:href="SetTransMatrix.svg" xlink:title="SetTransMatrix">
-<ellipse fill="lightblue" stroke="black" cx="1822.14" cy="-18" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="1822.14" y="-14.3" font-family="Times,serif" font-size="14.00">SetTransMatrix</text>
+<ellipse fill="lightblue" stroke="black" cx="1844.09" cy="-18" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="1844.09" y="-14.3" font-family="Times,serif" font-size="14.00">SetTransMatrix</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityCastleDoor&#45;&gt;SetTransMatrix -->
 <g id="edge11" class="edge">
 <title>no3.EntityCastleDoor&#45;&gt;SetTransMatrix</title>
-<path fill="none" stroke="black" d="M1420.67,-181.05C1501.97,-148.23 1687.65,-73.28 1775.03,-38.02"/>
-<polygon fill="black" stroke="black" points="1776.47,-41.21 1784.43,-34.22 1773.85,-34.72 1776.47,-41.21"/>
-<text text-anchor="middle" x="1779.43" y="-38.02" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1471.2,-180.89C1546.59,-148.16 1717.41,-74 1799.03,-38.56"/>
+<polygon fill="black" stroke="black" points="1800.75,-41.63 1808.53,-34.44 1797.97,-35.21 1800.75,-41.63"/>
+<text text-anchor="middle" x="1803.53" y="-38.24" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- TransMatrix -->
+<!-- SetBackColor -->
 <g id="node13" class="node">
-<title>TransMatrix</title>
-<g id="a_node13"><a xlink:href="TransMatrix.svg" xlink:title="TransMatrix">
-<ellipse fill="lightblue" stroke="black" cx="1992.14" cy="-18" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="1992.14" y="-14.3" font-family="Times,serif" font-size="14.00">TransMatrix</text>
+<title>SetBackColor</title>
+<g id="a_node13"><a xlink:href="SetBackColor.svg" xlink:title="SetBackColor">
+<ellipse fill="lightblue" stroke="black" cx="2019.09" cy="-18" rx="73.39" ry="18"/>
+<text text-anchor="middle" x="2019.09" y="-14.3" font-family="Times,serif" font-size="14.00">SetBackColor</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;TransMatrix -->
+<!-- no3.EntityCastleDoor&#45;&gt;SetBackColor -->
 <g id="edge12" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;TransMatrix</title>
-<path fill="none" stroke="black" d="M1432.71,-181.98C1547.19,-148.63 1821.61,-68.68 1938.23,-34.7"/>
-<polygon fill="black" stroke="black" points="1939.4,-38.01 1948.02,-31.85 1937.44,-31.29 1939.4,-38.01"/>
-<text text-anchor="middle" x="1943.02" y="-35.65" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityCastleDoor&#45;&gt;SetBackColor</title>
+<path fill="none" stroke="black" d="M1483.97,-181.82C1593.13,-148.61 1852.45,-69.71 1965.19,-35.4"/>
+<polygon fill="black" stroke="black" points="1966.45,-38.68 1974.99,-32.42 1964.41,-31.98 1966.45,-38.68"/>
+<text text-anchor="middle" x="1969.99" y="-36.22" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.AllocPrimitives -->
+<!-- SetColorMatrix -->
 <g id="node14" class="node">
-<title>dra.AllocPrimitives</title>
-<g id="a_node14"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
-<ellipse fill="green" stroke="black" cx="2178.14" cy="-18" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="2178.14" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
+<title>SetColorMatrix</title>
+<g id="a_node14"><a xlink:href="SetColorMatrix.svg" xlink:title="SetColorMatrix">
+<ellipse fill="lightblue" stroke="black" cx="2193.09" cy="-18" rx="82.59" ry="18"/>
+<text text-anchor="middle" x="2193.09" y="-14.3" font-family="Times,serif" font-size="14.00">SetColorMatrix</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;dra.AllocPrimitives -->
+<!-- no3.EntityCastleDoor&#45;&gt;SetColorMatrix -->
 <g id="edge13" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;dra.AllocPrimitives</title>
-<path fill="none" stroke="black" d="M1443.68,-183.03C1590.19,-150.31 1954.78,-68.89 2108.27,-34.6"/>
-<polygon fill="black" stroke="black" points="2109.08,-38.01 2118.07,-32.42 2107.55,-31.18 2109.08,-38.01"/>
-<text text-anchor="middle" x="2113.07" y="-36.22" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityCastleDoor&#45;&gt;SetColorMatrix</title>
+<path fill="none" stroke="black" d="M1494.6,-182.81C1635.56,-149.75 1984.76,-67.86 2129.09,-34.01"/>
+<polygon fill="black" stroke="black" points="2130.19,-37.35 2139.12,-31.66 2128.59,-30.53 2130.19,-37.35"/>
+<text text-anchor="middle" x="2134.12" y="-35.46" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.PlaySfx -->
+<!-- SetLightMatrix -->
 <g id="node15" class="node">
-<title>dra.PlaySfx</title>
-<g id="a_node15"><a xlink:href="dra.PlaySfx.svg" xlink:title="dra.PlaySfx">
-<ellipse fill="green" stroke="black" cx="2360.14" cy="-18" rx="64.19" ry="18"/>
-<text text-anchor="middle" x="2360.14" y="-14.3" font-family="Times,serif" font-size="14.00">dra.PlaySfx</text>
+<title>SetLightMatrix</title>
+<g id="a_node15"><a xlink:href="SetLightMatrix.svg" xlink:title="SetLightMatrix">
+<ellipse fill="lightblue" stroke="black" cx="2375.09" cy="-18" rx="81.79" ry="18"/>
+<text text-anchor="middle" x="2375.09" y="-14.3" font-family="Times,serif" font-size="14.00">SetLightMatrix</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;dra.PlaySfx -->
+<!-- no3.EntityCastleDoor&#45;&gt;SetLightMatrix -->
 <g id="edge14" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;dra.PlaySfx</title>
-<path fill="none" stroke="black" d="M1457.07,-184.8C1612.92,-159.48 1980.04,-98.35 2286.14,-36 2291.55,-34.9 2297.17,-33.7 2302.79,-32.47"/>
-<polygon fill="black" stroke="black" points="2303.85,-35.82 2312.85,-30.23 2302.33,-28.99 2303.85,-35.82"/>
-<text text-anchor="middle" x="2307.85" y="-34.03" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityCastleDoor&#45;&gt;SetLightMatrix</title>
+<path fill="none" stroke="black" d="M1503.29,-183.91C1677.11,-151.03 2130.67,-65.23 2305.22,-32.22"/>
+<polygon fill="black" stroke="black" points="2305.89,-35.65 2315.07,-30.35 2304.59,-28.77 2305.89,-35.65"/>
+<text text-anchor="middle" x="2310.07" y="-34.15" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- no3.DestroyEntity -->
+<!-- RotAverageNclip4 -->
 <g id="node16" class="node">
-<title>no3.DestroyEntity</title>
-<g id="a_node16"><a xlink:href="no3.DestroyEntity.svg" xlink:title="no3.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="2539.14" cy="-18" rx="96.38" ry="18"/>
-<text text-anchor="middle" x="2539.14" y="-14.3" font-family="Times,serif" font-size="14.00">no3.DestroyEntity</text>
+<title>RotAverageNclip4</title>
+<g id="a_node16"><a xlink:href="RotAverageNclip4.svg" xlink:title="RotAverageNclip4">
+<ellipse fill="lightblue" stroke="black" cx="2570.09" cy="-18" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="2570.09" y="-14.3" font-family="Times,serif" font-size="14.00">RotAverageNclip4</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;no3.DestroyEntity -->
+<!-- no3.EntityCastleDoor&#45;&gt;RotAverageNclip4 -->
 <g id="edge15" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;no3.DestroyEntity</title>
-<path fill="none" stroke="black" d="M1459.69,-185.17C1634.61,-158.8 2069.44,-93 2433.14,-36 2441.41,-34.7 2450.05,-33.34 2458.66,-31.97"/>
-<polygon fill="black" stroke="black" points="2459.41,-35.39 2468.74,-30.36 2458.31,-28.48 2459.41,-35.39"/>
-<text text-anchor="middle" x="2463.74" y="-34.16" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityCastleDoor&#45;&gt;RotAverageNclip4</title>
+<path fill="none" stroke="black" d="M1511.8,-185.07C1683.81,-158.63 2109.75,-92.92 2466.09,-36 2474.21,-34.7 2482.68,-33.34 2491.13,-31.97"/>
+<polygon fill="black" stroke="black" points="2491.7,-35.42 2501.01,-30.36 2490.58,-28.51 2491.7,-35.42"/>
+<text text-anchor="middle" x="2496.01" y="-34.16" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- no3.InitializeEntity -->
+<!-- NormalColorCol -->
 <g id="node17" class="node">
-<title>no3.InitializeEntity</title>
-<g id="a_node17"><a xlink:href="no3.InitializeEntity.svg" xlink:title="no3.InitializeEntity">
-<ellipse fill="green" stroke="black" cx="2753.14" cy="-18" rx="100.18" ry="18"/>
-<text text-anchor="middle" x="2753.14" y="-14.3" font-family="Times,serif" font-size="14.00">no3.InitializeEntity</text>
+<title>NormalColorCol</title>
+<g id="a_node17"><a xlink:href="NormalColorCol.svg" xlink:title="NormalColorCol">
+<ellipse fill="lightblue" stroke="black" cx="2768.09" cy="-18" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="2768.09" y="-14.3" font-family="Times,serif" font-size="14.00">NormalColorCol</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityCastleDoor&#45;&gt;no3.InitializeEntity -->
+<!-- no3.EntityCastleDoor&#45;&gt;NormalColorCol -->
 <g id="edge16" class="edge">
-<title>no3.EntityCastleDoor&#45;&gt;no3.InitializeEntity</title>
-<path fill="none" stroke="black" d="M1468.15,-186.76C1673.24,-162.43 2202.87,-98.52 2644.14,-36 2652.82,-34.77 2661.88,-33.44 2670.91,-32.08"/>
-<polygon fill="black" stroke="black" points="2671.71,-35.49 2681.07,-30.53 2670.66,-28.57 2671.71,-35.49"/>
-<text text-anchor="middle" x="2676.07" y="-34.33" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityCastleDoor&#45;&gt;NormalColorCol</title>
+<path fill="none" stroke="black" d="M1522.64,-187.04C1726.33,-163.79 2243.72,-102.81 2674.09,-36 2681.44,-34.86 2689.1,-33.6 2696.74,-32.29"/>
+<polygon fill="black" stroke="black" points="2697.48,-35.71 2706.73,-30.55 2696.28,-28.82 2697.48,-35.71"/>
+<text text-anchor="middle" x="2701.73" y="-34.35" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 </g>
 </svg>
