@@ -941,8 +941,6 @@
 | us/weapon/nonmatchings/w_014/func_ptr_80170004.s             |      166 |         26 |        |                                 |       |
 | us/st/st0/nonmatchings/31CA0/func_801B5BF0.s                 |      166 |         31 |        |                                 |       |
 | us/weapon/nonmatchings/w_031/EntityWeaponAttack.s            |      167 |         19 |        |                                 |       |
-| us/st/no3/nonmatchings/46684/EntitySmallWaterDrop.s          |      167 |         20 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/EntitySmallWaterDrop.s          |      167 |         20 |        |                                 |       |
 | us/weapon/nonmatchings/w_005/EntityWeaponAttack.s            |      168 |         17 |        |                                 |       |
 | us/weapon/nonmatchings/w_013/func_ptr_8017000C.s             |      168 |         23 |        |                                 |       |
 | us/weapon/nonmatchings/w_055/EntityWeaponAttack.s            |      169 |         18 |        |                                 |       |
@@ -1148,7 +1146,7 @@
 | us/st/no3/nonmatchings/46684/EntityStrongWargDeathBeams.s    |      325 |         33 |        |                                 |       |
 | us/weapon/nonmatchings/w_010/EntityWeaponAttack.s            |      325 |         35 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnThrownVibhuti.s        |      327 |         41 |        |                                 |       |
-| us/st/no3/nonmatchings/377D4/EntityUnkId5C.s                 |      329 |         36 | Yes    | https://decomp.me/scratch/O9Bsq | 0.988 |
+| us/st/no3/nonmatchings/377D4/EntityUnkId5C.s                 |      329 |         36 | Yes    | https://decomp.me/scratch/O9Bsq | 0.99  |
 | us/st/np3/nonmatchings/3246C/func_801B5790.s                 |      329 |         36 | Yes    |                                 |       |
 | us/ric/nonmatchings/22380/func_80160FC4.s                    |      331 |         35 |        |                                 |       |
 | us/weapon/nonmatchings/w_023/EntityWeaponAttack.s            |      331 |         36 | Yes    |                                 |       |

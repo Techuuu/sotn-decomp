@@ -339,7 +339,7 @@
 <g id="node22" class="node">
 <title>no3.EntitySmallWaterDrop</title>
 <g id="a_node22"><a xlink:href="no3.EntitySmallWaterDrop.svg" xlink:title="no3.EntitySmallWaterDrop">
-<ellipse fill="red" stroke="black" cx="5416.39" cy="-198" rx="136.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="5416.39" cy="-198" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="5416.39" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntitySmallWaterDrop</text>
 </a>
 </g>

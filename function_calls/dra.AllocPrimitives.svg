@@ -1620,7 +1620,7 @@
 <g id="node101" class="node">
 <title>no3.EntitySmallWaterDrop</title>
 <g id="a_node101"><a xlink:href="no3.EntitySmallWaterDrop.svg" xlink:title="no3.EntitySmallWaterDrop">
-<ellipse fill="red" stroke="black" cx="25895.89" cy="-378" rx="136.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="25895.89" cy="-378" rx="136.48" ry="18"/>
 <text text-anchor="middle" x="25895.89" y="-374.3" font-family="Times,serif" font-size="14.00">no3.EntitySmallWaterDrop</text>
 </a>
 </g>
@@ -2164,7 +2164,7 @@
 <g id="node135" class="node">
 <title>np3.EntitySmallWaterDrop</title>
 <g id="a_node135"><a xlink:href="np3.EntitySmallWaterDrop.svg" xlink:title="np3.EntitySmallWaterDrop">
-<ellipse fill="red" stroke="black" cx="34728.89" cy="-378" rx="137.28" ry="18"/>
+<ellipse fill="green" stroke="black" cx="34728.89" cy="-378" rx="137.28" ry="18"/>
 <text text-anchor="middle" x="34728.89" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntitySmallWaterDrop</text>
 </a>
 </g>
