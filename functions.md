@@ -1118,7 +1118,7 @@
 | us/weapon/nonmatchings/w_050/func_ptr_80170010.s             |      288 |         34 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E7E08.s                    |      288 |         57 | Yes    | https://decomp.me/scratch/g2A7S | 0.974 |
 | us/st/no3/nonmatchings/46684/EntityLargeWaterSplash.s        |      289 |         28 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/func_801C7954.s                 |      289 |         28 |        | https://decomp.me/scratch/nsw53 | 0.882 |
+| us/st/np3/nonmatchings/44DCC/func_801C7954.s                 |      289 |         28 |        | https://decomp.me/scratch/nsw53 | 0.999 |
 | us/dra/nonmatchings/75F54/func_80123B40.s                    |      292 |         22 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHolyWaterBreakGlass.s        |      293 |         26 |        |                                 |       |
 | us/weapon/nonmatchings/w_050/func_ptr_80170008.s             |      294 |         29 |        |                                 |       |
@@ -1330,8 +1330,6 @@
 | us/st/st0/nonmatchings/2B0C8/func_801ABBBC.s                 |      622 |         78 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011E4BC.s                    |      625 |         79 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_044/EntityWeaponAttack.s            |      628 |         57 | Yes    |                                 |       |
-| us/st/no3/nonmatchings/46684/EntitySplashWater.s             |      634 |         82 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/EntitySplashWater.s             |      634 |         82 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityBackgroundVortex.s        |      640 |         76 |        |                                 |       |
 | us/weapon/nonmatchings/w_014/EntityWeaponAttack.s            |      651 |         80 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80164444.s                    |      660 |         62 |        |                                 |       |

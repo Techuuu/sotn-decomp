@@ -12,7 +12,7 @@
 <!-- no3.EntitySplashWater -->
 <g id="node1" class="node">
 <title>no3.EntitySplashWater</title>
-<ellipse fill="red" stroke="black" cx="799.44" cy="-198" rx="118.08" ry="18"/>
+<ellipse fill="green" stroke="black" cx="799.44" cy="-198" rx="118.08" ry="18"/>
 <text text-anchor="middle" x="799.44" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntitySplashWater</text>
 </g>
 <!-- dra.AllocPrimitives -->
