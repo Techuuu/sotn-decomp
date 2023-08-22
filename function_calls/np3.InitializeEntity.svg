@@ -723,7 +723,7 @@
 <g id="node46" class="node">
 <title>np3.EntitySideWaterSplash</title>
 <g id="a_node46"><a xlink:href="np3.EntitySideWaterSplash.svg" xlink:title="np3.EntitySideWaterSplash">
-<ellipse fill="red" stroke="black" cx="11887.04" cy="-198" rx="139.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="11887.04" cy="-198" rx="139.98" ry="18"/>
 <text text-anchor="middle" x="11887.04" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntitySideWaterSplash</text>
 </a>
 </g>

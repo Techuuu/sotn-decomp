@@ -1065,8 +1065,6 @@
 | us/weapon/nonmatchings/w_030/func_ptr_80170010.s             |      243 |         31 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2D260/func_801B3A94.s                 |      244 |         38 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4E69C/EntityGurkhaBodyParts.s         |      244 |         44 | Yes    |                                 |       |
-| us/st/no3/nonmatchings/46684/EntitySideWaterSplash.s         |      245 |         23 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/EntitySideWaterSplash.s         |      245 |         23 |        |                                 |       |
 | us/dra/nonmatchings/62D70/func_80105078.s                    |      245 |         26 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F7F64.s                    |      249 |         21 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_049/EntityWeaponAttack.s            |      249 |         29 |        |                                 |       |
