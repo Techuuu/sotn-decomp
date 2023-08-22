@@ -1055,7 +1055,7 @@
 | us/weapon/nonmatchings/w_050/func_ptr_8017000C.s             |      236 |         25 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80169F04.s                    |      237 |         27 |        |                                 |       |
 | us/st/no3/nonmatchings/377D4/EntityTransparentWater.s        |      237 |         28 |        |                                 |       |
-| us/st/np3/nonmatchings/3246C/func_801B39CC.s                 |      237 |         28 |        | https://decomp.me/scratch/86Cmm | 0.923 |
+| us/st/np3/nonmatchings/3246C/func_801B39CC.s                 |      237 |         28 |        | https://decomp.me/scratch/nFz4q | 0.995 |
 | us/st/sel/nonmatchings/38D24/func_801BABA4.s                 |      237 |         35 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010BFFC.s                    |      239 |         28 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012DBBC.s                    |      239 |         48 |        |                                 |       |
@@ -1102,7 +1102,7 @@
 | us/st/mad/nonmatchings/139E0/func_80198BC8.s                 |      270 |         22 |        |                                 |       |
 | us/weapon/nonmatchings/w_021/func_97000_8017AB54.s           |      270 |         22 |        |                                 |       |
 | us/weapon/nonmatchings/w_050/func_ptr_80170004.s             |      270 |         29 |        |                                 |       |
-| us/st/np3/nonmatchings/3246C/func_801B6084.s                 |      270 |         43 |        |                                 |       |
+| us/st/np3/nonmatchings/3246C/func_801B6084.s                 |      270 |         43 |        | https://decomp.me/scratch/2GglW | 0.998 |
 | us/servant/tt_000/nonmatchings/10E8/func_80174210.s          |      273 |         42 |        | https://decomp.me/scratch/WEF2F | 0.985 |
 | us/weapon/nonmatchings/w_038/func_ptr_80170004.s             |      274 |         29 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800EB758.s                    |      275 |         24 |        |                                 |       |
