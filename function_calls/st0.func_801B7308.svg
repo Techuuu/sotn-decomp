@@ -5,143 +5,143 @@
  -->
 <!-- Title: st0.func_801B7308 Pages: 1 -->
 <svg width="1494pt" height="224pt"
- viewBox="0.00 0.00 1494.08 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1493.84 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>st0.func_801B7308</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1490.08,-220 1490.08,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1489.84,-220 1489.84,4 -4,4"/>
 <!-- st0.func_801B7308 -->
 <g id="node1" class="node">
 <title>st0.func_801B7308</title>
-<ellipse fill="red" stroke="black" cx="782.49" cy="-198" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="782.49" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B7308</text>
-</g>
-<!-- st0.InitializeEntity -->
-<g id="node2" class="node">
-<title>st0.InitializeEntity</title>
-<g id="a_node2"><a xlink:href="st0.InitializeEntity.svg" xlink:title="st0.InitializeEntity">
-<ellipse fill="green" stroke="black" cx="97.49" cy="-18" rx="97.48" ry="18"/>
-<text text-anchor="middle" x="97.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0.InitializeEntity</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B7308&#45;&gt;st0.InitializeEntity -->
-<g id="edge1" class="edge">
-<title>st0.func_801B7308&#45;&gt;st0.InitializeEntity</title>
-<path fill="none" stroke="black" d="M727.88,-182.81C602.65,-150.27 295.29,-70.4 161.47,-35.63"/>
-<polygon fill="black" stroke="black" points="162.32,-32.23 151.76,-33.1 160.56,-39 162.32,-32.23"/>
-<text text-anchor="middle" x="146.76" y="-36.9" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.AllocPrimitives -->
-<g id="node3" class="node">
-<title>dra.AllocPrimitives</title>
-<g id="a_node3"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
-<ellipse fill="green" stroke="black" cx="312.49" cy="-18" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="312.49" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B7308&#45;&gt;dra.AllocPrimitives -->
-<g id="edge2" class="edge">
-<title>st0.func_801B7308&#45;&gt;dra.AllocPrimitives</title>
-<path fill="none" stroke="black" d="M741.6,-181.52C655.65,-148.96 456.44,-73.52 362.82,-38.06"/>
-<polygon fill="black" stroke="black" points="363.87,-34.72 353.28,-34.45 361.4,-41.26 363.87,-34.72"/>
-<text text-anchor="middle" x="348.28" y="-38.25" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.LoadEquipIcon -->
-<g id="node4" class="node">
-<title>dra.LoadEquipIcon</title>
-<g id="a_node4"><a xlink:href="dra.LoadEquipIcon.svg" xlink:title="dra.LoadEquipIcon">
-<ellipse fill="green" stroke="black" cx="528.49" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="528.49" y="-14.3" font-family="Times,serif" font-size="14.00">dra.LoadEquipIcon</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B7308&#45;&gt;dra.LoadEquipIcon -->
-<g id="edge3" class="edge">
-<title>st0.func_801B7308&#45;&gt;dra.LoadEquipIcon</title>
-<path fill="none" stroke="black" d="M758.6,-180.25C712.72,-148.1 612.27,-77.71 560.6,-41.5"/>
-<polygon fill="black" stroke="black" points="562.34,-38.44 552.14,-35.57 558.32,-44.18 562.34,-38.44"/>
-<text text-anchor="middle" x="547.14" y="-39.37" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.PlaySfx -->
-<g id="node5" class="node">
-<title>dra.PlaySfx</title>
-<g id="a_node5"><a xlink:href="dra.PlaySfx.svg" xlink:title="dra.PlaySfx">
-<ellipse fill="green" stroke="black" cx="709.49" cy="-18" rx="64.19" ry="18"/>
-<text text-anchor="middle" x="709.49" y="-14.3" font-family="Times,serif" font-size="14.00">dra.PlaySfx</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B7308&#45;&gt;dra.PlaySfx -->
-<g id="edge4" class="edge">
-<title>st0.func_801B7308&#45;&gt;dra.PlaySfx</title>
-<path fill="none" stroke="black" d="M775.49,-179.93C762.74,-148.83 735.63,-82.73 720.42,-45.65"/>
-<polygon fill="black" stroke="black" points="723.5,-43.94 716.47,-36.02 717.03,-46.6 723.5,-43.94"/>
-<text text-anchor="middle" x="711.47" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="red" stroke="black" cx="693.34" cy="-198" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="693.34" y="-194.3" font-family="Times,serif" font-size="14.00">st0.func_801B7308</text>
 </g>
 <!-- ClearImage -->
-<g id="node6" class="node">
+<g id="node2" class="node">
 <title>ClearImage</title>
-<g id="a_node6"><a xlink:href="ClearImage.svg" xlink:title="ClearImage">
-<ellipse fill="lightblue" stroke="black" cx="856.49" cy="-18" rx="64.19" ry="18"/>
-<text text-anchor="middle" x="856.49" y="-14.3" font-family="Times,serif" font-size="14.00">ClearImage</text>
+<g id="a_node2"><a xlink:href="ClearImage.svg" xlink:title="ClearImage">
+<ellipse fill="lightblue" stroke="black" cx="64.34" cy="-18" rx="64.19" ry="18"/>
+<text text-anchor="middle" x="64.34" y="-14.3" font-family="Times,serif" font-size="14.00">ClearImage</text>
 </a>
 </g>
 </g>
 <!-- st0.func_801B7308&#45;&gt;ClearImage -->
-<g id="edge5" class="edge">
+<g id="edge1" class="edge">
 <title>st0.func_801B7308&#45;&gt;ClearImage</title>
-<path fill="none" stroke="black" d="M789.59,-179.93C802.52,-148.83 829.99,-82.73 845.41,-45.65"/>
-<polygon fill="black" stroke="black" points="848.81,-46.59 849.42,-36.02 842.35,-43.91 848.81,-46.59"/>
-<text text-anchor="middle" x="844.42" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M641.87,-182.43C524.29,-149.16 236.98,-67.85 117.65,-34.09"/>
+<polygon fill="black" stroke="black" points="118.57,-30.71 108,-31.35 116.67,-37.44 118.57,-30.71"/>
+<text text-anchor="middle" x="103" y="-35.15" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- LoadTPage -->
+<g id="node3" class="node">
+<title>LoadTPage</title>
+<g id="a_node3"><a xlink:href="LoadTPage.svg" xlink:title="LoadTPage">
+<ellipse fill="lightblue" stroke="black" cx="208.34" cy="-18" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="208.34" y="-14.3" font-family="Times,serif" font-size="14.00">LoadTPage</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B7308&#45;&gt;LoadTPage -->
+<g id="edge2" class="edge">
+<title>st0.func_801B7308&#45;&gt;LoadTPage</title>
+<path fill="none" stroke="black" d="M651.15,-181.52C560.67,-148.31 348.58,-70.47 254.59,-35.97"/>
+<polygon fill="black" stroke="black" points="255.66,-32.64 245.07,-32.48 253.25,-39.21 255.66,-32.64"/>
+<text text-anchor="middle" x="240.07" y="-36.28" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.AllocPrimitives -->
+<g id="node4" class="node">
+<title>dra.AllocPrimitives</title>
+<g id="a_node4"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
+<ellipse fill="green" stroke="black" cx="387.34" cy="-18" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="387.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B7308&#45;&gt;dra.AllocPrimitives -->
+<g id="edge3" class="edge">
+<title>st0.func_801B7308&#45;&gt;dra.AllocPrimitives</title>
+<path fill="none" stroke="black" d="M665.11,-180.57C609.54,-148.25 486.06,-76.42 424.18,-40.43"/>
+<polygon fill="black" stroke="black" points="425.92,-37.39 415.52,-35.39 422.4,-43.44 425.92,-37.39"/>
+<text text-anchor="middle" x="410.52" y="-39.19" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.LoadEquipIcon -->
+<g id="node5" class="node">
+<title>dra.LoadEquipIcon</title>
+<g id="a_node5"><a xlink:href="dra.LoadEquipIcon.svg" xlink:title="dra.LoadEquipIcon">
+<ellipse fill="green" stroke="black" cx="603.34" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="603.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.LoadEquipIcon</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B7308&#45;&gt;dra.LoadEquipIcon -->
+<g id="edge4" class="edge">
+<title>st0.func_801B7308&#45;&gt;dra.LoadEquipIcon</title>
+<path fill="none" stroke="black" d="M684.71,-179.93C668.92,-148.7 635.28,-82.17 616.58,-45.18"/>
+<polygon fill="black" stroke="black" points="619.58,-43.36 611.95,-36.02 613.34,-46.52 619.58,-43.36"/>
+<text text-anchor="middle" x="606.95" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.PlaySfx -->
+<g id="node6" class="node">
+<title>dra.PlaySfx</title>
+<g id="a_node6"><a xlink:href="dra.PlaySfx.svg" xlink:title="dra.PlaySfx">
+<ellipse fill="green" stroke="black" cx="784.34" cy="-18" rx="64.19" ry="18"/>
+<text text-anchor="middle" x="784.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.PlaySfx</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B7308&#45;&gt;dra.PlaySfx -->
+<g id="edge5" class="edge">
+<title>st0.func_801B7308&#45;&gt;dra.PlaySfx</title>
+<path fill="none" stroke="black" d="M702.07,-179.93C718.04,-148.7 752.05,-82.17 770.96,-45.18"/>
+<polygon fill="black" stroke="black" points="774.21,-46.51 775.65,-36.02 767.98,-43.33 774.21,-46.51"/>
+<text text-anchor="middle" x="770.65" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_80106A28 -->
 <g id="node7" class="node">
 <title>dra.func_80106A28</title>
 <g id="a_node7"><a xlink:href="dra.func_80106A28.svg" xlink:title="dra.func_80106A28">
-<ellipse fill="red" stroke="black" cx="1039.49" cy="-18" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="1039.49" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_80106A28</text>
+<ellipse fill="red" stroke="black" cx="967.34" cy="-18" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="967.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_80106A28</text>
 </a>
 </g>
 </g>
 <!-- st0.func_801B7308&#45;&gt;dra.func_80106A28 -->
 <g id="edge6" class="edge">
 <title>st0.func_801B7308&#45;&gt;dra.func_80106A28</title>
-<path fill="none" stroke="black" d="M806.67,-180.25C853.19,-148.04 955.15,-77.42 1007.33,-41.27"/>
-<polygon fill="black" stroke="black" points="1009.34,-44.14 1015.56,-35.57 1005.35,-38.39 1009.34,-44.14"/>
-<text text-anchor="middle" x="1010.56" y="-39.37" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- LoadTPage -->
-<g id="node8" class="node">
-<title>LoadTPage</title>
-<g id="a_node8"><a xlink:href="LoadTPage.svg" xlink:title="LoadTPage">
-<ellipse fill="lightblue" stroke="black" cx="1219.49" cy="-18" rx="61.99" ry="18"/>
-<text text-anchor="middle" x="1219.49" y="-14.3" font-family="Times,serif" font-size="14.00">LoadTPage</text>
-</a>
-</g>
-</g>
-<!-- st0.func_801B7308&#45;&gt;LoadTPage -->
-<g id="edge7" class="edge">
-<title>st0.func_801B7308&#45;&gt;LoadTPage</title>
-<path fill="none" stroke="black" d="M821.27,-181.2C902.53,-148.11 1090.19,-71.67 1175.66,-36.85"/>
-<polygon fill="black" stroke="black" points="1177.13,-40.03 1185.08,-33.02 1174.49,-33.55 1177.13,-40.03"/>
-<text text-anchor="middle" x="1180.08" y="-36.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M718.63,-180.57C768.05,-148.47 877.49,-77.37 933.25,-41.15"/>
+<polygon fill="black" stroke="black" points="935.24,-44.03 941.72,-35.65 931.43,-38.16 935.24,-44.03"/>
+<text text-anchor="middle" x="936.72" y="-39.45" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- st0.DestroyEntity -->
-<g id="node9" class="node">
+<g id="node8" class="node">
 <title>st0.DestroyEntity</title>
-<g id="a_node9"><a xlink:href="st0.DestroyEntity.svg" xlink:title="st0.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="1392.49" cy="-18" rx="93.68" ry="18"/>
-<text text-anchor="middle" x="1392.49" y="-14.3" font-family="Times,serif" font-size="14.00">st0.DestroyEntity</text>
+<g id="a_node8"><a xlink:href="st0.DestroyEntity.svg" xlink:title="st0.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="1179.34" cy="-18" rx="93.68" ry="18"/>
+<text text-anchor="middle" x="1179.34" y="-14.3" font-family="Times,serif" font-size="14.00">st0.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- st0.func_801B7308&#45;&gt;st0.DestroyEntity -->
-<g id="edge8" class="edge">
+<g id="edge7" class="edge">
 <title>st0.func_801B7308&#45;&gt;st0.DestroyEntity</title>
-<path fill="none" stroke="black" d="M832.67,-182.36C944.52,-149.72 1213.84,-71.13 1333.49,-36.22"/>
-<polygon fill="black" stroke="black" points="1334.6,-39.54 1343.22,-33.38 1332.64,-32.82 1334.6,-39.54"/>
-<text text-anchor="middle" x="1338.22" y="-37.18" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M735.62,-181.52C824.82,-148.85 1031.95,-72.98 1128.32,-37.69"/>
+<polygon fill="black" stroke="black" points="1129.67,-40.92 1137.85,-34.2 1127.26,-34.35 1129.67,-40.92"/>
+<text text-anchor="middle" x="1132.85" y="-38" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.InitializeEntity -->
+<g id="node9" class="node">
+<title>st0.InitializeEntity</title>
+<g id="a_node9"><a xlink:href="st0.InitializeEntity.svg" xlink:title="st0.InitializeEntity">
+<ellipse fill="green" stroke="black" cx="1388.34" cy="-18" rx="97.48" ry="18"/>
+<text text-anchor="middle" x="1388.34" y="-14.3" font-family="Times,serif" font-size="14.00">st0.InitializeEntity</text>
+</a>
+</g>
+</g>
+<!-- st0.func_801B7308&#45;&gt;st0.InitializeEntity -->
+<g id="edge8" class="edge">
+<title>st0.func_801B7308&#45;&gt;st0.InitializeEntity</title>
+<path fill="none" stroke="black" d="M748.46,-182.88C875.47,-150.35 1188.22,-70.25 1323.86,-35.52"/>
+<polygon fill="black" stroke="black" points="1324.88,-38.87 1333.7,-32.99 1323.15,-32.09 1324.88,-38.87"/>
+<text text-anchor="middle" x="1328.7" y="-36.79" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

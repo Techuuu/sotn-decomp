@@ -5,175 +5,175 @@
  -->
 <!-- Title: dra.TimeAttackController Pages: 1 -->
 <svg width="2418pt" height="224pt"
- viewBox="0.00 0.00 2418.08 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 2417.83 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>dra.TimeAttackController</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 2414.08,-220 2414.08,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 2413.83,-220 2413.83,4 -4,4"/>
 <!-- dra.TimeAttackController -->
 <g id="node1" class="node">
 <title>dra.TimeAttackController</title>
-<ellipse fill="green" stroke="black" cx="1132.49" cy="-18" rx="129.18" ry="18"/>
-<text text-anchor="middle" x="1132.49" y="-14.3" font-family="Times,serif" font-size="14.00">dra.TimeAttackController</text>
+<ellipse fill="green" stroke="black" cx="1110.79" cy="-18" rx="129.18" ry="18"/>
+<text text-anchor="middle" x="1110.79" y="-14.3" font-family="Times,serif" font-size="14.00">dra.TimeAttackController</text>
+</g>
+<!-- cen.EntityUnkId16 -->
+<g id="node2" class="node">
+<title>cen.EntityUnkId16</title>
+<g id="a_node2"><a xlink:href="cen.EntityUnkId16.svg" xlink:title="cen.EntityUnkId16">
+<ellipse fill="red" stroke="black" cx="98.79" cy="-198" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="98.79" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId16</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityUnkId16&#45;&gt;dra.TimeAttackController -->
+<g id="edge1" class="edge">
+<title>cen.EntityUnkId16&#45;&gt;dra.TimeAttackController</title>
+<path fill="none" stroke="black" d="M167.16,-184.97C345.77,-153.56 826.19,-69.06 1023.93,-34.28"/>
+<polygon fill="black" stroke="black" points="1024.75,-37.69 1033.99,-32.51 1023.53,-30.79 1024.75,-37.69"/>
+<text text-anchor="middle" x="162.16" y="-173.77" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.InitStatsAndGear -->
-<g id="node2" class="node">
+<g id="node3" class="node">
 <title>dra.InitStatsAndGear</title>
-<g id="a_node2"><a xlink:href="dra.InitStatsAndGear.svg" xlink:title="dra.InitStatsAndGear">
-<ellipse fill="green" stroke="black" cx="110.49" cy="-198" rx="110.48" ry="18"/>
-<text text-anchor="middle" x="110.49" y="-194.3" font-family="Times,serif" font-size="14.00">dra.InitStatsAndGear</text>
+<g id="a_node3"><a xlink:href="dra.InitStatsAndGear.svg" xlink:title="dra.InitStatsAndGear">
+<ellipse fill="green" stroke="black" cx="325.79" cy="-198" rx="110.48" ry="18"/>
+<text text-anchor="middle" x="325.79" y="-194.3" font-family="Times,serif" font-size="14.00">dra.InitStatsAndGear</text>
 </a>
 </g>
 </g>
 <!-- dra.InitStatsAndGear&#45;&gt;dra.TimeAttackController -->
-<g id="edge1" class="edge">
-<title>dra.InitStatsAndGear&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M183.17,-184.34C366.39,-152.43 846.61,-68.79 1044.9,-34.26"/>
-<polygon fill="black" stroke="black" points="1045.73,-37.66 1054.98,-32.5 1044.53,-30.77 1045.73,-37.66"/>
-<text text-anchor="middle" x="178.17" y="-173.14" font-family="Times,serif" font-size="14.00">6</text>
-</g>
-<!-- dra.func_800F6CC0 -->
-<g id="node3" class="node">
-<title>dra.func_800F6CC0</title>
-<g id="a_node3"><a xlink:href="dra.func_800F6CC0.svg" xlink:title="dra.func_800F6CC0">
-<ellipse fill="red" stroke="black" cx="341.49" cy="-198" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="341.49" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_800F6CC0</text>
-</a>
-</g>
-</g>
-<!-- dra.func_800F6CC0&#45;&gt;dra.TimeAttackController -->
 <g id="edge2" class="edge">
-<title>dra.func_800F6CC0&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M401.92,-183.4C544.51,-151.31 901.64,-70.95 1057.62,-35.85"/>
-<polygon fill="black" stroke="black" points="1058.62,-39.21 1067.6,-33.6 1057.08,-32.38 1058.62,-39.21"/>
-<text text-anchor="middle" x="396.92" y="-172.2" font-family="Times,serif" font-size="14.00">1</text>
+<title>dra.InitStatsAndGear&#45;&gt;dra.TimeAttackController</title>
+<path fill="none" stroke="black" d="M387.39,-183.03C529.92,-150.71 882.02,-70.87 1036.32,-35.89"/>
+<polygon fill="black" stroke="black" points="1037.22,-39.27 1046.2,-33.65 1035.67,-32.44 1037.22,-39.27"/>
+<text text-anchor="middle" x="382.39" y="-171.83" font-family="Times,serif" font-size="14.00">6</text>
 </g>
 <!-- dra.func_800F087C -->
 <g id="node4" class="node">
 <title>dra.func_800F087C</title>
 <g id="a_node4"><a xlink:href="dra.func_800F087C.svg" xlink:title="dra.func_800F087C">
-<ellipse fill="green" stroke="black" cx="564.49" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="564.49" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_800F087C</text>
+<ellipse fill="green" stroke="black" cx="556.79" cy="-198" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="556.79" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_800F087C</text>
 </a>
 </g>
 </g>
 <!-- dra.func_800F087C&#45;&gt;dra.TimeAttackController -->
 <g id="edge3" class="edge">
 <title>dra.func_800F087C&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M612.43,-181.98C715.86,-149.56 959.75,-73.13 1072.9,-37.67"/>
-<polygon fill="black" stroke="black" points="1073.96,-41.01 1082.46,-34.68 1071.87,-34.33 1073.96,-41.01"/>
-<text text-anchor="middle" x="607.43" y="-170.78" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M603.55,-181.98C704.33,-149.6 941.83,-73.29 1052.34,-37.78"/>
+<polygon fill="black" stroke="black" points="1053.54,-41.07 1061.99,-34.68 1051.4,-34.41 1053.54,-41.07"/>
+<text text-anchor="middle" x="598.55" y="-170.78" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_800F24F4 -->
 <g id="node5" class="node">
 <title>dra.func_800F24F4</title>
 <g id="a_node5"><a xlink:href="dra.func_800F24F4.svg" xlink:title="dra.func_800F24F4">
-<ellipse fill="red" stroke="black" cx="785.49" cy="-198" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="785.49" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_800F24F4</text>
+<ellipse fill="red" stroke="black" cx="777.79" cy="-198" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="777.79" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_800F24F4</text>
 </a>
 </g>
 </g>
 <!-- dra.func_800F24F4&#45;&gt;dra.TimeAttackController -->
 <g id="edge4" class="edge">
 <title>dra.func_800F24F4&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M817.2,-180.73C880.21,-148.41 1021.1,-76.14 1091.22,-40.17"/>
-<polygon fill="black" stroke="black" points="1092.92,-43.23 1100.22,-35.55 1089.73,-37 1092.92,-43.23"/>
-<text text-anchor="middle" x="812.2" y="-169.53" font-family="Times,serif" font-size="14.00">3</text>
+<path fill="none" stroke="black" d="M808.23,-180.73C868.49,-148.52 1003,-76.62 1070.51,-40.53"/>
+<polygon fill="black" stroke="black" points="1072.41,-43.48 1079.58,-35.68 1069.11,-37.31 1072.41,-43.48"/>
+<text text-anchor="middle" x="803.23" y="-169.53" font-family="Times,serif" font-size="14.00">3</text>
 </g>
-<!-- cen.EntityUnkId16 -->
+<!-- dra.func_800F6CC0 -->
 <g id="node6" class="node">
-<title>cen.EntityUnkId16</title>
-<g id="a_node6"><a xlink:href="cen.EntityUnkId16.svg" xlink:title="cen.EntityUnkId16">
-<ellipse fill="red" stroke="black" cx="1003.49" cy="-198" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="1003.49" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityUnkId16</text>
+<title>dra.func_800F6CC0</title>
+<g id="a_node6"><a xlink:href="dra.func_800F6CC0.svg" xlink:title="dra.func_800F6CC0">
+<ellipse fill="red" stroke="black" cx="999.79" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="999.79" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_800F6CC0</text>
 </a>
 </g>
 </g>
-<!-- cen.EntityUnkId16&#45;&gt;dra.TimeAttackController -->
+<!-- dra.func_800F6CC0&#45;&gt;dra.TimeAttackController -->
 <g id="edge5" class="edge">
-<title>cen.EntityUnkId16&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M1015.86,-179.93C1038.69,-148.43 1087.53,-81.03 1114.2,-44.24"/>
-<polygon fill="black" stroke="black" points="1117.12,-46.17 1120.16,-36.02 1111.46,-42.06 1117.12,-46.17"/>
-<text text-anchor="middle" x="1010.86" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntityDraculaFinalForm -->
-<g id="node7" class="node">
-<title>st0.EntityDraculaFinalForm</title>
-<g id="a_node7"><a xlink:href="st0.EntityDraculaFinalForm.svg" xlink:title="st0.EntityDraculaFinalForm">
-<ellipse fill="red" stroke="black" cx="1261.49" cy="-198" rx="141.07" ry="18"/>
-<text text-anchor="middle" x="1261.49" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaFinalForm</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityDraculaFinalForm&#45;&gt;dra.TimeAttackController -->
-<g id="edge6" class="edge">
-<title>st0.EntityDraculaFinalForm&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M1249.12,-179.93C1226.29,-148.43 1177.45,-81.03 1150.78,-44.24"/>
-<polygon fill="black" stroke="black" points="1153.52,-42.06 1144.82,-36.02 1147.86,-46.17 1153.52,-42.06"/>
-<text text-anchor="middle" x="1244.12" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- st0.EntityDracula -->
-<g id="node8" class="node">
-<title>st0.EntityDracula</title>
-<g id="a_node8"><a xlink:href="st0.EntityDracula.svg" xlink:title="st0.EntityDracula">
-<ellipse fill="red" stroke="black" cx="1513.49" cy="-198" rx="92.88" ry="18"/>
-<text text-anchor="middle" x="1513.49" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDracula</text>
-</a>
-</g>
-</g>
-<!-- st0.EntityDracula&#45;&gt;dra.TimeAttackController -->
-<g id="edge7" class="edge">
-<title>st0.EntityDracula&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M1479.68,-181.2C1410.78,-149.01 1254.14,-75.83 1177.04,-39.82"/>
-<polygon fill="black" stroke="black" points="1178.14,-36.47 1167.6,-35.4 1175.18,-42.81 1178.14,-36.47"/>
-<text text-anchor="middle" x="1474.68" y="-170" font-family="Times,serif" font-size="14.00">1</text>
+<title>dra.func_800F6CC0&#45;&gt;dra.TimeAttackController</title>
+<path fill="none" stroke="black" d="M1010.43,-179.93C1029.99,-148.57 1071.75,-81.6 1094.76,-44.71"/>
+<polygon fill="black" stroke="black" points="1097.86,-46.35 1100.18,-36.02 1091.92,-42.65 1097.86,-46.35"/>
+<text text-anchor="middle" x="1005.43" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dre.EntitySuccubus -->
-<g id="node9" class="node">
+<g id="node7" class="node">
 <title>dre.EntitySuccubus</title>
-<g id="a_node9"><a xlink:href="dre.EntitySuccubus.svg" xlink:title="dre.EntitySuccubus">
-<ellipse fill="green" stroke="black" cx="1727.49" cy="-198" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="1727.49" y="-194.3" font-family="Times,serif" font-size="14.00">dre.EntitySuccubus</text>
+<g id="a_node7"><a xlink:href="dre.EntitySuccubus.svg" xlink:title="dre.EntitySuccubus">
+<ellipse fill="green" stroke="black" cx="1222.79" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="1222.79" y="-194.3" font-family="Times,serif" font-size="14.00">dre.EntitySuccubus</text>
 </a>
 </g>
 </g>
 <!-- dre.EntitySuccubus&#45;&gt;dra.TimeAttackController -->
-<g id="edge8" class="edge">
+<g id="edge6" class="edge">
 <title>dre.EntitySuccubus&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M1678.04,-182.21C1569.95,-149.87 1312.86,-72.96 1194.31,-37.49"/>
-<polygon fill="black" stroke="black" points="1195.23,-34.12 1184.65,-34.6 1193.23,-40.82 1195.23,-34.12"/>
-<text text-anchor="middle" x="1673.04" y="-171.01" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M1212.05,-179.93C1192.32,-148.57 1150.18,-81.6 1126.97,-44.71"/>
+<polygon fill="black" stroke="black" points="1129.79,-42.62 1121.5,-36.02 1123.86,-46.34 1129.79,-42.62"/>
+<text text-anchor="middle" x="1207.05" y="-168.73" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- no3.EntityRoomTransition1 -->
-<g id="node10" class="node">
+<g id="node8" class="node">
 <title>no3.EntityRoomTransition1</title>
-<g id="a_node10"><a xlink:href="no3.EntityRoomTransition1.svg" xlink:title="no3.EntityRoomTransition1">
-<ellipse fill="red" stroke="black" cx="1987.49" cy="-198" rx="139.18" ry="18"/>
-<text text-anchor="middle" x="1987.49" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntityRoomTransition1</text>
+<g id="a_node8"><a xlink:href="no3.EntityRoomTransition1.svg" xlink:title="no3.EntityRoomTransition1">
+<ellipse fill="red" stroke="black" cx="1482.79" cy="-198" rx="139.18" ry="18"/>
+<text text-anchor="middle" x="1482.79" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntityRoomTransition1</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityRoomTransition1&#45;&gt;dra.TimeAttackController -->
-<g id="edge9" class="edge">
+<g id="edge7" class="edge">
 <title>no3.EntityRoomTransition1&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M1917.52,-182.43C1759.7,-149.58 1376.9,-69.88 1211.16,-35.38"/>
-<polygon fill="black" stroke="black" points="1211.54,-31.88 1201.04,-33.27 1210.11,-38.74 1211.54,-31.88"/>
-<text text-anchor="middle" x="1912.52" y="-171.23" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M1448.13,-180.41C1380.06,-147.85 1229.08,-75.6 1154.38,-39.86"/>
+<polygon fill="black" stroke="black" points="1155.76,-36.64 1145.23,-35.48 1152.74,-42.95 1155.76,-36.64"/>
+<text text-anchor="middle" x="1443.13" y="-169.21" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- nz0.EntityCloseBossRoom -->
-<g id="node11" class="node">
+<g id="node9" class="node">
 <title>nz0.EntityCloseBossRoom</title>
-<g id="a_node11"><a xlink:href="nz0.EntityCloseBossRoom.svg" xlink:title="nz0.EntityCloseBossRoom">
-<ellipse fill="red" stroke="black" cx="2277.49" cy="-198" rx="132.68" ry="18"/>
-<text text-anchor="middle" x="2277.49" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityCloseBossRoom</text>
+<g id="a_node9"><a xlink:href="nz0.EntityCloseBossRoom.svg" xlink:title="nz0.EntityCloseBossRoom">
+<ellipse fill="red" stroke="black" cx="1772.79" cy="-198" rx="132.68" ry="18"/>
+<text text-anchor="middle" x="1772.79" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityCloseBossRoom</text>
 </a>
 </g>
 </g>
 <!-- nz0.EntityCloseBossRoom&#45;&gt;dra.TimeAttackController -->
-<g id="edge10" class="edge">
+<g id="edge8" class="edge">
 <title>nz0.EntityCloseBossRoom&#45;&gt;dra.TimeAttackController</title>
-<path fill="none" stroke="black" d="M2193.76,-183.98C1985.18,-151.56 1443.58,-67.36 1225.49,-33.46"/>
-<polygon fill="black" stroke="black" points="1225.77,-29.96 1215.35,-31.88 1224.7,-36.88 1225.77,-29.96"/>
-<text text-anchor="middle" x="2188.76" y="-172.78" font-family="Times,serif" font-size="14.00">3</text>
+<path fill="none" stroke="black" d="M1715.78,-181.67C1593.66,-148.84 1307.41,-71.87 1177.28,-36.88"/>
+<polygon fill="black" stroke="black" points="1178,-33.45 1167.43,-34.23 1176.18,-40.21 1178,-33.45"/>
+<text text-anchor="middle" x="1710.78" y="-170.47" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- st0.EntityDracula -->
+<g id="node10" class="node">
+<title>st0.EntityDracula</title>
+<g id="a_node10"><a xlink:href="st0.EntityDracula.svg" xlink:title="st0.EntityDracula">
+<ellipse fill="red" stroke="black" cx="2016.79" cy="-198" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="2016.79" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDracula</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityDracula&#45;&gt;dra.TimeAttackController -->
+<g id="edge9" class="edge">
+<title>st0.EntityDracula&#45;&gt;dra.TimeAttackController</title>
+<path fill="none" stroke="black" d="M1954.16,-184.7C1794.26,-153.28 1371.01,-70.12 1192.27,-35.01"/>
+<polygon fill="black" stroke="black" points="1192.89,-31.56 1182.4,-33.07 1191.54,-38.43 1192.89,-31.56"/>
+<text text-anchor="middle" x="1949.16" y="-173.5" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- st0.EntityDraculaFinalForm -->
+<g id="node11" class="node">
+<title>st0.EntityDraculaFinalForm</title>
+<g id="a_node11"><a xlink:href="st0.EntityDraculaFinalForm.svg" xlink:title="st0.EntityDraculaFinalForm">
+<ellipse fill="red" stroke="black" cx="2268.79" cy="-198" rx="141.07" ry="18"/>
+<text text-anchor="middle" x="2268.79" y="-194.3" font-family="Times,serif" font-size="14.00">st0.EntityDraculaFinalForm</text>
+</a>
+</g>
+</g>
+<!-- st0.EntityDraculaFinalForm&#45;&gt;dra.TimeAttackController -->
+<g id="edge10" class="edge">
+<title>st0.EntityDraculaFinalForm&#45;&gt;dra.TimeAttackController</title>
+<path fill="none" stroke="black" d="M2182.23,-183.69C1969.79,-151.04 1424.08,-67.16 1204.44,-33.39"/>
+<polygon fill="black" stroke="black" points="1204.64,-29.89 1194.23,-31.83 1203.58,-36.8 1204.64,-29.89"/>
+<text text-anchor="middle" x="2177.23" y="-172.49" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

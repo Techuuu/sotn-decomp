@@ -5,95 +5,95 @@
  -->
 <!-- Title: w_042.func_ptr_80170004 Pages: 1 -->
 <svg width="1277pt" height="224pt"
- viewBox="0.00 0.00 1277.27 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1277.08 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>w_042.func_ptr_80170004</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1273.27,-220 1273.27,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1273.08,-220 1273.08,4 -4,4"/>
 <!-- w_042.func_ptr_80170004 -->
 <g id="node1" class="node">
 <title>w_042.func_ptr_80170004</title>
-<ellipse fill="red" stroke="black" cx="638.29" cy="-198" rx="133.48" ry="18"/>
-<text text-anchor="middle" x="638.29" y="-194.3" font-family="Times,serif" font-size="14.00">w_042.func_ptr_80170004</text>
+<ellipse fill="red" stroke="black" cx="524.09" cy="-198" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="524.09" y="-194.3" font-family="Times,serif" font-size="14.00">w_042.func_ptr_80170004</text>
 </g>
-<!-- w_042.SetWeaponProperties -->
+<!-- dra.UpdateAnim -->
 <g id="node2" class="node">
-<title>w_042.SetWeaponProperties</title>
-<g id="a_node2"><a xlink:href="w_042.SetWeaponProperties.svg" xlink:title="w_042.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="144.29" cy="-18" rx="144.07" ry="18"/>
-<text text-anchor="middle" x="144.29" y="-14.3" font-family="Times,serif" font-size="14.00">w_042.SetWeaponProperties</text>
+<title>dra.UpdateAnim</title>
+<g id="a_node2"><a xlink:href="dra.UpdateAnim.svg" xlink:title="dra.UpdateAnim">
+<ellipse fill="green" stroke="black" cx="87.09" cy="-18" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="87.09" y="-14.3" font-family="Times,serif" font-size="14.00">dra.UpdateAnim</text>
 </a>
 </g>
 </g>
-<!-- w_042.func_ptr_80170004&#45;&gt;w_042.SetWeaponProperties -->
+<!-- w_042.func_ptr_80170004&#45;&gt;dra.UpdateAnim -->
 <g id="edge1" class="edge">
-<title>w_042.func_ptr_80170004&#45;&gt;w_042.SetWeaponProperties</title>
-<path fill="none" stroke="black" d="M593.58,-180.89C502.79,-148.18 297.11,-74.07 198.72,-38.61"/>
-<polygon fill="black" stroke="black" points="199.85,-35.3 189.25,-35.2 197.47,-41.88 199.85,-35.3"/>
-<text text-anchor="middle" x="184.25" y="-39" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_042.func_ptr_80170004&#45;&gt;dra.UpdateAnim</title>
+<path fill="none" stroke="black" d="M484.15,-180.73C403.22,-147.77 220.26,-73.24 133.89,-38.06"/>
+<polygon fill="black" stroke="black" points="135.18,-34.81 124.6,-34.28 132.54,-41.29 135.18,-34.81"/>
+<text text-anchor="middle" x="119.6" y="-38.08" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_8011AAFC -->
 <g id="node3" class="node">
 <title>dra.func_8011AAFC</title>
 <g id="a_node3"><a xlink:href="dra.func_8011AAFC.svg" xlink:title="dra.func_8011AAFC">
-<ellipse fill="green" stroke="black" cx="409.29" cy="-18" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="409.29" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_8011AAFC</text>
+<ellipse fill="green" stroke="black" cx="295.09" cy="-18" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="295.09" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_8011AAFC</text>
 </a>
 </g>
 </g>
 <!-- w_042.func_ptr_80170004&#45;&gt;dra.func_8011AAFC -->
 <g id="edge2" class="edge">
 <title>w_042.func_ptr_80170004&#45;&gt;dra.func_8011AAFC</title>
-<path fill="none" stroke="black" d="M616.33,-179.93C574.93,-147.75 485.33,-78.11 438.75,-41.9"/>
-<polygon fill="black" stroke="black" points="440.89,-39.13 430.84,-35.76 436.59,-44.66 440.89,-39.13"/>
-<text text-anchor="middle" x="425.84" y="-39.56" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M502.13,-179.93C460.74,-147.75 371.13,-78.11 324.55,-41.9"/>
+<polygon fill="black" stroke="black" points="326.69,-39.13 316.65,-35.76 322.4,-44.66 326.69,-39.13"/>
+<text text-anchor="middle" x="311.65" y="-39.56" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- w_042.DestroyEntity -->
 <g id="node4" class="node">
 <title>w_042.DestroyEntity</title>
 <g id="a_node4"><a xlink:href="w_042.DestroyEntity.svg" xlink:title="w_042.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="638.29" cy="-18" rx="108.58" ry="18"/>
-<text text-anchor="middle" x="638.29" y="-14.3" font-family="Times,serif" font-size="14.00">w_042.DestroyEntity</text>
+<ellipse fill="red" stroke="black" cx="524.09" cy="-18" rx="108.58" ry="18"/>
+<text text-anchor="middle" x="524.09" y="-14.3" font-family="Times,serif" font-size="14.00">w_042.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- w_042.func_ptr_80170004&#45;&gt;w_042.DestroyEntity -->
 <g id="edge3" class="edge">
 <title>w_042.func_ptr_80170004&#45;&gt;w_042.DestroyEntity</title>
-<path fill="none" stroke="black" d="M638.29,-179.93C638.29,-148.97 638.29,-83.3 638.29,-46.13"/>
-<polygon fill="black" stroke="black" points="641.79,-46.02 638.29,-36.02 634.79,-46.02 641.79,-46.02"/>
-<text text-anchor="middle" x="633.29" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M524.09,-179.93C524.09,-148.97 524.09,-83.3 524.09,-46.13"/>
+<polygon fill="black" stroke="black" points="527.59,-46.02 524.09,-36.02 520.59,-46.02 527.59,-46.02"/>
+<text text-anchor="middle" x="519.09" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.UpdateAnim -->
+<!-- w_042.SetWeaponProperties -->
 <g id="node5" class="node">
-<title>dra.UpdateAnim</title>
-<g id="a_node5"><a xlink:href="dra.UpdateAnim.svg" xlink:title="dra.UpdateAnim">
-<ellipse fill="green" stroke="black" cx="852.29" cy="-18" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="852.29" y="-14.3" font-family="Times,serif" font-size="14.00">dra.UpdateAnim</text>
+<title>w_042.SetWeaponProperties</title>
+<g id="a_node5"><a xlink:href="w_042.SetWeaponProperties.svg" xlink:title="w_042.SetWeaponProperties">
+<ellipse fill="red" stroke="black" cx="795.09" cy="-18" rx="144.07" ry="18"/>
+<text text-anchor="middle" x="795.09" y="-14.3" font-family="Times,serif" font-size="14.00">w_042.SetWeaponProperties</text>
 </a>
 </g>
 </g>
-<!-- w_042.func_ptr_80170004&#45;&gt;dra.UpdateAnim -->
+<!-- w_042.func_ptr_80170004&#45;&gt;w_042.SetWeaponProperties -->
 <g id="edge4" class="edge">
-<title>w_042.func_ptr_80170004&#45;&gt;dra.UpdateAnim</title>
-<path fill="none" stroke="black" d="M658.81,-179.93C697.33,-147.89 780.53,-78.68 824.21,-42.35"/>
-<polygon fill="black" stroke="black" points="826.69,-44.84 832.14,-35.76 822.22,-39.46 826.69,-44.84"/>
-<text text-anchor="middle" x="827.14" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<title>w_042.func_ptr_80170004&#45;&gt;w_042.SetWeaponProperties</title>
+<path fill="none" stroke="black" d="M549.59,-180.25C598.61,-148.05 706.05,-77.49 761.1,-41.33"/>
+<polygon fill="black" stroke="black" points="763.03,-44.25 769.47,-35.83 759.19,-38.4 763.03,-44.25"/>
+<text text-anchor="middle" x="764.47" y="-39.63" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- w_042.func_12A000_8017AC08 -->
 <g id="node6" class="node">
 <title>w_042.func_12A000_8017AC08</title>
 <g id="a_node6"><a xlink:href="w_042.func_12A000_8017AC08.svg" xlink:title="w_042.func_12A000_8017AC08">
-<ellipse fill="red" stroke="black" cx="1113.29" cy="-18" rx="155.97" ry="18"/>
-<text text-anchor="middle" x="1113.29" y="-14.3" font-family="Times,serif" font-size="14.00">w_042.func_12A000_8017AC08</text>
+<ellipse fill="red" stroke="black" cx="1113.09" cy="-18" rx="155.97" ry="18"/>
+<text text-anchor="middle" x="1113.09" y="-14.3" font-family="Times,serif" font-size="14.00">w_042.func_12A000_8017AC08</text>
 </a>
 </g>
 </g>
 <!-- w_042.func_ptr_80170004&#45;&gt;w_042.func_12A000_8017AC08 -->
 <g id="edge5" class="edge">
 <title>w_042.func_ptr_80170004&#45;&gt;w_042.func_12A000_8017AC08</title>
-<path fill="none" stroke="black" d="M681.28,-180.89C768.38,-148.25 965.44,-74.4 1060.3,-38.85"/>
-<polygon fill="black" stroke="black" points="1061.57,-42.12 1069.71,-35.33 1059.12,-35.56 1061.57,-42.12"/>
-<text text-anchor="middle" x="1064.71" y="-39.13" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M575.85,-181.36C683.86,-148.72 932.96,-73.44 1050.08,-38.04"/>
+<polygon fill="black" stroke="black" points="1051.42,-41.3 1059.97,-35.05 1049.39,-34.59 1051.42,-41.3"/>
+<text text-anchor="middle" x="1054.97" y="-38.85" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

@@ -5,175 +5,175 @@
  -->
 <!-- Title: no3.EntityRelicOrb Pages: 1 -->
 <svg width="1998pt" height="224pt"
- viewBox="0.00 0.00 1998.08 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1998.04 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>no3.EntityRelicOrb</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1994.08,-220 1994.08,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 1994.04,-220 1994.04,4 -4,4"/>
 <!-- no3.EntityRelicOrb -->
 <g id="node1" class="node">
 <title>no3.EntityRelicOrb</title>
-<ellipse fill="red" stroke="black" cx="1033.09" cy="-198" rx="100.18" ry="18"/>
-<text text-anchor="middle" x="1033.09" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntityRelicOrb</text>
+<ellipse fill="red" stroke="black" cx="930.34" cy="-198" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="930.34" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntityRelicOrb</text>
 </g>
-<!-- no3.InitializeEntity -->
+<!-- ClearImage -->
 <g id="node2" class="node">
-<title>no3.InitializeEntity</title>
-<g id="a_node2"><a xlink:href="no3.InitializeEntity.svg" xlink:title="no3.InitializeEntity">
-<ellipse fill="green" stroke="black" cx="100.09" cy="-18" rx="100.18" ry="18"/>
-<text text-anchor="middle" x="100.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3.InitializeEntity</text>
+<title>ClearImage</title>
+<g id="a_node2"><a xlink:href="ClearImage.svg" xlink:title="ClearImage">
+<ellipse fill="lightblue" stroke="black" cx="64.34" cy="-18" rx="64.19" ry="18"/>
+<text text-anchor="middle" x="64.34" y="-14.3" font-family="Times,serif" font-size="14.00">ClearImage</text>
 </a>
 </g>
 </g>
-<!-- no3.EntityRelicOrb&#45;&gt;no3.InitializeEntity -->
+<!-- no3.EntityRelicOrb&#45;&gt;ClearImage -->
 <g id="edge1" class="edge">
-<title>no3.EntityRelicOrb&#45;&gt;no3.InitializeEntity</title>
-<path fill="none" stroke="black" d="M967.11,-184.41C798.88,-152.32 354.61,-67.56 176.02,-33.49"/>
-<polygon fill="black" stroke="black" points="176.65,-30.04 166.18,-31.61 175.34,-36.92 176.65,-30.04"/>
-<text text-anchor="middle" x="161.18" y="-35.41" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityRelicOrb&#45;&gt;ClearImage</title>
+<path fill="none" stroke="black" d="M864.68,-184.33C728.71,-157.94 406.55,-94.66 137.34,-36 132.31,-34.9 127.08,-33.74 121.85,-32.55"/>
+<polygon fill="black" stroke="black" points="122.34,-29.08 111.81,-30.26 120.78,-35.9 122.34,-29.08"/>
+<text text-anchor="middle" x="106.81" y="-34.06" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- LoadTPage -->
+<g id="node3" class="node">
+<title>LoadTPage</title>
+<g id="a_node3"><a xlink:href="LoadTPage.svg" xlink:title="LoadTPage">
+<ellipse fill="lightblue" stroke="black" cx="208.34" cy="-18" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="208.34" y="-14.3" font-family="Times,serif" font-size="14.00">LoadTPage</text>
+</a>
+</g>
+</g>
+<!-- no3.EntityRelicOrb&#45;&gt;LoadTPage -->
+<g id="edge2" class="edge">
+<title>no3.EntityRelicOrb&#45;&gt;LoadTPage</title>
+<path fill="none" stroke="black" d="M873.99,-183.11C738.95,-149.81 398.14,-65.79 263.9,-32.7"/>
+<polygon fill="black" stroke="black" points="264.39,-29.21 253.84,-30.22 262.71,-36.01 264.39,-29.21"/>
+<text text-anchor="middle" x="248.84" y="-34.02" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.AllocPrimitives -->
-<g id="node3" class="node">
+<g id="node4" class="node">
 <title>dra.AllocPrimitives</title>
-<g id="a_node3"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
-<ellipse fill="green" stroke="black" cx="318.09" cy="-18" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="318.09" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
+<g id="a_node4"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
+<ellipse fill="green" stroke="black" cx="387.34" cy="-18" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="387.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityRelicOrb&#45;&gt;dra.AllocPrimitives -->
-<g id="edge2" class="edge">
+<g id="edge3" class="edge">
 <title>no3.EntityRelicOrb&#45;&gt;dra.AllocPrimitives</title>
-<path fill="none" stroke="black" d="M976.99,-183.03C846.46,-150.54 522.97,-70 383.64,-35.32"/>
-<polygon fill="black" stroke="black" points="384.48,-31.92 373.94,-32.9 382.79,-38.71 384.48,-31.92"/>
-<text text-anchor="middle" x="368.94" y="-36.7" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M884.52,-181.98C785.22,-149.43 550.49,-72.48 442.93,-37.22"/>
+<polygon fill="black" stroke="black" points="443.83,-33.83 433.24,-34.05 441.65,-40.49 443.83,-33.83"/>
+<text text-anchor="middle" x="428.24" y="-37.85" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.LoadEquipIcon -->
-<g id="node4" class="node">
+<g id="node5" class="node">
 <title>dra.LoadEquipIcon</title>
-<g id="a_node4"><a xlink:href="dra.LoadEquipIcon.svg" xlink:title="dra.LoadEquipIcon">
-<ellipse fill="green" stroke="black" cx="534.09" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="534.09" y="-14.3" font-family="Times,serif" font-size="14.00">dra.LoadEquipIcon</text>
+<g id="a_node5"><a xlink:href="dra.LoadEquipIcon.svg" xlink:title="dra.LoadEquipIcon">
+<ellipse fill="green" stroke="black" cx="603.34" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="603.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.LoadEquipIcon</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityRelicOrb&#45;&gt;dra.LoadEquipIcon -->
-<g id="edge3" class="edge">
-<title>no3.EntityRelicOrb&#45;&gt;dra.LoadEquipIcon</title>
-<path fill="none" stroke="black" d="M990.11,-181.67C898.83,-149.11 685.85,-73.14 586.66,-37.75"/>
-<polygon fill="black" stroke="black" points="587.74,-34.42 577.14,-34.36 585.38,-41.01 587.74,-34.42"/>
-<text text-anchor="middle" x="572.14" y="-38.16" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- no3.MoveEntity -->
-<g id="node5" class="node">
-<title>no3.MoveEntity</title>
-<g id="a_node5"><a xlink:href="no3.MoveEntity.svg" xlink:title="no3.MoveEntity">
-<ellipse fill="green" stroke="black" cx="736.09" cy="-18" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="736.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3.MoveEntity</text>
-</a>
-</g>
-</g>
-<!-- no3.EntityRelicOrb&#45;&gt;no3.MoveEntity -->
 <g id="edge4" class="edge">
-<title>no3.EntityRelicOrb&#45;&gt;no3.MoveEntity</title>
-<path fill="none" stroke="black" d="M1005.68,-180.57C951.73,-148.24 831.79,-76.35 771.76,-40.38"/>
-<polygon fill="black" stroke="black" points="773.38,-37.27 763,-35.13 769.78,-43.27 773.38,-37.27"/>
-<text text-anchor="middle" x="758" y="-38.93" font-family="Times,serif" font-size="14.00">1</text>
+<title>no3.EntityRelicOrb&#45;&gt;dra.LoadEquipIcon</title>
+<path fill="none" stroke="black" d="M900.46,-180.73C841.13,-148.44 708.52,-76.25 642.39,-40.25"/>
+<polygon fill="black" stroke="black" points="643.97,-37.13 633.52,-35.42 640.63,-43.28 643.97,-37.13"/>
+<text text-anchor="middle" x="628.52" y="-39.22" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_800FE044 -->
 <g id="node6" class="node">
 <title>dra.func_800FE044</title>
 <g id="a_node6"><a xlink:href="dra.func_800FE044.svg" xlink:title="dra.func_800FE044">
-<ellipse fill="green" stroke="black" cx="941.09" cy="-18" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="941.09" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800FE044</text>
+<ellipse fill="green" stroke="black" cx="822.34" cy="-18" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="822.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800FE044</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityRelicOrb&#45;&gt;dra.func_800FE044 -->
 <g id="edge5" class="edge">
 <title>no3.EntityRelicOrb&#45;&gt;dra.func_800FE044</title>
-<path fill="none" stroke="black" d="M1024.27,-179.93C1008.13,-148.7 973.74,-82.17 954.62,-45.18"/>
-<polygon fill="black" stroke="black" points="957.59,-43.29 949.89,-36.02 951.37,-46.51 957.59,-43.29"/>
-<text text-anchor="middle" x="944.89" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- ClearImage -->
-<g id="node7" class="node">
-<title>ClearImage</title>
-<g id="a_node7"><a xlink:href="ClearImage.svg" xlink:title="ClearImage">
-<ellipse fill="lightblue" stroke="black" cx="1125.09" cy="-18" rx="64.19" ry="18"/>
-<text text-anchor="middle" x="1125.09" y="-14.3" font-family="Times,serif" font-size="14.00">ClearImage</text>
-</a>
-</g>
-</g>
-<!-- no3.EntityRelicOrb&#45;&gt;ClearImage -->
-<g id="edge6" class="edge">
-<title>no3.EntityRelicOrb&#45;&gt;ClearImage</title>
-<path fill="none" stroke="black" d="M1041.91,-179.93C1058.05,-148.7 1092.44,-82.17 1111.56,-45.18"/>
-<polygon fill="black" stroke="black" points="1114.81,-46.51 1116.3,-36.02 1108.6,-43.29 1114.81,-46.51"/>
-<text text-anchor="middle" x="1111.3" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- no3.func_801C7680 -->
-<g id="node8" class="node">
-<title>no3.func_801C7680</title>
-<g id="a_node8"><a xlink:href="no3.func_801C7680.svg" xlink:title="no3.func_801C7680">
-<ellipse fill="red" stroke="black" cx="1310.09" cy="-18" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="1310.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3.func_801C7680</text>
-</a>
-</g>
-</g>
-<!-- no3.EntityRelicOrb&#45;&gt;no3.func_801C7680 -->
-<g id="edge7" class="edge">
-<title>no3.EntityRelicOrb&#45;&gt;no3.func_801C7680</title>
-<path fill="none" stroke="black" d="M1058.65,-180.57C1108.62,-148.47 1219.25,-77.37 1275.62,-41.15"/>
-<polygon fill="black" stroke="black" points="1277.67,-44 1284.19,-35.65 1273.88,-38.11 1277.67,-44"/>
-<text text-anchor="middle" x="1279.19" y="-39.45" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- LoadTPage -->
-<g id="node9" class="node">
-<title>LoadTPage</title>
-<g id="a_node9"><a xlink:href="LoadTPage.svg" xlink:title="LoadTPage">
-<ellipse fill="lightblue" stroke="black" cx="1492.09" cy="-18" rx="61.99" ry="18"/>
-<text text-anchor="middle" x="1492.09" y="-14.3" font-family="Times,serif" font-size="14.00">LoadTPage</text>
-</a>
-</g>
-</g>
-<!-- no3.EntityRelicOrb&#45;&gt;LoadTPage -->
-<g id="edge8" class="edge">
-<title>no3.EntityRelicOrb&#45;&gt;LoadTPage</title>
-<path fill="none" stroke="black" d="M1073.42,-181.36C1158.9,-148.21 1357.77,-71.09 1447.16,-36.42"/>
-<polygon fill="black" stroke="black" points="1448.43,-39.69 1456.49,-32.81 1445.9,-33.16 1448.43,-39.69"/>
-<text text-anchor="middle" x="1451.49" y="-36.61" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M919.99,-179.93C900.96,-148.57 860.33,-81.6 837.94,-44.71"/>
+<polygon fill="black" stroke="black" points="840.85,-42.75 832.67,-36.02 834.86,-46.38 840.85,-42.75"/>
+<text text-anchor="middle" x="827.67" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- no3.DestroyEntity -->
-<g id="node10" class="node">
+<g id="node7" class="node">
 <title>no3.DestroyEntity</title>
-<g id="a_node10"><a xlink:href="no3.DestroyEntity.svg" xlink:title="no3.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="1668.09" cy="-18" rx="96.38" ry="18"/>
-<text text-anchor="middle" x="1668.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3.DestroyEntity</text>
+<g id="a_node7"><a xlink:href="no3.DestroyEntity.svg" xlink:title="no3.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="1038.34" cy="-18" rx="96.38" ry="18"/>
+<text text-anchor="middle" x="1038.34" y="-14.3" font-family="Times,serif" font-size="14.00">no3.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityRelicOrb&#45;&gt;no3.DestroyEntity -->
-<g id="edge9" class="edge">
+<g id="edge6" class="edge">
 <title>no3.EntityRelicOrb&#45;&gt;no3.DestroyEntity</title>
-<path fill="none" stroke="black" d="M1084.79,-182.51C1201.11,-149.9 1482.98,-70.89 1607.37,-36.02"/>
-<polygon fill="black" stroke="black" points="1608.44,-39.36 1617.13,-33.29 1606.55,-32.62 1608.44,-39.36"/>
-<text text-anchor="middle" x="1612.13" y="-37.09" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M940.7,-179.93C959.73,-148.57 1000.36,-81.6 1022.75,-44.71"/>
+<polygon fill="black" stroke="black" points="1025.83,-46.38 1028.02,-36.02 1019.84,-42.75 1025.83,-46.38"/>
+<text text-anchor="middle" x="1023.02" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- no3.InitializeEntity -->
+<g id="node8" class="node">
+<title>no3.InitializeEntity</title>
+<g id="a_node8"><a xlink:href="no3.InitializeEntity.svg" xlink:title="no3.InitializeEntity">
+<ellipse fill="green" stroke="black" cx="1252.34" cy="-18" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="1252.34" y="-14.3" font-family="Times,serif" font-size="14.00">no3.InitializeEntity</text>
+</a>
+</g>
+</g>
+<!-- no3.EntityRelicOrb&#45;&gt;no3.InitializeEntity -->
+<g id="edge7" class="edge">
+<title>no3.EntityRelicOrb&#45;&gt;no3.InitializeEntity</title>
+<path fill="none" stroke="black" d="M959.77,-180.73C1018.08,-148.5 1148.25,-76.55 1213.49,-40.48"/>
+<polygon fill="black" stroke="black" points="1215.58,-43.32 1222.63,-35.42 1212.19,-37.2 1215.58,-43.32"/>
+<text text-anchor="middle" x="1217.63" y="-39.22" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- no3.MoveEntity -->
+<g id="node9" class="node">
+<title>no3.MoveEntity</title>
+<g id="a_node9"><a xlink:href="no3.MoveEntity.svg" xlink:title="no3.MoveEntity">
+<ellipse fill="green" stroke="black" cx="1455.34" cy="-18" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="1455.34" y="-14.3" font-family="Times,serif" font-size="14.00">no3.MoveEntity</text>
+</a>
+</g>
+</g>
+<!-- no3.EntityRelicOrb&#45;&gt;no3.MoveEntity -->
+<g id="edge8" class="edge">
+<title>no3.EntityRelicOrb&#45;&gt;no3.MoveEntity</title>
+<path fill="none" stroke="black" d="M975.11,-181.82C1071.67,-149.08 1299.18,-71.95 1402.56,-36.9"/>
+<polygon fill="black" stroke="black" points="1403.83,-40.16 1412.17,-33.64 1401.58,-33.53 1403.83,-40.16"/>
+<text text-anchor="middle" x="1407.17" y="-37.44" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- no3.func_801C6FF4 -->
-<g id="node11" class="node">
+<g id="node10" class="node">
 <title>no3.func_801C6FF4</title>
-<g id="a_node11"><a xlink:href="no3.func_801C6FF4.svg" xlink:title="no3.func_801C6FF4">
-<ellipse fill="green" stroke="black" cx="1886.09" cy="-18" rx="103.98" ry="18"/>
-<text text-anchor="middle" x="1886.09" y="-14.3" font-family="Times,serif" font-size="14.00">no3.func_801C6FF4</text>
+<g id="a_node10"><a xlink:href="no3.func_801C6FF4.svg" xlink:title="no3.func_801C6FF4">
+<ellipse fill="green" stroke="black" cx="1662.34" cy="-18" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="1662.34" y="-14.3" font-family="Times,serif" font-size="14.00">no3.func_801C6FF4</text>
 </a>
 </g>
 </g>
 <!-- no3.EntityRelicOrb&#45;&gt;no3.func_801C6FF4 -->
-<g id="edge10" class="edge">
+<g id="edge9" class="edge">
 <title>no3.EntityRelicOrb&#45;&gt;no3.func_801C6FF4</title>
-<path fill="none" stroke="black" d="M1095.81,-183.91C1250.04,-151.73 1647.19,-68.85 1812.34,-34.39"/>
-<polygon fill="black" stroke="black" points="1813.33,-37.76 1822.41,-32.29 1811.9,-30.91 1813.33,-37.76"/>
-<text text-anchor="middle" x="1817.41" y="-36.09" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M987.17,-183.18C1120.28,-150.81 1451.74,-70.21 1594.82,-35.42"/>
+<polygon fill="black" stroke="black" points="1595.9,-38.76 1604.79,-32.99 1594.25,-31.96 1595.9,-38.76"/>
+<text text-anchor="middle" x="1599.79" y="-36.79" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- no3.func_801C7680 -->
+<g id="node11" class="node">
+<title>no3.func_801C7680</title>
+<g id="a_node11"><a xlink:href="no3.func_801C7680.svg" xlink:title="no3.func_801C7680">
+<ellipse fill="red" stroke="black" cx="1887.34" cy="-18" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="1887.34" y="-14.3" font-family="Times,serif" font-size="14.00">no3.func_801C7680</text>
+</a>
+</g>
+</g>
+<!-- no3.EntityRelicOrb&#45;&gt;no3.func_801C7680 -->
+<g id="edge10" class="edge">
+<title>no3.EntityRelicOrb&#45;&gt;no3.func_801C7680</title>
+<path fill="none" stroke="black" d="M997.26,-184.55C1169.29,-152.56 1626.28,-67.56 1809.63,-33.45"/>
+<polygon fill="black" stroke="black" points="1810.54,-36.85 1819.73,-31.58 1809.26,-29.96 1810.54,-36.85"/>
+<text text-anchor="middle" x="1814.73" y="-35.38" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

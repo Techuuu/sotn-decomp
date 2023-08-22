@@ -5,63 +5,63 @@
  -->
 <!-- Title: cen.EntityNumericDamage Pages: 1 -->
 <svg width="630pt" height="224pt"
- viewBox="0.00 0.00 629.68 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 630.33 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>cen.EntityNumericDamage</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 625.68,-220 625.68,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 626.33,-220 626.33,4 -4,4"/>
 <!-- cen.EntityNumericDamage -->
 <g id="node1" class="node">
 <title>cen.EntityNumericDamage</title>
-<ellipse fill="red" stroke="black" cx="314.79" cy="-198" rx="136.48" ry="18"/>
-<text text-anchor="middle" x="314.79" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityNumericDamage</text>
-</g>
-<!-- cen.InitializeEntity -->
-<g id="node2" class="node">
-<title>cen.InitializeEntity</title>
-<g id="a_node2"><a xlink:href="cen.InitializeEntity.svg" xlink:title="cen.InitializeEntity">
-<ellipse fill="red" stroke="black" cx="98.79" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="98.79" y="-14.3" font-family="Times,serif" font-size="14.00">cen.InitializeEntity</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityNumericDamage&#45;&gt;cen.InitializeEntity -->
-<g id="edge1" class="edge">
-<title>cen.EntityNumericDamage&#45;&gt;cen.InitializeEntity</title>
-<path fill="none" stroke="black" d="M294.08,-179.93C255.11,-147.82 170.87,-78.39 126.85,-42.13"/>
-<polygon fill="black" stroke="black" points="129.07,-39.41 119.12,-35.76 124.62,-44.82 129.07,-39.41"/>
-<text text-anchor="middle" x="114.12" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.AllocPrimitives -->
-<g id="node3" class="node">
-<title>dra.AllocPrimitives</title>
-<g id="a_node3"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
-<ellipse fill="green" stroke="black" cx="314.79" cy="-18" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="314.79" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
-</a>
-</g>
-</g>
-<!-- cen.EntityNumericDamage&#45;&gt;dra.AllocPrimitives -->
-<g id="edge2" class="edge">
-<title>cen.EntityNumericDamage&#45;&gt;dra.AllocPrimitives</title>
-<path fill="none" stroke="black" d="M314.79,-179.93C314.79,-148.97 314.79,-83.3 314.79,-46.13"/>
-<polygon fill="black" stroke="black" points="318.29,-46.02 314.79,-36.02 311.29,-46.02 318.29,-46.02"/>
-<text text-anchor="middle" x="309.79" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="red" stroke="black" cx="306.89" cy="-198" rx="136.48" ry="18"/>
+<text text-anchor="middle" x="306.89" y="-194.3" font-family="Times,serif" font-size="14.00">cen.EntityNumericDamage</text>
 </g>
 <!-- cen.DestroyEntity -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>cen.DestroyEntity</title>
-<g id="a_node4"><a xlink:href="cen.DestroyEntity.svg" xlink:title="cen.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="526.79" cy="-18" rx="94.78" ry="18"/>
-<text text-anchor="middle" x="526.79" y="-14.3" font-family="Times,serif" font-size="14.00">cen.DestroyEntity</text>
+<g id="a_node2"><a xlink:href="cen.DestroyEntity.svg" xlink:title="cen.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="94.89" cy="-18" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="94.89" y="-14.3" font-family="Times,serif" font-size="14.00">cen.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- cen.EntityNumericDamage&#45;&gt;cen.DestroyEntity -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>cen.EntityNumericDamage&#45;&gt;cen.DestroyEntity</title>
-<path fill="none" stroke="black" d="M335.12,-179.93C373.28,-147.89 455.71,-78.68 498.98,-42.35"/>
-<polygon fill="black" stroke="black" points="501.43,-44.87 506.83,-35.76 496.93,-39.51 501.43,-44.87"/>
-<text text-anchor="middle" x="501.83" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M286.56,-179.93C248.4,-147.89 165.97,-78.68 122.7,-42.35"/>
+<polygon fill="black" stroke="black" points="124.76,-39.51 114.85,-35.76 120.26,-44.87 124.76,-39.51"/>
+<text text-anchor="middle" x="109.85" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- cen.InitializeEntity -->
+<g id="node3" class="node">
+<title>cen.InitializeEntity</title>
+<g id="a_node3"><a xlink:href="cen.InitializeEntity.svg" xlink:title="cen.InitializeEntity">
+<ellipse fill="red" stroke="black" cx="306.89" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="306.89" y="-14.3" font-family="Times,serif" font-size="14.00">cen.InitializeEntity</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityNumericDamage&#45;&gt;cen.InitializeEntity -->
+<g id="edge2" class="edge">
+<title>cen.EntityNumericDamage&#45;&gt;cen.InitializeEntity</title>
+<path fill="none" stroke="black" d="M306.89,-179.93C306.89,-148.97 306.89,-83.3 306.89,-46.13"/>
+<polygon fill="black" stroke="black" points="310.39,-46.02 306.89,-36.02 303.39,-46.02 310.39,-46.02"/>
+<text text-anchor="middle" x="301.89" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.AllocPrimitives -->
+<g id="node4" class="node">
+<title>dra.AllocPrimitives</title>
+<g id="a_node4"><a xlink:href="dra.AllocPrimitives.svg" xlink:title="dra.AllocPrimitives">
+<ellipse fill="green" stroke="black" cx="522.89" cy="-18" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="522.89" y="-14.3" font-family="Times,serif" font-size="14.00">dra.AllocPrimitives</text>
+</a>
+</g>
+</g>
+<!-- cen.EntityNumericDamage&#45;&gt;dra.AllocPrimitives -->
+<g id="edge3" class="edge">
+<title>cen.EntityNumericDamage&#45;&gt;dra.AllocPrimitives</title>
+<path fill="none" stroke="black" d="M327.6,-179.93C366.57,-147.82 450.82,-78.39 494.83,-42.13"/>
+<polygon fill="black" stroke="black" points="497.07,-44.82 502.56,-35.76 492.62,-39.41 497.07,-44.82"/>
+<text text-anchor="middle" x="497.56" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

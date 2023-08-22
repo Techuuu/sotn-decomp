@@ -5,15 +5,15 @@
  -->
 <!-- Title: dre.GetSideToPlayer Pages: 1 -->
 <svg width="649pt" height="224pt"
- viewBox="0.00 0.00 649.48 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 649.18 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>dre.GetSideToPlayer</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 645.48,-220 645.48,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 645.18,-220 645.18,4 -4,4"/>
 <!-- dre.GetSideToPlayer -->
 <g id="node1" class="node">
 <title>dre.GetSideToPlayer</title>
-<ellipse fill="green" stroke="black" cx="316.79" cy="-18" rx="106.68" ry="18"/>
-<text text-anchor="middle" x="316.79" y="-14.3" font-family="Times,serif" font-size="14.00">dre.GetSideToPlayer</text>
+<ellipse fill="green" stroke="black" cx="317.79" cy="-18" rx="106.68" ry="18"/>
+<text text-anchor="middle" x="317.79" y="-14.3" font-family="Times,serif" font-size="14.00">dre.GetSideToPlayer</text>
 </g>
 <!-- dre.EntityRedDoor -->
 <g id="node2" class="node">
@@ -27,41 +27,41 @@
 <!-- dre.EntityRedDoor&#45;&gt;dre.GetSideToPlayer -->
 <g id="edge1" class="edge">
 <title>dre.EntityRedDoor&#45;&gt;dre.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M119.3,-180.25C158.41,-148.32 243.74,-78.65 288.34,-42.23"/>
-<polygon fill="black" stroke="black" points="290.65,-44.87 296.18,-35.83 286.22,-39.44 290.65,-44.87"/>
-<text text-anchor="middle" x="114.3" y="-169.05" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dre.func_80191B44 -->
-<g id="node3" class="node">
-<title>dre.func_80191B44</title>
-<g id="a_node3"><a xlink:href="dre.func_80191B44.svg" xlink:title="dre.func_80191B44">
-<ellipse fill="green" stroke="black" cx="316.79" cy="-198" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="316.79" y="-194.3" font-family="Times,serif" font-size="14.00">dre.func_80191B44</text>
-</a>
-</g>
-</g>
-<!-- dre.func_80191B44&#45;&gt;dre.GetSideToPlayer -->
-<g id="edge2" class="edge">
-<title>dre.func_80191B44&#45;&gt;dre.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M316.79,-179.93C316.79,-148.97 316.79,-83.3 316.79,-46.13"/>
-<polygon fill="black" stroke="black" points="320.29,-46.02 316.79,-36.02 313.29,-46.02 320.29,-46.02"/>
-<text text-anchor="middle" x="311.79" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M119.39,-180.25C158.69,-148.32 244.41,-78.65 289.21,-42.23"/>
+<polygon fill="black" stroke="black" points="291.53,-44.85 297.08,-35.83 287.12,-39.42 291.53,-44.85"/>
+<text text-anchor="middle" x="114.39" y="-169.05" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dre.EntitySuccubus -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>dre.EntitySuccubus</title>
-<g id="a_node4"><a xlink:href="dre.EntitySuccubus.svg" xlink:title="dre.EntitySuccubus">
-<ellipse fill="green" stroke="black" cx="538.79" cy="-198" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="538.79" y="-194.3" font-family="Times,serif" font-size="14.00">dre.EntitySuccubus</text>
+<g id="a_node3"><a xlink:href="dre.EntitySuccubus.svg" xlink:title="dre.EntitySuccubus">
+<ellipse fill="green" stroke="black" cx="317.79" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="317.79" y="-194.3" font-family="Times,serif" font-size="14.00">dre.EntitySuccubus</text>
 </a>
 </g>
 </g>
 <!-- dre.EntitySuccubus&#45;&gt;dre.GetSideToPlayer -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>dre.EntitySuccubus&#45;&gt;dre.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M517.91,-180.25C478.07,-148.32 391.18,-78.65 345.76,-42.23"/>
-<polygon fill="black" stroke="black" points="347.77,-39.36 337.78,-35.83 343.4,-44.82 347.77,-39.36"/>
-<text text-anchor="middle" x="512.91" y="-169.05" font-family="Times,serif" font-size="14.00">6</text>
+<path fill="none" stroke="black" d="M317.79,-179.93C317.79,-148.97 317.79,-83.3 317.79,-46.13"/>
+<polygon fill="black" stroke="black" points="321.29,-46.02 317.79,-36.02 314.29,-46.02 321.29,-46.02"/>
+<text text-anchor="middle" x="312.79" y="-168.73" font-family="Times,serif" font-size="14.00">6</text>
+</g>
+<!-- dre.func_80191B44 -->
+<g id="node4" class="node">
+<title>dre.func_80191B44</title>
+<g id="a_node4"><a xlink:href="dre.func_80191B44.svg" xlink:title="dre.func_80191B44">
+<ellipse fill="green" stroke="black" cx="539.79" cy="-198" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="539.79" y="-194.3" font-family="Times,serif" font-size="14.00">dre.func_80191B44</text>
+</a>
+</g>
+</g>
+<!-- dre.func_80191B44&#45;&gt;dre.GetSideToPlayer -->
+<g id="edge3" class="edge">
+<title>dre.func_80191B44&#45;&gt;dre.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M518.91,-180.25C479.07,-148.32 392.18,-78.65 346.76,-42.23"/>
+<polygon fill="black" stroke="black" points="348.77,-39.36 338.78,-35.83 344.4,-44.82 348.77,-39.36"/>
+<text text-anchor="middle" x="513.91" y="-169.05" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

@@ -5,207 +5,207 @@
  -->
 <!-- Title: nz0.GetSideToPlayer Pages: 1 -->
 <svg width="2897pt" height="224pt"
- viewBox="0.00 0.00 2897.33 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 2896.93 224.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 220)">
 <title>nz0.GetSideToPlayer</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 2893.33,-220 2893.33,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-220 2892.93,-220 2892.93,4 -4,4"/>
 <!-- nz0.GetSideToPlayer -->
 <g id="node1" class="node">
 <title>nz0.GetSideToPlayer</title>
-<ellipse fill="green" stroke="black" cx="1440.09" cy="-18" rx="107.78" ry="18"/>
-<text text-anchor="middle" x="1440.09" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.GetSideToPlayer</text>
+<ellipse fill="green" stroke="black" cx="1541.24" cy="-18" rx="107.78" ry="18"/>
+<text text-anchor="middle" x="1541.24" y="-14.3" font-family="Times,serif" font-size="14.00">nz0.GetSideToPlayer</text>
+</g>
+<!-- nz0.EntityAxeKnight -->
+<g id="node2" class="node">
+<title>nz0.EntityAxeKnight</title>
+<g id="a_node2"><a xlink:href="nz0.EntityAxeKnight.svg" xlink:title="nz0.EntityAxeKnight">
+<ellipse fill="green" stroke="black" cx="107.24" cy="-198" rx="107.48" ry="18"/>
+<text text-anchor="middle" x="107.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityAxeKnight</text>
+</a>
+</g>
+</g>
+<!-- nz0.EntityAxeKnight&#45;&gt;nz0.GetSideToPlayer -->
+<g id="edge1" class="edge">
+<title>nz0.EntityAxeKnight&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M184.26,-185.45C197.27,-183.57 210.63,-181.69 223.24,-180 679.78,-118.67 1226.65,-54.99 1444.66,-29.99"/>
+<polygon fill="black" stroke="black" points="1445.26,-33.45 1454.79,-28.83 1444.46,-26.49 1445.26,-33.45"/>
+<text text-anchor="middle" x="179.26" y="-174.25" font-family="Times,serif" font-size="14.00">4</text>
 </g>
 <!-- nz0.EntityBloodSkeleton -->
-<g id="node2" class="node">
+<g id="node3" class="node">
 <title>nz0.EntityBloodSkeleton</title>
-<g id="a_node2"><a xlink:href="nz0.EntityBloodSkeleton.svg" xlink:title="nz0.EntityBloodSkeleton">
-<ellipse fill="green" stroke="black" cx="126.09" cy="-198" rx="126.18" ry="18"/>
-<text text-anchor="middle" x="126.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityBloodSkeleton</text>
+<g id="a_node3"><a xlink:href="nz0.EntityBloodSkeleton.svg" xlink:title="nz0.EntityBloodSkeleton">
+<ellipse fill="green" stroke="black" cx="358.24" cy="-198" rx="126.18" ry="18"/>
+<text text-anchor="middle" x="358.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityBloodSkeleton</text>
 </a>
 </g>
 </g>
 <!-- nz0.EntityBloodSkeleton&#45;&gt;nz0.GetSideToPlayer -->
-<g id="edge1" class="edge">
-<title>nz0.EntityBloodSkeleton&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M214.09,-185.08C452.11,-152.84 1106.95,-64.13 1348.78,-31.37"/>
-<polygon fill="black" stroke="black" points="1349.51,-34.8 1358.95,-29.99 1348.57,-27.87 1349.51,-34.8"/>
-<text text-anchor="middle" x="209.09" y="-173.88" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- nz0.EntityMagicallySealedDoor -->
-<g id="node3" class="node">
-<title>nz0.EntityMagicallySealedDoor</title>
-<g id="a_node3"><a xlink:href="nz0.EntityMagicallySealedDoor.svg" xlink:title="nz0.EntityMagicallySealedDoor">
-<ellipse fill="red" stroke="black" cx="427.09" cy="-198" rx="157.07" ry="18"/>
-<text text-anchor="middle" x="427.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityMagicallySealedDoor</text>
-</a>
-</g>
-</g>
-<!-- nz0.EntityMagicallySealedDoor&#45;&gt;nz0.GetSideToPlayer -->
 <g id="edge2" class="edge">
-<title>nz0.EntityMagicallySealedDoor&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M509.13,-182.58C699.43,-149.15 1169.09,-66.62 1358.73,-33.3"/>
-<polygon fill="black" stroke="black" points="1359.39,-36.73 1368.63,-31.56 1358.18,-29.84 1359.39,-36.73"/>
-<text text-anchor="middle" x="504.13" y="-171.38" font-family="Times,serif" font-size="14.00">2</text>
+<title>nz0.EntityBloodSkeleton&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M441.9,-184.41C658.16,-151.87 1234.17,-65.2 1454.17,-32.1"/>
+<polygon fill="black" stroke="black" points="1454.69,-35.56 1464.05,-30.61 1453.64,-28.64 1454.69,-35.56"/>
+<text text-anchor="middle" x="436.9" y="-173.21" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- nz0.EntitySkeleton -->
+<!-- nz0.EntityBloodyZombie -->
 <g id="node4" class="node">
-<title>nz0.EntitySkeleton</title>
-<g id="a_node4"><a xlink:href="nz0.EntitySkeleton.svg" xlink:title="nz0.EntitySkeleton">
-<ellipse fill="green" stroke="black" cx="702.09" cy="-198" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="702.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntitySkeleton</text>
+<title>nz0.EntityBloodyZombie</title>
+<g id="a_node4"><a xlink:href="nz0.EntityBloodyZombie.svg" xlink:title="nz0.EntityBloodyZombie">
+<ellipse fill="green" stroke="black" cx="628.24" cy="-198" rx="125.38" ry="18"/>
+<text text-anchor="middle" x="628.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityBloodyZombie</text>
 </a>
 </g>
 </g>
-<!-- nz0.EntitySkeleton&#45;&gt;nz0.GetSideToPlayer -->
+<!-- nz0.EntityBloodyZombie&#45;&gt;nz0.GetSideToPlayer -->
 <g id="edge3" class="edge">
-<title>nz0.EntitySkeleton&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M759.38,-183.18C893.33,-150.87 1226.53,-70.51 1371.21,-35.61"/>
-<polygon fill="black" stroke="black" points="1372.4,-38.93 1381.3,-33.18 1370.76,-32.12 1372.4,-38.93"/>
-<text text-anchor="middle" x="754.38" y="-171.98" font-family="Times,serif" font-size="14.00">2</text>
+<title>nz0.EntityBloodyZombie&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M699.5,-183.11C867.98,-150.26 1289.76,-68.03 1464.03,-34.05"/>
+<polygon fill="black" stroke="black" points="1464.75,-37.48 1473.9,-32.13 1463.41,-30.61 1464.75,-37.48"/>
+<text text-anchor="middle" x="694.5" y="-171.91" font-family="Times,serif" font-size="14.00">3</text>
 </g>
-<!-- nz0.EntitySlogra -->
+<!-- nz0.EntityBoneScimitar -->
 <g id="node5" class="node">
-<title>nz0.EntitySlogra</title>
-<g id="a_node5"><a xlink:href="nz0.EntitySlogra.svg" xlink:title="nz0.EntitySlogra">
-<ellipse fill="green" stroke="black" cx="908.09" cy="-198" rx="89.08" ry="18"/>
-<text text-anchor="middle" x="908.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntitySlogra</text>
+<title>nz0.EntityBoneScimitar</title>
+<g id="a_node5"><a xlink:href="nz0.EntityBoneScimitar.svg" xlink:title="nz0.EntityBoneScimitar">
+<ellipse fill="green" stroke="black" cx="894.24" cy="-198" rx="122.38" ry="18"/>
+<text text-anchor="middle" x="894.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityBoneScimitar</text>
 </a>
 </g>
 </g>
-<!-- nz0.EntitySlogra&#45;&gt;nz0.GetSideToPlayer -->
+<!-- nz0.EntityBoneScimitar&#45;&gt;nz0.GetSideToPlayer -->
 <g id="edge4" class="edge">
-<title>nz0.EntitySlogra&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M952.08,-182.28C1048.52,-150.01 1278.41,-73.09 1384.59,-37.57"/>
-<polygon fill="black" stroke="black" points="1385.79,-40.86 1394.16,-34.37 1383.57,-34.22 1385.79,-40.86"/>
-<text text-anchor="middle" x="947.08" y="-171.08" font-family="Times,serif" font-size="14.00">6</text>
+<title>nz0.EntityBoneScimitar&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M949.12,-181.9C1068.55,-149.04 1351.41,-71.23 1478.04,-36.39"/>
+<polygon fill="black" stroke="black" points="1479.26,-39.68 1487.98,-33.65 1477.41,-32.93 1479.26,-39.68"/>
+<text text-anchor="middle" x="944.12" y="-170.7" font-family="Times,serif" font-size="14.00">3</text>
 </g>
 <!-- nz0.EntityGaibon -->
 <g id="node6" class="node">
 <title>nz0.EntityGaibon</title>
 <g id="a_node6"><a xlink:href="nz0.EntityGaibon.svg" xlink:title="nz0.EntityGaibon">
-<ellipse fill="red" stroke="black" cx="1107.09" cy="-198" rx="91.78" ry="18"/>
-<text text-anchor="middle" x="1107.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityGaibon</text>
+<ellipse fill="red" stroke="black" cx="1126.24" cy="-198" rx="91.78" ry="18"/>
+<text text-anchor="middle" x="1126.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityGaibon</text>
 </a>
 </g>
 </g>
 <!-- nz0.EntityGaibon&#45;&gt;nz0.GetSideToPlayer -->
 <g id="edge5" class="edge">
 <title>nz0.EntityGaibon&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M1137.23,-180.89C1197.47,-148.69 1332.76,-76.37 1400.24,-40.3"/>
-<polygon fill="black" stroke="black" points="1402.13,-43.26 1409.3,-35.46 1398.83,-37.09 1402.13,-43.26"/>
-<text text-anchor="middle" x="1132.23" y="-169.69" font-family="Times,serif" font-size="14.00">6</text>
+<path fill="none" stroke="black" d="M1162.71,-181.36C1238.22,-148.97 1411.59,-74.61 1494.9,-38.88"/>
+<polygon fill="black" stroke="black" points="1496.3,-42.08 1504.11,-34.92 1493.54,-35.65 1496.3,-42.08"/>
+<text text-anchor="middle" x="1157.71" y="-170.16" font-family="Times,serif" font-size="14.00">6</text>
 </g>
-<!-- nz0.func_801C3708 -->
+<!-- nz0.EntityMagicallySealedDoor -->
 <g id="node7" class="node">
-<title>nz0.func_801C3708</title>
-<g id="a_node7"><a xlink:href="nz0.func_801C3708.svg" xlink:title="nz0.func_801C3708">
-<ellipse fill="green" stroke="black" cx="1319.09" cy="-198" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="1319.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.func_801C3708</text>
+<title>nz0.EntityMagicallySealedDoor</title>
+<g id="a_node7"><a xlink:href="nz0.EntityMagicallySealedDoor.svg" xlink:title="nz0.EntityMagicallySealedDoor">
+<ellipse fill="red" stroke="black" cx="1393.24" cy="-198" rx="157.07" ry="18"/>
+<text text-anchor="middle" x="1393.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityMagicallySealedDoor</text>
 </a>
 </g>
 </g>
-<!-- nz0.func_801C3708&#45;&gt;nz0.GetSideToPlayer -->
+<!-- nz0.EntityMagicallySealedDoor&#45;&gt;nz0.GetSideToPlayer -->
 <g id="edge6" class="edge">
-<title>nz0.func_801C3708&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M1330.69,-179.93C1352.01,-148.57 1397.53,-81.6 1422.61,-44.71"/>
-<polygon fill="black" stroke="black" points="1425.79,-46.25 1428.52,-36.02 1420.01,-42.32 1425.79,-46.25"/>
-<text text-anchor="middle" x="1325.69" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- nz0.EntityBoneScimitar -->
-<g id="node8" class="node">
-<title>nz0.EntityBoneScimitar</title>
-<g id="a_node8"><a xlink:href="nz0.EntityBoneScimitar.svg" xlink:title="nz0.EntityBoneScimitar">
-<ellipse fill="green" stroke="black" cx="1562.09" cy="-198" rx="122.38" ry="18"/>
-<text text-anchor="middle" x="1562.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityBoneScimitar</text>
-</a>
-</g>
-</g>
-<!-- nz0.EntityBoneScimitar&#45;&gt;nz0.GetSideToPlayer -->
-<g id="edge7" class="edge">
-<title>nz0.EntityBoneScimitar&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M1550.39,-179.93C1528.89,-148.57 1483,-81.6 1457.71,-44.71"/>
-<polygon fill="black" stroke="black" points="1460.29,-42.29 1451.75,-36.02 1454.52,-46.24 1460.29,-42.29"/>
-<text text-anchor="middle" x="1545.39" y="-168.73" font-family="Times,serif" font-size="14.00">3</text>
-</g>
-<!-- nz0.EntityBloodyZombie -->
-<g id="node9" class="node">
-<title>nz0.EntityBloodyZombie</title>
-<g id="a_node9"><a xlink:href="nz0.EntityBloodyZombie.svg" xlink:title="nz0.EntityBloodyZombie">
-<ellipse fill="green" stroke="black" cx="1828.09" cy="-198" rx="125.38" ry="18"/>
-<text text-anchor="middle" x="1828.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityBloodyZombie</text>
-</a>
-</g>
-</g>
-<!-- nz0.EntityBloodyZombie&#45;&gt;nz0.GetSideToPlayer -->
-<g id="edge8" class="edge">
-<title>nz0.EntityBloodyZombie&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M1792.63,-180.73C1721.67,-148.18 1562.39,-75.11 1484.57,-39.41"/>
-<polygon fill="black" stroke="black" points="1485.6,-36.03 1475.05,-35.04 1482.68,-42.39 1485.6,-36.03"/>
-<text text-anchor="middle" x="1787.63" y="-169.53" font-family="Times,serif" font-size="14.00">3</text>
-</g>
-<!-- nz0.EntityRedDoor -->
-<g id="node10" class="node">
-<title>nz0.EntityRedDoor</title>
-<g id="a_node10"><a xlink:href="nz0.EntityRedDoor.svg" xlink:title="nz0.EntityRedDoor">
-<ellipse fill="red" stroke="black" cx="2071.09" cy="-198" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="2071.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityRedDoor</text>
-</a>
-</g>
-</g>
-<!-- nz0.EntityRedDoor&#45;&gt;nz0.GetSideToPlayer -->
-<g id="edge9" class="edge">
-<title>nz0.EntityRedDoor&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M2019.72,-182.51C1904.7,-150.06 1626.8,-71.67 1502.27,-36.54"/>
-<polygon fill="black" stroke="black" points="1503.07,-33.13 1492.5,-33.78 1501.17,-39.87 1503.07,-33.13"/>
-<text text-anchor="middle" x="2014.72" y="-171.31" font-family="Times,serif" font-size="14.00">1</text>
+<title>nz0.EntityMagicallySealedDoor&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M1407.43,-179.93C1433.73,-148.3 1490.14,-80.46 1520.64,-43.78"/>
+<polygon fill="black" stroke="black" points="1523.39,-45.94 1527.09,-36.02 1518.01,-41.47 1523.39,-45.94"/>
+<text text-anchor="middle" x="1402.43" y="-168.73" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- nz0.EntityMoveableBox -->
-<g id="node11" class="node">
+<g id="node8" class="node">
 <title>nz0.EntityMoveableBox</title>
-<g id="a_node11"><a xlink:href="nz0.EntityMoveableBox.svg" xlink:title="nz0.EntityMoveableBox">
-<ellipse fill="green" stroke="black" cx="2310.09" cy="-198" rx="121.58" ry="18"/>
-<text text-anchor="middle" x="2310.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityMoveableBox</text>
+<g id="a_node8"><a xlink:href="nz0.EntityMoveableBox.svg" xlink:title="nz0.EntityMoveableBox">
+<ellipse fill="green" stroke="black" cx="1690.24" cy="-198" rx="121.58" ry="18"/>
+<text text-anchor="middle" x="1690.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityMoveableBox</text>
 </a>
 </g>
 </g>
 <!-- nz0.EntityMoveableBox&#45;&gt;nz0.GetSideToPlayer -->
-<g id="edge10" class="edge">
+<g id="edge7" class="edge">
 <title>nz0.EntityMoveableBox&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M2241.82,-183.03C2081.56,-150.24 1682.23,-68.54 1515.3,-34.39"/>
-<polygon fill="black" stroke="black" points="1515.86,-30.93 1505.36,-32.36 1514.46,-37.79 1515.86,-30.93"/>
-<text text-anchor="middle" x="2236.82" y="-171.83" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M1675.95,-179.93C1649.48,-148.3 1592.69,-80.46 1561.98,-43.78"/>
+<polygon fill="black" stroke="black" points="1564.59,-41.44 1555.48,-36.02 1559.22,-45.93 1564.59,-41.44"/>
+<text text-anchor="middle" x="1670.95" y="-168.73" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- nz0.EntityRedDoor -->
+<g id="node9" class="node">
+<title>nz0.EntityRedDoor</title>
+<g id="a_node9"><a xlink:href="nz0.EntityRedDoor.svg" xlink:title="nz0.EntityRedDoor">
+<ellipse fill="red" stroke="black" cx="1929.24" cy="-198" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="1929.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityRedDoor</text>
+</a>
+</g>
+</g>
+<!-- nz0.EntityRedDoor&#45;&gt;nz0.GetSideToPlayer -->
+<g id="edge8" class="edge">
+<title>nz0.EntityRedDoor&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M1894.47,-181.05C1823.92,-148.68 1664.06,-75.34 1585.92,-39.5"/>
+<polygon fill="black" stroke="black" points="1586.9,-36.1 1576.36,-35.11 1583.99,-42.46 1586.9,-36.1"/>
+<text text-anchor="middle" x="1889.47" y="-169.85" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- nz0.EntitySkeleton -->
+<g id="node10" class="node">
+<title>nz0.EntitySkeleton</title>
+<g id="a_node10"><a xlink:href="nz0.EntitySkeleton.svg" xlink:title="nz0.EntitySkeleton">
+<ellipse fill="green" stroke="black" cx="2146.24" cy="-198" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="2146.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntitySkeleton</text>
+</a>
+</g>
+</g>
+<!-- nz0.EntitySkeleton&#45;&gt;nz0.GetSideToPlayer -->
+<g id="edge9" class="edge">
+<title>nz0.EntitySkeleton&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M2096.47,-182.36C1986.23,-149.92 1721.74,-72.1 1601.98,-36.87"/>
+<polygon fill="black" stroke="black" points="1602.81,-33.47 1592.23,-34 1600.84,-40.18 1602.81,-33.47"/>
+<text text-anchor="middle" x="2091.47" y="-171.16" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- nz0.EntitySlogra -->
+<g id="node11" class="node">
+<title>nz0.EntitySlogra</title>
+<g id="a_node11"><a xlink:href="nz0.EntitySlogra.svg" xlink:title="nz0.EntitySlogra">
+<ellipse fill="green" stroke="black" cx="2352.24" cy="-198" rx="89.08" ry="18"/>
+<text text-anchor="middle" x="2352.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntitySlogra</text>
+</a>
+</g>
+</g>
+<!-- nz0.EntitySlogra&#45;&gt;nz0.GetSideToPlayer -->
+<g id="edge10" class="edge">
+<title>nz0.EntitySlogra&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M2294.24,-184.27C2149.59,-152.52 1773.11,-69.89 1613.96,-34.96"/>
+<polygon fill="black" stroke="black" points="1614.31,-31.46 1603.8,-32.73 1612.81,-38.29 1614.31,-31.46"/>
+<text text-anchor="middle" x="2289.24" y="-173.07" font-family="Times,serif" font-size="14.00">6</text>
 </g>
 <!-- nz0.func_801B0AA4 -->
 <g id="node12" class="node">
 <title>nz0.func_801B0AA4</title>
 <g id="a_node12"><a xlink:href="nz0.func_801B0AA4.svg" xlink:title="nz0.func_801B0AA4">
-<ellipse fill="red" stroke="black" cx="2553.09" cy="-198" rx="103.18" ry="18"/>
-<text text-anchor="middle" x="2553.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.func_801B0AA4</text>
+<ellipse fill="red" stroke="black" cx="2562.24" cy="-198" rx="103.18" ry="18"/>
+<text text-anchor="middle" x="2562.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.func_801B0AA4</text>
 </a>
 </g>
 </g>
 <!-- nz0.func_801B0AA4&#45;&gt;nz0.GetSideToPlayer -->
 <g id="edge11" class="edge">
 <title>nz0.func_801B0AA4&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M2479.63,-185.25C2281.42,-153.55 1736.4,-66.39 1525.23,-32.62"/>
-<polygon fill="black" stroke="black" points="1525.56,-29.12 1515.13,-31 1524.45,-36.04 1525.56,-29.12"/>
-<text text-anchor="middle" x="2474.63" y="-174.05" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M2492.06,-184.77C2309.06,-152.86 1817.99,-67.25 1622.84,-33.23"/>
+<polygon fill="black" stroke="black" points="1623.38,-29.77 1612.93,-31.5 1622.18,-36.66 1623.38,-29.77"/>
+<text text-anchor="middle" x="2487.06" y="-173.57" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- nz0.EntityAxeKnight -->
+<!-- nz0.func_801C3708 -->
 <g id="node13" class="node">
-<title>nz0.EntityAxeKnight</title>
-<g id="a_node13"><a xlink:href="nz0.EntityAxeKnight.svg" xlink:title="nz0.EntityAxeKnight">
-<ellipse fill="green" stroke="black" cx="2782.09" cy="-198" rx="107.48" ry="18"/>
-<text text-anchor="middle" x="2782.09" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.EntityAxeKnight</text>
+<title>nz0.func_801C3708</title>
+<g id="a_node13"><a xlink:href="nz0.func_801C3708.svg" xlink:title="nz0.func_801C3708">
+<ellipse fill="green" stroke="black" cx="2786.24" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="2786.24" y="-194.3" font-family="Times,serif" font-size="14.00">nz0.func_801C3708</text>
 </a>
 </g>
 </g>
-<!-- nz0.EntityAxeKnight&#45;&gt;nz0.GetSideToPlayer -->
+<!-- nz0.func_801C3708&#45;&gt;nz0.GetSideToPlayer -->
 <g id="edge12" class="edge">
-<title>nz0.EntityAxeKnight&#45;&gt;nz0.GetSideToPlayer</title>
-<path fill="none" stroke="black" d="M2704.39,-185.56C2691.27,-183.67 2677.8,-181.76 2665.09,-180 2243.01,-121.6 1738.37,-56.89 1533.44,-30.83"/>
-<polygon fill="black" stroke="black" points="1533.68,-27.33 1523.32,-29.54 1532.8,-34.28 1533.68,-27.33"/>
-<text text-anchor="middle" x="2699.39" y="-174.36" font-family="Times,serif" font-size="14.00">4</text>
+<title>nz0.func_801C3708&#45;&gt;nz0.GetSideToPlayer</title>
+<path fill="none" stroke="black" d="M2711.55,-185.56C2699.09,-183.68 2686.3,-181.77 2674.24,-180 2286.33,-123 1823.2,-58.21 1631.33,-31.51"/>
+<polygon fill="black" stroke="black" points="1631.68,-28.02 1621.29,-30.11 1630.72,-34.95 1631.68,-28.02"/>
+<text text-anchor="middle" x="2706.55" y="-174.36" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

@@ -2414,8 +2414,8 @@
 | 1.00 | false    | EntityMermanSpawner                 | ../../asm/us/st/no3/nonmatchings/46684/EntityMermanSpawner.s 
 | 1.00 | true     | EntityMermanSpawner                 | ../../asm/us/st/np3/nonmatchings/44DCC/EntityMermanSpawner.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | EntitySideWaterSplash               | ../../asm/us/st/no3/nonmatchings/46684/EntitySideWaterSplash.s 
-| 1.00 | true     | EntitySideWaterSplash               | ../../asm/us/st/np3/nonmatchings/44DCC/EntitySideWaterSplash.s 
+| 1.00 | false    | EntitySideWaterSplash               | ../../asm/us/st/no3/nonmatchings/46684/EntitySideWaterSplash.s 
+| 1.00 | false    | EntitySideWaterSplash               | ../../asm/us/st/np3/nonmatchings/44DCC/EntitySideWaterSplash.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | EntitySmallWaterDrop                | ../../asm/us/st/no3/nonmatchings/46684/EntitySmallWaterDrop.s 
 | 1.00 | false    | EntitySmallWaterDrop                | ../../asm/us/st/np3/nonmatchings/44DCC/EntitySmallWaterDrop.s 

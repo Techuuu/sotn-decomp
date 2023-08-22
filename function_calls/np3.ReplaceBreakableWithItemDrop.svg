@@ -12,56 +12,56 @@
 <!-- np3.ReplaceBreakableWithItemDrop -->
 <g id="node1" class="node">
 <title>np3.ReplaceBreakableWithItemDrop</title>
-<ellipse fill="green" stroke="black" cx="324.08" cy="-198" rx="180.87" ry="18"/>
-<text text-anchor="middle" x="324.08" y="-194.3" font-family="Times,serif" font-size="14.00">np3.ReplaceBreakableWithItemDrop</text>
-</g>
-<!-- np3.PreventEntityFromRespawning -->
-<g id="node2" class="node">
-<title>np3.PreventEntityFromRespawning</title>
-<g id="a_node2"><a xlink:href="np3.PreventEntityFromRespawning.svg" xlink:title="np3.PreventEntityFromRespawning">
-<ellipse fill="green" stroke="black" cx="178.08" cy="-18" rx="178.17" ry="18"/>
-<text text-anchor="middle" x="178.08" y="-14.3" font-family="Times,serif" font-size="14.00">np3.PreventEntityFromRespawning</text>
-</a>
-</g>
-</g>
-<!-- np3.ReplaceBreakableWithItemDrop&#45;&gt;np3.PreventEntityFromRespawning -->
-<g id="edge1" class="edge">
-<title>np3.ReplaceBreakableWithItemDrop&#45;&gt;np3.PreventEntityFromRespawning</title>
-<path fill="none" stroke="black" d="M310.09,-179.93C284.14,-148.3 228.5,-80.46 198.41,-43.78"/>
-<polygon fill="black" stroke="black" points="201.09,-41.53 192.04,-36.02 195.68,-45.97 201.09,-41.53"/>
-<text text-anchor="middle" x="187.04" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="242.84" cy="-198" rx="180.87" ry="18"/>
+<text text-anchor="middle" x="242.84" y="-194.3" font-family="Times,serif" font-size="14.00">np3.ReplaceBreakableWithItemDrop</text>
 </g>
 <!-- np3.DestroyEntity -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>np3.DestroyEntity</title>
-<g id="a_node3"><a xlink:href="np3.DestroyEntity.svg" xlink:title="np3.DestroyEntity">
-<ellipse fill="green" stroke="black" cx="471.08" cy="-18" rx="96.68" ry="18"/>
-<text text-anchor="middle" x="471.08" y="-14.3" font-family="Times,serif" font-size="14.00">np3.DestroyEntity</text>
+<g id="a_node2"><a xlink:href="np3.DestroyEntity.svg" xlink:title="np3.DestroyEntity">
+<ellipse fill="green" stroke="black" cx="96.84" cy="-18" rx="96.68" ry="18"/>
+<text text-anchor="middle" x="96.84" y="-14.3" font-family="Times,serif" font-size="14.00">np3.DestroyEntity</text>
 </a>
 </g>
 </g>
 <!-- np3.ReplaceBreakableWithItemDrop&#45;&gt;np3.DestroyEntity -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>np3.ReplaceBreakableWithItemDrop&#45;&gt;np3.DestroyEntity</title>
-<path fill="none" stroke="black" d="M338.18,-179.93C364.3,-148.3 420.32,-80.46 450.62,-43.78"/>
-<polygon fill="black" stroke="black" points="453.36,-45.95 457.03,-36.02 447.97,-41.5 453.36,-45.95"/>
-<text text-anchor="middle" x="452.03" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M228.84,-179.93C202.9,-148.3 147.26,-80.46 117.16,-43.78"/>
+<polygon fill="black" stroke="black" points="119.85,-41.53 110.8,-36.02 114.43,-45.97 119.85,-41.53"/>
+<text text-anchor="middle" x="105.8" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- np3.PreventEntityFromRespawning -->
+<g id="node3" class="node">
+<title>np3.PreventEntityFromRespawning</title>
+<g id="a_node3"><a xlink:href="np3.PreventEntityFromRespawning.svg" xlink:title="np3.PreventEntityFromRespawning">
+<ellipse fill="green" stroke="black" cx="389.84" cy="-18" rx="178.17" ry="18"/>
+<text text-anchor="middle" x="389.84" y="-14.3" font-family="Times,serif" font-size="14.00">np3.PreventEntityFromRespawning</text>
+</a>
+</g>
+</g>
+<!-- np3.ReplaceBreakableWithItemDrop&#45;&gt;np3.PreventEntityFromRespawning -->
+<g id="edge2" class="edge">
+<title>np3.ReplaceBreakableWithItemDrop&#45;&gt;np3.PreventEntityFromRespawning</title>
+<path fill="none" stroke="black" d="M256.94,-179.93C283.06,-148.3 339.08,-80.46 369.38,-43.78"/>
+<polygon fill="black" stroke="black" points="372.12,-45.95 375.79,-36.02 366.72,-41.5 372.12,-45.95"/>
+<text text-anchor="middle" x="370.79" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.EntityBreakable -->
 <g id="node4" class="node">
 <title>np3.EntityBreakable</title>
 <g id="a_node4"><a xlink:href="np3.EntityBreakable.svg" xlink:title="np3.EntityBreakable">
-<ellipse fill="green" stroke="black" cx="324.08" cy="-378" rx="106.68" ry="18"/>
-<text text-anchor="middle" x="324.08" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityBreakable</text>
+<ellipse fill="green" stroke="black" cx="242.84" cy="-378" rx="106.68" ry="18"/>
+<text text-anchor="middle" x="242.84" y="-374.3" font-family="Times,serif" font-size="14.00">np3.EntityBreakable</text>
 </a>
 </g>
 </g>
 <!-- np3.EntityBreakable&#45;&gt;np3.ReplaceBreakableWithItemDrop -->
 <g id="edge3" class="edge">
 <title>np3.EntityBreakable&#45;&gt;np3.ReplaceBreakableWithItemDrop</title>
-<path fill="none" stroke="black" d="M324.08,-359.93C324.08,-328.97 324.08,-263.3 324.08,-226.13"/>
-<polygon fill="black" stroke="black" points="327.58,-226.02 324.08,-216.02 320.58,-226.02 327.58,-226.02"/>
-<text text-anchor="middle" x="319.08" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M242.84,-359.93C242.84,-328.97 242.84,-263.3 242.84,-226.13"/>
+<polygon fill="black" stroke="black" points="246.34,-226.02 242.84,-216.02 239.34,-226.02 246.34,-226.02"/>
+<text text-anchor="middle" x="237.84" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

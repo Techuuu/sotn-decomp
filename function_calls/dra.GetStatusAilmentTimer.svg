@@ -5,47 +5,47 @@
  -->
 <!-- Title: dra.GetStatusAilmentTimer Pages: 1 -->
 <svg width="1016pt" height="404pt"
- viewBox="0.00 0.00 1015.68 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 1015.53 404.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
 <title>dra.GetStatusAilmentTimer</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 1011.68,-400 1011.68,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-400 1011.53,-400 1011.53,4 -4,4"/>
 <!-- dra.GetStatusAilmentTimer -->
 <g id="node1" class="node">
 <title>dra.GetStatusAilmentTimer</title>
-<ellipse fill="green" stroke="black" cx="503.84" cy="-198" rx="139.98" ry="18"/>
-<text text-anchor="middle" x="503.84" y="-194.3" font-family="Times,serif" font-size="14.00">dra.GetStatusAilmentTimer</text>
-</g>
-<!-- rand -->
-<g id="node2" class="node">
-<title>rand</title>
-<g id="a_node2"><a xlink:href="rand.svg" xlink:title="rand">
-<ellipse fill="lightblue" stroke="black" cx="399.84" cy="-18" rx="32.49" ry="18"/>
-<text text-anchor="middle" x="399.84" y="-14.3" font-family="Times,serif" font-size="14.00">rand</text>
-</a>
-</g>
-</g>
-<!-- dra.GetStatusAilmentTimer&#45;&gt;rand -->
-<g id="edge1" class="edge">
-<title>dra.GetStatusAilmentTimer&#45;&gt;rand</title>
-<path fill="none" stroke="black" d="M493.87,-179.93C475.48,-148.46 436.15,-81.15 414.64,-44.33"/>
-<polygon fill="black" stroke="black" points="417.39,-42.11 409.33,-35.24 411.35,-45.64 417.39,-42.11"/>
-<text text-anchor="middle" x="404.33" y="-39.04" font-family="Times,serif" font-size="14.00">1</text>
+<ellipse fill="green" stroke="black" cx="553.84" cy="-198" rx="139.98" ry="18"/>
+<text text-anchor="middle" x="553.84" y="-194.3" font-family="Times,serif" font-size="14.00">dra.GetStatusAilmentTimer</text>
 </g>
 <!-- dra.CheckEquipmentItemCount -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>dra.CheckEquipmentItemCount</title>
-<g id="a_node3"><a xlink:href="dra.CheckEquipmentItemCount.svg" xlink:title="dra.CheckEquipmentItemCount">
-<ellipse fill="green" stroke="black" cx="607.84" cy="-18" rx="157.87" ry="18"/>
-<text text-anchor="middle" x="607.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra.CheckEquipmentItemCount</text>
+<g id="a_node2"><a xlink:href="dra.CheckEquipmentItemCount.svg" xlink:title="dra.CheckEquipmentItemCount">
+<ellipse fill="green" stroke="black" cx="449.84" cy="-18" rx="157.87" ry="18"/>
+<text text-anchor="middle" x="449.84" y="-14.3" font-family="Times,serif" font-size="14.00">dra.CheckEquipmentItemCount</text>
 </a>
 </g>
 </g>
 <!-- dra.GetStatusAilmentTimer&#45;&gt;dra.CheckEquipmentItemCount -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>dra.GetStatusAilmentTimer&#45;&gt;dra.CheckEquipmentItemCount</title>
-<path fill="none" stroke="black" d="M513.81,-179.93C532.14,-148.57 571.26,-81.6 592.82,-44.71"/>
-<polygon fill="black" stroke="black" points="595.87,-46.42 597.9,-36.02 589.83,-42.88 595.87,-46.42"/>
-<text text-anchor="middle" x="592.9" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M543.87,-179.93C525.54,-148.57 486.41,-81.6 464.86,-44.71"/>
+<polygon fill="black" stroke="black" points="467.85,-42.88 459.78,-36.02 461.8,-46.42 467.85,-42.88"/>
+<text text-anchor="middle" x="454.78" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- rand -->
+<g id="node3" class="node">
+<title>rand</title>
+<g id="a_node3"><a xlink:href="rand.svg" xlink:title="rand">
+<ellipse fill="lightblue" stroke="black" cx="657.84" cy="-18" rx="32.49" ry="18"/>
+<text text-anchor="middle" x="657.84" y="-14.3" font-family="Times,serif" font-size="14.00">rand</text>
+</a>
+</g>
+</g>
+<!-- dra.GetStatusAilmentTimer&#45;&gt;rand -->
+<g id="edge2" class="edge">
+<title>dra.GetStatusAilmentTimer&#45;&gt;rand</title>
+<path fill="none" stroke="black" d="M563.81,-179.93C582.2,-148.46 621.53,-81.15 643.04,-44.33"/>
+<polygon fill="black" stroke="black" points="646.33,-45.64 648.35,-35.24 640.28,-42.11 646.33,-45.64"/>
+<text text-anchor="middle" x="643.35" y="-39.04" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.AlucardHandleDamage -->
 <g id="node4" class="node">
@@ -59,57 +59,57 @@
 <!-- dra.AlucardHandleDamage&#45;&gt;dra.GetStatusAilmentTimer -->
 <g id="edge3" class="edge">
 <title>dra.AlucardHandleDamage&#45;&gt;dra.GetStatusAilmentTimer</title>
-<path fill="none" stroke="black" d="M170.13,-360.41C237.46,-327.85 386.82,-255.6 460.71,-219.86"/>
-<polygon fill="black" stroke="black" points="462.29,-222.98 469.77,-215.48 459.24,-216.68 462.29,-222.98"/>
-<text text-anchor="middle" x="165.13" y="-349.21" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M174.41,-360.57C251.09,-327.92 422.46,-254.95 506.09,-219.33"/>
+<polygon fill="black" stroke="black" points="507.53,-222.53 515.36,-215.39 504.78,-216.08 507.53,-222.53"/>
+<text text-anchor="middle" x="169.41" y="-349.37" font-family="Times,serif" font-size="14.00">2</text>
 </g>
-<!-- dra.func_80114DF4 -->
+<!-- dra.EntityPlayerPinkEffect -->
 <g id="node5" class="node">
-<title>dra.func_80114DF4</title>
-<g id="a_node5"><a xlink:href="dra.func_80114DF4.svg" xlink:title="dra.func_80114DF4">
-<ellipse fill="red" stroke="black" cx="392.84" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="392.84" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_80114DF4</text>
+<title>dra.EntityPlayerPinkEffect</title>
+<g id="a_node5"><a xlink:href="dra.EntityPlayerPinkEffect.svg" xlink:title="dra.EntityPlayerPinkEffect">
+<ellipse fill="red" stroke="black" cx="425.84" cy="-378" rx="135.68" ry="18"/>
+<text text-anchor="middle" x="425.84" y="-374.3" font-family="Times,serif" font-size="14.00">dra.EntityPlayerPinkEffect</text>
 </a>
 </g>
 </g>
-<!-- dra.func_80114DF4&#45;&gt;dra.GetStatusAilmentTimer -->
+<!-- dra.EntityPlayerPinkEffect&#45;&gt;dra.GetStatusAilmentTimer -->
 <g id="edge4" class="edge">
-<title>dra.func_80114DF4&#45;&gt;dra.GetStatusAilmentTimer</title>
-<path fill="none" stroke="black" d="M403.48,-359.93C423.04,-328.57 464.8,-261.6 487.81,-224.71"/>
-<polygon fill="black" stroke="black" points="490.91,-226.35 493.23,-216.02 484.97,-222.65 490.91,-226.35"/>
-<text text-anchor="middle" x="398.48" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<title>dra.EntityPlayerPinkEffect&#45;&gt;dra.GetStatusAilmentTimer</title>
+<path fill="none" stroke="black" d="M438.11,-359.93C460.76,-328.43 509.23,-261.03 535.69,-224.24"/>
+<polygon fill="black" stroke="black" points="538.61,-226.18 541.6,-216.02 532.92,-222.09 538.61,-226.18"/>
+<text text-anchor="middle" x="433.11" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_8010FB68 -->
 <g id="node6" class="node">
 <title>dra.func_8010FB68</title>
 <g id="a_node6"><a xlink:href="dra.func_8010FB68.svg" xlink:title="dra.func_8010FB68">
-<ellipse fill="green" stroke="black" cx="615.84" cy="-378" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="615.84" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_8010FB68</text>
+<ellipse fill="green" stroke="black" cx="681.84" cy="-378" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="681.84" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_8010FB68</text>
 </a>
 </g>
 </g>
 <!-- dra.func_8010FB68&#45;&gt;dra.GetStatusAilmentTimer -->
 <g id="edge5" class="edge">
 <title>dra.func_8010FB68&#45;&gt;dra.GetStatusAilmentTimer</title>
-<path fill="none" stroke="black" d="M605.1,-359.93C585.36,-328.57 543.23,-261.6 520.01,-224.71"/>
-<polygon fill="black" stroke="black" points="522.83,-222.62 514.54,-216.02 516.91,-226.34 522.83,-222.62"/>
-<text text-anchor="middle" x="600.1" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M669.56,-359.93C646.91,-328.43 598.45,-261.03 571.99,-224.24"/>
+<polygon fill="black" stroke="black" points="574.75,-222.09 566.07,-216.02 569.07,-226.18 574.75,-222.09"/>
+<text text-anchor="middle" x="664.56" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.EntityPlayerPinkEffect -->
+<!-- dra.func_80114DF4 -->
 <g id="node7" class="node">
-<title>dra.EntityPlayerPinkEffect</title>
-<g id="a_node7"><a xlink:href="dra.EntityPlayerPinkEffect.svg" xlink:title="dra.EntityPlayerPinkEffect">
-<ellipse fill="red" stroke="black" cx="871.84" cy="-378" rx="135.68" ry="18"/>
-<text text-anchor="middle" x="871.84" y="-374.3" font-family="Times,serif" font-size="14.00">dra.EntityPlayerPinkEffect</text>
+<title>dra.func_80114DF4</title>
+<g id="a_node7"><a xlink:href="dra.func_80114DF4.svg" xlink:title="dra.func_80114DF4">
+<ellipse fill="red" stroke="black" cx="904.84" cy="-378" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="904.84" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_80114DF4</text>
 </a>
 </g>
 </g>
-<!-- dra.EntityPlayerPinkEffect&#45;&gt;dra.GetStatusAilmentTimer -->
+<!-- dra.func_80114DF4&#45;&gt;dra.GetStatusAilmentTimer -->
 <g id="edge6" class="edge">
-<title>dra.EntityPlayerPinkEffect&#45;&gt;dra.GetStatusAilmentTimer</title>
-<path fill="none" stroke="black" d="M837.55,-360.41C770.22,-327.85 620.86,-255.6 546.96,-219.86"/>
-<polygon fill="black" stroke="black" points="548.43,-216.68 537.91,-215.48 545.39,-222.98 548.43,-216.68"/>
-<text text-anchor="middle" x="832.55" y="-349.21" font-family="Times,serif" font-size="14.00">1</text>
+<title>dra.func_80114DF4&#45;&gt;dra.GetStatusAilmentTimer</title>
+<path fill="none" stroke="black" d="M872.76,-360.73C809.03,-328.41 666.51,-256.14 595.59,-220.17"/>
+<polygon fill="black" stroke="black" points="596.98,-216.95 586.48,-215.55 593.81,-223.2 596.98,-216.95"/>
+<text text-anchor="middle" x="867.76" y="-349.53" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>
