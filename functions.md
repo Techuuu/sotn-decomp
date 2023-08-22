@@ -55,7 +55,6 @@
 | us/weapon/nonmatchings/w_056/ResetAnimation.s                |       16 |          1 |        |                                 |       |
 | us/weapon/nonmatchings/w_057/ResetAnimation.s                |       16 |          1 |        |                                 |       |
 | us/weapon/nonmatchings/w_058/ResetAnimation.s                |       16 |          1 |        |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_80195990.s                 |       17 |          1 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E38C.s                 |       17 |          2 |        |                                 |       |
 | us/weapon/nonmatchings/w_001/SetSpeedX.s                     |       17 |          2 |        |                                 |       |
 | us/weapon/nonmatchings/w_001/SetSpriteBank1.s                |       17 |          2 |        |                                 |       |
