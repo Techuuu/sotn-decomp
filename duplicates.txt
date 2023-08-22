@@ -2395,9 +2395,6 @@
 | 1.00 | true     | EntityLargeFallingObject            | ../../asm/us/st/no3/nonmatchings/46684/EntityLargeFallingObject.s 
 | 1.00 | true     | EntityLargeFallingObject            | ../../asm/us/st/np3/nonmatchings/44DCC/EntityLargeFallingObject.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | EntityLargeWaterSplash              | ../../asm/us/st/no3/nonmatchings/46684/EntityLargeWaterSplash.s 
-| 1.00 | false    | func_801C7954                       | ../../asm/us/st/np3/nonmatchings/44DCC/func_801C7954.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | EntityMediumWaterSplash             | ../../asm/us/st/no3/nonmatchings/46684/EntityMediumWaterSplash.s 
 | 1.00 | true     | EntityMediumWaterSplash             | ../../asm/us/st/np3/nonmatchings/44DCC/EntityMediumWaterSplash.s 
 -------------------------------------------------------------------------------
@@ -2415,6 +2412,9 @@
 -------------------------------------------------------------------------------
 | 1.00 | false    | EntityMermanSpawner                 | ../../asm/us/st/no3/nonmatchings/46684/EntityMermanSpawner.s 
 | 1.00 | true     | EntityMermanSpawner                 | ../../asm/us/st/np3/nonmatchings/44DCC/EntityMermanSpawner.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | EntityMermanWaterSplash             | ../../asm/us/st/no3/nonmatchings/46684/EntityMermanWaterSplash.s 
+| 1.00 | true     | EntityMermanWaterSplash             | ../../asm/us/st/np3/nonmatchings/44DCC/EntityMermanWaterSplash.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | EntitySideWaterSplash               | ../../asm/us/st/no3/nonmatchings/46684/EntitySideWaterSplash.s 
 | 1.00 | true     | EntitySideWaterSplash               | ../../asm/us/st/np3/nonmatchings/44DCC/EntitySideWaterSplash.s 

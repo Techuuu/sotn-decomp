@@ -1112,8 +1112,6 @@
 | us/st/no3/nonmatchings/46684/EntityUnkId31.s                 |      284 |         46 |        |                                 |       |
 | us/weapon/nonmatchings/w_050/func_ptr_80170010.s             |      288 |         34 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E7E08.s                    |      288 |         57 | Yes    | https://decomp.me/scratch/g2A7S | 0.974 |
-| us/st/no3/nonmatchings/46684/EntityLargeWaterSplash.s        |      289 |         28 |        |                                 |       |
-| us/st/np3/nonmatchings/44DCC/func_801C7954.s                 |      289 |         28 |        | https://decomp.me/scratch/nsw53 | 0.999 |
 | us/dra/nonmatchings/75F54/func_80123B40.s                    |      292 |         22 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHolyWaterBreakGlass.s        |      293 |         26 |        |                                 |       |
 | us/weapon/nonmatchings/w_050/func_ptr_80170008.s             |      294 |         29 |        |                                 |       |
