@@ -1050,8 +1050,6 @@
 | us/ric/nonmatchings/21250/func_8015D678.s                    |      235 |         47 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_050/func_ptr_8017000C.s             |      236 |         25 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80169F04.s                    |      237 |         27 |        |                                 |       |
-| us/st/no3/nonmatchings/377D4/EntityTransparentWater.s        |      237 |         28 |        |                                 |       |
-| us/st/np3/nonmatchings/3246C/func_801B39CC.s                 |      237 |         28 |        | https://decomp.me/scratch/nFz4q | 0.999 |
 | us/st/sel/nonmatchings/38D24/func_801BABA4.s                 |      237 |         35 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010BFFC.s                    |      239 |         28 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012DBBC.s                    |      239 |         48 |        |                                 |       |
@@ -1382,7 +1380,7 @@
 | us/st/st0/nonmatchings/36358/EntityCutscenePhotograph.s      |      905 |         68 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_009/func_ptr_80170020.s             |      916 |         68 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityWarg.s                    |      930 |        168 | Yes    |                                 |       |
-| us/dra/nonmatchings/692E8/func_8010EDB8.s                    |      933 |        157 | Yes    | https://decomp.me/scratch/G7vpg | 0.501 |
+| us/dra/nonmatchings/692E8/func_8010EDB8.s                    |      933 |        157 | Yes    | https://decomp.me/scratch/G7vpg | 0.559 |
 | us/dra/nonmatchings/73AAC/AlucardHandleDamage.s              |      938 |        168 | Yes    | https://decomp.me/scratch/eKFtd | 0.796 |
 | us/st/nz0/nonmatchings/47CF0/EntityMagicallySealedDoor.s     |      941 |        113 | Yes    | https://decomp.me/scratch/NlnlG | 0.002 |
 | us/st/st0/nonmatchings/31CA0/TestCollisions.s                |      954 |        133 |        | https://decomp.me/scratch/Lnt7z | 0.776 |
