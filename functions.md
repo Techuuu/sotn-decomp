@@ -745,7 +745,6 @@
 | us/dra/nonmatchings/5087C/func_800F1EB0.s                    |       81 |         13 |        |                                 |       |
 | us/dra/nonmatchings/5087C/SetNextRoomToLoad.s                |       81 |         14 |        | https://decomp.me/scratch/SulYc | 0.812 |
 | us/st/sel/nonmatchings/38D24/MDEC_print_error.s              |       82 |          4 |        |                                 |       |
-| us/st/np3/nonmatchings/3246C/EntitySwitch.s                  |       82 |         11 |        | https://decomp.me/scratch/BQjDQ | 0.995 |
 | us/dra/nonmatchings/5087C/func_800F2120.s                    |       82 |         13 |        |                                 |       |
 | us/st/mad/nonmatchings/139E0/EntityHeartDrop.s               |       83 |         11 |        | https://decomp.me/scratch/C29Wy | 1.0   |
 | us/st/cen/nonmatchings/11280/func_80198284.s                 |       85 |          5 |        |                                 |       |
@@ -1332,7 +1331,7 @@
 | us/dra/nonmatchings/75F54/func_8012F894.s                    |      697 |         98 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_029/func_ptr_80170024.s             |      700 |         67 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityTransparentWhiteCircle.s     |      704 |         71 |        |                                 |       |
-| us/st/sel/nonmatchings/2D260/TestCollisions.s                |      710 |         96 | Yes    | https://decomp.me/scratch/Lnt7z | 0.773 |
+| us/st/sel/nonmatchings/2D260/TestCollisions.s                |      710 |         96 | Yes    | https://decomp.me/scratch/Lnt7z | 0.78  |
 | us/st/st0/nonmatchings/36358/func_801BC5C0.s                 |      744 |         59 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityRelicOrb.s                |      749 |         68 | Yes    | https://decomp.me/scratch/EdnoJ | 0.978 |
 | us/st/dre/nonmatchings/1C7DC/EntityRelicOrb.s                |      749 |         68 | Yes    | https://decomp.me/scratch/EdnoJ | 0.978 |
@@ -1387,7 +1386,7 @@
 | us/dra/nonmatchings/692E8/func_8010EDB8.s                    |      933 |        157 | Yes    | https://decomp.me/scratch/G7vpg | 0.501 |
 | us/dra/nonmatchings/73AAC/AlucardHandleDamage.s              |      938 |        168 | Yes    | https://decomp.me/scratch/eKFtd | 0.796 |
 | us/st/nz0/nonmatchings/47CF0/EntityMagicallySealedDoor.s     |      941 |        113 | Yes    | https://decomp.me/scratch/NlnlG | 0.002 |
-| us/st/st0/nonmatchings/31CA0/TestCollisions.s                |      954 |        133 |        | https://decomp.me/scratch/Lnt7z | 0.773 |
+| us/st/st0/nonmatchings/31CA0/TestCollisions.s                |      954 |        133 |        | https://decomp.me/scratch/Lnt7z | 0.78  |
 | us/ric/nonmatchings/32324/func_8016F6F0.s                    |      957 |         56 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4E69C/EntityGurkha.s                  |      963 |        184 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_028/func_ptr_80170020.s             |      965 |         73 | Yes    |                                 |       |
@@ -1409,13 +1408,13 @@
 | us/st/no3/nonmatchings/46684/EntityMerman3.s                 |     1175 |        189 | Yes    |                                 |       |
 | us/st/mad/nonmatchings/EDB8/func_8018EDB8.s                  |     1185 |        173 |        |                                 |       |
 | us/ric/nonmatchings/345EC/func_801719A4.s                    |     1191 |        125 | Yes    |                                 |       |
-| us/st/cen/nonmatchings/11280/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.773 |
-| us/st/dre/nonmatchings/173C4/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.773 |
-| us/st/no3/nonmatchings/41C80/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.773 |
-| us/st/np3/nonmatchings/394F0/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.773 |
-| us/st/nz0/nonmatchings/39908/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.773 |
-| us/st/rwrp/nonmatchings/A59C/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.773 |
-| us/st/wrp/nonmatchings/861C/TestCollisions.s                 |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.773 |
+| us/st/cen/nonmatchings/11280/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.78  |
+| us/st/dre/nonmatchings/173C4/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.78  |
+| us/st/no3/nonmatchings/41C80/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.78  |
+| us/st/np3/nonmatchings/394F0/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.78  |
+| us/st/nz0/nonmatchings/39908/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.78  |
+| us/st/rwrp/nonmatchings/A59C/TestCollisions.s                |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.78  |
+| us/st/wrp/nonmatchings/861C/TestCollisions.s                 |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.78  |
 | us/dra/nonmatchings/62D70/func_80105428.s                    |     1203 |        231 |        |                                 |       |
 | us/st/st0/nonmatchings/2C564/EntityDraculaFinalForm.s        |     1285 |        245 | Yes    | https://decomp.me/scratch/kUpoj | 0.959 |
 | us/ric/nonmatchings/26C84/func_80162EF8.s                    |     1291 |        137 | Yes    |                                 |       |

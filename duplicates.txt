@@ -1912,7 +1912,7 @@
 | 1.00 | true     | EntityClickSwitch                   | ../../asm/us/st/no3/nonmatchings/377D4/EntityClickSwitch.s 
 | 0.91 | true     | EntitySwitch                        | ../../asm/us/st/no3/nonmatchings/377D4/EntitySwitch.s 
 | 1.00 | true     | EntityClickSwitch                   | ../../asm/us/st/np3/nonmatchings/3246C/EntityClickSwitch.s 
-| 0.91 | false    | EntitySwitch                        | ../../asm/us/st/np3/nonmatchings/3246C/EntitySwitch.s 
+| 0.91 | true     | EntitySwitch                        | ../../asm/us/st/np3/nonmatchings/3246C/EntitySwitch.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | EntityMermanRockLeftSide            | ../../asm/us/st/no3/nonmatchings/377D4/EntityMermanRockLeftSide.s 
 | 0.94 | true     | EntityMermanRockRightSide           | ../../asm/us/st/no3/nonmatchings/377D4/EntityMermanRockRightSide.s 
