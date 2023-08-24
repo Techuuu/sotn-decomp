@@ -13,7 +13,7 @@
 | us/st/rwrp/nonmatchings/A59C/func_8018D8F0.s                 |       24 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018DF3C.s                 |       24 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018DF84.s                 |       24 |          2 |        |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_8018E118.s                 |       24 |          2 |        |                                 |       |
+| us/st/rwrp/nonmatchings/A59C/func_8018E118.s                 |       24 |          2 |        | https://decomp.me/scratch/N7cYC | 1.0   |
 | us/st/rwrp/nonmatchings/A59C/PreventEntityFromRespawning.s   |       25 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018EF28.s                 |       26 |          4 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8019593C.s                 |       27 |          2 |        |                                 |       |
@@ -598,7 +598,7 @@
 | us/ric/nonmatchings/1AC60/func_80159670.s                    |      373 |         67 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnBible.s                |      374 |         41 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011AC3C.s                    |      374 |         41 | Yes    | https://decomp.me/scratch/a0BYk | 0.976 |
-| us/weapon/nonmatchings/w_027/func_ptr_80170020.s             |      377 |         31 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_027/EntityWeaponShieldSpell.s       |      377 |         31 | Yes    |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityUnkId0E.s                 |      378 |         38 | Yes    | https://decomp.me/scratch/e41HZ | 0.927 |
 | us/st/dre/nonmatchings/1C7DC/EntityUnkId0E.s                 |      378 |         38 | Yes    | https://decomp.me/scratch/e41HZ | 0.927 |
 | us/st/no3/nonmatchings/46684/EntityUnkId0E.s                 |      378 |         38 | Yes    | https://decomp.me/scratch/e41HZ | 0.927 |
@@ -650,7 +650,7 @@
 | us/ric/nonmatchings/1AC60/func_8015A9B0.s                    |      426 |         57 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_8015E800.s                    |      428 |         55 |        |                                 |       |
 | us/ric/nonmatchings/345EC/func_8017091C.s                    |      430 |         32 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_029/func_ptr_80170020.s             |      436 |         32 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_029/EntityWeaponShieldSpell.s       |      436 |         32 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011B5A4.s                    |      436 |         53 |        |                                 |       |
 | us/weapon/nonmatchings/w_013/EntityWeaponAttack.s            |      447 |         52 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/StoreSaveData.s                    |      453 |         34 |        |                                 |       |
@@ -681,7 +681,7 @@
 | us/weapon/nonmatchings/w_053/func_ptr_80170004.s             |      467 |         55 |        |                                 |       |
 | us/weapon/nonmatchings/w_056/func_ptr_80170004.s             |      467 |         55 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012F178.s                    |      468 |         35 |        |                                 |       |
-| us/weapon/nonmatchings/w_058/func_ptr_80170020.s             |      468 |         41 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_058/EntityWeaponShieldSpell.s       |      468 |         41 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHitByLightning.s             |      469 |         56 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_801291C4.s                    |      470 |         62 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityBoneScimitar.s            |      473 |         85 | Yes    | https://decomp.me/scratch/vCrgr | 0.98  |
@@ -771,14 +771,14 @@
 | us/st/wrp/nonmatchings/6FD0/EntityWarpRoom.s                 |      779 |         72 | Yes    | https://decomp.me/scratch/aitte | 0.988 |
 | us/weapon/nonmatchings/w_047/EntityWeaponAttack.s            |      779 |         84 | Yes    |                                 |       |
 | us/st/mad/nonmatchings/139E0/EntityRelicOrb.s                |      786 |         68 | Yes    | https://decomp.me/scratch/EdnoJ | 0.978 |
-| us/weapon/nonmatchings/w_010/func_ptr_80170020.s             |      793 |         69 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_010/EntityWeaponShieldSpell.s       |      793 |         69 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityPlayerDissolves.s            |      798 |         63 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityAlucardWaterEffect.s      |      802 |        123 |        |                                 |       |
 | us/st/np3/nonmatchings/3DEF4/func_801C424C.s                 |      802 |        123 |        |                                 |       |
 | us/st/np3/nonmatchings/4E69C/EntityHammer.s                  |      807 |        155 | Yes    | https://decomp.me/scratch/4CKDb | 0.904 |
-| us/weapon/nonmatchings/w_011/func_ptr_80170020.s             |      816 |         64 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_011/EntityWeaponShieldSpell.s       |      816 |         64 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/30030/func_801B0464.s                 |      817 |         90 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_008/func_ptr_80170020.s             |      819 |         61 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_008/EntityWeaponShieldSpell.s       |      819 |         61 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityMerman.s                  |      822 |        166 | Yes    | https://decomp.me/scratch/NZt5p | 0.997 |
 | us/weapon/nonmatchings/w_030/func_ptr_80170004.s             |      830 |         75 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_030/func_ptr_80170008.s             |      830 |         94 | Yes    |                                 |       |
@@ -800,27 +800,27 @@
 | us/st/rwrp/nonmatchings/A59C/func_8018C948.s                 |      856 |        107 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/31CA0/EntityRedDoor.s                 |      856 |        107 | Yes    | https://decomp.me/scratch/xOS2r | 0.97  |
 | us/st/wrp/nonmatchings/861C/EntityRedDoor.s                  |      856 |        107 | Yes    | https://decomp.me/scratch/xOS2r | 0.97  |
-| us/weapon/nonmatchings/w_023/func_ptr_80170020.s             |      857 |         70 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_023/EntityWeaponShieldSpell.s       |      857 |         70 | Yes    |                                 |       |
 | us/st/rwrp/nonmatchings/8DF0/func_801891C0.s                 |      868 |         81 | Yes    |                                 |       |
 | us/dra/nonmatchings/5D6C4/func_80100B50.s                    |      886 |         99 |        | https://decomp.me/scratch/gGwVm | 0.844 |
 | us/dra/nonmatchings/75F54/func_80116B0C.s                    |      886 |        178 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/3642C/func_801B69F8.s                 |      893 |         96 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityCutscenePhotograph.s      |      905 |         68 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_009/func_ptr_80170020.s             |      916 |         68 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_009/EntityWeaponShieldSpell.s       |      916 |         68 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityWarg.s                    |      930 |        168 | Yes    |                                 |       |
-| us/dra/nonmatchings/692E8/func_8010EDB8.s                    |      933 |        157 | Yes    | https://decomp.me/scratch/G7vpg | 0.754 |
+| us/dra/nonmatchings/692E8/func_8010EDB8.s                    |      933 |        157 | Yes    | https://decomp.me/scratch/G7vpg | 0.775 |
 | us/dra/nonmatchings/73AAC/AlucardHandleDamage.s              |      938 |        168 | Yes    | https://decomp.me/scratch/eKFtd | 0.796 |
 | us/st/nz0/nonmatchings/47CF0/EntityMagicallySealedDoor.s     |      941 |        113 | Yes    | https://decomp.me/scratch/NlnlG | 0.002 |
 | us/st/st0/nonmatchings/31CA0/TestCollisions.s                |      954 |        133 |        | https://decomp.me/scratch/Lnt7z | 0.776 |
 | us/ric/nonmatchings/32324/func_8016F6F0.s                    |      957 |         56 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4E69C/EntityGurkha.s                  |      963 |        184 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_028/func_ptr_80170020.s             |      965 |         73 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_025/func_ptr_80170020.s             |      973 |         75 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_028/EntityWeaponShieldSpell.s       |      965 |         73 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_025/EntityWeaponShieldSpell.s       |      973 |         75 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4E69C/EntityBlade.s                   |     1002 |        202 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_024/func_ptr_80170020.s             |     1016 |         70 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_024/EntityWeaponShieldSpell.s       |     1016 |         70 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntityStopWatch.s                  |     1028 |         98 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_052/func_ptr_80170020.s             |     1044 |         87 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_026/func_ptr_80170020.s             |     1053 |         79 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_052/EntityWeaponShieldSpell.s       |     1044 |         87 | Yes    |                                 |       |
+| us/weapon/nonmatchings/w_026/EntityWeaponShieldSpell.s       |     1053 |         79 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4B018/EntityOwl.s                     |     1058 |        214 | Yes    |                                 |       |
 | us/st/st0/nonmatchings/28BF8/EntityDialogue.s                |     1106 |        128 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_020/EntityWeaponAttack.s            |     1109 |         91 | Yes    |                                 |       |
