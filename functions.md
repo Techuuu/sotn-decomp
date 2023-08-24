@@ -351,7 +351,6 @@
 | us/dra/nonmatchings/47BB8/func_800ECBF8.s                    |      155 |         23 |        | https://decomp.me/scratch/p2NB5 | 0.996 |
 | us/ric/nonmatchings/202A8/func_8015C6D4.s                    |      156 |         11 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_80110DF8.s                    |      156 |         28 | Yes    |                                 |       |
-| us/weapon/nonmatchings/w_004/EntityWeaponAttack.s            |      157 |         17 |        |                                 |       |
 | us/weapon/nonmatchings/w_015/func_ptr_80170014.s             |      158 |         16 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityUnkId2F.s                 |      158 |         20 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_801327B4.s                    |      159 |         12 |        |                                 |       |
@@ -809,7 +808,7 @@
 | us/st/st0/nonmatchings/36358/EntityCutscenePhotograph.s      |      905 |         68 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_009/func_ptr_80170020.s             |      916 |         68 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/46684/EntityWarg.s                    |      930 |        168 | Yes    |                                 |       |
-| us/dra/nonmatchings/692E8/func_8010EDB8.s                    |      933 |        157 | Yes    | https://decomp.me/scratch/G7vpg | 0.559 |
+| us/dra/nonmatchings/692E8/func_8010EDB8.s                    |      933 |        157 | Yes    | https://decomp.me/scratch/G7vpg | 0.754 |
 | us/dra/nonmatchings/73AAC/AlucardHandleDamage.s              |      938 |        168 | Yes    | https://decomp.me/scratch/eKFtd | 0.796 |
 | us/st/nz0/nonmatchings/47CF0/EntityMagicallySealedDoor.s     |      941 |        113 | Yes    | https://decomp.me/scratch/NlnlG | 0.002 |
 | us/st/st0/nonmatchings/31CA0/TestCollisions.s                |      954 |        133 |        | https://decomp.me/scratch/Lnt7z | 0.776 |
