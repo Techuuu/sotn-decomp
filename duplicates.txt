@@ -1760,17 +1760,17 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | DebugInputWait                      | ../../asm/us/dra/nonmatchings/42398/DebugInputWait.s 
 | 1.00 | true     | DebugInputWait                      | ../../asm/us/ric/nonmatchings/22380/DebugInputWait.s 
-| 1.00 | false    | func_4A000_8017B100                 | ../../asm/us/weapon/nonmatchings/w_010/func_4A000_8017B100.s 
-| 1.00 | false    | func_82000_8017AB80                 | ../../asm/us/weapon/nonmatchings/w_018/func_82000_8017AB80.s 
-| 1.00 | false    | func_C1000_8017B194                 | ../../asm/us/weapon/nonmatchings/w_027/func_C1000_8017B194.s 
-| 1.00 | false    | func_12A000_8017ABA4                | ../../asm/us/weapon/nonmatchings/w_042/func_12A000_8017ABA4.s 
+| 1.00 | true     | func_4A000_8017B100                 | ../../asm/us/weapon/nonmatchings/w_010/func_4A000_8017B100.s 
+| 1.00 | true     | func_82000_8017AB80                 | ../../asm/us/weapon/nonmatchings/w_018/func_82000_8017AB80.s 
+| 1.00 | true     | func_C1000_8017B194                 | ../../asm/us/weapon/nonmatchings/w_027/func_C1000_8017B194.s 
+| 1.00 | true     | func_12A000_8017ABA4                | ../../asm/us/weapon/nonmatchings/w_042/func_12A000_8017ABA4.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | DebugShowWaitInfo                   | ../../asm/us/dra/nonmatchings/42398/DebugShowWaitInfo.s 
 | 1.00 | true     | DebugShowWaitInfo                   | ../../asm/us/ric/nonmatchings/22380/DebugShowWaitInfo.s 
-| 1.00 | false    | func_4A000_8017B060                 | ../../asm/us/weapon/nonmatchings/w_010/func_4A000_8017B060.s 
-| 1.00 | false    | func_82000_8017AAE0                 | ../../asm/us/weapon/nonmatchings/w_018/func_82000_8017AAE0.s 
-| 1.00 | false    | func_C1000_8017B0F4                 | ../../asm/us/weapon/nonmatchings/w_027/func_C1000_8017B0F4.s 
-| 1.00 | false    | func_12A000_8017AB04                | ../../asm/us/weapon/nonmatchings/w_042/func_12A000_8017AB04.s 
+| 1.00 | true     | func_4A000_8017B060                 | ../../asm/us/weapon/nonmatchings/w_010/func_4A000_8017B060.s 
+| 1.00 | true     | func_82000_8017AAE0                 | ../../asm/us/weapon/nonmatchings/w_018/func_82000_8017AAE0.s 
+| 1.00 | true     | func_C1000_8017B0F4                 | ../../asm/us/weapon/nonmatchings/w_027/func_C1000_8017B0F4.s 
+| 1.00 | true     | func_12A000_8017AB04                | ../../asm/us/weapon/nonmatchings/w_042/func_12A000_8017AB04.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_80119E78                       | ../../asm/us/dra/nonmatchings/75F54/func_80119E78.s 
 | 1.00 | false    | func_2E000_8017B6A0                 | ../../asm/us/weapon/nonmatchings/w_006/func_2E000_8017B6A0.s 
@@ -1900,6 +1900,11 @@
 | 0.92 | true     | func_801B2608                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B2608.s 
 | 0.92 | true     | func_801B263C                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B263C.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | SsSepPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSepPlay.s 
+| 0.93 | true     | SsSepSetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSepSetVol.s 
+| 0.93 | true     | SsSeqGetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSeqGetVol.s 
+| 0.93 | true     | _SsSndSetVol                        | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/_SsSndSetVol.s 
+-------------------------------------------------------------------------------
 | 1.00 | false    | EntityUnkId16                       | ../../asm/us/st/cen/nonmatchings/D600/EntityUnkId16.s 
 | 0.91 | false    | EntitySuccubusCutscene              | ../../asm/us/st/dre/nonmatchings/14774/EntitySuccubusCutscene.s 
 | 0.94 | false    | EntityRoomTransition1               | ../../asm/us/st/no3/nonmatchings/3E134/EntityRoomTransition1.s 
@@ -1967,10 +1972,6 @@
 | 0.93 | true     | _SsContRpn1                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContRpn1.s 
 | 0.93 | true     | _SsContRpn2                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContRpn2.s 
 | 1.00 | true     | _SsSetProgramChange                 | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsSetProgramChange.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | SsSepPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSepPlay.s 
-| 0.93 | true     | SsSepSetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSepSetVol.s 
-| 0.93 | true     | _SsSndSetVol                        | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/_SsSndSetVol.s 
 -------------------------------------------------------------------------------
 | 0.92 | true     | SsVabFakeHead                       | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_vh/SsVabFakeHead.s 
 | 1.00 | true     | SsVabOpenHead                       | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_vh/SsVabOpenHead.s 
@@ -2254,9 +2255,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | _SsContModulation                   | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContModulation.s 
 | 1.00 | true     | _SsContPortaTime                    | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContPortaTime.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | SsSeqPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSeqPlay.s 
-| 0.93 | true     | SsSeqGetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSeqGetVol.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | SsUtSetReverbDelay                  | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ut_rdel/SsUtSetReverbDelay.s 
 | 1.00 | true     | SsUtSetReverbFeedback               | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ut_rfb/SsUtSetReverbFeedback.s 

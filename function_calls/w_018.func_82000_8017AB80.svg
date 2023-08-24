@@ -12,7 +12,7 @@
 <!-- w_018.func_82000_8017AB80 -->
 <g id="node1" class="node">
 <title>w_018.func_82000_8017AB80</title>
-<ellipse fill="red" stroke="black" cx="160.35" cy="-198" rx="149.47" ry="18"/>
+<ellipse fill="green" stroke="black" cx="160.35" cy="-198" rx="149.47" ry="18"/>
 <text text-anchor="middle" x="160.35" y="-194.3" font-family="Times,serif" font-size="14.00">w_018.func_82000_8017AB80</text>
 </g>
 <!-- PadRead -->
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>w_018.func_82000_8017AAE0</title>
 <g id="a_node3"><a xlink:href="w_018.func_82000_8017AAE0.svg" xlink:title="w_018.func_82000_8017AAE0">
-<ellipse fill="red" stroke="black" cx="270.35" cy="-18" rx="150.27" ry="18"/>
+<ellipse fill="green" stroke="black" cx="270.35" cy="-18" rx="150.27" ry="18"/>
 <text text-anchor="middle" x="270.35" y="-14.3" font-family="Times,serif" font-size="14.00">w_018.func_82000_8017AAE0</text>
 </a>
 </g>
