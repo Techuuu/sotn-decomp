@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>w_037.DestroyEntity</title>
 <g id="a_node6"><a xlink:href="w_037.DestroyEntity.svg" xlink:title="w_037.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="784.49" cy="-18" rx="108.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="784.49" cy="-18" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="784.49" y="-14.3" font-family="Times,serif" font-size="14.00">w_037.DestroyEntity</text>
 </a>
 </g>
@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>w_037.SetSpeedX</title>
 <g id="a_node7"><a xlink:href="w_037.SetSpeedX.svg" xlink:title="w_037.SetSpeedX">
-<ellipse fill="red" stroke="black" cx="1005.49" cy="-18" rx="94.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1005.49" cy="-18" rx="94.48" ry="18"/>
 <text text-anchor="middle" x="1005.49" y="-14.3" font-family="Times,serif" font-size="14.00">w_037.SetSpeedX</text>
 </a>
 </g>

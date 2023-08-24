@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>w_040.DestroyEntity</title>
 <g id="a_node5"><a xlink:href="w_040.DestroyEntity.svg" xlink:title="w_040.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="670.34" cy="-18" rx="108.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="670.34" cy="-18" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="670.34" y="-14.3" font-family="Times,serif" font-size="14.00">w_040.DestroyEntity</text>
 </a>
 </g>
@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>w_040.SetWeaponProperties</title>
 <g id="a_node6"><a xlink:href="w_040.SetWeaponProperties.svg" xlink:title="w_040.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="941.34" cy="-18" rx="144.07" ry="18"/>
+<ellipse fill="green" stroke="black" cx="941.34" cy="-18" rx="144.07" ry="18"/>
 <text text-anchor="middle" x="941.34" y="-14.3" font-family="Times,serif" font-size="14.00">w_040.SetWeaponProperties</text>
 </a>
 </g>

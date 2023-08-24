@@ -12,7 +12,7 @@
 <!-- w_049.SetSpriteBank2 -->
 <g id="node1" class="node">
 <title>w_049.SetSpriteBank2</title>
-<ellipse fill="red" stroke="black" cx="275.89" cy="-18" rx="116.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="275.89" cy="-18" rx="116.98" ry="18"/>
 <text text-anchor="middle" x="275.89" y="-14.3" font-family="Times,serif" font-size="14.00">w_049.SetSpriteBank2</text>
 </g>
 <!-- w_049.func_ptr_8017000C -->

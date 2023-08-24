@@ -12,7 +12,7 @@
 <!-- w_037.DestroyEntity -->
 <g id="node1" class="node">
 <title>w_037.DestroyEntity</title>
-<ellipse fill="red" stroke="black" cx="592.59" cy="-198" rx="108.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="592.59" cy="-198" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="592.59" y="-194.3" font-family="Times,serif" font-size="14.00">w_037.DestroyEntity</text>
 </g>
 <!-- dra.FreePrimitives -->
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>w_037.DestroyEntityWeapon</title>
 <g id="a_node3"><a xlink:href="w_037.DestroyEntityWeapon.svg" xlink:title="w_037.DestroyEntityWeapon">
-<ellipse fill="red" stroke="black" cx="145.59" cy="-378" rx="145.67" ry="18"/>
+<ellipse fill="green" stroke="black" cx="145.59" cy="-378" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="145.59" y="-374.3" font-family="Times,serif" font-size="14.00">w_037.DestroyEntityWeapon</text>
 </a>
 </g>

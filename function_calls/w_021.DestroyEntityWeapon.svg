@@ -12,14 +12,14 @@
 <!-- w_021.DestroyEntityWeapon -->
 <g id="node1" class="node">
 <title>w_021.DestroyEntityWeapon</title>
-<ellipse fill="red" stroke="black" cx="283.44" cy="-198" rx="145.67" ry="18"/>
+<ellipse fill="green" stroke="black" cx="283.44" cy="-198" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="283.44" y="-194.3" font-family="Times,serif" font-size="14.00">w_021.DestroyEntityWeapon</text>
 </g>
 <!-- w_021.DestroyEntity -->
 <g id="node2" class="node">
 <title>w_021.DestroyEntity</title>
 <g id="a_node2"><a xlink:href="w_021.DestroyEntity.svg" xlink:title="w_021.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="283.44" cy="-18" rx="108.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="283.44" cy="-18" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="283.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_021.DestroyEntity</text>
 </a>
 </g>

@@ -12,7 +12,7 @@
 <!-- w_056.DecelerateY -->
 <g id="node1" class="node">
 <title>w_056.DecelerateY</title>
-<ellipse fill="red" stroke="black" cx="99.44" cy="-18" rx="99.38" ry="18"/>
+<ellipse fill="green" stroke="black" cx="99.44" cy="-18" rx="99.38" ry="18"/>
 <text text-anchor="middle" x="99.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_056.DecelerateY</text>
 </g>
 </g>

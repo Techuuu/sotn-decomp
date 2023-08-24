@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>w_045.LoadWeaponPalette</title>
 <g id="a_node2"><a xlink:href="w_045.LoadWeaponPalette.svg" xlink:title="w_045.LoadWeaponPalette">
-<ellipse fill="red" stroke="black" cx="135.19" cy="-18" rx="135.38" ry="18"/>
+<ellipse fill="green" stroke="black" cx="135.19" cy="-18" rx="135.38" ry="18"/>
 <text text-anchor="middle" x="135.19" y="-14.3" font-family="Times,serif" font-size="14.00">w_045.LoadWeaponPalette</text>
 </a>
 </g>
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>w_045.SetSpriteBank1</title>
 <g id="a_node3"><a xlink:href="w_045.SetSpriteBank1.svg" xlink:title="w_045.SetSpriteBank1">
-<ellipse fill="red" stroke="black" cx="405.19" cy="-18" rx="116.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="405.19" cy="-18" rx="116.98" ry="18"/>
 <text text-anchor="middle" x="405.19" y="-14.3" font-family="Times,serif" font-size="14.00">w_045.SetSpriteBank1</text>
 </a>
 </g>

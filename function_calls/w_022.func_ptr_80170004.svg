@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>w_022.DestroyEntity</title>
 <g id="a_node2"><a xlink:href="w_022.DestroyEntity.svg" xlink:title="w_022.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="108.54" cy="-18" rx="108.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="108.54" cy="-18" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="108.54" y="-14.3" font-family="Times,serif" font-size="14.00">w_022.DestroyEntity</text>
 </a>
 </g>
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>w_022.SetSpeedX</title>
 <g id="a_node3"><a xlink:href="w_022.SetSpeedX.svg" xlink:title="w_022.SetSpeedX">
-<ellipse fill="red" stroke="black" cx="329.54" cy="-18" rx="94.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="329.54" cy="-18" rx="94.48" ry="18"/>
 <text text-anchor="middle" x="329.54" y="-14.3" font-family="Times,serif" font-size="14.00">w_022.SetSpeedX</text>
 </a>
 </g>
@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>w_022.SetWeaponProperties</title>
 <g id="a_node4"><a xlink:href="w_022.SetWeaponProperties.svg" xlink:title="w_022.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="586.54" cy="-18" rx="144.07" ry="18"/>
+<ellipse fill="green" stroke="black" cx="586.54" cy="-18" rx="144.07" ry="18"/>
 <text text-anchor="middle" x="586.54" y="-14.3" font-family="Times,serif" font-size="14.00">w_022.SetWeaponProperties</text>
 </a>
 </g>

@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>w_006.DecelerateX</title>
 <g id="a_node5"><a xlink:href="w_006.DecelerateX.svg" xlink:title="w_006.DecelerateX">
-<ellipse fill="red" stroke="black" cx="553.34" cy="-18" rx="100.18" ry="18"/>
+<ellipse fill="green" stroke="black" cx="553.34" cy="-18" rx="100.18" ry="18"/>
 <text text-anchor="middle" x="553.34" y="-14.3" font-family="Times,serif" font-size="14.00">w_006.DecelerateX</text>
 </a>
 </g>
@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>w_006.DestroyEntity</title>
 <g id="a_node6"><a xlink:href="w_006.DestroyEntity.svg" xlink:title="w_006.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="780.34" cy="-18" rx="108.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="780.34" cy="-18" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="780.34" y="-14.3" font-family="Times,serif" font-size="14.00">w_006.DestroyEntity</text>
 </a>
 </g>
@@ -99,7 +99,7 @@
 <g id="node7" class="node">
 <title>w_006.DestroyEntityWeapon</title>
 <g id="a_node7"><a xlink:href="w_006.DestroyEntityWeapon.svg" xlink:title="w_006.DestroyEntityWeapon">
-<ellipse fill="red" stroke="black" cx="1052.34" cy="-18" rx="145.67" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1052.34" cy="-18" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="1052.34" y="-14.3" font-family="Times,serif" font-size="14.00">w_006.DestroyEntityWeapon</text>
 </a>
 </g>
@@ -115,7 +115,7 @@
 <g id="node8" class="node">
 <title>w_006.SetSpeedX</title>
 <g id="a_node8"><a xlink:href="w_006.SetSpeedX.svg" xlink:title="w_006.SetSpeedX">
-<ellipse fill="red" stroke="black" cx="1310.34" cy="-18" rx="94.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1310.34" cy="-18" rx="94.48" ry="18"/>
 <text text-anchor="middle" x="1310.34" y="-14.3" font-family="Times,serif" font-size="14.00">w_006.SetSpeedX</text>
 </a>
 </g>
@@ -131,7 +131,7 @@
 <g id="node9" class="node">
 <title>w_006.SetSpriteBank1</title>
 <g id="a_node9"><a xlink:href="w_006.SetSpriteBank1.svg" xlink:title="w_006.SetSpriteBank1">
-<ellipse fill="red" stroke="black" cx="1539.34" cy="-18" rx="116.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1539.34" cy="-18" rx="116.98" ry="18"/>
 <text text-anchor="middle" x="1539.34" y="-14.3" font-family="Times,serif" font-size="14.00">w_006.SetSpriteBank1</text>
 </a>
 </g>
@@ -147,7 +147,7 @@
 <g id="node10" class="node">
 <title>w_006.SetWeaponProperties</title>
 <g id="a_node10"><a xlink:href="w_006.SetWeaponProperties.svg" xlink:title="w_006.SetWeaponProperties">
-<ellipse fill="red" stroke="black" cx="1818.34" cy="-18" rx="144.07" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1818.34" cy="-18" rx="144.07" ry="18"/>
 <text text-anchor="middle" x="1818.34" y="-14.3" font-family="Times,serif" font-size="14.00">w_006.SetWeaponProperties</text>
 </a>
 </g>

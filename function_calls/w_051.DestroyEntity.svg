@@ -12,7 +12,7 @@
 <!-- w_051.DestroyEntity -->
 <g id="node1" class="node">
 <title>w_051.DestroyEntity</title>
-<ellipse fill="red" stroke="black" cx="428.44" cy="-198" rx="108.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="428.44" cy="-198" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="428.44" y="-194.3" font-family="Times,serif" font-size="14.00">w_051.DestroyEntity</text>
 </g>
 <!-- dra.FreePrimitives -->

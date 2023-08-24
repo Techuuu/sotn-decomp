@@ -147,7 +147,7 @@
 <g id="node10" class="node">
 <title>w_015.DestroyEntity</title>
 <g id="a_node10"><a xlink:href="w_015.DestroyEntity.svg" xlink:title="w_015.DestroyEntity">
-<ellipse fill="red" stroke="black" cx="1667.44" cy="-18" rx="108.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1667.44" cy="-18" rx="108.58" ry="18"/>
 <text text-anchor="middle" x="1667.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_015.DestroyEntity</text>
 </a>
 </g>
@@ -163,7 +163,7 @@
 <g id="node11" class="node">
 <title>w_015.DestroyEntityWeapon</title>
 <g id="a_node11"><a xlink:href="w_015.DestroyEntityWeapon.svg" xlink:title="w_015.DestroyEntityWeapon">
-<ellipse fill="red" stroke="black" cx="1939.44" cy="-18" rx="145.67" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1939.44" cy="-18" rx="145.67" ry="18"/>
 <text text-anchor="middle" x="1939.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_015.DestroyEntityWeapon</text>
 </a>
 </g>
@@ -179,7 +179,7 @@
 <g id="node12" class="node">
 <title>w_015.SetSpeedX</title>
 <g id="a_node12"><a xlink:href="w_015.SetSpeedX.svg" xlink:title="w_015.SetSpeedX">
-<ellipse fill="red" stroke="black" cx="2197.44" cy="-18" rx="94.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="2197.44" cy="-18" rx="94.48" ry="18"/>
 <text text-anchor="middle" x="2197.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_015.SetSpeedX</text>
 </a>
 </g>
@@ -195,7 +195,7 @@
 <g id="node13" class="node">
 <title>w_015.SetSpriteBank1</title>
 <g id="a_node13"><a xlink:href="w_015.SetSpriteBank1.svg" xlink:title="w_015.SetSpriteBank1">
-<ellipse fill="red" stroke="black" cx="2426.44" cy="-18" rx="116.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="2426.44" cy="-18" rx="116.98" ry="18"/>
 <text text-anchor="middle" x="2426.44" y="-14.3" font-family="Times,serif" font-size="14.00">w_015.SetSpriteBank1</text>
 </a>
 </g>

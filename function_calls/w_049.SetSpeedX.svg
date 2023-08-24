@@ -12,7 +12,7 @@
 <!-- w_049.SetSpeedX -->
 <g id="node1" class="node">
 <title>w_049.SetSpeedX</title>
-<ellipse fill="red" stroke="black" cx="94.24" cy="-18" rx="94.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="94.24" cy="-18" rx="94.48" ry="18"/>
 <text text-anchor="middle" x="94.24" y="-14.3" font-family="Times,serif" font-size="14.00">w_049.SetSpeedX</text>
 </g>
 </g>
