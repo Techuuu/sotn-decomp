@@ -12,7 +12,7 @@
 <!-- w_040.func_11C000_8017AC14 -->
 <g id="node1" class="node">
 <title>w_040.func_11C000_8017AC14</title>
-<ellipse fill="red" stroke="black" cx="156.64" cy="-198" rx="156.77" ry="18"/>
+<ellipse fill="green" stroke="black" cx="156.64" cy="-198" rx="156.77" ry="18"/>
 <text text-anchor="middle" x="156.64" y="-194.3" font-family="Times,serif" font-size="14.00">w_040.func_11C000_8017AC14</text>
 </g>
 <!-- LoadImage -->
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>w_040.func_ptr_80170004</title>
 <g id="a_node3"><a xlink:href="w_040.func_ptr_80170004.svg" xlink:title="w_040.func_ptr_80170004">
-<ellipse fill="red" stroke="black" cx="156.64" cy="-378" rx="133.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="156.64" cy="-378" rx="133.48" ry="18"/>
 <text text-anchor="middle" x="156.64" y="-374.3" font-family="Times,serif" font-size="14.00">w_040.func_ptr_80170004</text>
 </a>
 </g>

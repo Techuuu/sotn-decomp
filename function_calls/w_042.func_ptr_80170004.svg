@@ -12,7 +12,7 @@
 <!-- w_042.func_ptr_80170004 -->
 <g id="node1" class="node">
 <title>w_042.func_ptr_80170004</title>
-<ellipse fill="red" stroke="black" cx="524.09" cy="-198" rx="133.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="524.09" cy="-198" rx="133.48" ry="18"/>
 <text text-anchor="middle" x="524.09" y="-194.3" font-family="Times,serif" font-size="14.00">w_042.func_ptr_80170004</text>
 </g>
 <!-- dra.UpdateAnim -->
@@ -83,7 +83,7 @@
 <g id="node6" class="node">
 <title>w_042.func_12A000_8017AC08</title>
 <g id="a_node6"><a xlink:href="w_042.func_12A000_8017AC08.svg" xlink:title="w_042.func_12A000_8017AC08">
-<ellipse fill="red" stroke="black" cx="1113.09" cy="-18" rx="155.97" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1113.09" cy="-18" rx="155.97" ry="18"/>
 <text text-anchor="middle" x="1113.09" y="-14.3" font-family="Times,serif" font-size="14.00">w_042.func_12A000_8017AC08</text>
 </a>
 </g>

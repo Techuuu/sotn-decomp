@@ -1699,7 +1699,7 @@
 <g id="node107" class="node">
 <title>w_040.EntityWeaponAttack</title>
 <g id="a_node107"><a xlink:href="w_040.EntityWeaponAttack.svg" xlink:title="w_040.EntityWeaponAttack">
-<ellipse fill="red" stroke="black" cx="26859.29" cy="-378" rx="138.38" ry="18"/>
+<ellipse fill="green" stroke="black" cx="26859.29" cy="-378" rx="138.38" ry="18"/>
 <text text-anchor="middle" x="26859.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_040.EntityWeaponAttack</text>
 </a>
 </g>
@@ -1715,7 +1715,7 @@
 <g id="node108" class="node">
 <title>w_040.func_ptr_80170004</title>
 <g id="a_node108"><a xlink:href="w_040.func_ptr_80170004.svg" xlink:title="w_040.func_ptr_80170004">
-<ellipse fill="red" stroke="black" cx="27149.29" cy="-378" rx="133.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="27149.29" cy="-378" rx="133.48" ry="18"/>
 <text text-anchor="middle" x="27149.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_040.func_ptr_80170004</text>
 </a>
 </g>
@@ -1747,7 +1747,7 @@
 <g id="node110" class="node">
 <title>w_042.EntityWeaponAttack</title>
 <g id="a_node110"><a xlink:href="w_042.EntityWeaponAttack.svg" xlink:title="w_042.EntityWeaponAttack">
-<ellipse fill="red" stroke="black" cx="27734.29" cy="-378" rx="138.38" ry="18"/>
+<ellipse fill="green" stroke="black" cx="27734.29" cy="-378" rx="138.38" ry="18"/>
 <text text-anchor="middle" x="27734.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_042.EntityWeaponAttack</text>
 </a>
 </g>
@@ -1763,7 +1763,7 @@
 <g id="node111" class="node">
 <title>w_042.func_ptr_80170004</title>
 <g id="a_node111"><a xlink:href="w_042.func_ptr_80170004.svg" xlink:title="w_042.func_ptr_80170004">
-<ellipse fill="red" stroke="black" cx="28024.29" cy="-378" rx="133.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="28024.29" cy="-378" rx="133.48" ry="18"/>
 <text text-anchor="middle" x="28024.29" y="-374.3" font-family="Times,serif" font-size="14.00">w_042.func_ptr_80170004</text>
 </a>
 </g>
