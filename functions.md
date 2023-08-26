@@ -3,7 +3,7 @@
 | us/st/np3/nonmatchings/4E69C/func_801CF778.s                 |       16 |          1 |        | https://decomp.me/scratch/Rjk3N | 0.14  |
 | us/st/rwrp/nonmatchings/A59C/func_8018E38C.s                 |       17 |          2 |        | https://decomp.me/scratch/b93eY | 1.0   |
 | us/st/sel/nonmatchings/3642C/func_801B881C.s                 |       18 |          1 |        |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_8018E0B0.s                 |       18 |          2 |        |                                 |       |
+| us/st/rwrp/nonmatchings/A59C/func_8018E0B0.s                 |       18 |          2 |        | https://decomp.me/scratch/EVdGO | 1.0   |
 | us/st/sel/nonmatchings/38D24/func_801BAB70.s                 |       19 |          0 |        |                                 |       |
 | us/st/np3/nonmatchings/4E69C/func_801D0B40.s                 |       20 |          1 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018D8BC.s                 |       20 |          2 |        |                                 |       |
@@ -76,9 +76,6 @@
 | us/dra/nonmatchings/5298C/func_800FADC0.s                    |       62 |          4 |        |                                 |       |
 | us/st/sel/nonmatchings/38D24/func_801B97BC.s                 |       62 |          6 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/DrawString16x16.s               |       63 |          5 |        |                                 |       |
-| us/st/cen/nonmatchings/11280/func_80195974.s                 |       63 |          7 |        |                                 |       |
-| us/st/dre/nonmatchings/173C4/func_8019BAB8.s                 |       63 |          7 |        |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_8018EC90.s                 |       63 |          7 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010DA70.s                    |       63 |          8 |        | https://decomp.me/scratch/8WgKB | 0.719 |
 | us/st/rwrp/nonmatchings/8DF0/func_80188DF0.s                 |       64 |          6 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_801983B4.s                 |       67 |          5 |        |                                 |       |

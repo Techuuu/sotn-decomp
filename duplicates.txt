@@ -1574,6 +1574,15 @@
 | 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/st0/nonmatchings/3186C/UpdateStageEntities.s 
 | 1.00 | true     | func_80188514                       | ../../asm/us/st/wrp/nonmatchings/81E8/func_80188514.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | CollectGold                         | ../../asm/us/st/cen/nonmatchings/11280/CollectGold.s 
+| 1.00 | true     | CollectGold                         | ../../asm/us/st/dre/nonmatchings/173C4/CollectGold.s 
+| 1.00 | true     | CollectGold                         | ../../asm/us/st/mad/nonmatchings/EDB8/CollectGold.s 
+| 1.00 | true     | CollectGold                         | ../../asm/us/st/no3/nonmatchings/41C80/CollectGold.s 
+| 1.00 | true     | CollectGold                         | ../../asm/us/st/np3/nonmatchings/394F0/CollectGold.s 
+| 1.00 | true     | CollectGold                         | ../../asm/us/st/nz0/nonmatchings/39908/CollectGold.s 
+| 1.00 | true     | CollectGold                         | ../../asm/us/st/rwrp/nonmatchings/A59C/CollectGold.s 
+| 1.00 | true     | CollectGold                         | ../../asm/us/st/wrp/nonmatchings/861C/CollectGold.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | EntityHeartDrop                     | ../../asm/us/st/cen/nonmatchings/11280/EntityHeartDrop.s 
 | 1.00 | true     | EntityHeartDrop                     | ../../asm/us/st/dre/nonmatchings/1C7DC/EntityHeartDrop.s 
 | 0.92 | false    | EntityHeartDrop                     | ../../asm/us/st/mad/nonmatchings/139E0/EntityHeartDrop.s 
@@ -1618,15 +1627,6 @@
 | 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/nz0/nonmatchings/39908/ReplaceBreakableWithItemDrop.s 
 | 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/rwrp/nonmatchings/A59C/ReplaceBreakableWithItemDrop.s 
 | 1.00 | true     | ReplaceBreakableWithItemDrop        | ../../asm/us/st/wrp/nonmatchings/861C/ReplaceBreakableWithItemDrop.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | func_80195974                       | ../../asm/us/st/cen/nonmatchings/11280/func_80195974.s 
-| 1.00 | false    | func_8019BAB8                       | ../../asm/us/st/dre/nonmatchings/173C4/func_8019BAB8.s 
-| 1.00 | true     | CollectGold                         | ../../asm/us/st/mad/nonmatchings/EDB8/CollectGold.s 
-| 1.00 | true     | CollectGold                         | ../../asm/us/st/no3/nonmatchings/41C80/CollectGold.s 
-| 1.00 | true     | CollectGold                         | ../../asm/us/st/np3/nonmatchings/394F0/CollectGold.s 
-| 1.00 | true     | CollectGold                         | ../../asm/us/st/nz0/nonmatchings/39908/CollectGold.s 
-| 1.00 | false    | func_8018EC90                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018EC90.s 
-| 1.00 | true     | CollectGold                         | ../../asm/us/st/wrp/nonmatchings/861C/CollectGold.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/cen/nonmatchings/1B274/UnkLoopFunc.s 
 | 1.00 | true     | UnkLoopFunc                         | ../../asm/us/st/dre/nonmatchings/1C7DC/UnkLoopFunc.s 
