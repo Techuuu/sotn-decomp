@@ -132,7 +132,7 @@
 | us/st/no3/nonmatchings/41C80/func_801C3A88.s                 |       74 |          9 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018C0F0.s                 |       74 |          9 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018C3A4.s                 |       74 |          9 |        |                                 |       |
-| us/st/sel/nonmatchings/2D260/func_801B4C68.s                 |       75 |          4 |        |                                 |       |
+| us/st/sel/nonmatchings/3410C/func_801B4C68.s                 |       75 |          4 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F2014.s                    |       75 |          7 |        |                                 |       |
 | us/st/mad/nonmatchings/EDB8/func_801909D8.s                  |       75 |          9 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F98AC.s                    |       76 |          7 |        |                                 |       |
@@ -259,7 +259,7 @@
 | us/st/np3/nonmatchings/4B018/func_801CDAC8.s                 |      121 |         13 |        | https://decomp.me/scratch/NOv01 | 0.547 |
 | us/dra/nonmatchings/75F54/func_8012768C.s                    |      121 |         14 |        |                                 |       |
 | us/st/sel/nonmatchings/3642C/func_801B6480.s                 |      122 |          5 |        | https://decomp.me/scratch/fY62m | 0.658 |
-| us/st/sel/nonmatchings/2D260/func_801B519C.s                 |      122 |         12 |        |                                 |       |
+| us/st/sel/nonmatchings/3410C/func_801B519C.s                 |      122 |         12 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80118970.s                    |      122 |         19 |        | https://decomp.me/scratch/ekKxF | 0.231 |
 | us/dra/nonmatchings/692E8/func_8010A234.s                    |      122 |         21 |        | https://decomp.me/scratch/rdeqb | 0.919 |
 | us/st/sel/nonmatchings/2D260/func_801B2F50.s                 |      123 |          3 |        |                                 |       |
@@ -375,7 +375,7 @@
 | us/weapon/nonmatchings/w_045/func_ptr_80170004.s             |      182 |         30 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80169470.s                    |      183 |         20 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/func_8013136C.s                    |      183 |         23 | Yes    | https://decomp.me/scratch/cu30D | 0.97  |
-| us/st/sel/nonmatchings/2D260/func_801B55C8.s                 |      183 |         25 | Yes    |                                 |       |
+| us/st/sel/nonmatchings/3410C/func_801B55C8.s                 |      183 |         25 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_051/EntityWeaponAttack.s            |      184 |         20 |        |                                 |       |
 | us/dra/nonmatchings/47BB8/DecompressData.s                   |      186 |         48 | Yes    | https://decomp.me/scratch/2ChLC | 0.908 |
 | us/weapon/nonmatchings/w_051/func_ptr_80170004.s             |      187 |         19 |        |                                 |       |
@@ -732,7 +732,6 @@
 | us/dra/nonmatchings/75F54/func_8012F894.s                    |      697 |         98 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_029/func_ptr_80170024.s             |      700 |         67 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityTransparentWhiteCircle.s     |      704 |         71 |        |                                 |       |
-| us/st/sel/nonmatchings/2D260/TestCollisions.s                |      710 |         96 | Yes    | https://decomp.me/scratch/Lnt7z | 0.783 |
 | us/st/st0/nonmatchings/36358/func_801BC5C0.s                 |      744 |         59 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/EntityRelicOrb.s                |      749 |         68 | Yes    | https://decomp.me/scratch/EdnoJ | 0.978 |
 | us/st/dre/nonmatchings/1C7DC/EntityRelicOrb.s                |      749 |         68 | Yes    | https://decomp.me/scratch/EdnoJ | 0.978 |
