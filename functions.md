@@ -1,7 +1,7 @@
 | Filename                                                     |   Length |   Branches | Jtbl   | WIP                             | %     |
 |--------------------------------------------------------------|----------|------------|--------|---------------------------------|-------|
 | us/st/np3/nonmatchings/4E69C/func_801CF778.s                 |       16 |          1 |        | https://decomp.me/scratch/Rjk3N | 0.14  |
-| us/st/rwrp/nonmatchings/A59C/func_8018E38C.s                 |       17 |          2 |        |                                 |       |
+| us/st/rwrp/nonmatchings/A59C/func_8018E38C.s                 |       17 |          2 |        | https://decomp.me/scratch/b93eY | 1.0   |
 | us/st/sel/nonmatchings/3642C/func_801B881C.s                 |       18 |          1 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E0B0.s                 |       18 |          2 |        |                                 |       |
 | us/st/sel/nonmatchings/38D24/func_801BAB70.s                 |       19 |          0 |        |                                 |       |
@@ -15,7 +15,7 @@
 | us/st/rwrp/nonmatchings/A59C/func_8018DF84.s                 |       24 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018E118.s                 |       24 |          2 |        | https://decomp.me/scratch/OvNF6 | 1.0   |
 | us/st/rwrp/nonmatchings/A59C/PreventEntityFromRespawning.s   |       25 |          2 |        |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_8018EF28.s                 |       26 |          4 |        |                                 |       |
+| us/st/rwrp/nonmatchings/A59C/func_8018EF28.s                 |       26 |          4 |        | https://decomp.me/scratch/AerK2 | 0.998 |
 | us/st/rwrp/nonmatchings/A59C/func_8019593C.s                 |       27 |          2 |        |                                 |       |
 | us/st/st0/nonmatchings/30030/func_801B0414.s                 |       27 |          4 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018DE98.s                 |       33 |          3 |        |                                 |       |
@@ -24,7 +24,7 @@
 | us/weapon/nonmatchings/w_025/func_B3000_8017AF14.s           |       34 |          8 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018C7E0.s                 |       35 |          2 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/DestroyEntity.s                 |       35 |          4 |        |                                 |       |
-| us/st/rwrp/nonmatchings/A59C/func_8018E160.s                 |       35 |          6 |        |                                 |       |
+| us/st/rwrp/nonmatchings/A59C/func_8018E160.s                 |       35 |          6 |        | https://decomp.me/scratch/yvB0z | 1.0   |
 | us/ric/nonmatchings/22380/func_8015F9F0.s                    |       38 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018C8D0.s                 |       39 |          4 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018D5EC.s                 |       39 |          4 |        |                                 |       |
@@ -428,10 +428,10 @@
 | us/st/cen/nonmatchings/1B274/func_8019BBA4.s                 |      224 |         17 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/func_801A1CE8.s                 |      224 |         17 |        |                                 |       |
 | us/st/no3/nonmatchings/46684/func_801D06FC.s                 |      224 |         17 |        |                                 |       |
-| us/st/np3/nonmatchings/3DEF4/func_801C3E14.s                 |      224 |         17 |        |                                 |       |
+| us/st/np3/nonmatchings/3DEF4/func_801C3E14.s                 |      224 |         17 |        | https://decomp.me/scratch/mrLUB | 0.79  |
 | us/st/nz0/nonmatchings/3E30C/func_801C33D8.s                 |      224 |         17 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_80194EC0.s                 |      224 |         17 |        |                                 |       |
-| us/st/st0/nonmatchings/36358/func_801BA7D8.s                 |      224 |         17 |        |                                 |       |
+| us/st/st0/nonmatchings/36358/func_801BA7D8.s                 |      224 |         17 |        | https://decomp.me/scratch/UV2K2 | 1.0   |
 | us/st/wrp/nonmatchings/D020/func_80192F40.s                  |      224 |         17 |        |                                 |       |
 | us/dra/nonmatchings/5298C/DrawRelicsMenu.s                   |      224 |         19 |        |                                 |       |
 | us/weapon/nonmatchings/w_045/func_ptr_80170010.s             |      224 |         26 |        |                                 |       |
@@ -474,7 +474,6 @@
 | us/st/sel/nonmatchings/2D260/func_801B2108.s                 |      255 |         33 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800FA034.s                    |      255 |         39 | Yes    |                                 |       |
 | us/st/no3/nonmatchings/3FF00/EntityWargExplosionPuffOpaque.s |      256 |         39 | Yes    | https://decomp.me/scratch/kt36I | 0.032 |
-| us/st/np3/nonmatchings/3246C/func_801B65FC.s                 |      256 |         39 | Yes    |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F99B8.s                    |      258 |         35 |        |                                 |       |
 | us/st/cen/nonmatchings/1B274/func_8019BED4.s                 |      259 |         14 |        |                                 |       |
 | us/st/dre/nonmatchings/1C7DC/func_801A2018.s                 |      259 |         14 |        |                                 |       |
