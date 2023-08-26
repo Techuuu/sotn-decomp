@@ -1753,7 +1753,7 @@
 | 1.00 | false    | EntityUnkId12                       | ../../asm/us/st/cen/nonmatchings/D600/EntityUnkId12.s 
 | 1.00 | true     | func_80191B44                       | ../../asm/us/st/dre/nonmatchings/succubus/func_80191B44.s 
 | 1.00 | false    | func_8018E674                       | ../../asm/us/st/mad/nonmatchings/D8C8/func_8018E674.s 
-| 1.00 | false    | EntityUnkId12                       | ../../asm/us/st/no3/nonmatchings/377D4/EntityUnkId12.s 
+| 1.00 | true     | EntityUnkId12                       | ../../asm/us/st/no3/nonmatchings/377D4/EntityUnkId12.s 
 | 1.00 | true     | func_801B2540                       | ../../asm/us/st/np3/nonmatchings/3246C/func_801B2540.s 
 | 1.00 | false    | func_80188ED0                       | ../../asm/us/st/rwrp/nonmatchings/8DF0/func_80188ED0.s 
 | 1.00 | true     | func_801870B0                       | ../../asm/us/st/wrp/nonmatchings/6FD0/func_801870B0.s 
@@ -2345,6 +2345,9 @@
 | 1.00 | true     | EntityShuttingWindow                | ../../asm/us/st/no3/nonmatchings/377D4/EntityShuttingWindow.s 
 | 1.00 | true     | EntityShuttingWindow                | ../../asm/us/st/np3/nonmatchings/3246C/EntityShuttingWindow.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | EntityStairwayPiece                 | ../../asm/us/st/no3/nonmatchings/377D4/EntityStairwayPiece.s 
+| 1.00 | true     | EntityStairwayPiece                 | ../../asm/us/st/np3/nonmatchings/3246C/EntityStairwayPiece.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | EntityTransparentWater              | ../../asm/us/st/no3/nonmatchings/377D4/EntityTransparentWater.s 
 | 1.00 | true     | EntityTransparentWater              | ../../asm/us/st/np3/nonmatchings/3246C/EntityTransparentWater.s 
 -------------------------------------------------------------------------------
@@ -2354,7 +2357,7 @@
 | 1.00 | true     | EntityUnkId16                       | ../../asm/us/st/no3/nonmatchings/377D4/EntityUnkId16.s 
 | 1.00 | true     | func_801B2830                       | ../../asm/us/st/np3/nonmatchings/3246C/func_801B2830.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | EntityUnkId1C                       | ../../asm/us/st/no3/nonmatchings/377D4/EntityUnkId1C.s 
+| 1.00 | true     | EntityUnkId1C                       | ../../asm/us/st/no3/nonmatchings/377D4/EntityUnkId1C.s 
 | 1.00 | true     | func_801B3704                       | ../../asm/us/st/np3/nonmatchings/3246C/func_801B3704.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | EntityUnkId26                       | ../../asm/us/st/no3/nonmatchings/377D4/EntityUnkId26.s 
@@ -2368,9 +2371,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | EntityUnkId49                       | ../../asm/us/st/no3/nonmatchings/377D4/EntityUnkId49.s 
 | 1.00 | true     | EntityUnkId49                       | ../../asm/us/st/np3/nonmatchings/3246C/EntityUnkId49.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | EntityUnkId5C                       | ../../asm/us/st/no3/nonmatchings/377D4/EntityUnkId5C.s 
-| 1.00 | false    | func_801B5790                       | ../../asm/us/st/np3/nonmatchings/3246C/func_801B5790.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_801B94F0                       | ../../asm/us/st/no3/nonmatchings/377D4/func_801B94F0.s 
 | 1.00 | false    | func_801B3D24                       | ../../asm/us/st/np3/nonmatchings/3246C/func_801B3D24.s 
