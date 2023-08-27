@@ -410,7 +410,6 @@
 | us/st/mad/nonmatchings/D8C8/func_8018DC28.s                  |      212 |         29 |        |                                 |       |
 | us/ric/nonmatchings/22380/func_801603C4.s                    |      213 |         29 |        | https://decomp.me/scratch/FE9wj | 0.982 |
 | us/dra/nonmatchings/71830/func_801119C4.s                    |      216 |         26 |        |                                 |       |
-| us/st/no3/nonmatchings/3C4EC/EntityForegroundTree.s          |      216 |         32 |        | https://decomp.me/scratch/jeTVE | 1.0   |
 | us/weapon/nonmatchings/w_041/func_ptr_80170004.s             |      217 |         27 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_049/func_ptr_8017000C.s             |      217 |         28 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80119F70.s                    |      218 |         25 |        | https://decomp.me/scratch/e4Ov8 | 0.994 |
