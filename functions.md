@@ -265,7 +265,6 @@
 | us/st/cen/nonmatchings/D600/EntityUnkId12.s                  |      125 |         18 |        |                                 |       |
 | us/st/mad/nonmatchings/139E0/func_801966B0.s                 |      125 |         18 |        |                                 |       |
 | us/st/mad/nonmatchings/D8C8/func_8018E674.s                  |      125 |         18 |        |                                 |       |
-| us/st/no3/nonmatchings/3C4EC/EntityUnkId53.s                 |      125 |         18 |        | https://decomp.me/scratch/a1jYQ | 0.996 |
 | us/st/rwrp/nonmatchings/8DF0/func_80188ED0.s                 |      125 |         18 |        |                                 |       |
 | us/st/np3/nonmatchings/4E69C/func_801CF7A0.s                 |      125 |         21 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_80157A50.s                    |      125 |         25 |        | https://decomp.me/scratch/jGDCh | 0.998 |
@@ -666,7 +665,7 @@
 | us/st/no3/nonmatchings/3C4EC/EntityBackgroundPineTrees.s     |      504 |         43 |        |                                 |       |
 | us/servant/tt_000/nonmatchings/10E8/func_80172C30.s          |      507 |         58 |        |                                 |       |
 | us/dra/nonmatchings/75F54/EntityHitByIce.s                   |      513 |         59 |        |                                 |       |
-| us/st/no3/nonmatchings/3C4EC/EntityUnkId54.s                 |      514 |         58 |        |                                 |       |
+| us/st/no3/nonmatchings/3C4EC/EntityCastleBridge.s            |      514 |         58 |        |                                 |       |
 | us/weapon/nonmatchings/w_016/func_ptr_80170014.s             |      515 |         65 | Yes    |                                 |       |
 | us/dra/nonmatchings/75F54/EntitySubwpnThrownDagger.s         |      518 |         47 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/EntityClouds.s                  |      520 |         37 |        |                                 |       |
