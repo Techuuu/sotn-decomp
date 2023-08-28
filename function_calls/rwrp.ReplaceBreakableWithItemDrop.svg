@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>rwrp.PreventEntityFromRespawning</title>
 <g id="a_node3"><a xlink:href="rwrp.PreventEntityFromRespawning.svg" xlink:title="rwrp.PreventEntityFromRespawning">
-<ellipse fill="red" stroke="black" cx="403.39" cy="-18" rx="182.77" ry="18"/>
+<ellipse fill="green" stroke="black" cx="403.39" cy="-18" rx="182.77" ry="18"/>
 <text text-anchor="middle" x="403.39" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp.PreventEntityFromRespawning</text>
 </a>
 </g>
