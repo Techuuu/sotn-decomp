@@ -697,7 +697,6 @@
 | us/st/st0/nonmatchings/36358/EntityBackgroundVortex.s        |      640 |         76 |        |                                 |       |
 | us/weapon/nonmatchings/w_014/EntityWeaponAttack.s            |      651 |         80 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80164444.s                    |      660 |         62 |        |                                 |       |
-| us/st/no3/nonmatchings/3FF00/EntityUnkId5A.s                 |      665 |        123 | Yes    |                                 |       |
 | us/st/sel/nonmatchings/2C048/func_801AC174.s                 |      679 |         55 |        |                                 |       |
 | us/weapon/nonmatchings/w_027/func_ptr_80170024.s             |      693 |         84 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012F894.s                    |      697 |         98 | Yes    |                                 |       |
