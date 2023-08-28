@@ -709,7 +709,6 @@
 | us/st/np3/nonmatchings/3DEF4/EntityRelicOrb.s                |      749 |         68 | Yes    | https://decomp.me/scratch/kiAOZ | 0.999 |
 | us/st/nz0/nonmatchings/3E30C/EntityRelicOrb.s                |      749 |         68 | Yes    | https://decomp.me/scratch/kiAOZ | 0.999 |
 | us/st/rwrp/nonmatchings/A59C/func_8019024C.s                 |      749 |         68 | Yes    |                                 |       |
-| us/st/wrp/nonmatchings/D020/EntityRelicOrb.s                 |      749 |         68 | Yes    | https://decomp.me/scratch/kiAOZ | 0.999 |
 | us/ric/nonmatchings/1AC60/func_80159CE4.s                    |      756 |        127 | Yes    |                                 |       |
 | us/servant/tt_000/nonmatchings/10E8/func_80172120.s          |      759 |        111 | Yes    |                                 |       |
 | us/dra/nonmatchings/71830/func_801120B4.s                    |      761 |        136 | Yes    |                                 |       |

@@ -5332,7 +5332,7 @@
 <g id="node333" class="node">
 <title>wrp.EntityRelicOrb</title>
 <g id="a_node333"><a xlink:href="wrp.EntityRelicOrb.svg" xlink:title="wrp.EntityRelicOrb">
-<ellipse fill="red" stroke="black" cx="85909.34" cy="-378" rx="100.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="85909.34" cy="-378" rx="100.98" ry="18"/>
 <text text-anchor="middle" x="85909.34" y="-374.3" font-family="Times,serif" font-size="14.00">wrp.EntityRelicOrb</text>
 </a>
 </g>
