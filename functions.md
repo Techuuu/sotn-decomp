@@ -367,7 +367,6 @@
 | us/dra/nonmatchings/75F54/func_8011E0EC.s                    |      188 |         22 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80116408.s                    |      188 |         37 | Yes    |                                 |       |
 | us/dra/nonmatchings/47BB8/func_800E9880.s                    |      190 |         25 | Yes    |                                 |       |
-| us/st/dre/nonmatchings/14774/EntityFadeToWhite2.s            |      191 |         14 | Yes    | https://decomp.me/scratch/lsKDE | 0.999 |
 | us/dra/nonmatchings/692E8/func_80111018.s                    |      191 |         33 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_053/func_ptr_80170008.s             |      192 |         25 |        |                                 |       |
 | us/st/dre/nonmatchings/14774/func_80194C50.s                 |      193 |         20 |        |                                 |       |
@@ -409,7 +408,6 @@
 | us/dra/nonmatchings/5298C/DrawRelicsMenu.s                   |      224 |         19 |        |                                 |       |
 | us/weapon/nonmatchings/w_045/func_ptr_80170010.s             |      224 |         26 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_801177A0.s                    |      224 |         35 |        |                                 |       |
-| us/st/dre/nonmatchings/14774/EntityFadeToWhite1.s            |      225 |         21 | Yes    | https://decomp.me/scratch/Quf32 | 0.997 |
 | us/dra/nonmatchings/75F54/func_80132F60.s                    |      226 |         24 | Yes    |                                 |       |
 | us/dra/nonmatchings/692E8/func_8011151C.s                    |      227 |         52 |        |                                 |       |
 | us/weapon/nonmatchings/w_051/func_169000_8017B1DC.s          |      228 |         23 |        |                                 |       |

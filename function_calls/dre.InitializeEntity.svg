@@ -115,7 +115,7 @@
 <g id="node8" class="node">
 <title>dre.EntityFadeToWhite1</title>
 <g id="a_node8"><a xlink:href="dre.EntityFadeToWhite1.svg" xlink:title="dre.EntityFadeToWhite1">
-<ellipse fill="red" stroke="black" cx="1742.99" cy="-198" rx="124.28" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1742.99" cy="-198" rx="124.28" ry="18"/>
 <text text-anchor="middle" x="1742.99" y="-194.3" font-family="Times,serif" font-size="14.00">dre.EntityFadeToWhite1</text>
 </a>
 </g>
@@ -131,7 +131,7 @@
 <g id="node9" class="node">
 <title>dre.EntityFadeToWhite2</title>
 <g id="a_node9"><a xlink:href="dre.EntityFadeToWhite2.svg" xlink:title="dre.EntityFadeToWhite2">
-<ellipse fill="red" stroke="black" cx="2008.99" cy="-198" rx="124.28" ry="18"/>
+<ellipse fill="green" stroke="black" cx="2008.99" cy="-198" rx="124.28" ry="18"/>
 <text text-anchor="middle" x="2008.99" y="-194.3" font-family="Times,serif" font-size="14.00">dre.EntityFadeToWhite2</text>
 </a>
 </g>
