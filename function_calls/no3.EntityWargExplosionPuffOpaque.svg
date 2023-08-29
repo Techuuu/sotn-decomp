@@ -12,7 +12,7 @@
 <!-- no3.EntityWargExplosionPuffOpaque -->
 <g id="node1" class="node">
 <title>no3.EntityWargExplosionPuffOpaque</title>
-<ellipse fill="red" stroke="black" cx="727.14" cy="-198" rx="183.07" ry="18"/>
+<ellipse fill="green" stroke="black" cx="727.14" cy="-198" rx="183.07" ry="18"/>
 <text text-anchor="middle" x="727.14" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntityWargExplosionPuffOpaque</text>
 </g>
 <!-- no3.AnimateEntity -->

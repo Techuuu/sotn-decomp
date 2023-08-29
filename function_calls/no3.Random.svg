@@ -371,7 +371,7 @@
 <g id="node24" class="node">
 <title>no3.EntityWargExplosionPuffOpaque</title>
 <g id="a_node24"><a xlink:href="no3.EntityWargExplosionPuffOpaque.svg" xlink:title="no3.EntityWargExplosionPuffOpaque">
-<ellipse fill="red" stroke="black" cx="6179.89" cy="-198" rx="183.07" ry="18"/>
+<ellipse fill="green" stroke="black" cx="6179.89" cy="-198" rx="183.07" ry="18"/>
 <text text-anchor="middle" x="6179.89" y="-194.3" font-family="Times,serif" font-size="14.00">no3.EntityWargExplosionPuffOpaque</text>
 </a>
 </g>
