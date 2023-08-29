@@ -12,7 +12,7 @@
 <!-- np3.InitRoomEntities -->
 <g id="node1" class="node">
 <title>np3.InitRoomEntities</title>
-<ellipse fill="red" stroke="black" cx="374.54" cy="-198" rx="110.48" ry="18"/>
+<ellipse fill="green" stroke="black" cx="374.54" cy="-198" rx="110.48" ry="18"/>
 <text text-anchor="middle" x="374.54" y="-194.3" font-family="Times,serif" font-size="14.00">np3.InitRoomEntities</text>
 </g>
 <!-- np3.Random -->

@@ -12,7 +12,7 @@
 <!-- no3.func_801C3B84 -->
 <g id="node1" class="node">
 <title>no3.func_801C3B84</title>
-<ellipse fill="red" stroke="black" cx="366.08" cy="-198" rx="103.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="366.08" cy="-198" rx="103.98" ry="18"/>
 <text text-anchor="middle" x="366.08" y="-194.3" font-family="Times,serif" font-size="14.00">no3.func_801C3B84</text>
 </g>
 <!-- no3.CreateEntityWhenInHorizontalRange -->
