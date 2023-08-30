@@ -451,7 +451,7 @@
 <g id="node29" class="node">
 <title>no3.EntityExplosion</title>
 <g id="a_node29"><a xlink:href="no3.EntityExplosion.svg" xlink:title="no3.EntityExplosion">
-<ellipse fill="red" stroke="black" cx="7122.89" cy="-378" rx="104.78" ry="18"/>
+<ellipse fill="green" stroke="black" cx="7122.89" cy="-378" rx="104.78" ry="18"/>
 <text text-anchor="middle" x="7122.89" y="-374.3" font-family="Times,serif" font-size="14.00">no3.EntityExplosion</text>
 </a>
 </g>
@@ -819,7 +819,7 @@
 <g id="node52" class="node">
 <title>no3.EntityRelicOrb</title>
 <g id="a_node52"><a xlink:href="no3.EntityRelicOrb.svg" xlink:title="no3.EntityRelicOrb">
-<ellipse fill="red" stroke="black" cx="13488.89" cy="-378" rx="100.18" ry="18"/>
+<ellipse fill="green" stroke="black" cx="13488.89" cy="-378" rx="100.18" ry="18"/>
 <text text-anchor="middle" x="13488.89" y="-374.3" font-family="Times,serif" font-size="14.00">no3.EntityRelicOrb</text>
 </a>
 </g>

@@ -403,7 +403,7 @@
 <g id="node26" class="node">
 <title>dre.EntityRelicOrb</title>
 <g id="a_node26"><a xlink:href="dre.EntityRelicOrb.svg" xlink:title="dre.EntityRelicOrb">
-<ellipse fill="red" stroke="black" cx="6246.59" cy="-378" rx="98.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="6246.59" cy="-378" rx="98.58" ry="18"/>
 <text text-anchor="middle" x="6246.59" y="-374.3" font-family="Times,serif" font-size="14.00">dre.EntityRelicOrb</text>
 </a>
 </g>

@@ -707,7 +707,7 @@
 <g id="node45" class="node">
 <title>np3.EntityRelicOrb</title>
 <g id="a_node45"><a xlink:href="np3.EntityRelicOrb.svg" xlink:title="np3.EntityRelicOrb">
-<ellipse fill="red" stroke="black" cx="11702.04" cy="-198" rx="100.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="11702.04" cy="-198" rx="100.98" ry="18"/>
 <text text-anchor="middle" x="11702.04" y="-194.3" font-family="Times,serif" font-size="14.00">np3.EntityRelicOrb</text>
 </a>
 </g>
