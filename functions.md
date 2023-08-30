@@ -92,7 +92,7 @@
 | us/st/mad/nonmatchings/139E0/func_8019563C.s               |       71 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_801913A0.s               |       71 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_80191BCC.s               |       71 |          7 |        |                                 |       |
-| us/st/sel/nonmatchings/3642C/func_801B690C.s               |       71 |          7 |        |                                 |       |
+| us/st/sel/nonmatchings/3642C/func_801B690C.s               |       71 |          7 |        | https://decomp.me/scratch/Bdq1K | 0.992 |
 | us/dra/nonmatchings/5087C/func_800F1954.s                  |       71 |         12 |        | https://decomp.me/scratch/HuM2x | 0.805 |
 | us/weapon/nonmatchings/w_006/func_2E000_8017B6A0.s         |       72 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_007/func_35000_8017B604.s         |       72 |          5 |        |                                 |       |
@@ -365,7 +365,7 @@
 | us/dra/nonmatchings/692E8/func_80111018.s                  |      191 |         33 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_053/func_ptr_80170008.s           |      192 |         25 |        |                                 |       |
 | us/st/dre/nonmatchings/14774/func_80194C50.s               |      193 |         20 |        |                                 |       |
-| us/ric/nonmatchings/1AC60/func_8015885C.s                  |      193 |         24 |        | https://decomp.me/scratch/S4UB6 | 0.9   |
+| us/ric/nonmatchings/1AC60/func_8015885C.s                  |      193 |         24 |        | https://decomp.me/scratch/S4UB6 | 0.989 |
 | us/weapon/nonmatchings/w_049/func_ptr_80170010.s           |      195 |         24 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010D010.s                  |      196 |         33 |        | https://decomp.me/scratch/vyXQl | 0.79  |
 | us/st/rwrp/nonmatchings/8DF0/func_80189E9C.s               |      196 |         33 | Yes    | https://decomp.me/scratch/4UdLD | 0.996 |
@@ -378,7 +378,6 @@
 | us/st/np3/nonmatchings/3DEF4/func_801BEEF0.s               |      198 |         26 |        |                                 |       |
 | us/st/nz0/nonmatchings/3E30C/func_801BF308.s               |      198 |         26 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018FF9C.s               |      198 |         26 |        |                                 |       |
-| us/st/wrp/nonmatchings/D020/func_8018E01C.s                |      198 |         26 |        | https://decomp.me/scratch/MlCnv | 0.937 |
 | us/st/cen/nonmatchings/D600/func_8018E3E8.s                |      199 |         20 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011EDA8.s                  |      199 |         27 |        |                                 |       |
 | us/weapon/nonmatchings/w_049/func_ptr_80170004.s           |      200 |         21 |        |                                 |       |
@@ -636,7 +635,7 @@
 | us/st/sel/nonmatchings/2D260/func_801ADF94.s               |      493 |         63 |        |                                 |       |
 | us/ric/nonmatchings/26C84/func_80166060.s                  |      494 |         62 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_011/func_ptr_80170024.s           |      494 |         65 | Yes    |                                 |       |
-| us/dra/nonmatchings/62D70/func_80106A28.s                  |      496 |         37 |        |                                 |       |
+| us/dra/nonmatchings/62D70/func_80106A28.s                  |      496 |         37 |        | https://decomp.me/scratch/Lulhn | 0.694 |
 | us/ric/nonmatchings/26C84/func_8016A974.s                  |      498 |         50 |        |                                 |       |
 | us/st/sel/nonmatchings/3642C/func_801B79D4.s               |      499 |         61 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F0CD8.s                  |      502 |         53 |        | https://decomp.me/scratch/BvVma | 0.822 |
@@ -747,7 +746,7 @@
 | us/dra/nonmatchings/692E8/func_8010EDB8.s                  |      933 |        157 | Yes    | https://decomp.me/scratch/CeVlN | 0.802 |
 | us/dra/nonmatchings/73AAC/AlucardHandleDamage.s            |      938 |        168 | Yes    | https://decomp.me/scratch/eKFtd | 0.796 |
 | us/st/nz0/nonmatchings/47CF0/EntityMagicallySealedDoor.s   |      941 |        113 | Yes    | https://decomp.me/scratch/NlnlG | 0.002 |
-| us/st/st0/nonmatchings/31CA0/TestCollisions.s              |      954 |        133 |        | https://decomp.me/scratch/Lnt7z | 0.783 |
+| us/st/st0/nonmatchings/31CA0/TestCollisions.s              |      954 |        133 |        | https://decomp.me/scratch/gAkz5 | 0.916 |
 | us/ric/nonmatchings/32324/func_8016F6F0.s                  |      957 |         56 | Yes    |                                 |       |
 | us/st/np3/nonmatchings/4E69C/EntityGurkha.s                |      963 |        184 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_028/EntityWeaponShieldSpell.s     |      965 |         73 | Yes    |                                 |       |
@@ -769,13 +768,13 @@
 | us/st/no3/nonmatchings/46684/EntityMerman3.s               |     1175 |        189 | Yes    |                                 |       |
 | us/st/mad/nonmatchings/EDB8/func_8018EDB8.s                |     1185 |        173 |        |                                 |       |
 | us/ric/nonmatchings/345EC/func_801719A4.s                  |     1191 |        125 | Yes    |                                 |       |
-| us/st/cen/nonmatchings/11280/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.783 |
-| us/st/dre/nonmatchings/173C4/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.783 |
-| us/st/no3/nonmatchings/41C80/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.783 |
-| us/st/np3/nonmatchings/394F0/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.783 |
-| us/st/nz0/nonmatchings/39908/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.783 |
-| us/st/rwrp/nonmatchings/A59C/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.783 |
-| us/st/wrp/nonmatchings/861C/TestCollisions.s               |     1198 |        178 |        | https://decomp.me/scratch/Lnt7z | 0.783 |
+| us/st/cen/nonmatchings/11280/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/gAkz5 | 0.916 |
+| us/st/dre/nonmatchings/173C4/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/gAkz5 | 0.916 |
+| us/st/no3/nonmatchings/41C80/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/gAkz5 | 0.916 |
+| us/st/np3/nonmatchings/394F0/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/gAkz5 | 0.916 |
+| us/st/nz0/nonmatchings/39908/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/gAkz5 | 0.916 |
+| us/st/rwrp/nonmatchings/A59C/TestCollisions.s              |     1198 |        178 |        | https://decomp.me/scratch/gAkz5 | 0.916 |
+| us/st/wrp/nonmatchings/861C/TestCollisions.s               |     1198 |        178 |        | https://decomp.me/scratch/gAkz5 | 0.916 |
 | us/dra/nonmatchings/62D70/func_80105428.s                  |     1203 |        231 |        |                                 |       |
 | us/st/st0/nonmatchings/2C564/EntityDraculaFinalForm.s      |     1285 |        245 | Yes    | https://decomp.me/scratch/kUpoj | 0.959 |
 | us/ric/nonmatchings/26C84/func_80162EF8.s                  |     1291 |        137 | Yes    |                                 |       |
