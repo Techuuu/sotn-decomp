@@ -92,7 +92,6 @@
 | us/st/mad/nonmatchings/139E0/func_8019563C.s               |       71 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/10D1C/func_801913A0.s              |       71 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/10D1C/func_80191BCC.s              |       71 |          7 |        |                                 |       |
-| us/st/sel/nonmatchings/3642C/func_801B690C.s               |       71 |          7 |        | https://decomp.me/scratch/Bdq1K | 0.992 |
 | us/dra/nonmatchings/5087C/func_800F1954.s                  |       71 |         12 |        | https://decomp.me/scratch/HuM2x | 0.805 |
 | us/weapon/nonmatchings/w_006/func_2E000_8017B6A0.s         |       72 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_007/func_35000_8017B604.s         |       72 |          5 |        |                                 |       |
@@ -119,10 +118,7 @@
 | us/dra/nonmatchings/5298C/func_800F98AC.s                  |       76 |          7 |        |                                 |       |
 | us/weapon/nonmatchings/w_016/func_ptr_80170004.s           |       77 |          6 |        |                                 |       |
 | us/dra/nonmatchings/5298C/func_800F6CC0.s                  |       77 |          7 |        |                                 |       |
-| us/st/cen/nonmatchings/D600/func_8018E6C4.s                |       77 |          7 |        |                                 |       |
-| us/st/dre/nonmatchings/14774/func_80194FF4.s               |       77 |          7 |        |                                 |       |
 | us/st/no3/nonmatchings/3E134/func_801BEDAC.s               |       77 |          7 |        |                                 |       |
-| us/st/nz0/nonmatchings/36DE4/func_801B7C54.s               |       77 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/10D1C/func_80193644.s              |       77 |         12 |        |                                 |       |
 | us/st/no3/nonmatchings/48400/func_801D0A2C.s               |       78 |         11 |        |                                 |       |
 | us/st/np3/nonmatchings/3FC70/func_801C4144.s               |       78 |         11 |        |                                 |       |
