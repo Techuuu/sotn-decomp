@@ -1349,7 +1349,7 @@
 | 1.00 | false    | func_8019E3C8                       | ../../asm/us/st/dre/nonmatchings/1DC6C/func_8019E3C8.s 
 | 1.00 | false    | func_8019583C                       | ../../asm/us/st/mad/nonmatchings/139E0/func_8019583C.s 
 | 1.00 | false    | func_801C8C84                       | ../../asm/us/st/no3/nonmatchings/48400/func_801C8C84.s 
-| 1.00 | false    | func_801C04F4                       | ../../asm/us/st/np3/nonmatchings/3FC70/func_801C04F4.s 
+| 1.00 | true     | func_801C04F4                       | ../../asm/us/st/np3/nonmatchings/3FC70/func_801C04F4.s 
 | 1.00 | true     | func_801C090C                       | ../../asm/us/st/nz0/nonmatchings/40088/func_801C090C.s 
 | 1.00 | false    | func_801915A0                       | ../../asm/us/st/rwrp/nonmatchings/10D1C/func_801915A0.s 
 | 1.00 | false    | func_801B7D0C                       | ../../asm/us/st/st0/nonmatchings/36358/func_801B7D0C.s 
@@ -1900,6 +1900,11 @@
 | 0.92 | true     | func_801B2608                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B2608.s 
 | 0.92 | true     | func_801B263C                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B263C.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | SsSepPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSepPlay.s 
+| 0.93 | true     | SsSepSetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSepSetVol.s 
+| 0.93 | true     | SsSeqGetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSeqGetVol.s 
+| 0.93 | true     | _SsSndSetVol                        | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/_SsSndSetVol.s 
+-------------------------------------------------------------------------------
 | 1.00 | false    | EntityUnkId16                       | ../../asm/us/st/cen/nonmatchings/D600/EntityUnkId16.s 
 | 0.91 | false    | EntitySuccubusCutscene              | ../../asm/us/st/dre/nonmatchings/14774/EntitySuccubusCutscene.s 
 | 0.94 | false    | EntityRoomTransition1               | ../../asm/us/st/no3/nonmatchings/3E134/EntityRoomTransition1.s 
@@ -1967,10 +1972,6 @@
 | 0.93 | true     | _SsContRpn1                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContRpn1.s 
 | 0.93 | true     | _SsContRpn2                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContRpn2.s 
 | 1.00 | true     | _SsSetProgramChange                 | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsSetProgramChange.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | SsSepPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSepPlay.s 
-| 0.93 | true     | SsSepSetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSepSetVol.s 
-| 0.93 | true     | _SsSndSetVol                        | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/_SsSndSetVol.s 
 -------------------------------------------------------------------------------
 | 0.92 | true     | SsVabFakeHead                       | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_vh/SsVabFakeHead.s 
 | 1.00 | true     | SsVabOpenHead                       | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_vh/SsVabOpenHead.s 
@@ -2254,9 +2255,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | _SsContModulation                   | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContModulation.s 
 | 1.00 | true     | _SsContPortaTime                    | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContPortaTime.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | SsSeqPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSeqPlay.s 
-| 0.93 | true     | SsSeqGetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSeqGetVol.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | SsUtSetReverbDelay                  | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ut_rdel/SsUtSetReverbDelay.s 
 | 1.00 | true     | SsUtSetReverbFeedback               | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ut_rfb/SsUtSetReverbFeedback.s 

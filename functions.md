@@ -141,7 +141,6 @@
 | us/st/dre/nonmatchings/1DC6C/func_8019E3C8.s               |       85 |          5 |        | https://decomp.me/scratch/lcx4I | 0.765 |
 | us/st/mad/nonmatchings/139E0/func_8019583C.s               |       85 |          5 |        |                                 |       |
 | us/st/no3/nonmatchings/48400/func_801C8C84.s               |       85 |          5 |        | https://decomp.me/scratch/M5ZeL | 0.938 |
-| us/st/np3/nonmatchings/3FC70/func_801C04F4.s               |       85 |          5 |        |                                 |       |
 | us/st/rwrp/nonmatchings/10D1C/func_801915A0.s              |       85 |          5 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/func_801B7D0C.s               |       85 |          5 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8011E390.s                  |       85 |          7 |        | https://decomp.me/scratch/dSjFV | 0.391 |
