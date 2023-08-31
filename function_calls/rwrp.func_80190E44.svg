@@ -67,7 +67,7 @@
 <g id="node5" class="node">
 <title>rwrp.BlitChar</title>
 <g id="a_node5"><a xlink:href="rwrp.BlitChar.svg" xlink:title="rwrp.BlitChar">
-<ellipse fill="red" stroke="black" cx="580.34" cy="-18" rx="75.29" ry="18"/>
+<ellipse fill="green" stroke="black" cx="580.34" cy="-18" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="580.34" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp.BlitChar</text>
 </a>
 </g>

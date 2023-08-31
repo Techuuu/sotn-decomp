@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>cen.BlitChar</title>
 <g id="a_node4"><a xlink:href="cen.BlitChar.svg" xlink:title="cen.BlitChar">
-<ellipse fill="red" stroke="black" cx="357.34" cy="-18" rx="68.79" ry="18"/>
+<ellipse fill="green" stroke="black" cx="357.34" cy="-18" rx="68.79" ry="18"/>
 <text text-anchor="middle" x="357.34" y="-14.3" font-family="Times,serif" font-size="14.00">cen.BlitChar</text>
 </a>
 </g>

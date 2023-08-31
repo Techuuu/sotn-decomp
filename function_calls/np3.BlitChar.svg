@@ -12,7 +12,7 @@
 <!-- np3.BlitChar -->
 <g id="node1" class="node">
 <title>np3.BlitChar</title>
-<ellipse fill="red" stroke="black" cx="209.74" cy="-198" rx="70.39" ry="18"/>
+<ellipse fill="green" stroke="black" cx="209.74" cy="-198" rx="70.39" ry="18"/>
 <text text-anchor="middle" x="209.74" y="-194.3" font-family="Times,serif" font-size="14.00">np3.BlitChar</text>
 </g>
 <!-- dra.func_80106A28 -->

@@ -12,7 +12,7 @@
 <!-- rwrp.BlitChar -->
 <g id="node1" class="node">
 <title>rwrp.BlitChar</title>
-<ellipse fill="red" stroke="black" cx="221.29" cy="-198" rx="75.29" ry="18"/>
+<ellipse fill="green" stroke="black" cx="221.29" cy="-198" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="221.29" y="-194.3" font-family="Times,serif" font-size="14.00">rwrp.BlitChar</text>
 </g>
 <!-- dra.func_80106A28 -->
