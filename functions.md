@@ -92,7 +92,7 @@
 | us/st/mad/nonmatchings/15520/func_8019563C.s                |       71 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/113A0/func_801913A0.s               |       71 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/113A0/func_80191BCC.s               |       71 |          7 |        |                                 |       |
-| us/dra/nonmatchings/5087C/func_800F1954.s                   |       71 |         12 |        | https://decomp.me/scratch/HuM2x | 0.805 |
+| us/dra/nonmatchings/5087C/func_800F1954.s                   |       71 |         12 |        | https://decomp.me/scratch/e5ApY | 0.876 |
 | us/weapon/nonmatchings/w_006/func_2E000_8017B6A0.s          |       72 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_007/func_35000_8017B604.s          |       72 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_013/func_5F000_8017A9CC.s          |       72 |          5 |        |                                 |       |
