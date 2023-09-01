@@ -59,7 +59,7 @@
 | us/st/st0/nonmatchings/30030/func_801B11E8.s                |       58 |         15 |        |                                 |       |
 | us/st/cen/nonmatchings/18084/func_8019902C.s                |       61 |         10 |        |                                 |       |
 | us/st/rwrp/nonmatchings/113A0/func_80192348.s               |       61 |         10 |        |                                 |       |
-| us/dra/nonmatchings/5298C/func_800FADC0.s                   |       62 |          4 |        |                                 |       |
+| us/dra/nonmatchings/5298C/func_800FADC0.s                   |       62 |          4 |        | https://decomp.me/scratch/m8cxx | 0.987 |
 | us/st/sel/nonmatchings/38D24/func_801B97BC.s                |       62 |          6 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/DrawString16x16.s              |       63 |          5 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010DA70.s                   |       63 |          8 |        | https://decomp.me/scratch/8WgKB | 0.719 |
