@@ -46,7 +46,7 @@
 | us/st/cen/nonmatchings/18084/func_801991C0.s                |       54 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/113A0/func_801924DC.s               |       54 |          7 |        |                                 |       |
 | us/weapon/nonmatchings/w_029/func_ptr_80170028.s            |       54 |          7 |        |                                 |       |
-| us/dra/nonmatchings/47BB8/func_800EA720.s                   |       55 |          7 |        | https://decomp.me/scratch/4mMbS | 0.616 |
+| us/dra/nonmatchings/47BB8/func_800EA720.s                   |       55 |          7 |        | https://decomp.me/scratch/4iPUP | 0.997 |
 | us/st/sel/nonmatchings/2D260/func_801B3F94.s                |       55 |         10 |        |                                 |       |
 | us/st/cen/nonmatchings/11280/func_80193410.s                |       55 |         11 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018C72C.s                |       55 |         11 |        |                                 |       |
