@@ -73,7 +73,7 @@
 | us/st/rwrp/nonmatchings/113A0/func_801916D0.s               |       67 |          5 |        |                                 |       |
 | us/st/st0/nonmatchings/36358/func_801B7E3C.s                |       67 |          5 |        |                                 |       |
 | us/st/wrp/nonmatchings/F420/func_8018F750.s                 |       67 |          5 |        | https://decomp.me/scratch/dUTND | 0.788 |
-| us/dra/nonmatchings/47BB8/func_800E9530.s                   |       68 |          9 |        |                                 |       |
+| us/dra/nonmatchings/47BB8/func_800E9530.s                   |       68 |          9 |        | https://decomp.me/scratch/mSlpU | 0.979 |
 | us/st/sel/nonmatchings/3642C/func_801B873C.s                |       68 |          9 |        |                                 |       |
 | us/st/cen/nonmatchings/18084/EntityExplosion14.s            |       69 |          6 |        |                                 |       |
 | us/st/rwrp/nonmatchings/113A0/func_801917B8.s               |       69 |          6 |        |                                 |       |
