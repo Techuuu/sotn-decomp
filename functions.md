@@ -359,7 +359,6 @@
 | us/dra/nonmatchings/692E8/func_80111018.s                   |      191 |         33 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_053/func_ptr_80170008.s            |      192 |         25 |        |                                 |       |
 | us/st/dre/nonmatchings/14774/func_80194C50.s                |      193 |         20 |        | https://decomp.me/scratch/8yaXH | 0.996 |
-| us/ric/nonmatchings/1AC60/func_8015885C.s                   |      193 |         24 |        | https://decomp.me/scratch/ndKaV | 0.969 |
 | us/weapon/nonmatchings/w_049/func_ptr_80170010.s            |      195 |         24 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010D010.s                   |      196 |         33 |        | https://decomp.me/scratch/vyXQl | 0.79  |
 | us/st/rwrp/nonmatchings/8DF0/func_80189E9C.s                |      196 |         33 | Yes    | https://decomp.me/scratch/4UdLD | 0.996 |
