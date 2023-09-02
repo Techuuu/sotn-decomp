@@ -59,7 +59,7 @@
 | us/st/st0/nonmatchings/30030/func_801B11E8.s                |       58 |         15 |        |                                 |       |
 | us/st/cen/nonmatchings/18084/func_8019902C.s                |       61 |         10 |        |                                 |       |
 | us/st/rwrp/nonmatchings/113A0/func_80192348.s               |       61 |         10 |        |                                 |       |
-| us/dra/nonmatchings/5298C/func_800FADC0.s                   |       62 |          4 |        | https://decomp.me/scratch/m8cxx | 0.987 |
+| us/dra/nonmatchings/5298C/func_800FADC0.s                   |       62 |          4 |        | https://decomp.me/scratch/hKdMc | 0.99  |
 | us/st/sel/nonmatchings/38D24/func_801B97BC.s                |       62 |          6 |        |                                 |       |
 | us/st/sel/nonmatchings/2D260/DrawString16x16.s              |       63 |          5 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010DA70.s                   |       63 |          8 |        | https://decomp.me/scratch/8WgKB | 0.719 |
@@ -230,7 +230,7 @@
 | us/st/no3/nonmatchings/3E134/func_801BE598.s                |      121 |          5 |        |                                 |       |
 | us/st/np3/nonmatchings/4B018/func_801CDAC8.s                |      121 |         13 |        | https://decomp.me/scratch/NOv01 | 0.547 |
 | us/dra/nonmatchings/75F54/func_8012768C.s                   |      121 |         14 |        |                                 |       |
-| us/st/sel/nonmatchings/3642C/func_801B6480.s                |      122 |          5 |        | https://decomp.me/scratch/fY62m | 0.658 |
+| us/st/sel/nonmatchings/3642C/func_801B6480.s                |      122 |          5 |        | https://decomp.me/scratch/7Galc | 0.986 |
 | us/st/sel/nonmatchings/3410C/func_801B519C.s                |      122 |         12 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80118970.s                   |      122 |         19 |        | https://decomp.me/scratch/ekKxF | 0.231 |
 | us/dra/nonmatchings/692E8/func_8010A234.s                   |      122 |         21 |        | https://decomp.me/scratch/rdeqb | 0.919 |
@@ -358,8 +358,8 @@
 | us/dra/nonmatchings/47BB8/func_800E9880.s                   |      190 |         25 | Yes    |                                 |       |
 | us/dra/nonmatchings/692E8/func_80111018.s                   |      191 |         33 | Yes    |                                 |       |
 | us/weapon/nonmatchings/w_053/func_ptr_80170008.s            |      192 |         25 |        |                                 |       |
-| us/st/dre/nonmatchings/14774/func_80194C50.s                |      193 |         20 |        |                                 |       |
-| us/ric/nonmatchings/1AC60/func_8015885C.s                   |      193 |         24 |        | https://decomp.me/scratch/S4UB6 | 0.989 |
+| us/st/dre/nonmatchings/14774/func_80194C50.s                |      193 |         20 |        | https://decomp.me/scratch/8yaXH | 0.996 |
+| us/ric/nonmatchings/1AC60/func_8015885C.s                   |      193 |         24 |        | https://decomp.me/scratch/ndKaV | 0.969 |
 | us/weapon/nonmatchings/w_049/func_ptr_80170010.s            |      195 |         24 |        |                                 |       |
 | us/dra/nonmatchings/692E8/func_8010D010.s                   |      196 |         33 |        | https://decomp.me/scratch/vyXQl | 0.79  |
 | us/st/rwrp/nonmatchings/8DF0/func_80189E9C.s                |      196 |         33 | Yes    | https://decomp.me/scratch/4UdLD | 0.996 |
@@ -518,7 +518,7 @@
 | us/weapon/nonmatchings/w_012/func_ptr_80170004.s            |      365 |         44 |        |                                 |       |
 | us/ric/nonmatchings/1AC60/func_801590A0.s                   |      367 |         69 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_8012E040.s                   |      367 |         76 |        |                                 |       |
-| us/st/nz0/nonmatchings/36DE4/func_801B8F94.s                |      368 |         75 | Yes    |                                 |       |
+| us/st/nz0/nonmatchings/36DE4/func_801B8F94.s                |      368 |         75 | Yes    | https://decomp.me/scratch/XGfNm | 0.998 |
 | us/dra/nonmatchings/75F54/func_80117DEC.s                   |      371 |         80 |        | https://decomp.me/scratch/bgt0g | 0.838 |
 | us/ric/nonmatchings/26C84/func_801684D8.s                   |      372 |         52 | Yes    |                                 |       |
 | us/ric/nonmatchings/1AC60/func_80159670.s                   |      373 |         67 | Yes    |                                 |       |
