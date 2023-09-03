@@ -144,7 +144,7 @@
 | us/dra/nonmatchings/75F54/func_8011E390.s                   |       85 |          7 |        | https://decomp.me/scratch/dSjFV | 0.391 |
 | us/st/sel/nonmatchings/2D260/func_801B1FD8.s                |       85 |          8 |        |                                 |       |
 | us/dra/nonmatchings/75F54/func_80133810.s                   |       85 |          9 |        |                                 |       |
-| us/st/mad/nonmatchings/E964/func_8018EC90.s                 |       85 |         10 |        |                                 |       |
+| us/st/mad/nonmatchings/CollectGold/func_8018EC90.s          |       85 |         10 |        |                                 |       |
 | us/dra/nonmatchings/5298C/DrawSettingsButton.s              |       86 |          7 |        | https://decomp.me/scratch/eYeKu | 0.816 |
 | us/st/sel/nonmatchings/2D260/func_801AD66C.s                |       86 |         10 |        | https://decomp.me/scratch/QPJ0L | 0.985 |
 | us/st/rwrp/nonmatchings/8DF0/EntityBreakable.s              |       86 |         11 |        | https://decomp.me/scratch/WYpFC | 0.996 |

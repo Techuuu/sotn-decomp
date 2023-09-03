@@ -895,26 +895,6 @@
 | 1.00 | true     | AnimateEntity                       | ../../asm/us/st/st0/nonmatchings/31CA0/AnimateEntity.s 
 | 1.00 | true     | AnimateEntity                       | ../../asm/us/st/wrp/nonmatchings/861C/AnimateEntity.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | Random                              | ../../asm/us/st/cen/nonmatchings/10E4C/Random.s 
-| 1.00 | true     | Random                              | ../../asm/us/st/dre/nonmatchings/16F90/Random.s 
-| 1.00 | true     | Random                              | ../../asm/us/st/mad/nonmatchings/E964/Random.s 
-| 1.00 | true     | Random                              | ../../asm/us/st/no3/nonmatchings/4184C/Random.s 
-| 1.00 | true     | Random                              | ../../asm/us/st/np3/nonmatchings/390BC/Random.s 
-| 1.00 | true     | Random                              | ../../asm/us/st/nz0/nonmatchings/394D4/Random.s 
-| 1.00 | true     | Random                              | ../../asm/us/st/rwrp/nonmatchings/A168/Random.s 
-| 1.00 | true     | Random                              | ../../asm/us/st/st0/nonmatchings/3186C/Random.s 
-| 1.00 | true     | Random                              | ../../asm/us/st/wrp/nonmatchings/81E8/Random.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | Update                              | ../../asm/us/st/cen/nonmatchings/10E4C/Update.s 
-| 1.00 | true     | Update                              | ../../asm/us/st/dre/nonmatchings/16F90/Update.s 
-| 1.00 | true     | Update                              | ../../asm/us/st/mad/nonmatchings/E964/Update.s 
-| 1.00 | true     | Update                              | ../../asm/us/st/no3/nonmatchings/4184C/Update.s 
-| 1.00 | true     | Update                              | ../../asm/us/st/np3/nonmatchings/390BC/Update.s 
-| 1.00 | true     | Update                              | ../../asm/us/st/nz0/nonmatchings/394D4/Update.s 
-| 1.00 | true     | Update                              | ../../asm/us/st/rwrp/nonmatchings/A168/Update.s 
-| 1.00 | true     | Update                              | ../../asm/us/st/st0/nonmatchings/3186C/Update.s 
-| 1.00 | true     | Update                              | ../../asm/us/st/wrp/nonmatchings/81E8/Update.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | AllocEntity                         | ../../asm/us/st/cen/nonmatchings/11280/AllocEntity.s 
 | 1.00 | true     | AllocEntity                         | ../../asm/us/st/dre/nonmatchings/173C4/AllocEntity.s 
 | 1.00 | true     | AllocEntity                         | ../../asm/us/st/mad/nonmatchings/EDB8/AllocEntity.s 
@@ -1545,6 +1525,26 @@
 | 1.00 | true     | func_801BD80C                       | ../../asm/us/st/st0/nonmatchings/36358/func_801BD80C.s 
 | 1.00 | true     | func_801939BC                       | ../../asm/us/st/wrp/nonmatchings/F420/func_801939BC.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | Random                              | ../../asm/us/st/cen/nonmatchings/random/Random.s 
+| 1.00 | true     | Random                              | ../../asm/us/st/dre/nonmatchings/random/Random.s 
+| 1.00 | true     | Random                              | ../../asm/us/st/mad/nonmatchings/random/Random.s 
+| 1.00 | true     | Random                              | ../../asm/us/st/no3/nonmatchings/random/Random.s 
+| 1.00 | true     | Random                              | ../../asm/us/st/np3/nonmatchings/random/Random.s 
+| 1.00 | true     | Random                              | ../../asm/us/st/nz0/nonmatchings/random/Random.s 
+| 1.00 | true     | Random                              | ../../asm/us/st/rwrp/nonmatchings/random/Random.s 
+| 1.00 | true     | Random                              | ../../asm/us/st/st0/nonmatchings/random/Random.s 
+| 1.00 | true     | Random                              | ../../asm/us/st/wrp/nonmatchings/random/Random.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | Update                              | ../../asm/us/st/cen/nonmatchings/update/Update.s 
+| 1.00 | true     | Update                              | ../../asm/us/st/dre/nonmatchings/update/Update.s 
+| 1.00 | true     | Update                              | ../../asm/us/st/mad/nonmatchings/update/Update.s 
+| 1.00 | true     | Update                              | ../../asm/us/st/no3/nonmatchings/update/Update.s 
+| 1.00 | true     | Update                              | ../../asm/us/st/np3/nonmatchings/update/Update.s 
+| 1.00 | true     | Update                              | ../../asm/us/st/nz0/nonmatchings/update/Update.s 
+| 1.00 | true     | Update                              | ../../asm/us/st/rwrp/nonmatchings/update/Update.s 
+| 1.00 | true     | Update                              | ../../asm/us/st/st0/nonmatchings/update/Update.s 
+| 1.00 | true     | Update                              | ../../asm/us/st/wrp/nonmatchings/update/Update.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | .L3C000_8017B1DC                    | ../../asm/us/weapon/nonmatchings/w_008/EntityWeaponAttack.s 
 | 1.00 | true     | .L43000_8017B1DC                    | ../../asm/us/weapon/nonmatchings/w_009/EntityWeaponAttack.s 
 | 0.90 | true     | .L4A000_8017B4C0                    | ../../asm/us/weapon/nonmatchings/w_010/EntityWeaponAttack.s 
@@ -1565,18 +1565,9 @@
 | 1.00 | false    | EntityWeaponAttack                  | ../../asm/us/weapon/nonmatchings/w_036/EntityWeaponAttack.s 
 | 1.00 | false    | EntityWeaponAttack                  | ../../asm/us/weapon/nonmatchings/w_057/EntityWeaponAttack.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/cen/nonmatchings/10E4C/UpdateStageEntities.s 
-| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/dre/nonmatchings/16F90/UpdateStageEntities.s 
-| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/no3/nonmatchings/4184C/UpdateStageEntities.s 
-| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/np3/nonmatchings/390BC/UpdateStageEntities.s 
-| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/nz0/nonmatchings/394D4/UpdateStageEntities.s 
-| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/rwrp/nonmatchings/A168/UpdateStageEntities.s 
-| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/st0/nonmatchings/3186C/UpdateStageEntities.s 
-| 1.00 | true     | func_80188514                       | ../../asm/us/st/wrp/nonmatchings/81E8/func_80188514.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | CollectGold                         | ../../asm/us/st/cen/nonmatchings/11280/CollectGold.s 
 | 1.00 | true     | CollectGold                         | ../../asm/us/st/dre/nonmatchings/173C4/CollectGold.s 
-| 1.00 | true     | CollectGold                         | ../../asm/us/st/mad/nonmatchings/EDB8/CollectGold.s 
+| 1.00 | false    | CollectGold                         | ../../asm/us/st/mad/nonmatchings/EDB8/CollectGold.s 
 | 1.00 | true     | CollectGold                         | ../../asm/us/st/no3/nonmatchings/41C80/CollectGold.s 
 | 1.00 | true     | CollectGold                         | ../../asm/us/st/np3/nonmatchings/394F0/CollectGold.s 
 | 1.00 | true     | CollectGold                         | ../../asm/us/st/nz0/nonmatchings/39908/CollectGold.s 
@@ -1645,6 +1636,15 @@
 | 1.00 | true     | EntityHeartDrop                     | ../../asm/us/st/nz0/nonmatchings/entity_heart_drop/EntityHeartDrop.s 
 | 1.00 | false    | EntityHeartDrop                     | ../../asm/us/st/rwrp/nonmatchings/entity_heart_drop/EntityHeartDrop.s 
 | 1.00 | true     | EntityHeartDrop                     | ../../asm/us/st/wrp/nonmatchings/entity_heart_drop/EntityHeartDrop.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/cen/nonmatchings/update_stage_entities/UpdateStageEntities.s 
+| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/dre/nonmatchings/update_stage_entities/UpdateStageEntities.s 
+| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/no3/nonmatchings/update_stage_entities/UpdateStageEntities.s 
+| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/np3/nonmatchings/update_stage_entities/UpdateStageEntities.s 
+| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/nz0/nonmatchings/update_stage_entities/UpdateStageEntities.s 
+| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/rwrp/nonmatchings/update_stage_entities/UpdateStageEntities.s 
+| 1.00 | true     | UpdateStageEntities                 | ../../asm/us/st/st0/nonmatchings/update_stage_entities/UpdateStageEntities.s 
+| 1.00 | true     | func_80188514                       | ../../asm/us/st/wrp/nonmatchings/update_stage_entities/func_80188514.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_800E92F4                       | ../../asm/us/dra/nonmatchings/47BB8/func_800E92F4.s 
 | 1.00 | true     | func_800FAC30                       | ../../asm/us/dra/nonmatchings/5298C/func_800FAC30.s 
@@ -1842,6 +1842,12 @@
 | 1.00 | true     | func_801B0958                       | ../../asm/us/st/nz0/nonmatchings/30958/func_801B0958.s 
 | 1.00 | true     | func_801A7D64                       | ../../asm/us/st/st0/nonmatchings/27D64/func_801A7D64.s 
 -------------------------------------------------------------------------------
+| 1.00 | false    | GsClearVcount                       | ../../asm/us/main/nonmatchings/72A4/GsClearVcount.s 
+| 1.00 | false    | GsGetVcount                         | ../../asm/us/main/nonmatchings/72A4/GsGetVcount.s 
+| 0.90 | true     | def_cbread                          | ../../asm/us/main/nonmatchings/72A4/def_cbread.s 
+| 0.90 | true     | def_cbready                         | ../../asm/us/main/nonmatchings/72A4/def_cbready.s 
+| 0.90 | true     | def_cbsync                          | ../../asm/us/main/nonmatchings/72A4/def_cbsync.s 
+-------------------------------------------------------------------------------
 | 1.00 | false    | SetIR123                            | ../../asm/us/main/nonmatchings/72A4/SetIR123.s 
 | 1.00 | false    | SetMAC123                           | ../../asm/us/main/nonmatchings/72A4/SetMAC123.s 
 | 1.00 | false    | SetRii                              | ../../asm/us/main/nonmatchings/72A4/SetRii.s 
@@ -1874,11 +1880,6 @@
 | 1.00 | true     | _clear_event                        | ../../asm/us/st/sel/nonmatchings/3642C/_clear_event.s 
 | 1.00 | true     | _clear_event_x                      | ../../asm/us/st/sel/nonmatchings/3642C/_clear_event_x.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_800F6A48                       | ../../asm/us/dra/nonmatchings/5298C/func_800F6A48.s 
-| 0.90 | true     | def_cbread                          | ../../asm/us/main/nonmatchings/72A4/def_cbread.s 
-| 0.90 | true     | def_cbready                         | ../../asm/us/main/nonmatchings/72A4/def_cbready.s 
-| 0.90 | true     | def_cbsync                          | ../../asm/us/main/nonmatchings/72A4/def_cbsync.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | func_80111928                       | ../../asm/us/dra/nonmatchings/71830/func_80111928.s 
 | 1.00 | true     | SpuVmDamperOff                      | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vm_doff/SpuVmDamperOff.s 
 | 1.00 | true     | SsSetStereo                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_mono/SsSetStereo.s 
@@ -1898,6 +1899,11 @@
 | 0.92 | true     | func_801B25D4                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B25D4.s 
 | 0.92 | true     | func_801B2608                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B2608.s 
 | 0.92 | true     | func_801B263C                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B263C.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | SsSepPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSepPlay.s 
+| 0.93 | true     | SsSepSetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSepSetVol.s 
+| 0.93 | true     | SsSeqGetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSeqGetVol.s 
+| 0.93 | true     | _SsSndSetVol                        | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/_SsSndSetVol.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | EntityUnkId16                       | ../../asm/us/st/cen/nonmatchings/D600/EntityUnkId16.s 
 | 0.91 | false    | EntitySuccubusCutscene              | ../../asm/us/st/dre/nonmatchings/14774/EntitySuccubusCutscene.s 
@@ -1966,10 +1972,6 @@
 | 0.93 | true     | _SsContRpn1                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContRpn1.s 
 | 0.93 | true     | _SsContRpn2                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContRpn2.s 
 | 1.00 | true     | _SsSetProgramChange                 | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsSetProgramChange.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | SsSepPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSepPlay.s 
-| 0.93 | true     | SsSepSetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSepSetVol.s 
-| 0.93 | true     | _SsSndSetVol                        | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/_SsSndSetVol.s 
 -------------------------------------------------------------------------------
 | 0.92 | true     | SsVabFakeHead                       | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_vh/SsVabFakeHead.s 
 | 1.00 | true     | SsVabOpenHead                       | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_vh/SsVabOpenHead.s 
@@ -2227,9 +2229,6 @@
 | 1.00 | false    | EnterCriticalSection                | ../../asm/us/main/nonmatchings/5E78/EnterCriticalSection.s 
 | 1.00 | false    | ExitCriticalSection                 | ../../asm/us/main/nonmatchings/5E78/ExitCriticalSection.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | GsClearVcount                       | ../../asm/us/main/nonmatchings/72A4/GsClearVcount.s 
-| 1.00 | false    | GsGetVcount                         | ../../asm/us/main/nonmatchings/72A4/GsGetVcount.s 
--------------------------------------------------------------------------------
 | 0.90 | false    | ColorDpq                            | ../../asm/us/main/nonmatchings/72A4/ColorDpq.s 
 | 1.00 | false    | NormalColorDpq                      | ../../asm/us/main/nonmatchings/72A4/NormalColorDpq.s 
 -------------------------------------------------------------------------------
@@ -2256,9 +2255,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | _SsContModulation                   | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContModulation.s 
 | 1.00 | true     | _SsContPortaTime                    | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContPortaTime.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | SsSeqPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSeqPlay.s 
-| 0.93 | true     | SsSeqGetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSeqGetVol.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | SsUtSetReverbDelay                  | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ut_rdel/SsUtSetReverbDelay.s 
 | 1.00 | true     | SsUtSetReverbFeedback               | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ut_rfb/SsUtSetReverbFeedback.s 
