@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>dra.SetNextRoomToLoad</title>
 <g id="a_node3"><a xlink:href="dra.SetNextRoomToLoad.svg" xlink:title="dra.SetNextRoomToLoad">
-<ellipse fill="red" stroke="black" cx="129.34" cy="-378" rx="126.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="129.34" cy="-378" rx="126.98" ry="18"/>
 <text text-anchor="middle" x="129.34" y="-374.3" font-family="Times,serif" font-size="14.00">dra.SetNextRoomToLoad</text>
 </a>
 </g>

@@ -91,7 +91,7 @@
 | us/st/mad/nonmatchings/15520/func_8019563C.s                |       71 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/113A0/func_801913A0.s               |       71 |          7 |        |                                 |       |
 | us/st/rwrp/nonmatchings/113A0/func_80191BCC.s               |       71 |          7 |        |                                 |       |
-| us/dra/nonmatchings/5087C/func_800F1954.s                   |       71 |         12 |        | https://decomp.me/scratch/e5ApY | 0.871 |
+| us/dra/nonmatchings/5087C/func_800F1954.s                   |       71 |         12 |        | https://decomp.me/scratch/e5ApY | 0.853 |
 | us/weapon/nonmatchings/w_006/func_2E000_8017B6A0.s          |       72 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_007/func_35000_8017B604.s          |       72 |          5 |        |                                 |       |
 | us/weapon/nonmatchings/w_013/func_5F000_8017A9CC.s          |       72 |          5 |        |                                 |       |
@@ -131,7 +131,6 @@
 | us/st/rwrp/nonmatchings/A59C/func_8018C1EC.s                |       81 |         10 |        |                                 |       |
 | us/st/rwrp/nonmatchings/A59C/func_8018C4A0.s                |       81 |         10 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F1EB0.s                   |       81 |         13 |        |                                 |       |
-| us/dra/nonmatchings/5087C/SetNextRoomToLoad.s               |       81 |         14 |        | https://decomp.me/scratch/SulYc | 0.812 |
 | us/st/sel/nonmatchings/38D24/MDEC_print_error.s             |       82 |          4 |        |                                 |       |
 | us/dra/nonmatchings/5087C/func_800F2120.s                   |       82 |         13 |        |                                 |       |
 | us/st/mad/nonmatchings/15520/EntityHeartDrop.s              |       83 |         11 |        | https://decomp.me/scratch/C29Wy | 1.0   |
@@ -202,7 +201,7 @@
 | us/st/st0/nonmatchings/30030/func_801B101C.s                |      106 |          7 |        |                                 |       |
 | us/weapon/nonmatchings/w_016/func_ptr_80170010.s            |      106 |         12 |        |                                 |       |
 | us/weapon/nonmatchings/w_021/func_97000_8017AF2C.s          |      108 |         16 |        |                                 |       |
-| us/dra/nonmatchings/5087C/func_800F2288.s                   |      109 |         12 |        |                                 |       |
+| us/dra/nonmatchings/5087C/func_800F2288.s                   |      109 |         12 |        | https://decomp.me/scratch/oxlu4 | 0.751 |
 | us/dra/nonmatchings/5298C/func_800F5904.s                   |      110 |         11 |        | https://decomp.me/scratch/DP2LU | 0.708 |
 | us/dra/nonmatchings/5087C/func_800F2658.s                   |      111 |          5 |        |                                 |       |
 | us/st/sel/nonmatchings/38D24/func_801B99E4.s                |      111 |          9 |        |                                 |       |
