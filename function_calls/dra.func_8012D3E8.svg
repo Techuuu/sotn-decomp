@@ -12,7 +12,7 @@
 <!-- dra.func_8012D3E8 -->
 <g id="node1" class="node">
 <title>dra.func_8012D3E8</title>
-<ellipse fill="red" stroke="black" cx="1259.04" cy="-198" rx="102.88" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1259.04" cy="-198" rx="102.88" ry="18"/>
 <text text-anchor="middle" x="1259.04" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_8012D3E8</text>
 </g>
 <!-- dra.IsRelicActive -->
