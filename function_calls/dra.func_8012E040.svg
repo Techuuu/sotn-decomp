@@ -12,7 +12,7 @@
 <!-- dra.func_8012E040 -->
 <g id="node1" class="node">
 <title>dra.func_8012E040</title>
-<ellipse fill="red" stroke="black" cx="1209.34" cy="-198" rx="101.28" ry="18"/>
+<ellipse fill="green" stroke="black" cx="1209.34" cy="-198" rx="101.28" ry="18"/>
 <text text-anchor="middle" x="1209.34" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_8012E040</text>
 </g>
 <!-- dra.PlaySfx -->
