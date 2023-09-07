@@ -12,7 +12,7 @@
 <!-- sel.func_801B675C -->
 <g id="node1" class="node">
 <title>sel.func_801B675C</title>
-<ellipse fill="red" stroke="black" cx="204.44" cy="-198" rx="100.18" ry="18"/>
+<ellipse fill="green" stroke="black" cx="204.44" cy="-198" rx="100.18" ry="18"/>
 <text text-anchor="middle" x="204.44" y="-194.3" font-family="Times,serif" font-size="14.00">sel.func_801B675C</text>
 </g>
 <!-- dra.AllocPrimitives -->
