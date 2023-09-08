@@ -685,7 +685,7 @@
 - [✅ func_8012DBBC](dra.func_8012DBBC.svg)
 - [✅ func_8012DF04](dra.func_8012DF04.svg)
 - [✅ func_8012E040](dra.func_8012E040.svg)
-- [❌ func_8012E550](dra.func_8012E550.svg)
+- [✅ func_8012E550](dra.func_8012E550.svg)
 - [❌ func_8012E7A4](dra.func_8012E7A4.svg)
 - [❌ func_8012E9C0](dra.func_8012E9C0.svg)
 - [❌ func_8012EAD0](dra.func_8012EAD0.svg)
