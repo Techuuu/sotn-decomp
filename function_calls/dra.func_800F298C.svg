@@ -227,7 +227,7 @@
 <g id="node15" class="node">
 <title>dra.StoreSaveData</title>
 <g id="a_node15"><a xlink:href="dra.StoreSaveData.svg" xlink:title="dra.StoreSaveData">
-<ellipse fill="red" stroke="black" cx="2670.34" cy="-18" rx="98.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="2670.34" cy="-18" rx="98.58" ry="18"/>
 <text text-anchor="middle" x="2670.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.StoreSaveData</text>
 </a>
 </g>
