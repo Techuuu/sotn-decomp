@@ -1,7 +1,7 @@
 | %    | Decomp?  | Name                                | Asm Path 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8010E1EC                       | ../../asm/us/dra/nonmatchings/692E8/func_8010E1EC.s 
-| 1.00 | true     | func_8010E234                       | ../../asm/us/dra/nonmatchings/692E8/func_8010E234.s 
+| 1.00 | true     | func_8010E1EC                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010E1EC.s 
+| 1.00 | true     | func_8010E234                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010E234.s 
 | 1.00 | true     | func_8015C93C                       | ../../asm/us/ric/nonmatchings/20920/func_8015C93C.s 
 | 1.00 | true     | func_8015C984                       | ../../asm/us/ric/nonmatchings/20920/func_8015C984.s 
 | 1.00 | true     | DecelerateX                         | ../../asm/us/weapon/nonmatchings/w_000/DecelerateX.s 
@@ -312,7 +312,7 @@
 | 1.00 | true     | DestroyEntity                       | ../../asm/us/weapon/nonmatchings/w_057/DestroyEntity.s 
 | 1.00 | true     | DestroyEntity                       | ../../asm/us/weapon/nonmatchings/w_058/DestroyEntity.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | SetSpeedX                           | ../../asm/us/dra/nonmatchings/692E8/SetSpeedX.s 
+| 1.00 | true     | SetSpeedX                           | ../../asm/us/dra/nonmatchings/6D59C/SetSpeedX.s 
 | 1.00 | true     | func_8015CA84                       | ../../asm/us/ric/nonmatchings/20920/func_8015CA84.s 
 | 1.00 | true     | SetSpeedX                           | ../../asm/us/weapon/nonmatchings/w_000/SetSpeedX.s 
 | 1.00 | true     | SetSpeedX                           | ../../asm/us/weapon/nonmatchings/w_001/SetSpeedX.s 
@@ -607,7 +607,7 @@
 | 1.00 | true     | DestroyEntityWeapon                 | ../../asm/us/weapon/nonmatchings/w_057/DestroyEntityWeapon.s 
 | 1.00 | true     | DestroyEntityWeapon                 | ../../asm/us/weapon/nonmatchings/w_058/DestroyEntityWeapon.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8010DA48                       | ../../asm/us/dra/nonmatchings/692E8/func_8010DA48.s 
+| 1.00 | true     | func_8010DA48                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010DA48.s 
 | 1.00 | true     | ResetAnimation                      | ../../asm/us/weapon/nonmatchings/w_000/ResetAnimation.s 
 | 1.00 | true     | ResetAnimation                      | ../../asm/us/weapon/nonmatchings/w_001/ResetAnimation.s 
 | 1.00 | true     | ResetAnimation                      | ../../asm/us/weapon/nonmatchings/w_002/ResetAnimation.s 
@@ -1900,6 +1900,11 @@
 | 0.92 | true     | func_801B2608                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B2608.s 
 | 0.92 | true     | func_801B263C                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B263C.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | SsSepPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSepPlay.s 
+| 0.93 | true     | SsSepSetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSepSetVol.s 
+| 0.93 | true     | SsSeqGetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSeqGetVol.s 
+| 0.93 | true     | _SsSndSetVol                        | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/_SsSndSetVol.s 
+-------------------------------------------------------------------------------
 | 1.00 | false    | EntityUnkId16                       | ../../asm/us/st/cen/nonmatchings/D600/EntityUnkId16.s 
 | 0.91 | false    | EntitySuccubusCutscene              | ../../asm/us/st/dre/nonmatchings/14774/EntitySuccubusCutscene.s 
 | 0.94 | false    | EntityRoomTransition1               | ../../asm/us/st/no3/nonmatchings/3E134/EntityRoomTransition1.s 
@@ -1932,7 +1937,7 @@
 | 0.91 | true     | DrawMenuTime                        | ../../asm/us/dra/nonmatchings/5298C/DrawMenuTime.s 
 | 0.93 | true     | func_801B2BD4                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B2BD4.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8010E27C                       | ../../asm/us/dra/nonmatchings/692E8/func_8010E27C.s 
+| 1.00 | true     | func_8010E27C                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010E27C.s 
 | 1.00 | true     | func_8015C9CC                       | ../../asm/us/ric/nonmatchings/20920/func_8015C9CC.s 
 | 1.00 | false    | func_13F000_8017A718                | ../../asm/us/weapon/nonmatchings/w_045/func_13F000_8017A718.s 
 -------------------------------------------------------------------------------
@@ -1967,10 +1972,6 @@
 | 0.93 | true     | _SsContRpn1                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContRpn1.s 
 | 0.93 | true     | _SsContRpn2                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContRpn2.s 
 | 1.00 | true     | _SsSetProgramChange                 | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsSetProgramChange.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | SsSepPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSepPlay.s 
-| 0.93 | true     | SsSepSetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSepSetVol.s 
-| 0.93 | true     | _SsSndSetVol                        | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/_SsSndSetVol.s 
 -------------------------------------------------------------------------------
 | 0.92 | true     | SsVabFakeHead                       | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_vh/SsVabFakeHead.s 
 | 1.00 | true     | SsVabOpenHead                       | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_vh/SsVabOpenHead.s 
@@ -2057,20 +2058,20 @@
 | 1.00 | false    | func_8010D010                       | ../../asm/us/dra/nonmatchings/692E8/func_8010D010.s 
 | 0.97 | false    | func_8010D2C8                       | ../../asm/us/dra/nonmatchings/692E8/func_8010D2C8.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8010DA2C                       | ../../asm/us/dra/nonmatchings/692E8/func_8010DA2C.s 
+| 1.00 | true     | func_8010DA2C                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010DA2C.s 
 | 1.00 | true     | func_8015C920                       | ../../asm/us/ric/nonmatchings/20920/func_8015C920.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8010E168                       | ../../asm/us/dra/nonmatchings/692E8/func_8010E168.s 
+| 1.00 | true     | func_8010E168                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010E168.s 
 | 1.00 | true     | func_8015CAD4                       | ../../asm/us/ric/nonmatchings/20920/func_8015CAD4.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8010E3B8                       | ../../asm/us/dra/nonmatchings/692E8/func_8010E3B8.s 
+| 1.00 | true     | func_8010E3B8                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010E3B8.s 
 | 1.00 | true     | func_8015CAAC                       | ../../asm/us/ric/nonmatchings/20920/func_8015CAAC.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8010EADC                       | ../../asm/us/dra/nonmatchings/692E8/func_8010EADC.s 
+| 1.00 | true     | func_8010EADC                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010EADC.s 
 | 1.00 | true     | func_8015D1D0                       | ../../asm/us/ric/nonmatchings/20920/func_8015D1D0.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8010FC50                       | ../../asm/us/dra/nonmatchings/692E8/func_8010FC50.s 
-| 0.96 | true     | func_8010FCB8                       | ../../asm/us/dra/nonmatchings/692E8/func_8010FCB8.s 
+| 1.00 | true     | func_8010FC50                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010FC50.s 
+| 0.96 | true     | func_8010FCB8                       | ../../asm/us/dra/nonmatchings/6D59C/func_8010FCB8.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_80111938                       | ../../asm/us/dra/nonmatchings/71830/func_80111938.s 
 | 1.00 | true     | func_801587D0                       | ../../asm/us/ric/nonmatchings/1AC60/func_801587D0.s 
@@ -2254,9 +2255,6 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | _SsContModulation                   | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContModulation.s 
 | 1.00 | true     | _SsContPortaTime                    | ../../asm/us/main/nonmatchings/psxsdk/libsnd/seqread/_SsContPortaTime.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | SsSeqPlay                           | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssplay/SsSeqPlay.s 
-| 0.93 | true     | SsSeqGetVol                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ssvol/SsSeqGetVol.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | SsUtSetReverbDelay                  | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ut_rdel/SsUtSetReverbDelay.s 
 | 1.00 | true     | SsUtSetReverbFeedback               | ../../asm/us/main/nonmatchings/psxsdk/libsnd/ut_rfb/SsUtSetReverbFeedback.s 
