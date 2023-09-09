@@ -15,18 +15,18 @@
 <ellipse fill="red" stroke="black" cx="100.74" cy="-198" rx="100.98" ry="18"/>
 <text text-anchor="middle" x="100.74" y="-194.3" font-family="Times,serif" font-size="14.00">sel.func_801B97BC</text>
 </g>
-<!-- func_8001C64C -->
+<!-- StGetNext -->
 <g id="node2" class="node">
-<title>func_8001C64C</title>
-<g id="a_node2"><a xlink:href="func_8001C64C.svg" xlink:title="func_8001C64C">
-<ellipse fill="lightblue" stroke="black" cx="100.74" cy="-18" rx="83.69" ry="18"/>
-<text text-anchor="middle" x="100.74" y="-14.3" font-family="Times,serif" font-size="14.00">func_8001C64C</text>
+<title>StGetNext</title>
+<g id="a_node2"><a xlink:href="StGetNext.svg" xlink:title="StGetNext">
+<ellipse fill="lightblue" stroke="black" cx="100.74" cy="-18" rx="59.59" ry="18"/>
+<text text-anchor="middle" x="100.74" y="-14.3" font-family="Times,serif" font-size="14.00">StGetNext</text>
 </a>
 </g>
 </g>
-<!-- sel.func_801B97BC&#45;&gt;func_8001C64C -->
+<!-- sel.func_801B97BC&#45;&gt;StGetNext -->
 <g id="edge1" class="edge">
-<title>sel.func_801B97BC&#45;&gt;func_8001C64C</title>
+<title>sel.func_801B97BC&#45;&gt;StGetNext</title>
 <path fill="none" stroke="black" d="M100.74,-179.93C100.74,-148.97 100.74,-83.3 100.74,-46.13"/>
 <polygon fill="black" stroke="black" points="104.24,-46.02 100.74,-36.02 97.24,-46.02 104.24,-46.02"/>
 <text text-anchor="middle" x="95.74" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
