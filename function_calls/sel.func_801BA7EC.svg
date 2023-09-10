@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>sel.MDEC_in_sync</title>
 <g id="a_node2"><a xlink:href="sel.MDEC_in_sync.svg" xlink:title="sel.MDEC_in_sync">
-<ellipse fill="red" stroke="black" cx="276.94" cy="-18" rx="95.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="276.94" cy="-18" rx="95.58" ry="18"/>
 <text text-anchor="middle" x="276.94" y="-14.3" font-family="Times,serif" font-size="14.00">sel.MDEC_in_sync</text>
 </a>
 </g>
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>sel.MDEC_rest</title>
 <g id="a_node3"><a xlink:href="sel.MDEC_rest.svg" xlink:title="sel.MDEC_rest">
-<ellipse fill="red" stroke="black" cx="79.94" cy="-378" rx="79.89" ry="18"/>
+<ellipse fill="green" stroke="black" cx="79.94" cy="-378" rx="79.89" ry="18"/>
 <text text-anchor="middle" x="79.94" y="-374.3" font-family="Times,serif" font-size="14.00">sel.MDEC_rest</text>
 </a>
 </g>

@@ -12,7 +12,7 @@
 <!-- sel.MDEC_print_error -->
 <g id="node1" class="node">
 <title>sel.MDEC_print_error</title>
-<ellipse fill="red" stroke="black" cx="203.54" cy="-198" rx="112.38" ry="18"/>
+<ellipse fill="green" stroke="black" cx="203.54" cy="-198" rx="112.38" ry="18"/>
 <text text-anchor="middle" x="203.54" y="-194.3" font-family="Times,serif" font-size="14.00">sel.MDEC_print_error</text>
 </g>
 <!-- printf -->
@@ -35,7 +35,7 @@
 <g id="node3" class="node">
 <title>sel.MDEC_in_sync</title>
 <g id="a_node3"><a xlink:href="sel.MDEC_in_sync.svg" xlink:title="sel.MDEC_in_sync">
-<ellipse fill="red" stroke="black" cx="95.54" cy="-378" rx="95.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="95.54" cy="-378" rx="95.58" ry="18"/>
 <text text-anchor="middle" x="95.54" y="-374.3" font-family="Times,serif" font-size="14.00">sel.MDEC_in_sync</text>
 </a>
 </g>
@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>sel.MDEC_out_sync</title>
 <g id="a_node4"><a xlink:href="sel.MDEC_out_sync.svg" xlink:title="sel.MDEC_out_sync">
-<ellipse fill="red" stroke="black" cx="311.54" cy="-378" rx="102.08" ry="18"/>
+<ellipse fill="green" stroke="black" cx="311.54" cy="-378" rx="102.08" ry="18"/>
 <text text-anchor="middle" x="311.54" y="-374.3" font-family="Times,serif" font-size="14.00">sel.MDEC_out_sync</text>
 </a>
 </g>

@@ -12,14 +12,14 @@
 <!-- sel.MDEC_in_sync -->
 <g id="node1" class="node">
 <title>sel.MDEC_in_sync</title>
-<ellipse fill="red" stroke="black" cx="208.44" cy="-198" rx="95.58" ry="18"/>
+<ellipse fill="green" stroke="black" cx="208.44" cy="-198" rx="95.58" ry="18"/>
 <text text-anchor="middle" x="208.44" y="-194.3" font-family="Times,serif" font-size="14.00">sel.MDEC_in_sync</text>
 </g>
 <!-- sel.MDEC_print_error -->
 <g id="node2" class="node">
 <title>sel.MDEC_print_error</title>
 <g id="a_node2"><a xlink:href="sel.MDEC_print_error.svg" xlink:title="sel.MDEC_print_error">
-<ellipse fill="red" stroke="black" cx="208.44" cy="-18" rx="112.38" ry="18"/>
+<ellipse fill="green" stroke="black" cx="208.44" cy="-18" rx="112.38" ry="18"/>
 <text text-anchor="middle" x="208.44" y="-14.3" font-family="Times,serif" font-size="14.00">sel.MDEC_print_error</text>
 </a>
 </g>
