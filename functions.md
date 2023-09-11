@@ -1,720 +1,720 @@
-Got 1 results for st0 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for rwrp in ps1
-Got 5 results for np3 in ps1
-Got 10 results for sel in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for w_025 in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for ric in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dre in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for mad in ps1
-Got 10 results for sel in ps1
-Got 10 results for mad in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 10 results for sel in ps1
-Got 10 results for dre in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for mad in ps1
-Got 10 results for mad in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_029 in ps1
-Got 10 results for sel in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 5 results for np3 in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for w_045 in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 1 results for wrp in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dre in ps1
-Got 0 results for w_045 in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_012 in ps1
-Got 0 results for w_013 in ps1
-Got 10 results for cen in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_006 in ps1
-Got 0 results for w_007 in ps1
-Got 0 results for w_013 in ps1
-Got 0 results for w_037 in ps1
-Got 0 results for w_050 in ps1
-Got 0 results for no3 in ps1
-Got 0 results for no3 in ps1
-Got 0 results for w_028 in ps1
-Got 10 results for sel in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for w_026 in ps1
-Got 10 results for dre in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 10 results for mad in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for sel in ps1
-Got 10 results for mad in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_016 in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_010 in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for sel in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for mad in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 10 results for mad in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 10 results for sel in ps1
-Got 0 results for no3 in ps1
-Got 0 results for no3 in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 1 results for wrp in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_049 in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_015 in ps1
-Got 10 results for dra in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for sel in ps1
-Got 0 results for w_022 in ps1
-Got 10 results for dre in ps1
-Got 0 results for w_048 in ps1
-Got 10 results for sel in ps1
-Got 1 results for st0 in ps1
-Got 0 results for w_016 in ps1
-Got 0 results for w_021 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 0 results for w_029 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_043 in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 1 results for st0 in ps1
-Got 10 results for ric in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 0 results for w_007 in ps1
-Got 0 results for w_006 in ps1
-Got 10 results for cen in ps1
-Got 10 results for mad in ps1
-Got 10 results for mad in ps1
-Got 0 results for rwrp in ps1
-Got 5 results for np3 in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_037 in ps1
-Got 0 results for w_049 in ps1
-Got 0 results for w_050 in ps1
-Got 0 results for w_047 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_037 in ps1
-Got 0 results for w_050 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_001 in ps1
-Got 10 results for ric in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 10 results for mad in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_030 in ps1
-Got 10 results for dre in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_020 in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_022 in ps1
-Got 0 results for w_023 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_002 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_003 in ps1
-Got 0 results for w_006 in ps1
-Got 0 results for w_034 in ps1
-Got 0 results for w_035 in ps1
-Got 0 results for w_036 in ps1
-Got 0 results for w_057 in ps1
-Got 0 results for w_016 in ps1
-Got 10 results for sel in ps1
-Got 10 results for mad in ps1
-Got 1 results for st0 in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 10 results for dre in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_015 in ps1
-Got 0 results for no3 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_018 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 0 results for w_038 in ps1
-Got 0 results for w_039 in ps1
-Got 0 results for no3 in ps1
-Got 0 results for w_043 in ps1
-Got 0 results for w_033 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_014 in ps1
-Got 1 results for st0 in ps1
-Got 0 results for w_031 in ps1
-Got 0 results for w_005 in ps1
-Got 0 results for w_013 in ps1
-Got 0 results for w_055 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_007 in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for w_045 in ps1
-Got 0 results for w_045 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_041 in ps1
-Got 0 results for w_041 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_037 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_045 in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 0 results for w_051 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_051 in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_053 in ps1
-Got 0 results for w_049 in ps1
-Got 10 results for dra in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for wrp in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_049 in ps1
-Got 0 results for w_032 in ps1
-Got 0 results for w_053 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 10 results for mad in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_041 in ps1
-Got 0 results for w_049 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dre in ps1
-Got 0 results for w_015 in ps1
-Got 1 results for st0 in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_018 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_045 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_051 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for w_037 in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for wrp in ps1
-Got 0 results for w_007 in ps1
-Got 0 results for w_050 in ps1
-Got 10 results for dre in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_050 in ps1
-Got 10 results for ric in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_030 in ps1
-Got 10 results for sel in ps1
-Got 5 results for np3 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_049 in ps1
-Got 0 results for w_016 in ps1
-Got 10 results for mad in ps1
-Got 0 results for w_015 in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 1 results for wrp in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_021 in ps1
-Got 0 results for nz0 in ps1
-Got 10 results for dra in ps1
-Got 5 results for np3 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for no3 in ps1
-Got 0 results for w_016 in ps1
-Got 10 results for mad in ps1
-Got 10 results for mad in ps1
-Got 0 results for w_021 in ps1
-Got 0 results for w_050 in ps1
-Got 0 results for servant in ps1
-Got 0 results for w_038 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_048 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_048 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_055 in ps1
-Got 0 results for w_049 in ps1
-Got 0 results for no3 in ps1
-Got 0 results for w_050 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_050 in ps1
-Got 0 results for w_019 in ps1
-Got 0 results for no3 in ps1
-Got 0 results for w_008 in ps1
-Got 0 results for w_009 in ps1
-Got 0 results for w_011 in ps1
-Got 0 results for w_026 in ps1
-Got 0 results for w_027 in ps1
-Got 0 results for w_028 in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_025 in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for w_058 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dre in ps1
-Got 0 results for w_034 in ps1
-Got 10 results for dra in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for w_006 in ps1
-Got 0 results for w_030 in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 0 results for w_010 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_023 in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_023 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_029 in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_001 in ps1
-Got 0 results for w_043 in ps1
-Got 10 results for sel in ps1
-Got 10 results for ric in ps1
-Got 0 results for nz0 in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_024 in ps1
-Got 0 results for w_012 in ps1
-Got 10 results for ric in ps1
-Got 0 results for nz0 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_027 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 1 results for wrp in ps1
-Got 0 results for w_056 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_053 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_048 in ps1
-Got 0 results for w_024 in ps1
-Got 0 results for w_039 in ps1
-Got 0 results for w_052 in ps1
-Got 10 results for mad in ps1
-Got 1 results for st0 in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_054 in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 1 results for st0 in ps1
-Got 0 results for w_037 in ps1
-Got 10 results for cen in ps1
-Got 0 results for rwrp in ps1
-Got 0 results for w_028 in ps1
-Got 0 results for w_052 in ps1
-Got 0 results for no3 in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_051 in ps1
-Got 0 results for w_012 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_029 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_013 in ps1
-Got 0 results for w_046 in ps1
-Got 10 results for dra in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 1 results for wrp in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_021 in ps1
-Got 0 results for w_025 in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 10 results for mad in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 1 results for wrp in ps1
-Got 0 results for w_053 in ps1
-Got 0 results for w_056 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_058 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_013 in ps1
-Got 10 results for mad in ps1
-Got 10 results for sel in ps1
-Got 10 results for ric in ps1
-Got 0 results for w_011 in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 10 results for sel in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 0 results for servant in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 0 results for w_016 in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 0 results for w_046 in ps1
-Got 0 results for w_026 in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for servant in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_015 in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 0 results for nz0 in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 10 results for ric in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_010 in ps1
-Got 0 results for w_001 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_017 in ps1
-Got 1 results for st0 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_044 in ps1
-Got 1 results for st0 in ps1
-Got 0 results for w_014 in ps1
-Got 10 results for ric in ps1
-Got 10 results for sel in ps1
-Got 0 results for w_027 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_029 in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 10 results for ric in ps1
-Got 0 results for servant in ps1
-Got 10 results for dra in ps1
-Got 1 results for wrp in ps1
-Got 0 results for w_047 in ps1
-Got 0 results for w_010 in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for w_011 in ps1
-Got 1 results for st0 in ps1
-Got 0 results for w_008 in ps1
-Got 0 results for no3 in ps1
-Got 0 results for w_030 in ps1
-Got 0 results for w_030 in ps1
-Got 10 results for ric in ps1
-Got 10 results for mad in ps1
-Got 10 results for dra in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for wrp in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for st0 in ps1
-Got 1 results for wrp in ps1
-Got 0 results for w_023 in ps1
-Got 0 results for rwrp in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
-Got 1 results for st0 in ps1
-Got 0 results for w_009 in ps1
-Got 0 results for no3 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 0 results for nz0 in ps1
-Got 1 results for st0 in ps1
-Got 10 results for ric in ps1
-Got 5 results for np3 in ps1
-Got 0 results for w_028 in ps1
-Got 0 results for w_025 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for w_024 in ps1
-Got 10 results for dra in ps1
-Got 0 results for w_052 in ps1
-Got 0 results for w_026 in ps1
-Got 5 results for np3 in ps1
-Got 1 results for st0 in ps1
-Got 0 results for w_020 in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 10 results for ric in ps1
-Got 0 results for nz0 in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 0 results for no3 in ps1
-Got 10 results for mad in ps1
-Got 10 results for ric in ps1
-Got 10 results for cen in ps1
-Got 10 results for dre in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 0 results for nz0 in ps1
-Got 0 results for rwrp in ps1
-Got 1 results for wrp in ps1
-Got 10 results for dra in ps1
-Got 1 results for st0 in ps1
-Got 10 results for ric in ps1
-Got 0 results for nz0 in ps1
-Got 5 results for np3 in ps1
-Got 10 results for dra in ps1
-Got 0 results for no3 in ps1
-Got 5 results for np3 in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for dra in ps1
-Got 10 results for sel in ps1
+[us/st/np3/nonmatchings/4E69C/func_801CF778.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801CF778.svg)
+[us/st/sel/nonmatchings/stream/func_801BAB70.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801BAB70.svg)
+[us/st/np3/nonmatchings/4E69C/func_801D0B40.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801D0B40.svg)
+[us/st/rwrp/nonmatchings/14590/func_80195728.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80195728.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018D8F0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018D8F0.svg)
+[us/st/st0/nonmatchings/30030/func_801B0414.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B0414.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018DFCC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018DFCC.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018DDF0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018DDF0.svg)
+[us/weapon/nonmatchings/w_025/func_B3000_8017AF14.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_025.func_B3000_8017AF14.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C7E0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C7E0.svg)
+[us/st/rwrp/nonmatchings/A59C/DestroyEntity.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.DestroyEntity.svg)
+[us/ric/nonmatchings/22380/func_8015F9F0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015F9F0.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C8D0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C8D0.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018D5EC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018D5EC.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018EC10.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018EC10.svg)
+[us/st/dre/nonmatchings/1E1C8/func_801A2580.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801A2580.svg)
+[us/st/mad/nonmatchings/15520/func_80199508.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80199508.svg)
+[us/st/rwrp/nonmatchings/14590/func_80195758.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80195758.svg)
+[us/st/rwrp/nonmatchings/A59C/UnkEntityFunc0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.UnkEntityFunc0.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018E1FC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018E1FC.svg)
+[us/st/sel/nonmatchings/stream/func_801B9B7C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B9B7C.svg)
+[us/st/mad/nonmatchings/D8C8/func_8018E13C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018E13C.svg)
+[us/st/st0/nonmatchings/2C564/func_801AF6D0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801AF6D0.svg)
+[us/st/sel/nonmatchings/2D260/func_801B2700.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B2700.svg)
+[us/st/dre/nonmatchings/1E1C8/func_801A25FC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801A25FC.svg)
+[us/st/rwrp/nonmatchings/14590/func_801957D4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801957D4.svg)
+[us/st/cen/nonmatchings/11280/BlinkItem.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.BlinkItem.svg)
+[us/st/rwrp/nonmatchings/A59C/BlinkItem.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.BlinkItem.svg)
+[us/st/cen/nonmatchings/11280/func_80195B68.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80195B68.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018EE84.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018EE84.svg)
+[us/st/mad/nonmatchings/EDB8/CollectHeart.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.CollectHeart.svg)
+[us/st/mad/nonmatchings/D8C8/func_8018E090.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018E090.svg)
+[us/st/cen/nonmatchings/18084/func_801991C0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_801991C0.svg)
+[us/st/rwrp/nonmatchings/113A0/func_801924DC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801924DC.svg)
+[us/weapon/nonmatchings/w_029/func_ptr_80170028.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_029.func_ptr_80170028.svg)
+[us/dra/nonmatchings/4A538/func_800EA720.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800EA720.svg)
+[us/st/sel/nonmatchings/2D260/func_801B3F94.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B3F94.svg)
+[us/st/cen/nonmatchings/11280/func_80193410.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80193410.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C72C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C72C.svg)
+[us/st/np3/nonmatchings/4B018/func_801CDF1C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801CDF1C.svg)
+[us/st/cen/nonmatchings/11280/func_80194394.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80194394.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018D6B0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018D6B0.svg)
+[us/weapon/nonmatchings/w_045/func_13F000_8017A718.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_045.func_13F000_8017A718.svg)
+[us/st/cen/nonmatchings/18084/func_801990F8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_801990F8.svg)
+[us/st/rwrp/nonmatchings/113A0/func_80192414.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80192414.svg)
+[us/st/st0/nonmatchings/30030/func_801B11E8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B11E8.svg)
+[us/st/cen/nonmatchings/18084/func_8019902C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_8019902C.svg)
+[us/st/rwrp/nonmatchings/113A0/func_80192348.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80192348.svg)
+[us/st/sel/nonmatchings/2D260/DrawString16x16.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.DrawString16x16.svg)
+[us/dra/nonmatchings/6D59C/func_8010DA70.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010DA70.svg)
+[us/st/rwrp/nonmatchings/8DF0/func_80188DF0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80188DF0.svg)
+[us/st/cen/nonmatchings/18084/func_801983B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_801983B4.svg)
+[us/st/dre/nonmatchings/1E1C8/func_8019E4F8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_8019E4F8.svg)
+[us/st/mad/nonmatchings/15520/func_8019596C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8019596C.svg)
+[us/st/no3/nonmatchings/48A84/func_801C8DB4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801C8DB4.svg)
+[us/st/np3/nonmatchings/402F4/func_801C0624.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801C0624.svg)
+[us/st/nz0/nonmatchings/4070C/func_801C0A3C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801C0A3C.svg)
+[us/st/rwrp/nonmatchings/113A0/func_801916D0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801916D0.svg)
+[us/st/st0/nonmatchings/36358/func_801B7E3C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B7E3C.svg)
+[us/st/wrp/nonmatchings/F420/func_8018F750.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.func_8018F750.svg)
+[us/dra/nonmatchings/save_mgr/func_800E9530.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800E9530.svg)
+[us/st/sel/nonmatchings/save_mgr/func_801B873C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B873C.svg)
+[us/st/cen/nonmatchings/18084/EntityExplosion14.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityExplosion14.svg)
+[us/st/rwrp/nonmatchings/113A0/func_801917B8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801917B8.svg)
+[us/st/dre/nonmatchings/1E1C8/EntityUnkId17.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.EntityUnkId17.svg)
+[us/weapon/nonmatchings/w_045/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_045.EntityWeaponAttack.svg)
+[us/st/cen/nonmatchings/11280/InitializeEntity.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.InitializeEntity.svg)
+[us/st/rwrp/nonmatchings/A59C/InitializeEntity.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.InitializeEntity.svg)
+[us/st/cen/nonmatchings/18084/EntityUnkId15.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityUnkId15.svg)
+[us/st/rwrp/nonmatchings/113A0/func_801918A8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801918A8.svg)
+[us/ric/nonmatchings/22380/func_8015FDB0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015FDB0.svg)
+[us/weapon/nonmatchings/w_012/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_012.func_ptr_80170008.svg)
+[us/weapon/nonmatchings/w_013/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_013.func_ptr_80170004.svg)
+[us/st/cen/nonmatchings/18084/func_80198084.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80198084.svg)
+[us/st/cen/nonmatchings/18084/func_801988B0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_801988B0.svg)
+[us/st/dre/nonmatchings/1E1C8/func_8019E1C8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_8019E1C8.svg)
+[us/st/mad/nonmatchings/15520/func_8019563C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8019563C.svg)
+[us/st/rwrp/nonmatchings/113A0/func_801913A0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801913A0.svg)
+[us/st/rwrp/nonmatchings/113A0/func_80191BCC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80191BCC.svg)
+[us/dra/nonmatchings/5087C/func_800F1954.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F1954.svg)
+[us/weapon/nonmatchings/w_006/func_2E000_8017B6A0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_006.func_2E000_8017B6A0.svg)
+[us/weapon/nonmatchings/w_007/func_35000_8017B604.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_007.func_35000_8017B604.svg)
+[us/weapon/nonmatchings/w_013/func_5F000_8017A9CC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_013.func_5F000_8017A9CC.svg)
+[us/weapon/nonmatchings/w_037/func_107000_8017ADF8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_037.func_107000_8017ADF8.svg)
+[us/weapon/nonmatchings/w_050/func_162000_8017B784.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_050.func_162000_8017B784.svg)
+[us/st/no3/nonmatchings/48A84/EntityMermanExplosion.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityMermanExplosion.svg)
+[us/st/no3/nonmatchings/48A84/func_801CC820.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801CC820.svg)
+[us/weapon/nonmatchings/w_028/func_C8000_8017B3D4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_028.func_C8000_8017B3D4.svg)
+[us/st/sel/nonmatchings/2D260/func_801B2E5C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B2E5C.svg)
+[us/st/cen/nonmatchings/11280/EntityExplosion.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityExplosion.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018F814.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018F814.svg)
+[us/weapon/nonmatchings/w_026/func_BA000_8017B37C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_026.func_BA000_8017B37C.svg)
+[us/st/dre/nonmatchings/173C4/func_80198F18.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_80198F18.svg)
+[us/st/dre/nonmatchings/173C4/func_801991CC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801991CC.svg)
+[us/st/mad/nonmatchings/EDB8/func_801908DC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_801908DC.svg)
+[us/st/mad/nonmatchings/EDB8/func_80190B7C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80190B7C.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C0F0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C0F0.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C3A4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C3A4.svg)
+[us/st/sel/nonmatchings/3410C/func_801B4C68.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B4C68.svg)
+[us/st/mad/nonmatchings/EDB8/func_801909D8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_801909D8.svg)
+[us/dra/nonmatchings/5298C/func_800F98AC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F98AC.svg)
+[us/weapon/nonmatchings/w_016/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_016.func_ptr_80170004.svg)
+[us/dra/nonmatchings/5298C/func_800F6CC0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F6CC0.svg)
+[us/st/no3/nonmatchings/3E134/func_801BEDAC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801BEDAC.svg)
+[us/st/rwrp/nonmatchings/113A0/func_80193644.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80193644.svg)
+[us/st/no3/nonmatchings/48A84/func_801D0A2C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801D0A2C.svg)
+[us/st/np3/nonmatchings/402F4/func_801C4144.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801C4144.svg)
+[us/dra/nonmatchings/8D3E8/func_8012E9C0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8012E9C0.svg)
+[us/weapon/nonmatchings/w_010/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_010.func_ptr_80170004.svg)
+[us/st/rwrp/nonmatchings/113A0/func_80191490.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80191490.svg)
+[us/st/sel/nonmatchings/2D260/func_801B27A8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B27A8.svg)
+[us/st/cen/nonmatchings/11280/func_80193184.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80193184.svg)
+[us/st/dre/nonmatchings/173C4/func_80199014.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_80199014.svg)
+[us/st/dre/nonmatchings/173C4/func_801992C8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801992C8.svg)
+[us/st/mad/nonmatchings/EDB8/func_80190C78.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80190C78.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C1EC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C1EC.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C4A0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C4A0.svg)
+[us/dra/nonmatchings/5087C/func_800F1EB0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F1EB0.svg)
+[us/dra/nonmatchings/5087C/func_800F2120.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F2120.svg)
+[us/st/mad/nonmatchings/15520/EntityHeartDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.EntityHeartDrop.svg)
+[us/st/cen/nonmatchings/18084/func_80198284.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80198284.svg)
+[us/st/dre/nonmatchings/1E1C8/func_8019E3C8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_8019E3C8.svg)
+[us/st/mad/nonmatchings/15520/func_8019583C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8019583C.svg)
+[us/st/no3/nonmatchings/48A84/func_801C8C84.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801C8C84.svg)
+[us/st/rwrp/nonmatchings/113A0/func_801915A0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801915A0.svg)
+[us/st/st0/nonmatchings/36358/func_801B7D0C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B7D0C.svg)
+[us/dra/nonmatchings/75F54/func_8011E390.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011E390.svg)
+[us/st/sel/nonmatchings/2D260/func_801B1FD8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B1FD8.svg)
+[us/dra/nonmatchings/8D3E8/func_80133810.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80133810.svg)
+[us/st/mad/nonmatchings/CollectGold/func_8018EC90.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018EC90.svg)
+[us/dra/nonmatchings/5298C/DrawSettingsButton.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.DrawSettingsButton.svg)
+[us/st/sel/nonmatchings/2D260/func_801AD66C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801AD66C.svg)
+[us/st/rwrp/nonmatchings/8DF0/EntityBreakable.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.EntityBreakable.svg)
+[us/st/rwrp/nonmatchings/entity_heart_drop/EntityHeartDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.EntityHeartDrop.svg)
+[us/dra/nonmatchings/5298C/func_800F9E18.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F9E18.svg)
+[us/st/no3/nonmatchings/48A84/func_801CC6F8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801CC6F8.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018E3B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018E3B4.svg)
+[us/st/sel/nonmatchings/2D260/func_801AEB74.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801AEB74.svg)
+[us/dra/nonmatchings/8D3E8/func_80133FCC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80133FCC.svg)
+[us/dra/nonmatchings/6D59C/func_80110394.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80110394.svg)
+[us/st/sel/nonmatchings/3642C/func_801B78BC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B78BC.svg)
+[us/st/sel/nonmatchings/2D260/func_801AED48.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801AED48.svg)
+[us/st/no3/nonmatchings/48A84/func_801CC5A4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801CC5A4.svg)
+[us/st/no3/nonmatchings/48A84/func_801CF438.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801CF438.svg)
+[us/st/cen/nonmatchings/1B274/func_8019C2BC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_8019C2BC.svg)
+[us/st/dre/nonmatchings/1E1C8/func_801A2400.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801A2400.svg)
+[us/st/mad/nonmatchings/15520/func_80199388.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80199388.svg)
+[us/st/no3/nonmatchings/564B0/func_801D6C68.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801D6C68.svg)
+[us/st/np3/nonmatchings/4E69C/func_801D2320.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801D2320.svg)
+[us/st/nz0/nonmatchings/49930/func_801C9D18.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801C9D18.svg)
+[us/st/rwrp/nonmatchings/14590/func_801955D8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801955D8.svg)
+[us/st/st0/nonmatchings/36358/func_801BD4A8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801BD4A8.svg)
+[us/st/wrp/nonmatchings/F420/func_80193658.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.func_80193658.svg)
+[us/dra/nonmatchings/75F54/func_80123788.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80123788.svg)
+[us/st/sel/nonmatchings/2D260/func_801B3E2C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B3E2C.svg)
+[us/dra/nonmatchings/5298C/func_800FA9DC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800FA9DC.svg)
+[us/dra/nonmatchings/6D59C/func_8010E570.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010E570.svg)
+[us/ric/nonmatchings/26C84/func_801682B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_801682B4.svg)
+[us/dra/nonmatchings/47BB8/func_800E7BB8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800E7BB8.svg)
+[us/st/no3/nonmatchings/48A84/EntityMermanSpawner.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityMermanSpawner.svg)
+[us/dra/nonmatchings/5087C/func_800F1D54.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F1D54.svg)
+[us/dra/nonmatchings/6D59C/func_8011081C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011081C.svg)
+[us/ric/nonmatchings/1AC60/func_80156DE4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80156DE4.svg)
+[us/weapon/nonmatchings/w_049/func_ptr_80170014.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_049.func_ptr_80170014.svg)
+[us/st/cen/nonmatchings/11280/func_80195798.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80195798.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018EAB4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018EAB4.svg)
+[us/dra/nonmatchings/75F54/func_8011BBE0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011BBE0.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018E4DC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018E4DC.svg)
+[us/st/no3/nonmatchings/377D4/func_801B94F0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801B94F0.svg)
+[us/st/np3/nonmatchings/3246C/func_801B3D24.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801B3D24.svg)
+[us/dra/nonmatchings/5D6C4/AddToInventory.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.AddToInventory.svg)
+[us/dra/nonmatchings/5298C/func_800F6A70.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F6A70.svg)
+[us/dra/nonmatchings/5298C/func_800FBAC4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800FBAC4.svg)
+[us/weapon/nonmatchings/w_015/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_015.func_ptr_80170008.svg)
+[us/dra/nonmatchings/5087C/func_800F24F4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F24F4.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C5B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C5B4.svg)
+[us/st/sel/nonmatchings/2C048/func_801ACFBC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801ACFBC.svg)
+[us/weapon/nonmatchings/w_022/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_022.func_ptr_80170004.svg)
+[us/st/dre/nonmatchings/1E1C8/func_801A2C9C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801A2C9C.svg)
+[us/weapon/nonmatchings/w_048/func_154000_8017B810.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_048.func_154000_8017B810.svg)
+[us/st/sel/nonmatchings/3642C/func_801B76F0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B76F0.svg)
+[us/st/st0/nonmatchings/30030/func_801B101C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B101C.svg)
+[us/weapon/nonmatchings/w_016/func_ptr_80170010.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_016.func_ptr_80170010.svg)
+[us/weapon/nonmatchings/w_021/func_97000_8017AF2C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_021.func_97000_8017AF2C.svg)
+[us/dra/nonmatchings/5087C/func_800F2288.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F2288.svg)
+[us/dra/nonmatchings/5087C/func_800F2658.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F2658.svg)
+[us/st/sel/nonmatchings/stream/func_801B99E4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B99E4.svg)
+[us/weapon/nonmatchings/w_029/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_029.func_ptr_80170004.svg)
+[us/dra/nonmatchings/8D3E8/func_80133604.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80133604.svg)
+[us/dra/nonmatchings/8D3E8/func_80133488.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80133488.svg)
+[us/dra/nonmatchings/6D59C/func_801106A4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801106A4.svg)
+[us/dra/nonmatchings/75F54/func_80116994.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80116994.svg)
+[us/st/sel/nonmatchings/2D260/func_801B38B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B38B4.svg)
+[us/dra/nonmatchings/6D59C/func_8010DBFC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010DBFC.svg)
+[us/weapon/nonmatchings/w_043/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_043.func_ptr_80170008.svg)
+[us/st/mad/nonmatchings/D8C8/func_8018DF0C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018DF0C.svg)
+[us/st/no3/nonmatchings/48A84/EntityUnkId4B.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityUnkId4B.svg)
+[us/st/st0/nonmatchings/27D64/EntityLockCamera.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityLockCamera.svg)
+[us/ric/nonmatchings/345EC/func_801706C0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_801706C0.svg)
+[us/st/no3/nonmatchings/48A84/EntityUnkId30.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityUnkId30.svg)
+[us/st/np3/nonmatchings/4B018/func_801CDAC8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801CDAC8.svg)
+[us/dra/nonmatchings/75F54/func_8012768C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8012768C.svg)
+[us/st/sel/nonmatchings/3410C/func_801B519C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B519C.svg)
+[us/dra/nonmatchings/75F54/func_80118970.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80118970.svg)
+[us/st/sel/nonmatchings/2D260/func_801B2F50.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B2F50.svg)
+[us/weapon/nonmatchings/w_007/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_007.func_ptr_80170008.svg)
+[us/weapon/nonmatchings/w_006/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_006.func_ptr_80170008.svg)
+[us/st/cen/nonmatchings/D600/EntityUnkId12.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityUnkId12.svg)
+[us/st/mad/nonmatchings/15520/func_801966B0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_801966B0.svg)
+[us/st/mad/nonmatchings/D8C8/func_8018E674.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018E674.svg)
+[us/st/rwrp/nonmatchings/8DF0/func_80188ED0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80188ED0.svg)
+[us/st/np3/nonmatchings/4E69C/func_801CF7A0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801CF7A0.svg)
+[us/ric/nonmatchings/1AC60/func_80157A50.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80157A50.svg)
+[us/weapon/nonmatchings/w_037/func_107000_8017AEF0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_037.func_107000_8017AEF0.svg)
+[us/weapon/nonmatchings/w_049/func_15B000_8017B88C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_049.func_15B000_8017B88C.svg)
+[us/weapon/nonmatchings/w_050/func_162000_8017B87C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_050.func_162000_8017B87C.svg)
+[us/weapon/nonmatchings/w_047/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_047.func_ptr_80170004.svg)
+[us/dra/nonmatchings/5D6C4/func_800FEEA4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800FEEA4.svg)
+[us/dra/nonmatchings/5298C/func_800F6DC8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F6DC8.svg)
+[us/weapon/nonmatchings/w_037/func_107000_8017B0AC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_037.func_107000_8017B0AC.svg)
+[us/weapon/nonmatchings/w_050/func_162000_8017BA38.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_050.func_162000_8017BA38.svg)
+[us/dra/nonmatchings/692E8/func_801093C4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801093C4.svg)
+[us/weapon/nonmatchings/w_001/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_001.func_ptr_80170008.svg)
+[us/ric/nonmatchings/1AC60/func_80157894.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80157894.svg)
+[us/st/cen/nonmatchings/18084/func_80199278.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80199278.svg)
+[us/st/dre/nonmatchings/1E1C8/func_8019F3BC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_8019F3BC.svg)
+[us/st/mad/nonmatchings/15520/func_801969EC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_801969EC.svg)
+[us/st/no3/nonmatchings/48A84/func_801C9C78.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801C9C78.svg)
+[us/st/rwrp/nonmatchings/113A0/func_80192594.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80192594.svg)
+[us/dra/nonmatchings/5298C/func_800FA60C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800FA60C.svg)
+[us/ric/nonmatchings/1AC60/func_8015A7D0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015A7D0.svg)
+[us/st/rwrp/nonmatchings/113A0/func_8019373C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8019373C.svg)
+[us/dra/nonmatchings/6D59C/func_801104D0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801104D0.svg)
+[us/dra/nonmatchings/953A0/func_80136010.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80136010.svg)
+[us/st/st0/nonmatchings/31CA0/func_801B51E4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B51E4.svg)
+[us/st/mad/nonmatchings/15520/func_801978A4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_801978A4.svg)
+[us/dra/nonmatchings/4A538/func_800EB314.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800EB314.svg)
+[us/weapon/nonmatchings/w_030/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_030.EntityWeaponAttack.svg)
+[us/st/dre/nonmatchings/1E1C8/func_801A2848.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801A2848.svg)
+[us/dra/nonmatchings/75F54/func_8012CCE4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8012CCE4.svg)
+[us/weapon/nonmatchings/w_020/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_020.func_ptr_80170008.svg)
+[us/dra/nonmatchings/save_mgr/func_800E930C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800E930C.svg)
+[us/st/sel/nonmatchings/save_mgr/func_801B8518.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B8518.svg)
+[us/dra/nonmatchings/8D3E8/func_80133290.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80133290.svg)
+[us/weapon/nonmatchings/w_022/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_022.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_023/func_ptr_80170028.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_023.func_ptr_80170028.svg)
+[us/dra/nonmatchings/75F54/func_80116208.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80116208.svg)
+[us/dra/nonmatchings/5298C/func_800F84CC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F84CC.svg)
+[us/dra/nonmatchings/8D3E8/func_8012E7A4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8012E7A4.svg)
+[us/weapon/nonmatchings/w_002/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_002.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/5087C/func_800F14CC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F14CC.svg)
+[us/weapon/nonmatchings/w_003/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_003.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_006/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_006.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_034/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_034.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_035/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_035.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_036/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_036.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_057/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_057.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_016/func_ptr_8017000C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_016.func_ptr_8017000C.svg)
+[us/st/sel/nonmatchings/2D260/func_801B3694.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B3694.svg)
+[us/st/mad/nonmatchings/EDB8/func_80192408.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80192408.svg)
+[us/st/st0/nonmatchings/31CA0/func_801B4FD4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B4FD4.svg)
+[us/st/cen/nonmatchings/18084/func_80198680.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80198680.svg)
+[us/st/dre/nonmatchings/1E1C8/func_8019E7C4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_8019E7C4.svg)
+[us/st/mad/nonmatchings/15520/func_80195C38.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80195C38.svg)
+[us/st/no3/nonmatchings/48A84/func_801C9080.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801C9080.svg)
+[us/st/rwrp/nonmatchings/113A0/func_8019199C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8019199C.svg)
+[us/st/st0/nonmatchings/36358/func_801B8108.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B8108.svg)
+[us/st/dre/nonmatchings/1E1C8/func_801A2A58.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801A2A58.svg)
+[us/ric/nonmatchings/202A8/func_8015C4AC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015C4AC.svg)
+[us/dra/nonmatchings/4A538/func_800ECBF8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800ECBF8.svg)
+[us/ric/nonmatchings/202A8/func_8015C6D4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015C6D4.svg)
+[us/dra/nonmatchings/6D59C/func_80110DF8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80110DF8.svg)
+[us/weapon/nonmatchings/w_015/func_ptr_80170014.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_015.func_ptr_80170014.svg)
+[us/st/no3/nonmatchings/48A84/EntityUnkId2F.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityUnkId2F.svg)
+[us/dra/nonmatchings/8D3E8/func_801327B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801327B4.svg)
+[us/weapon/nonmatchings/w_018/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_018.func_ptr_80170004.svg)
+[us/dra/nonmatchings/5298C/func_800FA3C4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800FA3C4.svg)
+[us/dra/nonmatchings/6D59C/func_80110BC8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80110BC8.svg)
+[us/st/st0/nonmatchings/2C564/func_801ADB10.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801ADB10.svg)
+[us/weapon/nonmatchings/w_038/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_038.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_039/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_039.EntityWeaponAttack.svg)
+[us/st/no3/nonmatchings/48A84/func_801CE740.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801CE740.svg)
+[us/weapon/nonmatchings/w_043/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_043.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_033/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_033.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/71830/func_80111DE8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80111DE8.svg)
+[us/weapon/nonmatchings/w_014/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_014.func_ptr_80170004.svg)
+[us/st/st0/nonmatchings/31CA0/func_801B5BF0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B5BF0.svg)
+[us/weapon/nonmatchings/w_031/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_031.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_005/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_005.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_013/func_ptr_8017000C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_013.func_ptr_8017000C.svg)
+[us/weapon/nonmatchings/w_055/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_055.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/5087C/func_800F1B08.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F1B08.svg)
+[us/dra/nonmatchings/8D3E8/func_8012EAD0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8012EAD0.svg)
+[us/weapon/nonmatchings/w_007/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_007.EntityWeaponAttack.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018D990.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018D990.svg)
+[us/weapon/nonmatchings/w_045/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_045.func_ptr_80170008.svg)
+[us/weapon/nonmatchings/w_045/func_ptr_8017000C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_045.func_ptr_8017000C.svg)
+[us/dra/nonmatchings/6D59C/func_80110968.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80110968.svg)
+[us/ric/nonmatchings/22380/func_8015F414.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015F414.svg)
+[us/weapon/nonmatchings/w_041/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_041.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_041/func_123000_8017A994.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_041.func_123000_8017A994.svg)
+[us/dra/nonmatchings/5087C/func_800F0940.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F0940.svg)
+[us/dra/nonmatchings/953A0/func_80135D8C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80135D8C.svg)
+[us/ric/nonmatchings/22380/func_8015F680.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015F680.svg)
+[us/weapon/nonmatchings/w_037/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_037.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/6D59C/func_801112AC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801112AC.svg)
+[us/dra/nonmatchings/8D3E8/func_80133960.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80133960.svg)
+[us/weapon/nonmatchings/w_045/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_045.func_ptr_80170004.svg)
+[us/ric/nonmatchings/26C84/func_80169470.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80169470.svg)
+[us/dra/nonmatchings/8D3E8/func_8013136C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8013136C.svg)
+[us/st/sel/nonmatchings/3410C/func_801B55C8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B55C8.svg)
+[us/weapon/nonmatchings/w_051/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_051.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/4A538/DecompressData.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.DecompressData.svg)
+[us/weapon/nonmatchings/w_051/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_051.func_ptr_80170004.svg)
+[us/st/sel/nonmatchings/2D260/func_801AE6D0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801AE6D0.svg)
+[us/dra/nonmatchings/75F54/func_8012C600.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8012C600.svg)
+[us/dra/nonmatchings/75F54/func_8011E0EC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011E0EC.svg)
+[us/dra/nonmatchings/75F54/func_80116408.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80116408.svg)
+[us/dra/nonmatchings/save_mgr2/func_800E9880.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800E9880.svg)
+[us/dra/nonmatchings/6D59C/func_80111018.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80111018.svg)
+[us/weapon/nonmatchings/w_053/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_053.func_ptr_80170008.svg)
+[us/weapon/nonmatchings/w_049/func_ptr_80170010.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_049.func_ptr_80170010.svg)
+[us/dra/nonmatchings/692E8/func_8010D010.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010D010.svg)
+[us/st/rwrp/nonmatchings/8DF0/func_80189E9C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80189E9C.svg)
+[us/st/wrp/nonmatchings/6FD0/EntityWarpSmallRocks.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.EntityWarpSmallRocks.svg)
+[us/ric/nonmatchings/21250/func_8015D3CC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015D3CC.svg)
+[us/dra/nonmatchings/692E8/func_8010D2C8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010D2C8.svg)
+[us/dra/nonmatchings/75F54/func_8011EDA8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011EDA8.svg)
+[us/weapon/nonmatchings/w_049/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_049.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_032/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_032.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_053/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_053.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/75F54/EntityPlayerPinkEffect.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityPlayerPinkEffect.svg)
+[us/ric/nonmatchings/1F348/func_8015B898.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015B898.svg)
+[us/st/mad/nonmatchings/D8C8/func_8018DC28.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018DC28.svg)
+[us/ric/nonmatchings/22380/func_801603C4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_801603C4.svg)
+[us/weapon/nonmatchings/w_041/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_041.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_049/func_ptr_8017000C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_049.func_ptr_8017000C.svg)
+[us/dra/nonmatchings/75F54/func_80119F70.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80119F70.svg)
+[us/st/dre/nonmatchings/14774/EntityUnkId23.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.EntityUnkId23.svg)
+[us/weapon/nonmatchings/w_015/func_ptr_80170010.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_015.func_ptr_80170010.svg)
+[us/st/st0/nonmatchings/2C564/func_801AF380.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801AF380.svg)
+[us/ric/nonmatchings/22380/func_8015E484.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015E484.svg)
+[us/weapon/nonmatchings/w_018/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_018.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/75F54/func_801182F8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801182F8.svg)
+[us/ric/nonmatchings/22380/func_8015FEA8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015FEA8.svg)
+[us/st/rwrp/nonmatchings/14590/BottomCornerText.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.BottomCornerText.svg)
+[us/dra/nonmatchings/5298C/DrawRelicsMenu.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.DrawRelicsMenu.svg)
+[us/weapon/nonmatchings/w_045/func_ptr_80170010.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_045.func_ptr_80170010.svg)
+[us/dra/nonmatchings/75F54/func_801177A0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801177A0.svg)
+[us/dra/nonmatchings/8D3E8/func_80132F60.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80132F60.svg)
+[us/dra/nonmatchings/6D59C/func_8011151C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011151C.svg)
+[us/weapon/nonmatchings/w_051/func_169000_8017B1DC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_051.func_169000_8017B1DC.svg)
+[us/st/np3/nonmatchings/3246C/func_801B28E4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801B28E4.svg)
+[us/weapon/nonmatchings/w_037/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_037.func_ptr_80170008.svg)
+[us/st/cen/nonmatchings/11280/func_80195318.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80195318.svg)
+[us/st/dre/nonmatchings/173C4/func_8019B45C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_8019B45C.svg)
+[us/st/mad/nonmatchings/EDB8/func_80193050.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80193050.svg)
+[us/st/no3/nonmatchings/41C80/func_801C5D18.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801C5D18.svg)
+[us/st/np3/nonmatchings/394F0/func_801BD588.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801BD588.svg)
+[us/st/nz0/nonmatchings/39908/func_801BD9A0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801BD9A0.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018E634.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018E634.svg)
+[us/st/wrp/nonmatchings/861C/func_8018C6B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.func_8018C6B4.svg)
+[us/weapon/nonmatchings/w_007/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_007.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_050/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_050.EntityWeaponAttack.svg)
+[us/st/dre/nonmatchings/1E1C8/Entity3DBackgroundHouse.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.Entity3DBackgroundHouse.svg)
+[us/ric/nonmatchings/1AC60/func_80156F40.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80156F40.svg)
+[us/dra/nonmatchings/75F54/EntityStopWatchExpandingCircle.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityStopWatchExpandingCircle.svg)
+[us/ric/nonmatchings/21250/func_8015D678.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015D678.svg)
+[us/weapon/nonmatchings/w_050/func_ptr_8017000C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_050.func_ptr_8017000C.svg)
+[us/ric/nonmatchings/26C84/func_80169F04.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80169F04.svg)
+[us/st/sel/nonmatchings/stream/DecDCTvlc.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.DecDCTvlc.svg)
+[us/dra/nonmatchings/692E8/func_8010BFFC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010BFFC.svg)
+[us/ric/nonmatchings/345EC/func_8017161C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8017161C.svg)
+[us/weapon/nonmatchings/w_030/func_ptr_80170010.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_030.func_ptr_80170010.svg)
+[us/st/sel/nonmatchings/2D260/func_801B3A94.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B3A94.svg)
+[us/st/np3/nonmatchings/4E69C/EntityGurkhaBodyParts.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityGurkhaBodyParts.svg)
+[us/dra/nonmatchings/62D70/func_80105078.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80105078.svg)
+[us/dra/nonmatchings/5298C/func_800F7F64.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F7F64.svg)
+[us/weapon/nonmatchings/w_049/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_049.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_016/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_016.func_ptr_80170008.svg)
+[us/st/mad/nonmatchings/D8C8/func_8018D8C8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018D8C8.svg)
+[us/weapon/nonmatchings/w_015/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_015.EntityWeaponAttack.svg)
+[us/st/sel/nonmatchings/2D260/func_801B2108.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B2108.svg)
+[us/dra/nonmatchings/5298C/func_800FA034.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800FA034.svg)
+[us/dra/nonmatchings/5298C/func_800F99B8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F99B8.svg)
+[us/st/cen/nonmatchings/1B274/func_8019BED4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_8019BED4.svg)
+[us/st/dre/nonmatchings/1E1C8/func_801A2018.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_801A2018.svg)
+[us/st/mad/nonmatchings/15520/func_80198FA0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80198FA0.svg)
+[us/st/no3/nonmatchings/564B0/func_801D6880.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801D6880.svg)
+[us/st/np3/nonmatchings/4E69C/func_801D1F38.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801D1F38.svg)
+[us/st/nz0/nonmatchings/49930/func_801C9930.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801C9930.svg)
+[us/st/rwrp/nonmatchings/14590/func_801951F0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801951F0.svg)
+[us/st/st0/nonmatchings/36358/func_801BD0C0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801BD0C0.svg)
+[us/st/wrp/nonmatchings/F420/func_80193270.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.func_80193270.svg)
+[us/dra/nonmatchings/75F54/func_80121F58.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80121F58.svg)
+[us/dra/nonmatchings/8D3E8/func_80130618.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80130618.svg)
+[us/ric/nonmatchings/26C84/func_8016DF74.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016DF74.svg)
+[us/weapon/nonmatchings/w_021/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_021.func_ptr_80170004.svg)
+[us/st/nz0/nonmatchings/43F9C/func_801C4198.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801C4198.svg)
+[us/dra/nonmatchings/62D70/func_80103ED4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80103ED4.svg)
+[us/st/np3/nonmatchings/4B018/func_801CBF18.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801CBF18.svg)
+[us/dra/nonmatchings/8D3E8/func_80130264.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80130264.svg)
+[us/ric/nonmatchings/22380/func_80161FF0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80161FF0.svg)
+[us/st/no3/nonmatchings/48A84/EntityStrongWargWaveAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityStrongWargWaveAttack.svg)
+[us/weapon/nonmatchings/w_016/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_016.EntityWeaponAttack.svg)
+[us/st/mad/nonmatchings/D8C8/func_8018E1D4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018E1D4.svg)
+[us/st/mad/nonmatchings/15520/func_80198BC8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80198BC8.svg)
+[us/weapon/nonmatchings/w_021/func_97000_8017AB54.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_021.func_97000_8017AB54.svg)
+[us/weapon/nonmatchings/w_050/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_050.func_ptr_80170004.svg)
+[us/servant/tt_000/nonmatchings/10E8/func_80174210.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/servant.func_80174210.svg)
+[us/weapon/nonmatchings/w_038/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_038.func_ptr_80170004.svg)
+[us/dra/nonmatchings/4A538/func_800EB758.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800EB758.svg)
+[us/ric/nonmatchings/22380/func_80162870.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80162870.svg)
+[us/weapon/nonmatchings/w_048/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_048.func_ptr_80170008.svg)
+[us/dra/nonmatchings/8D3E8/func_80133BDC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80133BDC.svg)
+[us/ric/nonmatchings/26C84/func_80167EC4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80167EC4.svg)
+[us/weapon/nonmatchings/w_048/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_048.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/5298C/DrawSpellMenu.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.DrawSpellMenu.svg)
+[us/weapon/nonmatchings/w_055/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_055.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_049/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_049.func_ptr_80170008.svg)
+[us/st/no3/nonmatchings/48A84/EntityUnkId31.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityUnkId31.svg)
+[us/weapon/nonmatchings/w_050/func_ptr_80170010.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_050.func_ptr_80170010.svg)
+[us/dra/nonmatchings/47BB8/func_800E7E08.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800E7E08.svg)
+[us/dra/nonmatchings/75F54/func_80123B40.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80123B40.svg)
+[us/dra/nonmatchings/75F54/EntityHolyWaterBreakGlass.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityHolyWaterBreakGlass.svg)
+[us/weapon/nonmatchings/w_050/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_050.func_ptr_80170008.svg)
+[us/weapon/nonmatchings/w_019/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_019.EntityWeaponAttack.svg)
+[us/st/no3/nonmatchings/48A84/EntityExplosion3.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityExplosion3.svg)
+[us/weapon/nonmatchings/w_008/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_008.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_009/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_009.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_011/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_011.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_026/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_026.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_027/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_027.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_028/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_028.EntityWeaponAttack.svg)
+[us/ric/nonmatchings/26C84/func_80167A70.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80167A70.svg)
+[us/weapon/nonmatchings/w_025/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_025.EntityWeaponAttack.svg)
+[us/ric/nonmatchings/26C84/func_8016D4D8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016D4D8.svg)
+[us/ric/nonmatchings/26C84/func_8016902C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016902C.svg)
+[us/st/no3/nonmatchings/377D4/EntityBackgroundBushes.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityBackgroundBushes.svg)
+[us/st/np3/nonmatchings/3246C/func_801B32A8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801B32A8.svg)
+[us/weapon/nonmatchings/w_058/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_058.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/627C4/func_801028AC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801028AC.svg)
+[us/st/dre/nonmatchings/14774/EntityUnkId21.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.EntityUnkId21.svg)
+[us/weapon/nonmatchings/w_034/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_034.func_ptr_80170004.svg)
+[us/dra/nonmatchings/75F54/EntitySummonSpirit.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntitySummonSpirit.svg)
+[us/st/nz0/nonmatchings/30958/func_801B0AA4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801B0AA4.svg)
+[us/weapon/nonmatchings/w_006/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_006.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_030/func_ptr_8017000C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_030.func_ptr_8017000C.svg)
+[us/dra/nonmatchings/75F54/EntitySubwpnCrashCross.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntitySubwpnCrashCross.svg)
+[us/st/st0/nonmatchings/36358/EntityClockTower3D.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityClockTower3D.svg)
+[us/dra/nonmatchings/62D70/func_801042C4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801042C4.svg)
+[us/st/no3/nonmatchings/48A84/EntityStrongWargDeathBeams.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityStrongWargDeathBeams.svg)
+[us/weapon/nonmatchings/w_010/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_010.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/75F54/EntitySubwpnThrownVibhuti.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntitySubwpnThrownVibhuti.svg)
+[us/ric/nonmatchings/22380/func_80160FC4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80160FC4.svg)
+[us/weapon/nonmatchings/w_023/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_023.EntityWeaponAttack.svg)
+[us/ric/nonmatchings/22380/func_80160788.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80160788.svg)
+[us/weapon/nonmatchings/w_023/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_023.func_ptr_80170024.svg)
+[us/dra/nonmatchings/gameover/func_800E5D30.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800E5D30.svg)
+[us/dra/nonmatchings/8D3E8/func_80134F50.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80134F50.svg)
+[us/dra/nonmatchings/75F54/EntityHolyWaterFlame.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityHolyWaterFlame.svg)
+[us/dra/nonmatchings/8D3E8/func_801309B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801309B4.svg)
+[us/dra/nonmatchings/953A0/func_8013572C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8013572C.svg)
+[us/dra/nonmatchings/8D3E8/func_80130E94.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80130E94.svg)
+[us/weapon/nonmatchings/w_029/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_029.EntityWeaponAttack.svg)
+[us/ric/nonmatchings/26C84/func_8016C1BC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016C1BC.svg)
+[us/weapon/nonmatchings/w_001/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_001.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_043/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_043.EntityWeaponAttack.svg)
+[us/st/sel/nonmatchings/2D260/func_801B3164.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B3164.svg)
+[us/ric/nonmatchings/26C84/func_80169704.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80169704.svg)
+[us/st/nz0/nonmatchings/33FCC/EntityCloseBossRoom.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.EntityCloseBossRoom.svg)
+[us/ric/nonmatchings/26C84/func_8016C734.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016C734.svg)
+[us/weapon/nonmatchings/w_024/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_024.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_012/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_012.func_ptr_80170004.svg)
+[us/ric/nonmatchings/1AC60/func_801590A0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_801590A0.svg)
+[us/st/nz0/nonmatchings/36DE4/func_801B8F94.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801B8F94.svg)
+[us/dra/nonmatchings/75F54/func_80117DEC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80117DEC.svg)
+[us/ric/nonmatchings/26C84/func_801684D8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_801684D8.svg)
+[us/ric/nonmatchings/1AC60/func_80159670.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80159670.svg)
+[us/dra/nonmatchings/75F54/EntitySubwpnBible.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntitySubwpnBible.svg)
+[us/dra/nonmatchings/75F54/func_8011AC3C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011AC3C.svg)
+[us/weapon/nonmatchings/w_027/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_027.EntityWeaponShieldSpell.svg)
+[us/dra/nonmatchings/4A538/func_800EA7CC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800EA7CC.svg)
+[us/ric/nonmatchings/32324/func_8016F198.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016F198.svg)
+[us/ric/nonmatchings/32324/func_8016E46C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016E46C.svg)
+[us/ric/nonmatchings/345EC/func_80172D00.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80172D00.svg)
+[us/dra/nonmatchings/75F54/EntityLevelUpAnimation.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityLevelUpAnimation.svg)
+[us/st/cen/nonmatchings/18084/func_80199450.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80199450.svg)
+[us/st/dre/nonmatchings/1E1C8/func_8019F594.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_8019F594.svg)
+[us/st/mad/nonmatchings/15520/func_80196BC4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80196BC4.svg)
+[us/st/no3/nonmatchings/48A84/func_801C9E50.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801C9E50.svg)
+[us/st/np3/nonmatchings/402F4/func_801C16C0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801C16C0.svg)
+[us/st/nz0/nonmatchings/4070C/func_801C1AD8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801C1AD8.svg)
+[us/st/rwrp/nonmatchings/113A0/func_8019276C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8019276C.svg)
+[us/st/st0/nonmatchings/36358/func_801B8ED8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B8ED8.svg)
+[us/st/wrp/nonmatchings/F420/func_801907EC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.func_801907EC.svg)
+[us/weapon/nonmatchings/w_056/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_056.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/75F54/func_80128C2C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80128C2C.svg)
+[us/weapon/nonmatchings/w_053/func_ptr_8017000C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_053.func_ptr_8017000C.svg)
+[us/dra/nonmatchings/73AAC/func_80114DF4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80114DF4.svg)
+[us/weapon/nonmatchings/w_048/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_048.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_024/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_024.func_ptr_80170024.svg)
+[us/weapon/nonmatchings/w_039/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_039.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_052/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_052.EntityWeaponAttack.svg)
+[us/st/mad/nonmatchings/139E0/EntityEquipItemDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.EntityEquipItemDrop.svg)
+[us/st/st0/nonmatchings/36358/EntityEquipItemDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityEquipItemDrop.svg)
+[us/ric/nonmatchings/26C84/func_8016D9C4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016D9C4.svg)
+[us/weapon/nonmatchings/w_054/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_054.EntityWeaponAttack.svg)
+[us/ric/nonmatchings/22380/func_8015EE28.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015EE28.svg)
+[us/ric/nonmatchings/1AC60/func_801572A8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_801572A8.svg)
+[us/st/st0/nonmatchings/30030/func_801B1298.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B1298.svg)
+[us/weapon/nonmatchings/w_037/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_037.func_ptr_80170004.svg)
+[us/st/cen/nonmatchings/11280/EntityEquipItemDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityEquipItemDrop.svg)
+[us/st/rwrp/nonmatchings/A59C/EntityEquipItemDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.EntityEquipItemDrop.svg)
+[us/weapon/nonmatchings/w_028/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_028.func_ptr_80170024.svg)
+[us/weapon/nonmatchings/w_052/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_052.func_ptr_80170004.svg)
+[us/st/no3/nonmatchings/377D4/func_801BB548.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801BB548.svg)
+[us/ric/nonmatchings/26C84/func_80168A20.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80168A20.svg)
+[us/weapon/nonmatchings/w_051/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_051.func_ptr_80170008.svg)
+[us/weapon/nonmatchings/w_012/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_012.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/692E8/func_8010C9F4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010C9F4.svg)
+[us/dra/nonmatchings/75F54/func_80126ECC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80126ECC.svg)
+[us/st/no3/nonmatchings/377D4/EntityBackgroundLightning.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityBackgroundLightning.svg)
+[us/ric/nonmatchings/1AC60/func_8015A9B0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015A9B0.svg)
+[us/ric/nonmatchings/22380/func_8015E800.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015E800.svg)
+[us/ric/nonmatchings/345EC/func_8017091C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8017091C.svg)
+[us/weapon/nonmatchings/w_029/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_029.EntityWeaponShieldSpell.svg)
+[us/dra/nonmatchings/75F54/func_8011B5A4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011B5A4.svg)
+[us/weapon/nonmatchings/w_013/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_013.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_046/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_046.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/692E8/func_8010C36C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010C36C.svg)
+[us/st/cen/nonmatchings/18084/func_80199A30.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.func_80199A30.svg)
+[us/st/dre/nonmatchings/1E1C8/func_8019FB74.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.func_8019FB74.svg)
+[us/st/mad/nonmatchings/15520/func_801971A4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_801971A4.svg)
+[us/st/no3/nonmatchings/48A84/func_801CA430.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.func_801CA430.svg)
+[us/st/np3/nonmatchings/402F4/func_801C1CA0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801C1CA0.svg)
+[us/st/nz0/nonmatchings/4070C/func_801C20B8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.func_801C20B8.svg)
+[us/st/rwrp/nonmatchings/113A0/func_80192D4C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_80192D4C.svg)
+[us/st/st0/nonmatchings/36358/func_801B94B8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B94B8.svg)
+[us/st/wrp/nonmatchings/F420/func_80190DCC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.func_80190DCC.svg)
+[us/ric/nonmatchings/345EC/func_80170F64.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80170F64.svg)
+[us/weapon/nonmatchings/w_021/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_021.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_025/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_025.func_ptr_80170024.svg)
+[us/st/cen/nonmatchings/11280/EntityNumericDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityNumericDamage.svg)
+[us/st/dre/nonmatchings/173C4/EntityNumericDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.EntityNumericDamage.svg)
+[us/st/mad/nonmatchings/EDB8/EntityNumericDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.EntityNumericDamage.svg)
+[us/st/no3/nonmatchings/41C80/EntityNumericDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityNumericDamage.svg)
+[us/st/np3/nonmatchings/394F0/EntityNumericDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityNumericDamage.svg)
+[us/st/nz0/nonmatchings/39908/EntityNumericDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.EntityNumericDamage.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018B6B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018B6B4.svg)
+[us/st/st0/nonmatchings/31CA0/EntityNumericDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityNumericDamage.svg)
+[us/st/wrp/nonmatchings/861C/EntityNumericDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.EntityNumericDamage.svg)
+[us/weapon/nonmatchings/w_053/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_053.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_056/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_056.func_ptr_80170004.svg)
+[us/dra/nonmatchings/8D3E8/func_8012F178.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8012F178.svg)
+[us/weapon/nonmatchings/w_058/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_058.EntityWeaponShieldSpell.svg)
+[us/dra/nonmatchings/75F54/EntityHitByLightning.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityHitByLightning.svg)
+[us/dra/nonmatchings/75F54/func_801291C4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801291C4.svg)
+[us/st/no3/nonmatchings/48A84/EntityBoneScimitar.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityBoneScimitar.svg)
+[us/ric/nonmatchings/26C84/func_8016CC74.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016CC74.svg)
+[us/dra/nonmatchings/75F54/EntityTeleport.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityTeleport.svg)
+[us/dra/nonmatchings/75F54/EntityMpReplenished.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityMpReplenished.svg)
+[us/dra/nonmatchings/75F54/EntitySubwpnThrownAxe.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntitySubwpnThrownAxe.svg)
+[us/ric/nonmatchings/26C84/func_8016A26C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016A26C.svg)
+[us/dra/nonmatchings/75F54/EntityBatEcho.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityBatEcho.svg)
+[us/ric/nonmatchings/26C84/func_801656B0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_801656B0.svg)
+[us/weapon/nonmatchings/w_013/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_013.func_ptr_80170008.svg)
+[us/st/mad/nonmatchings/15520/func_80197B94.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_80197B94.svg)
+[us/st/sel/nonmatchings/2D260/func_801ADF94.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801ADF94.svg)
+[us/ric/nonmatchings/26C84/func_80166060.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80166060.svg)
+[us/weapon/nonmatchings/w_011/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_011.func_ptr_80170024.svg)
+[us/dra/nonmatchings/62D70/func_80106A28.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80106A28.svg)
+[us/ric/nonmatchings/26C84/func_8016A974.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016A974.svg)
+[us/st/sel/nonmatchings/3642C/func_801B79D4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B79D4.svg)
+[us/dra/nonmatchings/5087C/func_800F0CD8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F0CD8.svg)
+[us/st/no3/nonmatchings/3C4EC/EntityBackgroundPineTrees.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityBackgroundPineTrees.svg)
+[us/servant/tt_000/nonmatchings/10E8/func_80172C30.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/servant.func_80172C30.svg)
+[us/dra/nonmatchings/75F54/EntityHitByIce.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityHitByIce.svg)
+[us/st/no3/nonmatchings/3C4EC/EntityCastleBridge.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityCastleBridge.svg)
+[us/weapon/nonmatchings/w_016/func_ptr_80170014.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_016.func_ptr_80170014.svg)
+[us/dra/nonmatchings/75F54/EntitySubwpnThrownDagger.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntitySubwpnThrownDagger.svg)
+[us/st/st0/nonmatchings/36358/EntityClouds.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityClouds.svg)
+[us/dra/nonmatchings/5298C/func_800FB23C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800FB23C.svg)
+[us/dra/nonmatchings/gameover/HandleGameOver.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.HandleGameOver.svg)
+[us/dra/nonmatchings/5298C/func_800F8F28.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F8F28.svg)
+[us/ric/nonmatchings/32324/func_8016E9E4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016E9E4.svg)
+[us/dra/nonmatchings/75F54/EntityGuardText.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityGuardText.svg)
+[us/st/sel/nonmatchings/stream/func_801B9C80.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B9C80.svg)
+[us/weapon/nonmatchings/w_046/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_046.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_026/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_026.func_ptr_80170024.svg)
+[us/ric/nonmatchings/22380/func_8016147C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016147C.svg)
+[us/ric/nonmatchings/26C84/func_8016B0C0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016B0C0.svg)
+[us/dra/nonmatchings/692E8/func_80109A44.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80109A44.svg)
+[us/st/st0/nonmatchings/36358/func_801B7308.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B7308.svg)
+[us/ric/nonmatchings/21250/func_8015DBB0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8015DBB0.svg)
+[us/dra/nonmatchings/73AAC/func_80115394.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80115394.svg)
+[us/dra/nonmatchings/72BB0/func_801131C4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801131C4.svg)
+[us/servant/tt_000/nonmatchings/10E8/func_801733D4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/servant.func_801733D4.svg)
+[us/dra/nonmatchings/75F54/EntitySubwpnReboundStone.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntitySubwpnReboundStone.svg)
+[us/dra/nonmatchings/75F54/func_80129864.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80129864.svg)
+[us/weapon/nonmatchings/w_015/func_ptr_8017000C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_015.func_ptr_8017000C.svg)
+[us/st/cen/nonmatchings/11280/EntityPrizeDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityPrizeDrop.svg)
+[us/st/dre/nonmatchings/173C4/EntityPrizeDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.EntityPrizeDrop.svg)
+[us/st/rwrp/nonmatchings/A59C/EntityPrizeDrop.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.EntityPrizeDrop.svg)
+[us/dra/nonmatchings/75F54/EntityNumberMovesToHpMeter.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityNumberMovesToHpMeter.svg)
+[us/st/st0/nonmatchings/2C564/func_801AF774.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801AF774.svg)
+[us/st/nz0/nonmatchings/49930/EntityLifeUpSpawn.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.EntityLifeUpSpawn.svg)
+[us/dra/nonmatchings/8D3E8/func_801315F8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801315F8.svg)
+[us/st/st0/nonmatchings/36358/func_801BD8F0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801BD8F0.svg)
+[us/ric/nonmatchings/26C84/func_8016B97C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016B97C.svg)
+[us/ric/nonmatchings/26C84/func_80164DF8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80164DF8.svg)
+[us/ric/nonmatchings/345EC/func_8017328C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8017328C.svg)
+[us/dra/nonmatchings/62D70/func_80104790.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80104790.svg)
+[us/weapon/nonmatchings/w_010/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_010.func_ptr_80170024.svg)
+[us/weapon/nonmatchings/w_001/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_001.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/4A538/RenderTilemap.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.RenderTilemap.svg)
+[us/weapon/nonmatchings/w_017/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_017.EntityWeaponAttack.svg)
+[us/st/st0/nonmatchings/2B0C8/func_801ABBBC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801ABBBC.svg)
+[us/dra/nonmatchings/75F54/func_8011E4BC.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8011E4BC.svg)
+[us/weapon/nonmatchings/w_044/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_044.EntityWeaponAttack.svg)
+[us/st/st0/nonmatchings/36358/EntityBackgroundVortex.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityBackgroundVortex.svg)
+[us/weapon/nonmatchings/w_014/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_014.EntityWeaponAttack.svg)
+[us/ric/nonmatchings/26C84/func_80164444.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80164444.svg)
+[us/st/sel/nonmatchings/2C048/func_801AC174.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801AC174.svg)
+[us/weapon/nonmatchings/w_027/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_027.func_ptr_80170024.svg)
+[us/dra/nonmatchings/8D3E8/func_8012F894.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8012F894.svg)
+[us/weapon/nonmatchings/w_029/func_ptr_80170024.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_029.func_ptr_80170024.svg)
+[us/dra/nonmatchings/75F54/EntityTransparentWhiteCircle.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityTransparentWhiteCircle.svg)
+[us/st/st0/nonmatchings/36358/func_801BC5C0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801BC5C0.svg)
+[us/ric/nonmatchings/1AC60/func_80159CE4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80159CE4.svg)
+[us/servant/tt_000/nonmatchings/10E8/func_80172120.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/servant.func_80172120.svg)
+[us/dra/nonmatchings/71830/func_801120B4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_801120B4.svg)
+[us/st/wrp/nonmatchings/6FD0/EntityWarpRoom.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.EntityWarpRoom.svg)
+[us/weapon/nonmatchings/w_047/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_047.EntityWeaponAttack.svg)
+[us/weapon/nonmatchings/w_010/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_010.EntityWeaponShieldSpell.svg)
+[us/dra/nonmatchings/75F54/EntityPlayerDissolves.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityPlayerDissolves.svg)
+[us/st/no3/nonmatchings/48A84/EntityAlucardWaterEffect.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityAlucardWaterEffect.svg)
+[us/st/np3/nonmatchings/402F4/func_801C424C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801C424C.svg)
+[us/st/np3/nonmatchings/4E69C/EntityHammer.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityHammer.svg)
+[us/weapon/nonmatchings/w_011/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_011.EntityWeaponShieldSpell.svg)
+[us/st/st0/nonmatchings/30030/func_801B0464.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.func_801B0464.svg)
+[us/weapon/nonmatchings/w_008/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_008.EntityWeaponShieldSpell.svg)
+[us/st/no3/nonmatchings/48A84/EntityMerman.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityMerman.svg)
+[us/weapon/nonmatchings/w_030/func_ptr_80170004.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_030.func_ptr_80170004.svg)
+[us/weapon/nonmatchings/w_030/func_ptr_80170008.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_030.func_ptr_80170008.svg)
+[us/ric/nonmatchings/1AC60/UpdateEntityRichter.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.UpdateEntityRichter.svg)
+[us/st/mad/nonmatchings/EDB8/EntityRedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.EntityRedDoor.svg)
+[us/dra/nonmatchings/62D70/func_80103238.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80103238.svg)
+[us/st/cen/nonmatchings/18084/EntityStageNamePopup.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityStageNamePopup.svg)
+[us/st/dre/nonmatchings/1E1C8/EntityStageNamePopup.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.EntityStageNamePopup.svg)
+[us/st/no3/nonmatchings/48A84/EntityStageNamePopup.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityStageNamePopup.svg)
+[us/st/np3/nonmatchings/402F4/EntityStageNamePopup.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityStageNamePopup.svg)
+[us/st/nz0/nonmatchings/48ADC/EntityStageNamePopup.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.EntityStageNamePopup.svg)
+[us/st/rwrp/nonmatchings/113A0/func_8019390C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8019390C.svg)
+[us/st/wrp/nonmatchings/F420/EntityStageNamePopup.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.EntityStageNamePopup.svg)
+[us/st/cen/nonmatchings/11280/EntityRedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityRedDoor.svg)
+[us/st/dre/nonmatchings/173C4/EntityRedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.EntityRedDoor.svg)
+[us/st/no3/nonmatchings/41C80/EntityRedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityRedDoor.svg)
+[us/st/np3/nonmatchings/394F0/EntityRedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityRedDoor.svg)
+[us/st/nz0/nonmatchings/39908/EntityRedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.EntityRedDoor.svg)
+[us/st/rwrp/nonmatchings/A59C/func_8018C948.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_8018C948.svg)
+[us/st/st0/nonmatchings/31CA0/EntityRedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityRedDoor.svg)
+[us/st/wrp/nonmatchings/861C/EntityRedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.EntityRedDoor.svg)
+[us/weapon/nonmatchings/w_023/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_023.EntityWeaponShieldSpell.svg)
+[us/st/rwrp/nonmatchings/8DF0/func_801891C0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.func_801891C0.svg)
+[us/dra/nonmatchings/5D6C4/func_80100B50.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80100B50.svg)
+[us/dra/nonmatchings/75F54/func_80116B0C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80116B0C.svg)
+[us/st/sel/nonmatchings/3642C/func_801B69F8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.func_801B69F8.svg)
+[us/st/st0/nonmatchings/36358/EntityCutscenePhotograph.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityCutscenePhotograph.svg)
+[us/weapon/nonmatchings/w_009/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_009.EntityWeaponShieldSpell.svg)
+[us/st/no3/nonmatchings/48A84/EntityWarg.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityWarg.svg)
+[us/dra/nonmatchings/6D59C/func_8010EDB8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_8010EDB8.svg)
+[us/dra/nonmatchings/73AAC/AlucardHandleDamage.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.AlucardHandleDamage.svg)
+[us/st/nz0/nonmatchings/47CF0/EntityMagicallySealedDoor.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.EntityMagicallySealedDoor.svg)
+[us/st/st0/nonmatchings/31CA0/TestCollisions.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.TestCollisions.svg)
+[us/ric/nonmatchings/32324/func_8016F6F0.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_8016F6F0.svg)
+[us/st/np3/nonmatchings/4E69C/EntityGurkha.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityGurkha.svg)
+[us/weapon/nonmatchings/w_028/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_028.EntityWeaponShieldSpell.svg)
+[us/weapon/nonmatchings/w_025/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_025.EntityWeaponShieldSpell.svg)
+[us/st/np3/nonmatchings/4E69C/EntityBlade.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityBlade.svg)
+[us/weapon/nonmatchings/w_024/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_024.EntityWeaponShieldSpell.svg)
+[us/dra/nonmatchings/75F54/EntityStopWatch.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityStopWatch.svg)
+[us/weapon/nonmatchings/w_052/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_052.EntityWeaponShieldSpell.svg)
+[us/weapon/nonmatchings/w_026/EntityWeaponShieldSpell.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_026.EntityWeaponShieldSpell.svg)
+[us/st/np3/nonmatchings/4B018/EntityOwl.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityOwl.svg)
+[us/st/st0/nonmatchings/28BF8/EntityDialogue.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityDialogue.svg)
+[us/weapon/nonmatchings/w_020/EntityWeaponAttack.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/w_020.EntityWeaponAttack.svg)
+[us/dra/nonmatchings/4A538/RenderEntities.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.RenderEntities.svg)
+[us/st/no3/nonmatchings/3E134/EntityRoomTransition1.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityRoomTransition1.svg)
+[us/ric/nonmatchings/26C84/func_80166784.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80166784.svg)
+[us/st/nz0/nonmatchings/36DE4/EntityMariaCutscene.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.EntityMariaCutscene.svg)
+[us/st/cen/nonmatchings/D600/EntityUnkId16.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.EntityUnkId16.svg)
+[us/st/dre/nonmatchings/14774/EntitySuccubusCutscene.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.EntitySuccubusCutscene.svg)
+[us/st/no3/nonmatchings/48A84/EntityMerman3.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityMerman3.svg)
+[us/st/mad/nonmatchings/EDB8/func_8018EDB8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/mad.func_8018EDB8.svg)
+[us/ric/nonmatchings/345EC/func_801719A4.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_801719A4.svg)
+[us/st/cen/nonmatchings/11280/TestCollisions.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/cen.TestCollisions.svg)
+[us/st/dre/nonmatchings/173C4/TestCollisions.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dre.TestCollisions.svg)
+[us/st/no3/nonmatchings/41C80/TestCollisions.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.TestCollisions.svg)
+[us/st/np3/nonmatchings/394F0/TestCollisions.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.TestCollisions.svg)
+[us/st/nz0/nonmatchings/39908/TestCollisions.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.TestCollisions.svg)
+[us/st/rwrp/nonmatchings/A59C/TestCollisions.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/rwrp.TestCollisions.svg)
+[us/st/wrp/nonmatchings/861C/TestCollisions.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/wrp.TestCollisions.svg)
+[us/dra/nonmatchings/62D70/func_80105428.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_80105428.svg)
+[us/st/st0/nonmatchings/2C564/EntityDraculaFinalForm.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/st0.EntityDraculaFinalForm.svg)
+[us/ric/nonmatchings/26C84/func_80162EF8.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/ric.func_80162EF8.svg)
+[us/st/nz0/nonmatchings/33FCC/EntityGaibon.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/nz0.EntityGaibon.svg)
+[us/st/np3/nonmatchings/4B018/EntityOwlKnight.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityOwlKnight.svg)
+[us/dra/nonmatchings/75F54/EntityMist.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityMist.svg)
+[us/st/no3/nonmatchings/48A84/EntityStrongWarg.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/no3.EntityStrongWarg.svg)
+[us/st/np3/nonmatchings/36990/EntityGaibon.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.EntityGaibon.svg)
+[us/dra/nonmatchings/4A538/RenderPrimitives.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.RenderPrimitives.svg)
+[us/dra/nonmatchings/5298C/func_800FBC24.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800FBC24.svg)
+[us/dra/nonmatchings/692E8/EntityAlucard.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityAlucard.svg)
+[us/dra/nonmatchings/75F54/EntityPlayerBlinkWhite.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.EntityPlayerBlinkWhite.svg)
+[us/dra/nonmatchings/5298C/func_800F298C.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/dra.func_800F298C.svg)
+[us/st/sel/nonmatchings/2D260/Update.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/sel.Update.svg)
 | Filename                                                                                                                                                                                 |   Length |   Branches | Jtbl   | WIP   | %   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|--------|-------|-----|
 | [us/st/np3/nonmatchings/4E69C/func_801CF778.s](https://raw.githubusercontent.com/Xeeynamo/sotn-decomp/gh-duplicates/function_calls/np3.func_801CF778.svg)                                |       16 |          1 |        |       |     |
