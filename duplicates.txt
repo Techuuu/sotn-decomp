@@ -1669,11 +1669,11 @@
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_800FAC30                       | ../../asm/us/dra/nonmatchings/5298C/func_800FAC30.s 
 | 1.00 | true     | func_80102DEC                       | ../../asm/us/dra/nonmatchings/62D70/func_80102DEC.s 
-| 1.00 | true     | MemcardInfoInit                     | ../../asm/us/dra/nonmatchings/save_mgr/MemcardInfoInit.s 
+| 1.00 | true     | func_800E92F4                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E92F4.s 
 | 1.00 | true     | func_801B367C                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B367C.s 
 | 1.00 | true     | func_801B3E14                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B3E14.s 
 | 1.00 | true     | func_801B3F7C                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B3F7C.s 
-| 1.00 | true     | MemcardInfoInit                     | ../../asm/us/st/sel/nonmatchings/save_mgr/MemcardInfoInit.s 
+| 1.00 | true     | func_801B8500                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B8500.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | BlinkItem                           | ../../asm/us/st/cen/nonmatchings/11280/BlinkItem.s 
 | 1.00 | true     | BlinkItem                           | ../../asm/us/st/dre/nonmatchings/173C4/BlinkItem.s 
@@ -1853,12 +1853,6 @@
 | 1.00 | true     | CdSetDebug                          | ../../asm/us/main/nonmatchings/psxsdk/libcd/sys/CdSetDebug.s 
 | 1.00 | true     | CdSyncCallback                      | ../../asm/us/main/nonmatchings/psxsdk/libcd/sys/CdSyncCallback.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | GsClearVcount                       | ../../asm/us/main/nonmatchings/72A4/GsClearVcount.s 
-| 1.00 | false    | GsGetVcount                         | ../../asm/us/main/nonmatchings/72A4/GsGetVcount.s 
-| 0.90 | true     | def_cbread                          | ../../asm/us/main/nonmatchings/72A4/def_cbread.s 
-| 0.90 | true     | def_cbready                         | ../../asm/us/main/nonmatchings/72A4/def_cbready.s 
-| 0.90 | true     | def_cbsync                          | ../../asm/us/main/nonmatchings/72A4/def_cbsync.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | SetIR123                            | ../../asm/us/main/nonmatchings/72A4/SetIR123.s 
 | 1.00 | false    | SetMAC123                           | ../../asm/us/main/nonmatchings/72A4/SetMAC123.s 
 | 1.00 | false    | SetRii                              | ../../asm/us/main/nonmatchings/72A4/SetRii.s 
@@ -1886,6 +1880,11 @@
 | 1.00 | true     | func_801B1924                       | ../../asm/us/st/sel/nonmatchings/2D260/func_801B1924.s 
 | 1.00 | true     | func_801B01C0                       | ../../asm/us/st/st0/nonmatchings/30030/func_801B01C0.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | func_800F6A48                       | ../../asm/us/dra/nonmatchings/5298C/func_800F6A48.s 
+| 0.90 | true     | def_cbread                          | ../../asm/us/main/nonmatchings/72A4/def_cbread.s 
+| 0.90 | true     | def_cbready                         | ../../asm/us/main/nonmatchings/72A4/def_cbready.s 
+| 0.90 | true     | def_cbsync                          | ../../asm/us/main/nonmatchings/72A4/def_cbsync.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | func_80111928                       | ../../asm/us/dra/nonmatchings/71830/func_80111928.s 
 | 1.00 | true     | SpuVmDamperOff                      | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vm_doff/SpuVmDamperOff.s 
 | 1.00 | true     | SsSetStereo                         | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vs_mono/SsSetStereo.s 
@@ -1901,10 +1900,10 @@
 | 1.00 | true     | CD_set_test_parmnum                 | ../../asm/us/main/nonmatchings/psxsdk/libcd/bios/CD_set_test_parmnum.s 
 | 1.00 | true     | MemcardInit                         | ../../asm/us/st/sel/nonmatchings/save_mgr/MemcardInit.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | _clear_event                        | ../../asm/us/dra/nonmatchings/save_mgr/_clear_event.s 
-| 1.00 | true     | _clear_event_x                      | ../../asm/us/dra/nonmatchings/save_mgr/_clear_event_x.s 
-| 1.00 | true     | _clear_event                        | ../../asm/us/st/sel/nonmatchings/save_mgr/_clear_event.s 
-| 1.00 | true     | _clear_event_x                      | ../../asm/us/st/sel/nonmatchings/save_mgr/_clear_event_x.s 
+| 1.00 | true     | func_800E91B0                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E91B0.s 
+| 1.00 | true     | func_800E928C                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E928C.s 
+| 1.00 | true     | func_801B83BC                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B83BC.s 
+| 1.00 | true     | func_801B8498                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B8498.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | SetDQA                              | ../../asm/us/main/nonmatchings/72A4/SetDQA.s 
 | 1.00 | false    | SetDQB                              | ../../asm/us/main/nonmatchings/72A4/SetDQB.s 
@@ -2189,11 +2188,23 @@
 | 1.00 | true     | IsMemcardBlockUsed                  | ../../asm/us/dra/nonmatchings/save_mgr/IsMemcardBlockUsed.s 
 | 1.00 | true     | IsMemcardBlockUsed                  | ../../asm/us/st/sel/nonmatchings/save_mgr/IsMemcardBlockUsed.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | LoadSaveData                        | ../../asm/us/dra/nonmatchings/save_mgr/LoadSaveData.s 
+| 1.00 | true     | LoadSaveData                        | ../../asm/us/st/sel/nonmatchings/save_mgr/LoadSaveData.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | MakeMemcardPath                     | ../../asm/us/dra/nonmatchings/save_mgr/MakeMemcardPath.s 
+| 1.00 | true     | MakeMemcardPath                     | ../../asm/us/st/sel/nonmatchings/save_mgr/MakeMemcardPath.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | MemcardClose                        | ../../asm/us/dra/nonmatchings/save_mgr/MemcardClose.s 
 | 1.00 | true     | MemcardClose                        | ../../asm/us/st/sel/nonmatchings/save_mgr/MemcardClose.s 
 -------------------------------------------------------------------------------
+| 1.00 | true     | MemcardDetectSave                   | ../../asm/us/dra/nonmatchings/save_mgr/MemcardDetectSave.s 
+| 1.00 | true     | MemcardDetectSave                   | ../../asm/us/st/sel/nonmatchings/save_mgr/MemcardDetectSave.s 
+-------------------------------------------------------------------------------
 | 1.00 | true     | MemcardEraseFile                    | ../../asm/us/dra/nonmatchings/save_mgr/MemcardEraseFile.s 
 | 1.00 | true     | MemcardEraseFile                    | ../../asm/us/st/sel/nonmatchings/save_mgr/MemcardEraseFile.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | MemcardFormat                       | ../../asm/us/dra/nonmatchings/save_mgr/MemcardFormat.s 
+| 1.00 | true     | MemcardFormat                       | ../../asm/us/st/sel/nonmatchings/save_mgr/MemcardFormat.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | MemcardParse                        | ../../asm/us/dra/nonmatchings/save_mgr/MemcardParse.s 
 | 1.00 | true     | MemcardParse                        | ../../asm/us/st/sel/nonmatchings/save_mgr/MemcardParse.s 
@@ -2204,44 +2215,35 @@
 | 1.00 | true     | MemcardWriteFile                    | ../../asm/us/dra/nonmatchings/save_mgr/MemcardWriteFile.s 
 | 1.00 | true     | MemcardWriteFile                    | ../../asm/us/st/sel/nonmatchings/save_mgr/MemcardWriteFile.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | SetupEvents                         | ../../asm/us/dra/nonmatchings/save_mgr/SetupEvents.s 
-| 1.00 | true     | SetupEvents                         | ../../asm/us/st/sel/nonmatchings/save_mgr/SetupEvents.s 
+| 1.00 | true     | StoreSaveData                       | ../../asm/us/dra/nonmatchings/save_mgr/StoreSaveData.s 
+| 1.00 | true     | StoreSaveData                       | ../../asm/us/st/sel/nonmatchings/save_mgr/StoreSaveData.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | _card_event_x                       | ../../asm/us/dra/nonmatchings/save_mgr/_card_event_x.s 
-| 1.00 | true     | _card_event_x                       | ../../asm/us/st/sel/nonmatchings/save_mgr/_card_event_x.s 
+| 1.00 | true     | func_800E8EE4                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E8EE4.s 
+| 1.00 | true     | func_801B80F0                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B80F0.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | _peek_event                         | ../../asm/us/dra/nonmatchings/save_mgr/_peek_event.s 
-| 1.00 | true     | _peek_event                         | ../../asm/us/st/sel/nonmatchings/save_mgr/_peek_event.s 
+| 1.00 | true     | func_800E908C                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E908C.s 
+| 1.00 | true     | func_801B8298                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B8298.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | _peek_event_with_retry              | ../../asm/us/dra/nonmatchings/save_mgr/_peek_event_with_retry.s 
-| 1.00 | true     | _peek_event_with_retry              | ../../asm/us/st/sel/nonmatchings/save_mgr/_peek_event_with_retry.s 
+| 1.00 | true     | func_800E912C                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E912C.s 
+| 1.00 | true     | func_801B8338                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B8338.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_800E9530                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E9530.s 
-| 1.00 | false    | func_801B873C                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B873C.s 
+| 1.00 | true     | func_800E9208                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E9208.s 
+| 1.00 | true     | func_801B8414                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B8414.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_800E9880                       | ../../asm/us/dra/nonmatchings/save_mgr2/func_800E9880.s 
-| 1.00 | true     | func_801B8A8C                       | ../../asm/us/st/sel/nonmatchings/save_mgr2/func_801B8A8C.s 
+| 1.00 | true     | func_800E9880                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E9880.s 
+| 1.00 | true     | func_800E9880                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_800E9880.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | GetSaveIcon                         | ../../asm/us/dra/nonmatchings/save_mgr3/GetSaveIcon.s 
-| 1.00 | true     | GetSaveIcon                         | ../../asm/us/st/sel/nonmatchings/save_mgr3/GetSaveIcon.s 
+| 1.00 | true     | func_800E9BA4                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E9BA4.s 
+| 1.00 | true     | func_801B8DB0                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B8DB0.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | GetSavePalette                      | ../../asm/us/dra/nonmatchings/save_mgr3/GetSavePalette.s 
-| 1.00 | true     | GetSavePalette                      | ../../asm/us/st/sel/nonmatchings/save_mgr3/GetSavePalette.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | LoadSaveData                        | ../../asm/us/dra/nonmatchings/save_mgr3/LoadSaveData.s 
-| 1.00 | true     | LoadSaveData                        | ../../asm/us/st/sel/nonmatchings/save_mgr3/LoadSaveData.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | MakeMemcardPath                     | ../../asm/us/dra/nonmatchings/save_mgr3/MakeMemcardPath.s 
-| 1.00 | true     | MakeMemcardPath                     | ../../asm/us/st/sel/nonmatchings/save_mgr3/MakeMemcardPath.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | MemcardFormat                       | ../../asm/us/dra/nonmatchings/save_mgr3/MemcardFormat.s 
-| 1.00 | true     | MemcardFormat                       | ../../asm/us/st/sel/nonmatchings/save_mgr3/MemcardFormat.s 
--------------------------------------------------------------------------------
-| 1.00 | true     | StoreSaveData                       | ../../asm/us/dra/nonmatchings/save_mgr3/StoreSaveData.s 
-| 1.00 | true     | StoreSaveData                       | ../../asm/us/st/sel/nonmatchings/save_mgr3/StoreSaveData.s 
+| 1.00 | true     | func_800E9BDC                       | ../../asm/us/dra/nonmatchings/save_mgr/func_800E9BDC.s 
+| 1.00 | true     | func_801B8DE8                       | ../../asm/us/st/sel/nonmatchings/save_mgr/func_801B8DE8.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | EnterCriticalSection                | ../../asm/us/main/nonmatchings/5E78/EnterCriticalSection.s 
 | 1.00 | false    | ExitCriticalSection                 | ../../asm/us/main/nonmatchings/5E78/ExitCriticalSection.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | GsClearVcount                       | ../../asm/us/main/nonmatchings/72A4/GsClearVcount.s 
+| 1.00 | false    | GsGetVcount                         | ../../asm/us/main/nonmatchings/72A4/GsGetVcount.s 
 -------------------------------------------------------------------------------
 | 0.90 | false    | ColorDpq                            | ../../asm/us/main/nonmatchings/72A4/ColorDpq.s 
 | 1.00 | false    | NormalColorDpq                      | ../../asm/us/main/nonmatchings/72A4/NormalColorDpq.s 
