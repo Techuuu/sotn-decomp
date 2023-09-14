@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="101.39" cy="-198" rx="101.28" ry="18"/>
 <text text-anchor="middle" x="101.39" y="-194.3" font-family="Times,serif" font-size="14.00">sel.func_801B2D6C</text>
 </g>
-<!-- sel.func_801B84F0 -->
+<!-- sel.MemcardInit -->
 <g id="node2" class="node">
-<title>sel.func_801B84F0</title>
-<g id="a_node2"><a xlink:href="sel.func_801B84F0.svg" xlink:title="sel.func_801B84F0">
-<ellipse fill="green" stroke="black" cx="101.39" cy="-18" rx="99.38" ry="18"/>
-<text text-anchor="middle" x="101.39" y="-14.3" font-family="Times,serif" font-size="14.00">sel.func_801B84F0</text>
+<title>sel.MemcardInit</title>
+<g id="a_node2"><a xlink:href="sel.MemcardInit.svg" xlink:title="sel.MemcardInit">
+<ellipse fill="green" stroke="black" cx="101.39" cy="-18" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="101.39" y="-14.3" font-family="Times,serif" font-size="14.00">sel.MemcardInit</text>
 </a>
 </g>
 </g>
-<!-- sel.func_801B2D6C&#45;&gt;sel.func_801B84F0 -->
+<!-- sel.func_801B2D6C&#45;&gt;sel.MemcardInit -->
 <g id="edge1" class="edge">
-<title>sel.func_801B2D6C&#45;&gt;sel.func_801B84F0</title>
+<title>sel.func_801B2D6C&#45;&gt;sel.MemcardInit</title>
 <path fill="none" stroke="black" d="M101.39,-179.93C101.39,-148.97 101.39,-83.3 101.39,-46.13"/>
 <polygon fill="black" stroke="black" points="104.89,-46.02 101.39,-36.02 97.89,-46.02 104.89,-46.02"/>
 <text text-anchor="middle" x="96.39" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
