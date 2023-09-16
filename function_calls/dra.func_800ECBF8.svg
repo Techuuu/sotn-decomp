@@ -127,37 +127,37 @@
 <polygon fill="black" stroke="black" points="824.54,-39.7 832.05,-32.24 821.52,-33.39 824.54,-39.7"/>
 <text text-anchor="middle" x="827.05" y="-36.04" font-family="Times,serif" font-size="14.00">2</text>
 </g>
-<!-- dra.HandleTitle -->
-<g id="node9" class="node">
-<title>dra.HandleTitle</title>
-<g id="a_node9"><a xlink:href="dra.HandleTitle.svg" xlink:title="dra.HandleTitle">
-<ellipse fill="green" stroke="black" cx="384.79" cy="-378" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="384.79" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleTitle</text>
-</a>
-</g>
-</g>
-<!-- dra.HandleTitle&#45;&gt;dra.func_800ECBF8 -->
-<g id="edge8" class="edge">
-<title>dra.HandleTitle&#45;&gt;dra.func_800ECBF8</title>
-<path fill="none" stroke="black" d="M394.57,-359.93C412.55,-328.57 450.92,-261.6 472.06,-224.71"/>
-<polygon fill="black" stroke="black" points="475.11,-226.43 477.04,-216.02 469.04,-222.95 475.11,-226.43"/>
-<text text-anchor="middle" x="389.57" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
-</g>
 <!-- dra.entrypoint_sotn -->
-<g id="node10" class="node">
+<g id="node9" class="node">
 <title>dra.entrypoint_sotn</title>
-<g id="a_node10"><a xlink:href="dra.entrypoint_sotn.svg" xlink:title="dra.entrypoint_sotn">
-<ellipse fill="green" stroke="black" cx="588.79" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="588.79" y="-374.3" font-family="Times,serif" font-size="14.00">dra.entrypoint_sotn</text>
+<g id="a_node9"><a xlink:href="dra.entrypoint_sotn.svg" xlink:title="dra.entrypoint_sotn">
+<ellipse fill="green" stroke="black" cx="375.79" cy="-378" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="375.79" y="-374.3" font-family="Times,serif" font-size="14.00">dra.entrypoint_sotn</text>
 </a>
 </g>
 </g>
 <!-- dra.entrypoint_sotn&#45;&gt;dra.func_800ECBF8 -->
-<g id="edge9" class="edge">
+<g id="edge8" class="edge">
 <title>dra.entrypoint_sotn&#45;&gt;dra.func_800ECBF8</title>
-<path fill="none" stroke="black" d="M579.01,-359.93C561.04,-328.57 522.67,-261.6 501.53,-224.71"/>
-<polygon fill="black" stroke="black" points="504.55,-222.95 496.55,-216.02 498.48,-226.43 504.55,-222.95"/>
-<text text-anchor="middle" x="574.01" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M386.44,-359.93C406,-328.57 447.76,-261.6 470.76,-224.71"/>
+<polygon fill="black" stroke="black" points="473.86,-226.35 476.18,-216.02 467.92,-222.65 473.86,-226.35"/>
+<text text-anchor="middle" x="381.44" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.func_800E451C -->
+<g id="node10" class="node">
+<title>dra.func_800E451C</title>
+<g id="a_node10"><a xlink:href="dra.func_800E451C.svg" xlink:title="dra.func_800E451C">
+<ellipse fill="green" stroke="black" cx="598.79" cy="-378" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="598.79" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800E451C</text>
+</a>
+</g>
+</g>
+<!-- dra.func_800E451C&#45;&gt;dra.func_800ECBF8 -->
+<g id="edge9" class="edge">
+<title>dra.func_800E451C&#45;&gt;dra.func_800ECBF8</title>
+<path fill="none" stroke="black" d="M588.06,-359.93C568.32,-328.57 526.18,-261.6 502.97,-224.71"/>
+<polygon fill="black" stroke="black" points="505.79,-222.62 497.5,-216.02 499.86,-226.34 505.79,-222.62"/>
+<text text-anchor="middle" x="583.06" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 </g>
 </svg>

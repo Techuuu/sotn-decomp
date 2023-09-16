@@ -19,49 +19,49 @@
 <g id="node2" class="node">
 <title>AddPrim</title>
 <g id="a_node2"><a xlink:href="AddPrim.svg" xlink:title="AddPrim">
-<ellipse fill="lightblue" stroke="black" cx="508.54" cy="-18" rx="51.19" ry="18"/>
-<text text-anchor="middle" x="508.54" y="-14.3" font-family="Times,serif" font-size="14.00">AddPrim</text>
+<ellipse fill="lightblue" stroke="black" cx="501.54" cy="-18" rx="51.19" ry="18"/>
+<text text-anchor="middle" x="501.54" y="-14.3" font-family="Times,serif" font-size="14.00">AddPrim</text>
 </a>
 </g>
 </g>
 <!-- dra.DrawMenuRect&#45;&gt;AddPrim -->
 <g id="edge1" class="edge">
 <title>dra.DrawMenuRect&#45;&gt;AddPrim</title>
-<path fill="none" stroke="black" d="M657.72,-179.93C628.17,-148.06 564.55,-79.42 530.73,-42.94"/>
-<polygon fill="black" stroke="black" points="532.96,-40.2 523.6,-35.24 527.83,-44.95 532.96,-40.2"/>
-<text text-anchor="middle" x="518.6" y="-39.04" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.ScissorPolyG4 -->
-<g id="node3" class="node">
-<title>dra.ScissorPolyG4</title>
-<g id="a_node3"><a xlink:href="dra.ScissorPolyG4.svg" xlink:title="dra.ScissorPolyG4">
-<ellipse fill="green" stroke="black" cx="673.54" cy="-18" rx="95.58" ry="18"/>
-<text text-anchor="middle" x="673.54" y="-14.3" font-family="Times,serif" font-size="14.00">dra.ScissorPolyG4</text>
-</a>
-</g>
-</g>
-<!-- dra.DrawMenuRect&#45;&gt;dra.ScissorPolyG4 -->
-<g id="edge2" class="edge">
-<title>dra.DrawMenuRect&#45;&gt;dra.ScissorPolyG4</title>
-<path fill="none" stroke="black" d="M673.54,-179.93C673.54,-148.97 673.54,-83.3 673.54,-46.13"/>
-<polygon fill="black" stroke="black" points="677.04,-46.02 673.54,-36.02 670.04,-46.02 677.04,-46.02"/>
-<text text-anchor="middle" x="668.54" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M657.05,-179.93C626.12,-147.93 559.37,-78.84 524.23,-42.48"/>
+<polygon fill="black" stroke="black" points="526.7,-40 517.23,-35.24 521.67,-44.86 526.7,-40"/>
+<text text-anchor="middle" x="512.23" y="-39.04" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_800F53D4 -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>dra.func_800F53D4</title>
-<g id="a_node4"><a xlink:href="dra.func_800F53D4.svg" xlink:title="dra.func_800F53D4">
-<ellipse fill="green" stroke="black" cx="889.54" cy="-18" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="889.54" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F53D4</text>
+<g id="a_node3"><a xlink:href="dra.func_800F53D4.svg" xlink:title="dra.func_800F53D4">
+<ellipse fill="green" stroke="black" cx="673.54" cy="-18" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="673.54" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F53D4</text>
 </a>
 </g>
 </g>
 <!-- dra.DrawMenuRect&#45;&gt;dra.func_800F53D4 -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>dra.DrawMenuRect&#45;&gt;dra.func_800F53D4</title>
-<path fill="none" stroke="black" d="M693.86,-180.25C732.62,-148.32 817.16,-78.65 861.35,-42.23"/>
-<polygon fill="black" stroke="black" points="863.62,-44.89 869.12,-35.83 859.17,-39.49 863.62,-44.89"/>
-<text text-anchor="middle" x="864.12" y="-39.63" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M673.54,-179.93C673.54,-148.97 673.54,-83.3 673.54,-46.13"/>
+<polygon fill="black" stroke="black" points="677.04,-46.02 673.54,-36.02 670.04,-46.02 677.04,-46.02"/>
+<text text-anchor="middle" x="668.54" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.func_800F5530 -->
+<g id="node4" class="node">
+<title>dra.func_800F5530</title>
+<g id="a_node4"><a xlink:href="dra.func_800F5530.svg" xlink:title="dra.func_800F5530">
+<ellipse fill="green" stroke="black" cx="894.54" cy="-18" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="894.54" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F5530</text>
+</a>
+</g>
+</g>
+<!-- dra.DrawMenuRect&#45;&gt;dra.func_800F5530 -->
+<g id="edge3" class="edge">
+<title>dra.DrawMenuRect&#45;&gt;dra.func_800F5530</title>
+<path fill="none" stroke="black" d="M694.33,-180.25C733.98,-148.32 820.49,-78.65 865.7,-42.23"/>
+<polygon fill="black" stroke="black" points="868.05,-44.83 873.64,-35.83 863.66,-39.38 868.05,-44.83"/>
+<text text-anchor="middle" x="868.64" y="-39.63" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.DrawRelicsMenu -->
 <g id="node5" class="node">

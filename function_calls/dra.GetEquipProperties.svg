@@ -19,65 +19,65 @@
 <g id="node2" class="node">
 <title>SquareRoot0</title>
 <g id="a_node2"><a xlink:href="SquareRoot0.svg" xlink:title="SquareRoot0">
-<ellipse fill="lightblue" stroke="black" cx="9045.29" cy="-18" rx="71.49" ry="18"/>
-<text text-anchor="middle" x="9045.29" y="-14.3" font-family="Times,serif" font-size="14.00">SquareRoot0</text>
+<ellipse fill="lightblue" stroke="black" cx="9013.29" cy="-18" rx="71.49" ry="18"/>
+<text text-anchor="middle" x="9013.29" y="-14.3" font-family="Times,serif" font-size="14.00">SquareRoot0</text>
 </a>
 </g>
 </g>
 <!-- dra.GetEquipProperties&#45;&gt;SquareRoot0 -->
 <g id="edge1" class="edge">
 <title>dra.GetEquipProperties&#45;&gt;SquareRoot0</title>
-<path fill="none" stroke="black" d="M9288.08,-180.25C9239.32,-147.87 9132.16,-76.7 9078,-40.73"/>
-<polygon fill="black" stroke="black" points="9079.73,-37.68 9069.47,-35.06 9075.86,-43.51 9079.73,-37.68"/>
-<text text-anchor="middle" x="9064.47" y="-38.86" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- dra.CalcAttack -->
-<g id="node3" class="node">
-<title>dra.CalcAttack</title>
-<g id="a_node3"><a xlink:href="dra.CalcAttack.svg" xlink:title="dra.CalcAttack">
-<ellipse fill="green" stroke="black" cx="9214.29" cy="-18" rx="79.09" ry="18"/>
-<text text-anchor="middle" x="9214.29" y="-14.3" font-family="Times,serif" font-size="14.00">dra.CalcAttack</text>
-</a>
-</g>
-</g>
-<!-- dra.GetEquipProperties&#45;&gt;dra.CalcAttack -->
-<g id="edge2" class="edge">
-<title>dra.GetEquipProperties&#45;&gt;dra.CalcAttack</title>
-<path fill="none" stroke="black" d="M9303.8,-179.93C9286.43,-148.7 9249.42,-82.17 9228.85,-45.18"/>
-<polygon fill="black" stroke="black" points="9231.67,-43.05 9223.75,-36.02 9225.55,-46.46 9231.67,-43.05"/>
-<text text-anchor="middle" x="9218.75" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M9285.33,-180.41C9230.55,-147.91 9109.13,-75.87 9048.78,-40.06"/>
+<polygon fill="black" stroke="black" points="9050.37,-36.93 9039.98,-34.84 9046.8,-42.95 9050.37,-36.93"/>
+<text text-anchor="middle" x="9034.98" y="-38.64" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_800F4994 -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>dra.func_800F4994</title>
-<g id="a_node4"><a xlink:href="dra.func_800F4994.svg" xlink:title="dra.func_800F4994">
-<ellipse fill="green" stroke="black" cx="9412.29" cy="-18" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="9412.29" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F4994</text>
+<g id="a_node3"><a xlink:href="dra.func_800F4994.svg" xlink:title="dra.func_800F4994">
+<ellipse fill="green" stroke="black" cx="9203.29" cy="-18" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="9203.29" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F4994</text>
 </a>
 </g>
 </g>
 <!-- dra.GetEquipProperties&#45;&gt;dra.func_800F4994 -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>dra.GetEquipProperties&#45;&gt;dra.func_800F4994</title>
-<path fill="none" stroke="black" d="M9322.78,-179.93C9340.15,-148.7 9377.16,-82.17 9397.73,-45.18"/>
-<polygon fill="black" stroke="black" points="9401.02,-46.46 9402.82,-36.02 9394.91,-43.05 9401.02,-46.46"/>
-<text text-anchor="middle" x="9397.82" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M9302.74,-179.93C9283.36,-148.57 9241.98,-81.6 9219.18,-44.71"/>
+<polygon fill="black" stroke="black" points="9222.04,-42.68 9213.8,-36.02 9216.08,-46.36 9222.04,-42.68"/>
+<text text-anchor="middle" x="9208.8" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- dra.func_800F4D38 -->
+<g id="node4" class="node">
+<title>dra.func_800F4D38</title>
+<g id="a_node4"><a xlink:href="dra.func_800F4D38.svg" xlink:title="dra.func_800F4D38">
+<ellipse fill="green" stroke="black" cx="9424.29" cy="-18" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="9424.29" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F4D38</text>
+</a>
+</g>
+</g>
+<!-- dra.GetEquipProperties&#45;&gt;dra.func_800F4D38 -->
+<g id="edge3" class="edge">
+<title>dra.GetEquipProperties&#45;&gt;dra.func_800F4D38</title>
+<path fill="none" stroke="black" d="M9323.93,-179.93C9343.49,-148.57 9385.25,-81.6 9408.26,-44.71"/>
+<polygon fill="black" stroke="black" points="9411.36,-46.35 9413.68,-36.02 9405.42,-42.65 9411.36,-46.35"/>
+<text text-anchor="middle" x="9408.68" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- rand -->
 <g id="node5" class="node">
 <title>rand</title>
 <g id="a_node5"><a xlink:href="rand.svg" xlink:title="rand">
-<ellipse fill="lightblue" stroke="black" cx="9563.29" cy="-18" rx="32.49" ry="18"/>
-<text text-anchor="middle" x="9563.29" y="-14.3" font-family="Times,serif" font-size="14.00">rand</text>
+<ellipse fill="lightblue" stroke="black" cx="9577.29" cy="-18" rx="32.49" ry="18"/>
+<text text-anchor="middle" x="9577.29" y="-14.3" font-family="Times,serif" font-size="14.00">rand</text>
 </a>
 </g>
 </g>
 <!-- dra.GetEquipProperties&#45;&gt;rand -->
 <g id="edge4" class="edge">
 <title>dra.GetEquipProperties&#45;&gt;rand</title>
-<path fill="none" stroke="black" d="M9336.81,-180.25C9383.25,-147.19 9486.49,-73.68 9535.9,-38.5"/>
-<polygon fill="black" stroke="black" points="9538.08,-41.24 9544.2,-32.59 9534.02,-35.54 9538.08,-41.24"/>
-<text text-anchor="middle" x="9539.2" y="-36.39" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M9338.12,-180.25C9387.39,-147.04 9497.18,-73.01 9549.08,-38.02"/>
+<polygon fill="black" stroke="black" points="9551.15,-40.85 9557.48,-32.36 9547.23,-35.04 9551.15,-40.85"/>
+<text text-anchor="middle" x="9552.48" y="-36.16" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.EntityUnarmedAttack -->
 <g id="node6" class="node">

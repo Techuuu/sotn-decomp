@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="103.34" cy="-18" rx="103.18" ry="18"/>
 <text text-anchor="middle" x="103.34" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800EBB70</text>
 </g>
-<!-- dra.HandleTitle -->
+<!-- dra.func_800E451C -->
 <g id="node2" class="node">
-<title>dra.HandleTitle</title>
-<g id="a_node2"><a xlink:href="dra.HandleTitle.svg" xlink:title="dra.HandleTitle">
-<ellipse fill="green" stroke="black" cx="103.34" cy="-198" rx="83.39" ry="18"/>
-<text text-anchor="middle" x="103.34" y="-194.3" font-family="Times,serif" font-size="14.00">dra.HandleTitle</text>
+<title>dra.func_800E451C</title>
+<g id="a_node2"><a xlink:href="dra.func_800E451C.svg" xlink:title="dra.func_800E451C">
+<ellipse fill="green" stroke="black" cx="103.34" cy="-198" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="103.34" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_800E451C</text>
 </a>
 </g>
 </g>
-<!-- dra.HandleTitle&#45;&gt;dra.func_800EBB70 -->
+<!-- dra.func_800E451C&#45;&gt;dra.func_800EBB70 -->
 <g id="edge1" class="edge">
-<title>dra.HandleTitle&#45;&gt;dra.func_800EBB70</title>
+<title>dra.func_800E451C&#45;&gt;dra.func_800EBB70</title>
 <path fill="none" stroke="black" d="M103.34,-179.93C103.34,-148.97 103.34,-83.3 103.34,-46.13"/>
 <polygon fill="black" stroke="black" points="106.84,-46.02 103.34,-36.02 99.84,-46.02 106.84,-46.02"/>
 <text text-anchor="middle" x="98.34" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>

@@ -415,18 +415,18 @@
 <polygon fill="black" stroke="black" points="5211.69,-37.12 5219.9,-30.43 5209.31,-30.54 5211.69,-37.12"/>
 <text text-anchor="middle" x="5214.9" y="-34.23" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.UpdateGame -->
+<!-- dra.func_800E7AEC -->
 <g id="node27" class="node">
-<title>dra.UpdateGame</title>
-<g id="a_node27"><a xlink:href="dra.UpdateGame.svg" xlink:title="dra.UpdateGame">
-<ellipse fill="green" stroke="black" cx="2642.74" cy="-378" rx="90.18" ry="18"/>
-<text text-anchor="middle" x="2642.74" y="-374.3" font-family="Times,serif" font-size="14.00">dra.UpdateGame</text>
+<title>dra.func_800E7AEC</title>
+<g id="a_node27"><a xlink:href="dra.func_800E7AEC.svg" xlink:title="dra.func_800E7AEC">
+<ellipse fill="green" stroke="black" cx="2642.74" cy="-378" rx="103.98" ry="18"/>
+<text text-anchor="middle" x="2642.74" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800E7AEC</text>
 </a>
 </g>
 </g>
-<!-- dra.UpdateGame&#45;&gt;dra.HandleGameOver -->
+<!-- dra.func_800E7AEC&#45;&gt;dra.HandleGameOver -->
 <g id="edge26" class="edge">
-<title>dra.UpdateGame&#45;&gt;dra.HandleGameOver</title>
+<title>dra.func_800E7AEC&#45;&gt;dra.HandleGameOver</title>
 <path fill="none" stroke="black" d="M2642.74,-359.93C2642.74,-328.97 2642.74,-263.3 2642.74,-226.13"/>
 <polygon fill="black" stroke="black" points="2646.24,-226.02 2642.74,-216.02 2639.24,-226.02 2646.24,-226.02"/>
 <text text-anchor="middle" x="2637.74" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
