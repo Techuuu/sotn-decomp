@@ -896,7 +896,7 @@
 | 1.00 | true     | AnimateEntity                       | ../../asm/us/st/np3/nonmatchings/394F0/AnimateEntity.s 
 | 1.00 | true     | AnimateEntity                       | ../../asm/us/st/nz0/nonmatchings/39908/AnimateEntity.s 
 | 1.00 | false    | func_8018D6B0                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018D6B0.s 
-| 1.00 | true     | AnimateEntity                       | ../../asm/us/st/sel/nonmatchings/3410C/AnimateEntity.s 
+| 1.00 | true     | func_801B4BB0                       | ../../asm/us/st/sel/nonmatchings/3410C/func_801B4BB0.s 
 | 1.00 | true     | AnimateEntity                       | ../../asm/us/st/st0/nonmatchings/31CA0/AnimateEntity.s 
 | 1.00 | true     | func_8018B730                       | ../../asm/us/st/wrp/nonmatchings/861C/func_8018B730.s 
 -------------------------------------------------------------------------------
