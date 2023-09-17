@@ -79,18 +79,18 @@
 <polygon fill="black" stroke="black" points="723.09,-43.21 730.28,-35.42 719.81,-37.03 723.09,-43.21"/>
 <text text-anchor="middle" x="725.28" y="-39.22" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.func_80116B0C -->
+<!-- dra.ControlBatForm -->
 <g id="node6" class="node">
-<title>dra.func_80116B0C</title>
-<g id="a_node6"><a xlink:href="dra.func_80116B0C.svg" xlink:title="dra.func_80116B0C">
-<ellipse fill="green" stroke="black" cx="426.19" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="426.19" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_80116B0C</text>
+<title>dra.ControlBatForm</title>
+<g id="a_node6"><a xlink:href="dra.ControlBatForm.svg" xlink:title="dra.ControlBatForm">
+<ellipse fill="green" stroke="black" cx="426.19" cy="-378" rx="104.78" ry="18"/>
+<text text-anchor="middle" x="426.19" y="-374.3" font-family="Times,serif" font-size="14.00">dra.ControlBatForm</text>
 </a>
 </g>
 </g>
-<!-- dra.func_80116B0C&#45;&gt;dra.func_80116838 -->
+<!-- dra.ControlBatForm&#45;&gt;dra.func_80116838 -->
 <g id="edge5" class="edge">
-<title>dra.func_80116B0C&#45;&gt;dra.func_80116838</title>
+<title>dra.ControlBatForm&#45;&gt;dra.func_80116838</title>
 <path fill="none" stroke="black" d="M426.19,-359.93C426.19,-328.97 426.19,-263.3 426.19,-226.13"/>
 <polygon fill="black" stroke="black" points="429.69,-226.02 426.19,-216.02 422.69,-226.02 429.69,-226.02"/>
 <text text-anchor="middle" x="421.19" y="-348.73" font-family="Times,serif" font-size="14.00">3</text>
