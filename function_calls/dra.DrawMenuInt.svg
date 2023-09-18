@@ -51,7 +51,7 @@
 <g id="node4" class="node">
 <title>dra.DrawSpellMenu</title>
 <g id="a_node4"><a xlink:href="dra.DrawSpellMenu.svg" xlink:title="dra.DrawSpellMenu">
-<ellipse fill="red" stroke="black" cx="337.89" cy="-378" rx="103.98" ry="18"/>
+<ellipse fill="green" stroke="black" cx="337.89" cy="-378" rx="103.98" ry="18"/>
 <text text-anchor="middle" x="337.89" y="-374.3" font-family="Times,serif" font-size="14.00">dra.DrawSpellMenu</text>
 </a>
 </g>
