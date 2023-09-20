@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="120.24" cy="-198" rx="120.48" ry="18"/>
 <text text-anchor="middle" x="120.24" y="-194.3" font-family="Times,serif" font-size="14.00">servant.func_801718A0</text>
 </g>
-<!-- rsin -->
+<!-- main.rsin -->
 <g id="node2" class="node">
-<title>rsin</title>
-<g id="a_node2"><a xlink:href="rsin.svg" xlink:title="rsin">
-<ellipse fill="lightblue" stroke="black" cx="120.24" cy="-18" rx="28.7" ry="18"/>
-<text text-anchor="middle" x="120.24" y="-14.3" font-family="Times,serif" font-size="14.00">rsin</text>
+<title>main.rsin</title>
+<g id="a_node2"><a xlink:href="main.rsin.svg" xlink:title="main.rsin">
+<ellipse fill="green" stroke="black" cx="120.24" cy="-18" rx="54.69" ry="18"/>
+<text text-anchor="middle" x="120.24" y="-14.3" font-family="Times,serif" font-size="14.00">main.rsin</text>
 </a>
 </g>
 </g>
-<!-- servant.func_801718A0&#45;&gt;rsin -->
+<!-- servant.func_801718A0&#45;&gt;main.rsin -->
 <g id="edge1" class="edge">
-<title>servant.func_801718A0&#45;&gt;rsin</title>
+<title>servant.func_801718A0&#45;&gt;main.rsin</title>
 <path fill="none" stroke="black" d="M120.24,-179.93C120.24,-148.97 120.24,-83.3 120.24,-46.13"/>
 <polygon fill="black" stroke="black" points="123.74,-46.02 120.24,-36.02 116.74,-46.02 123.74,-46.02"/>
 <text text-anchor="middle" x="115.24" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>

@@ -15,37 +15,37 @@
 <ellipse fill="green" stroke="black" cx="335.29" cy="-198" rx="105.88" ry="18"/>
 <text text-anchor="middle" x="335.29" y="-194.3" font-family="Times,serif" font-size="14.00">np3.func_801CD78C</text>
 </g>
-<!-- rcos -->
+<!-- main.rcos -->
 <g id="node2" class="node">
-<title>rcos</title>
-<g id="a_node2"><a xlink:href="rcos.svg" xlink:title="rcos">
-<ellipse fill="lightblue" stroke="black" cx="297.29" cy="-18" rx="30.59" ry="18"/>
-<text text-anchor="middle" x="297.29" y="-14.3" font-family="Times,serif" font-size="14.00">rcos</text>
+<title>main.rcos</title>
+<g id="a_node2"><a xlink:href="main.rcos.svg" xlink:title="main.rcos">
+<ellipse fill="red" stroke="black" cx="271.29" cy="-18" rx="55.79" ry="18"/>
+<text text-anchor="middle" x="271.29" y="-14.3" font-family="Times,serif" font-size="14.00">main.rcos</text>
 </a>
 </g>
 </g>
-<!-- np3.func_801CD78C&#45;&gt;rcos -->
+<!-- np3.func_801CD78C&#45;&gt;main.rcos -->
 <g id="edge1" class="edge">
-<title>np3.func_801CD78C&#45;&gt;rcos</title>
-<path fill="none" stroke="black" d="M331.65,-179.93C325.04,-148.97 311.02,-83.3 303.08,-46.13"/>
-<polygon fill="black" stroke="black" points="306.43,-45.06 300.92,-36.02 299.59,-46.53 306.43,-45.06"/>
-<text text-anchor="middle" x="295.92" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<title>np3.func_801CD78C&#45;&gt;main.rcos</title>
+<path fill="none" stroke="black" d="M329.15,-179.93C317.97,-148.83 294.21,-82.73 280.87,-45.65"/>
+<polygon fill="black" stroke="black" points="284.09,-44.24 277.41,-36.02 277.5,-46.61 284.09,-44.24"/>
+<text text-anchor="middle" x="272.41" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- rsin -->
+<!-- main.rsin -->
 <g id="node3" class="node">
-<title>rsin</title>
-<g id="a_node3"><a xlink:href="rsin.svg" xlink:title="rsin">
-<ellipse fill="lightblue" stroke="black" cx="374.29" cy="-18" rx="28.7" ry="18"/>
-<text text-anchor="middle" x="374.29" y="-14.3" font-family="Times,serif" font-size="14.00">rsin</text>
+<title>main.rsin</title>
+<g id="a_node3"><a xlink:href="main.rsin.svg" xlink:title="main.rsin">
+<ellipse fill="green" stroke="black" cx="399.29" cy="-18" rx="54.69" ry="18"/>
+<text text-anchor="middle" x="399.29" y="-14.3" font-family="Times,serif" font-size="14.00">main.rsin</text>
 </a>
 </g>
 </g>
-<!-- np3.func_801CD78C&#45;&gt;rsin -->
+<!-- np3.func_801CD78C&#45;&gt;main.rsin -->
 <g id="edge2" class="edge">
-<title>np3.func_801CD78C&#45;&gt;rsin</title>
-<path fill="none" stroke="black" d="M339.03,-179.93C345.81,-148.97 360.2,-83.3 368.35,-46.13"/>
-<polygon fill="black" stroke="black" points="371.84,-46.53 370.56,-36.02 365,-45.03 371.84,-46.53"/>
-<text text-anchor="middle" x="365.56" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<title>np3.func_801CD78C&#45;&gt;main.rsin</title>
+<path fill="none" stroke="black" d="M341.43,-179.93C352.61,-148.83 376.37,-82.73 389.71,-45.65"/>
+<polygon fill="black" stroke="black" points="393.08,-46.61 393.17,-36.02 386.5,-44.24 393.08,-46.61"/>
+<text text-anchor="middle" x="388.17" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- np3.func_801CDA14 -->
 <g id="node4" class="node">

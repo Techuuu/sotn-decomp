@@ -15,37 +15,37 @@
 <ellipse fill="green" stroke="black" cx="325.69" cy="-198" rx="105.08" ry="18"/>
 <text text-anchor="middle" x="325.69" y="-194.3" font-family="Times,serif" font-size="14.00">dra.DebugInputWait</text>
 </g>
-<!-- PadRead -->
-<g id="node2" class="node">
-<title>PadRead</title>
-<g id="a_node2"><a xlink:href="PadRead.svg" xlink:title="PadRead">
-<ellipse fill="lightblue" stroke="black" cx="240.69" cy="-18" rx="51.19" ry="18"/>
-<text text-anchor="middle" x="240.69" y="-14.3" font-family="Times,serif" font-size="14.00">PadRead</text>
-</a>
-</g>
-</g>
-<!-- dra.DebugInputWait&#45;&gt;PadRead -->
-<g id="edge1" class="edge">
-<title>dra.DebugInputWait&#45;&gt;PadRead</title>
-<path fill="none" stroke="black" d="M317.54,-179.93C302.63,-148.7 270.86,-82.17 253.19,-45.18"/>
-<polygon fill="black" stroke="black" points="256.28,-43.53 248.82,-36.02 249.97,-46.55 256.28,-43.53"/>
-<text text-anchor="middle" x="243.82" y="-39.82" font-family="Times,serif" font-size="14.00">2</text>
-</g>
 <!-- dra.func_800E2398 -->
-<g id="node3" class="node">
+<g id="node2" class="node">
 <title>dra.func_800E2398</title>
-<g id="a_node3"><a xlink:href="dra.func_800E2398.svg" xlink:title="dra.func_800E2398">
-<ellipse fill="green" stroke="black" cx="411.69" cy="-18" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="411.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800E2398</text>
+<g id="a_node2"><a xlink:href="dra.func_800E2398.svg" xlink:title="dra.func_800E2398">
+<ellipse fill="green" stroke="black" cx="227.69" cy="-18" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="227.69" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800E2398</text>
 </a>
 </g>
 </g>
 <!-- dra.DebugInputWait&#45;&gt;dra.func_800E2398 -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>dra.DebugInputWait&#45;&gt;dra.func_800E2398</title>
-<path fill="none" stroke="black" d="M333.94,-179.93C349.03,-148.7 381.17,-82.17 399.04,-45.18"/>
-<polygon fill="black" stroke="black" points="402.27,-46.54 403.47,-36.02 395.97,-43.5 402.27,-46.54"/>
-<text text-anchor="middle" x="398.47" y="-39.82" font-family="Times,serif" font-size="14.00">2</text>
+<path fill="none" stroke="black" d="M316.29,-179.93C299.1,-148.7 262.47,-82.17 242.1,-45.18"/>
+<polygon fill="black" stroke="black" points="244.95,-43.09 237.06,-36.02 238.82,-46.46 244.95,-43.09"/>
+<text text-anchor="middle" x="232.06" y="-39.82" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- main.PadRead -->
+<g id="node3" class="node">
+<title>main.PadRead</title>
+<g id="a_node3"><a xlink:href="main.PadRead.svg" xlink:title="main.PadRead">
+<ellipse fill="red" stroke="black" cx="424.69" cy="-18" rx="77.19" ry="18"/>
+<text text-anchor="middle" x="424.69" y="-14.3" font-family="Times,serif" font-size="14.00">main.PadRead</text>
+</a>
+</g>
+</g>
+<!-- dra.DebugInputWait&#45;&gt;main.PadRead -->
+<g id="edge2" class="edge">
+<title>dra.DebugInputWait&#45;&gt;main.PadRead</title>
+<path fill="none" stroke="black" d="M335.18,-179.93C352.55,-148.7 389.56,-82.17 410.13,-45.18"/>
+<polygon fill="black" stroke="black" points="413.43,-46.46 415.23,-36.02 407.31,-43.05 413.43,-46.46"/>
+<text text-anchor="middle" x="410.23" y="-39.82" font-family="Times,serif" font-size="14.00">2</text>
 </g>
 <!-- dra.func_800E249C -->
 <g id="node4" class="node">

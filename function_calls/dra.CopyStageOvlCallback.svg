@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="134.54" cy="-198" rx="134.58" ry="18"/>
 <text text-anchor="middle" x="134.54" y="-194.3" font-family="Times,serif" font-size="14.00">dra.CopyStageOvlCallback</text>
 </g>
-<!-- CdDataCallback -->
+<!-- main.CdDataCallback -->
 <g id="node2" class="node">
-<title>CdDataCallback</title>
-<g id="a_node2"><a xlink:href="CdDataCallback.svg" xlink:title="CdDataCallback">
-<ellipse fill="lightblue" stroke="black" cx="134.54" cy="-18" rx="85.29" ry="18"/>
-<text text-anchor="middle" x="134.54" y="-14.3" font-family="Times,serif" font-size="14.00">CdDataCallback</text>
+<title>main.CdDataCallback</title>
+<g id="a_node2"><a xlink:href="main.CdDataCallback.svg" xlink:title="main.CdDataCallback">
+<ellipse fill="red" stroke="black" cx="134.54" cy="-18" rx="110.48" ry="18"/>
+<text text-anchor="middle" x="134.54" y="-14.3" font-family="Times,serif" font-size="14.00">main.CdDataCallback</text>
 </a>
 </g>
 </g>
-<!-- dra.CopyStageOvlCallback&#45;&gt;CdDataCallback -->
+<!-- dra.CopyStageOvlCallback&#45;&gt;main.CdDataCallback -->
 <g id="edge1" class="edge">
-<title>dra.CopyStageOvlCallback&#45;&gt;CdDataCallback</title>
+<title>dra.CopyStageOvlCallback&#45;&gt;main.CdDataCallback</title>
 <path fill="none" stroke="black" d="M134.54,-179.93C134.54,-148.97 134.54,-83.3 134.54,-46.13"/>
 <polygon fill="black" stroke="black" points="138.04,-46.02 134.54,-36.02 131.04,-46.02 138.04,-46.02"/>
 <text text-anchor="middle" x="129.54" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>

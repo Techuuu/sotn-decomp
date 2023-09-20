@@ -15,37 +15,37 @@
 <ellipse fill="green" stroke="black" cx="214.69" cy="-198" rx="104.78" ry="18"/>
 <text text-anchor="middle" x="214.69" y="-194.3" font-family="Times,serif" font-size="14.00">wrp.func_8018C0A4</text>
 </g>
-<!-- rcos -->
+<!-- main.rcos -->
 <g id="node2" class="node">
-<title>rcos</title>
-<g id="a_node2"><a xlink:href="rcos.svg" xlink:title="rcos">
-<ellipse fill="lightblue" stroke="black" cx="176.69" cy="-18" rx="30.59" ry="18"/>
-<text text-anchor="middle" x="176.69" y="-14.3" font-family="Times,serif" font-size="14.00">rcos</text>
+<title>main.rcos</title>
+<g id="a_node2"><a xlink:href="main.rcos.svg" xlink:title="main.rcos">
+<ellipse fill="red" stroke="black" cx="150.69" cy="-18" rx="55.79" ry="18"/>
+<text text-anchor="middle" x="150.69" y="-14.3" font-family="Times,serif" font-size="14.00">main.rcos</text>
 </a>
 </g>
 </g>
-<!-- wrp.func_8018C0A4&#45;&gt;rcos -->
+<!-- wrp.func_8018C0A4&#45;&gt;main.rcos -->
 <g id="edge1" class="edge">
-<title>wrp.func_8018C0A4&#45;&gt;rcos</title>
-<path fill="none" stroke="black" d="M211.05,-179.93C204.44,-148.97 190.42,-83.3 182.48,-46.13"/>
-<polygon fill="black" stroke="black" points="185.83,-45.06 180.32,-36.02 178.99,-46.53 185.83,-45.06"/>
-<text text-anchor="middle" x="175.32" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<title>wrp.func_8018C0A4&#45;&gt;main.rcos</title>
+<path fill="none" stroke="black" d="M208.55,-179.93C197.37,-148.83 173.61,-82.73 160.27,-45.65"/>
+<polygon fill="black" stroke="black" points="163.49,-44.24 156.81,-36.02 156.9,-46.61 163.49,-44.24"/>
+<text text-anchor="middle" x="151.81" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- rsin -->
+<!-- main.rsin -->
 <g id="node3" class="node">
-<title>rsin</title>
-<g id="a_node3"><a xlink:href="rsin.svg" xlink:title="rsin">
-<ellipse fill="lightblue" stroke="black" cx="253.69" cy="-18" rx="28.7" ry="18"/>
-<text text-anchor="middle" x="253.69" y="-14.3" font-family="Times,serif" font-size="14.00">rsin</text>
+<title>main.rsin</title>
+<g id="a_node3"><a xlink:href="main.rsin.svg" xlink:title="main.rsin">
+<ellipse fill="green" stroke="black" cx="278.69" cy="-18" rx="54.69" ry="18"/>
+<text text-anchor="middle" x="278.69" y="-14.3" font-family="Times,serif" font-size="14.00">main.rsin</text>
 </a>
 </g>
 </g>
-<!-- wrp.func_8018C0A4&#45;&gt;rsin -->
+<!-- wrp.func_8018C0A4&#45;&gt;main.rsin -->
 <g id="edge2" class="edge">
-<title>wrp.func_8018C0A4&#45;&gt;rsin</title>
-<path fill="none" stroke="black" d="M218.43,-179.93C225.22,-148.97 239.6,-83.3 247.75,-46.13"/>
-<polygon fill="black" stroke="black" points="251.24,-46.53 249.96,-36.02 244.4,-45.03 251.24,-46.53"/>
-<text text-anchor="middle" x="244.96" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<title>wrp.func_8018C0A4&#45;&gt;main.rsin</title>
+<path fill="none" stroke="black" d="M220.83,-179.93C232.01,-148.83 255.78,-82.73 269.11,-45.65"/>
+<polygon fill="black" stroke="black" points="272.48,-46.61 272.57,-36.02 265.9,-44.24 272.48,-46.61"/>
+<text text-anchor="middle" x="267.57" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- wrp.func_80192610 -->
 <g id="node4" class="node">

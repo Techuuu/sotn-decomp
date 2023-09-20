@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="213.69" cy="-198" rx="103.98" ry="18"/>
 <text text-anchor="middle" x="213.69" y="-194.3" font-family="Times,serif" font-size="14.00">no3.func_801C55E8</text>
 </g>
-<!-- ratan2 -->
+<!-- main.ratan2 -->
 <g id="node2" class="node">
-<title>ratan2</title>
-<g id="a_node2"><a xlink:href="ratan2.svg" xlink:title="ratan2">
-<ellipse fill="lightblue" stroke="black" cx="213.69" cy="-18" rx="41.69" ry="18"/>
-<text text-anchor="middle" x="213.69" y="-14.3" font-family="Times,serif" font-size="14.00">ratan2</text>
+<title>main.ratan2</title>
+<g id="a_node2"><a xlink:href="main.ratan2.svg" xlink:title="main.ratan2">
+<ellipse fill="green" stroke="black" cx="213.69" cy="-18" rx="67.69" ry="18"/>
+<text text-anchor="middle" x="213.69" y="-14.3" font-family="Times,serif" font-size="14.00">main.ratan2</text>
 </a>
 </g>
 </g>
-<!-- no3.func_801C55E8&#45;&gt;ratan2 -->
+<!-- no3.func_801C55E8&#45;&gt;main.ratan2 -->
 <g id="edge1" class="edge">
-<title>no3.func_801C55E8&#45;&gt;ratan2</title>
+<title>no3.func_801C55E8&#45;&gt;main.ratan2</title>
 <path fill="none" stroke="black" d="M213.69,-179.93C213.69,-148.97 213.69,-83.3 213.69,-46.13"/>
 <polygon fill="black" stroke="black" points="217.19,-46.02 213.69,-36.02 210.19,-46.02 217.19,-46.02"/>
 <text text-anchor="middle" x="208.69" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>

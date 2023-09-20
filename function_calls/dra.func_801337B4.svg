@@ -15,53 +15,53 @@
 <ellipse fill="green" stroke="black" cx="320.74" cy="-198" rx="101.28" ry="18"/>
 <text text-anchor="middle" x="320.74" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_801337B4</text>
 </g>
-<!-- SsSeqClose -->
-<g id="node2" class="node">
-<title>SsSeqClose</title>
-<g id="a_node2"><a xlink:href="SsSeqClose.svg" xlink:title="SsSeqClose">
-<ellipse fill="lightblue" stroke="black" cx="176.74" cy="-18" rx="64.99" ry="18"/>
-<text text-anchor="middle" x="176.74" y="-14.3" font-family="Times,serif" font-size="14.00">SsSeqClose</text>
-</a>
-</g>
-</g>
-<!-- dra.func_801337B4&#45;&gt;SsSeqClose -->
-<g id="edge1" class="edge">
-<title>dra.func_801337B4&#45;&gt;SsSeqClose</title>
-<path fill="none" stroke="black" d="M306.93,-179.93C281.39,-148.35 226.65,-80.69 196.93,-43.96"/>
-<polygon fill="black" stroke="black" points="199.31,-41.33 190.3,-35.76 193.86,-45.73 199.31,-41.33"/>
-<text text-anchor="middle" x="185.3" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
-</g>
-<!-- SsSeqStop -->
-<g id="node3" class="node">
-<title>SsSeqStop</title>
-<g id="a_node3"><a xlink:href="SsSeqStop.svg" xlink:title="SsSeqStop">
-<ellipse fill="lightblue" stroke="black" cx="320.74" cy="-18" rx="61.19" ry="18"/>
-<text text-anchor="middle" x="320.74" y="-14.3" font-family="Times,serif" font-size="14.00">SsSeqStop</text>
-</a>
-</g>
-</g>
-<!-- dra.func_801337B4&#45;&gt;SsSeqStop -->
-<g id="edge2" class="edge">
-<title>dra.func_801337B4&#45;&gt;SsSeqStop</title>
-<path fill="none" stroke="black" d="M320.74,-179.93C320.74,-148.97 320.74,-83.3 320.74,-46.13"/>
-<polygon fill="black" stroke="black" points="324.24,-46.02 320.74,-36.02 317.24,-46.02 324.24,-46.02"/>
-<text text-anchor="middle" x="315.74" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
-</g>
 <!-- dra.func_8013415C -->
-<g id="node4" class="node">
+<g id="node2" class="node">
 <title>dra.func_8013415C</title>
-<g id="a_node4"><a xlink:href="dra.func_8013415C.svg" xlink:title="dra.func_8013415C">
-<ellipse fill="green" stroke="black" cx="500.74" cy="-18" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="500.74" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_8013415C</text>
+<g id="a_node2"><a xlink:href="dra.func_8013415C.svg" xlink:title="dra.func_8013415C">
+<ellipse fill="green" stroke="black" cx="110.74" cy="-18" rx="101.28" ry="18"/>
+<text text-anchor="middle" x="110.74" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_8013415C</text>
 </a>
 </g>
 </g>
 <!-- dra.func_801337B4&#45;&gt;dra.func_8013415C -->
-<g id="edge3" class="edge">
+<g id="edge1" class="edge">
 <title>dra.func_801337B4&#45;&gt;dra.func_8013415C</title>
-<path fill="none" stroke="black" d="M338,-179.93C370.2,-148.09 439.52,-79.54 476.44,-43.04"/>
-<polygon fill="black" stroke="black" points="479.15,-45.28 483.8,-35.76 474.23,-40.3 479.15,-45.28"/>
-<text text-anchor="middle" x="478.8" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M300.98,-180.25C263.38,-148.38 181.45,-78.94 138.41,-42.45"/>
+<polygon fill="black" stroke="black" points="140.49,-39.63 130.6,-35.83 135.96,-44.97 140.49,-39.63"/>
+<text text-anchor="middle" x="125.6" y="-39.63" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- main.SsSeqClose -->
+<g id="node3" class="node">
+<title>main.SsSeqClose</title>
+<g id="a_node3"><a xlink:href="main.SsSeqClose.svg" xlink:title="main.SsSeqClose">
+<ellipse fill="green" stroke="black" cx="320.74" cy="-18" rx="90.98" ry="18"/>
+<text text-anchor="middle" x="320.74" y="-14.3" font-family="Times,serif" font-size="14.00">main.SsSeqClose</text>
+</a>
+</g>
+</g>
+<!-- dra.func_801337B4&#45;&gt;main.SsSeqClose -->
+<g id="edge2" class="edge">
+<title>dra.func_801337B4&#45;&gt;main.SsSeqClose</title>
+<path fill="none" stroke="black" d="M320.74,-179.93C320.74,-148.97 320.74,-83.3 320.74,-46.13"/>
+<polygon fill="black" stroke="black" points="324.24,-46.02 320.74,-36.02 317.24,-46.02 324.24,-46.02"/>
+<text text-anchor="middle" x="315.74" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- main.SsSeqStop -->
+<g id="node4" class="node">
+<title>main.SsSeqStop</title>
+<g id="a_node4"><a xlink:href="main.SsSeqStop.svg" xlink:title="main.SsSeqStop">
+<ellipse fill="green" stroke="black" cx="516.74" cy="-18" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="516.74" y="-14.3" font-family="Times,serif" font-size="14.00">main.SsSeqStop</text>
+</a>
+</g>
+</g>
+<!-- dra.func_801337B4&#45;&gt;main.SsSeqStop -->
+<g id="edge3" class="edge">
+<title>dra.func_801337B4&#45;&gt;main.SsSeqStop</title>
+<path fill="none" stroke="black" d="M339.18,-180.25C374.2,-148.45 450.43,-79.22 490.66,-42.68"/>
+<polygon fill="black" stroke="black" points="493.16,-45.14 498.21,-35.83 488.45,-39.96 493.16,-45.14"/>
+<text text-anchor="middle" x="493.21" y="-39.63" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- dra.func_80133810 -->
 <g id="node5" class="node">
