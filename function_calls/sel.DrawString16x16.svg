@@ -12,7 +12,7 @@
 <!-- sel.DrawString16x16 -->
 <g id="node1" class="node">
 <title>sel.DrawString16x16</title>
-<ellipse fill="red" stroke="black" cx="319.09" cy="-198" rx="109.68" ry="18"/>
+<ellipse fill="green" stroke="black" cx="319.09" cy="-198" rx="109.68" ry="18"/>
 <text text-anchor="middle" x="319.09" y="-194.3" font-family="Times,serif" font-size="14.00">sel.DrawString16x16</text>
 </g>
 <!-- sel.func_801B27A8 -->
