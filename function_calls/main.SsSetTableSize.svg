@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="107.89" cy="-18" rx="107.78" ry="18"/>
 <text text-anchor="middle" x="107.89" y="-14.3" font-family="Times,serif" font-size="14.00">main.SsSetTableSize</text>
 </g>
-<!-- dra.func_801325D8 -->
+<!-- dra.SoundInit -->
 <g id="node2" class="node">
-<title>dra.func_801325D8</title>
-<g id="a_node2"><a xlink:href="dra.func_801325D8.svg" xlink:title="dra.func_801325D8">
-<ellipse fill="green" stroke="black" cx="107.89" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="107.89" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_801325D8</text>
+<title>dra.SoundInit</title>
+<g id="a_node2"><a xlink:href="dra.SoundInit.svg" xlink:title="dra.SoundInit">
+<ellipse fill="green" stroke="black" cx="107.89" cy="-198" rx="74.99" ry="18"/>
+<text text-anchor="middle" x="107.89" y="-194.3" font-family="Times,serif" font-size="14.00">dra.SoundInit</text>
 </a>
 </g>
 </g>
-<!-- dra.func_801325D8&#45;&gt;main.SsSetTableSize -->
+<!-- dra.SoundInit&#45;&gt;main.SsSetTableSize -->
 <g id="edge1" class="edge">
-<title>dra.func_801325D8&#45;&gt;main.SsSetTableSize</title>
+<title>dra.SoundInit&#45;&gt;main.SsSetTableSize</title>
 <path fill="none" stroke="black" d="M107.89,-179.93C107.89,-148.97 107.89,-83.3 107.89,-46.13"/>
 <polygon fill="black" stroke="black" points="111.39,-46.02 107.89,-36.02 104.39,-46.02 111.39,-46.02"/>
 <text text-anchor="middle" x="102.89" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>

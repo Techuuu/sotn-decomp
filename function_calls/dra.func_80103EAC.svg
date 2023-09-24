@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="211.39" cy="-198" rx="102.88" ry="18"/>
 <text text-anchor="middle" x="211.39" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_80103EAC</text>
 </g>
-<!-- dra.func_800E92F4 -->
+<!-- dra.MemcardInfoInit -->
 <g id="node2" class="node">
-<title>dra.func_800E92F4</title>
-<g id="a_node2"><a xlink:href="dra.func_800E92F4.svg" xlink:title="dra.func_800E92F4">
-<ellipse fill="green" stroke="black" cx="211.39" cy="-18" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="211.39" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800E92F4</text>
+<title>dra.MemcardInfoInit</title>
+<g id="a_node2"><a xlink:href="dra.MemcardInfoInit.svg" xlink:title="dra.MemcardInfoInit">
+<ellipse fill="green" stroke="black" cx="211.39" cy="-18" rx="107.48" ry="18"/>
+<text text-anchor="middle" x="211.39" y="-14.3" font-family="Times,serif" font-size="14.00">dra.MemcardInfoInit</text>
 </a>
 </g>
 </g>
-<!-- dra.func_80103EAC&#45;&gt;dra.func_800E92F4 -->
+<!-- dra.func_80103EAC&#45;&gt;dra.MemcardInfoInit -->
 <g id="edge1" class="edge">
-<title>dra.func_80103EAC&#45;&gt;dra.func_800E92F4</title>
+<title>dra.func_80103EAC&#45;&gt;dra.MemcardInfoInit</title>
 <path fill="none" stroke="black" d="M211.39,-179.93C211.39,-148.97 211.39,-83.3 211.39,-46.13"/>
 <polygon fill="black" stroke="black" points="214.89,-46.02 211.39,-36.02 207.89,-46.02 214.89,-46.02"/>
 <text text-anchor="middle" x="206.39" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>

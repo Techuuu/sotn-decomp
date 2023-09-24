@@ -19,33 +19,33 @@
 <g id="node2" class="node">
 <title>close</title>
 <g id="a_node2"><a xlink:href="close.svg" xlink:title="close">
-<ellipse fill="lightblue" stroke="black" cx="260.19" cy="-18" rx="34.39" ry="18"/>
-<text text-anchor="middle" x="260.19" y="-14.3" font-family="Times,serif" font-size="14.00">close</text>
+<ellipse fill="lightblue" stroke="black" cx="267.19" cy="-18" rx="34.39" ry="18"/>
+<text text-anchor="middle" x="267.19" y="-14.3" font-family="Times,serif" font-size="14.00">close</text>
 </a>
 </g>
 </g>
 <!-- sel.MemcardClose&#45;&gt;close -->
 <g id="edge1" class="edge">
 <title>sel.MemcardClose&#45;&gt;close</title>
-<path fill="none" stroke="black" d="M328,-179.93C314.86,-148.75 286.9,-82.4 271.3,-45.37"/>
-<polygon fill="black" stroke="black" points="274.36,-43.61 267.25,-35.76 267.91,-46.33 274.36,-43.61"/>
-<text text-anchor="middle" x="262.25" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
+<path fill="none" stroke="black" d="M328.67,-179.93C316.76,-148.75 291.41,-82.4 277.26,-45.37"/>
+<polygon fill="black" stroke="black" points="280.43,-43.85 273.59,-35.76 273.89,-46.35 280.43,-43.85"/>
+<text text-anchor="middle" x="268.59" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- sel.func_801B8338 -->
+<!-- sel._peek_event -->
 <g id="node3" class="node">
-<title>sel.func_801B8338</title>
-<g id="a_node3"><a xlink:href="sel.func_801B8338.svg" xlink:title="sel.func_801B8338">
-<ellipse fill="green" stroke="black" cx="411.19" cy="-18" rx="98.58" ry="18"/>
-<text text-anchor="middle" x="411.19" y="-14.3" font-family="Times,serif" font-size="14.00">sel.func_801B8338</text>
+<title>sel._peek_event</title>
+<g id="a_node3"><a xlink:href="sel._peek_event.svg" xlink:title="sel._peek_event">
+<ellipse fill="green" stroke="black" cx="403.19" cy="-18" rx="83.39" ry="18"/>
+<text text-anchor="middle" x="403.19" y="-14.3" font-family="Times,serif" font-size="14.00">sel._peek_event</text>
 </a>
 </g>
 </g>
-<!-- sel.MemcardClose&#45;&gt;sel.func_801B8338 -->
+<!-- sel.MemcardClose&#45;&gt;sel._peek_event -->
 <g id="edge2" class="edge">
-<title>sel.MemcardClose&#45;&gt;sel.func_801B8338</title>
-<path fill="none" stroke="black" d="M342.48,-179.93C355.76,-148.83 383.98,-82.73 399.81,-45.65"/>
-<polygon fill="black" stroke="black" points="403.22,-46.59 403.93,-36.02 396.78,-43.84 403.22,-46.59"/>
-<text text-anchor="middle" x="398.93" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
+<title>sel.MemcardClose&#45;&gt;sel._peek_event</title>
+<path fill="none" stroke="black" d="M341.71,-179.93C353.59,-148.83 378.84,-82.73 393.01,-45.65"/>
+<polygon fill="black" stroke="black" points="396.39,-46.61 396.69,-36.02 389.85,-44.11 396.39,-46.61"/>
+<text text-anchor="middle" x="391.69" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
 <!-- sel.TryLoadSaveData -->
 <g id="node4" class="node">

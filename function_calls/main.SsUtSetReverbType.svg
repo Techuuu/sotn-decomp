@@ -15,18 +15,18 @@
 <ellipse fill="red" stroke="black" cx="130.64" cy="-18" rx="130.78" ry="18"/>
 <text text-anchor="middle" x="130.64" y="-14.3" font-family="Times,serif" font-size="14.00">main.SsUtSetReverbType</text>
 </g>
-<!-- dra.func_801325D8 -->
+<!-- dra.SoundInit -->
 <g id="node2" class="node">
-<title>dra.func_801325D8</title>
-<g id="a_node2"><a xlink:href="dra.func_801325D8.svg" xlink:title="dra.func_801325D8">
-<ellipse fill="green" stroke="black" cx="130.64" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="130.64" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_801325D8</text>
+<title>dra.SoundInit</title>
+<g id="a_node2"><a xlink:href="dra.SoundInit.svg" xlink:title="dra.SoundInit">
+<ellipse fill="green" stroke="black" cx="130.64" cy="-198" rx="74.99" ry="18"/>
+<text text-anchor="middle" x="130.64" y="-194.3" font-family="Times,serif" font-size="14.00">dra.SoundInit</text>
 </a>
 </g>
 </g>
-<!-- dra.func_801325D8&#45;&gt;main.SsUtSetReverbType -->
+<!-- dra.SoundInit&#45;&gt;main.SsUtSetReverbType -->
 <g id="edge1" class="edge">
-<title>dra.func_801325D8&#45;&gt;main.SsUtSetReverbType</title>
+<title>dra.SoundInit&#45;&gt;main.SsUtSetReverbType</title>
 <path fill="none" stroke="black" d="M130.64,-179.93C130.64,-148.97 130.64,-83.3 130.64,-46.13"/>
 <polygon fill="black" stroke="black" points="134.14,-46.02 130.64,-36.02 127.14,-46.02 134.14,-46.02"/>
 <text text-anchor="middle" x="125.64" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>

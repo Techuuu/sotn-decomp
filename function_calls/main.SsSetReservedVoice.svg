@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="131.29" cy="-18" rx="131.08" ry="18"/>
 <text text-anchor="middle" x="131.29" y="-14.3" font-family="Times,serif" font-size="14.00">main.SsSetReservedVoice</text>
 </g>
-<!-- dra.func_801325D8 -->
+<!-- dra.SoundInit -->
 <g id="node2" class="node">
-<title>dra.func_801325D8</title>
-<g id="a_node2"><a xlink:href="dra.func_801325D8.svg" xlink:title="dra.func_801325D8">
-<ellipse fill="green" stroke="black" cx="131.29" cy="-198" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="131.29" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_801325D8</text>
+<title>dra.SoundInit</title>
+<g id="a_node2"><a xlink:href="dra.SoundInit.svg" xlink:title="dra.SoundInit">
+<ellipse fill="green" stroke="black" cx="131.29" cy="-198" rx="74.99" ry="18"/>
+<text text-anchor="middle" x="131.29" y="-194.3" font-family="Times,serif" font-size="14.00">dra.SoundInit</text>
 </a>
 </g>
 </g>
-<!-- dra.func_801325D8&#45;&gt;main.SsSetReservedVoice -->
+<!-- dra.SoundInit&#45;&gt;main.SsSetReservedVoice -->
 <g id="edge1" class="edge">
-<title>dra.func_801325D8&#45;&gt;main.SsSetReservedVoice</title>
+<title>dra.SoundInit&#45;&gt;main.SsSetReservedVoice</title>
 <path fill="none" stroke="black" d="M131.29,-179.93C131.29,-148.97 131.29,-83.3 131.29,-46.13"/>
 <polygon fill="black" stroke="black" points="134.79,-46.02 131.29,-36.02 127.79,-46.02 134.79,-46.02"/>
 <text text-anchor="middle" x="126.29" y="-168.73" font-family="Times,serif" font-size="14.00">1</text>

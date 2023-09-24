@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="225.54" cy="-198" rx="209.86" ry="18"/>
 <text text-anchor="middle" x="225.54" y="-194.3" font-family="Times,serif" font-size="14.00">rwrp.CreateEntityWhenInHorizontalRange</text>
 </g>
-<!-- rwrp.func_8018BD58 -->
+<!-- rwrp.CreateEntityFromLayout -->
 <g id="node2" class="node">
-<title>rwrp.func_8018BD58</title>
-<g id="a_node2"><a xlink:href="rwrp.func_8018BD58.svg" xlink:title="rwrp.func_8018BD58">
-<ellipse fill="green" stroke="black" cx="225.54" cy="-18" rx="109.68" ry="18"/>
-<text text-anchor="middle" x="225.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp.func_8018BD58</text>
+<title>rwrp.CreateEntityFromLayout</title>
+<g id="a_node2"><a xlink:href="rwrp.CreateEntityFromLayout.svg" xlink:title="rwrp.CreateEntityFromLayout">
+<ellipse fill="green" stroke="black" cx="225.54" cy="-18" rx="152.97" ry="18"/>
+<text text-anchor="middle" x="225.54" y="-14.3" font-family="Times,serif" font-size="14.00">rwrp.CreateEntityFromLayout</text>
 </a>
 </g>
 </g>
-<!-- rwrp.CreateEntityWhenInHorizontalRange&#45;&gt;rwrp.func_8018BD58 -->
+<!-- rwrp.CreateEntityWhenInHorizontalRange&#45;&gt;rwrp.CreateEntityFromLayout -->
 <g id="edge1" class="edge">
-<title>rwrp.CreateEntityWhenInHorizontalRange&#45;&gt;rwrp.func_8018BD58</title>
+<title>rwrp.CreateEntityWhenInHorizontalRange&#45;&gt;rwrp.CreateEntityFromLayout</title>
 <path fill="none" stroke="black" d="M225.54,-179.93C225.54,-148.97 225.54,-83.3 225.54,-46.13"/>
 <polygon fill="black" stroke="black" points="229.04,-46.02 225.54,-36.02 222.04,-46.02 229.04,-46.02"/>
 <text text-anchor="middle" x="220.54" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>

@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="209.74" cy="-198" rx="189.57" ry="18"/>
 <text text-anchor="middle" x="209.74" y="-194.3" font-family="Times,serif" font-size="14.00">dre.CreateEntityWhenInVerticalRange</text>
 </g>
-<!-- dre.func_80198B80 -->
+<!-- dre.CreateEntityFromLayout -->
 <g id="node2" class="node">
-<title>dre.func_80198B80</title>
-<g id="a_node2"><a xlink:href="dre.func_80198B80.svg" xlink:title="dre.func_80198B80">
-<ellipse fill="green" stroke="black" cx="209.74" cy="-18" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="209.74" y="-14.3" font-family="Times,serif" font-size="14.00">dre.func_80198B80</text>
+<title>dre.CreateEntityFromLayout</title>
+<g id="a_node2"><a xlink:href="dre.CreateEntityFromLayout.svg" xlink:title="dre.CreateEntityFromLayout">
+<ellipse fill="green" stroke="black" cx="209.74" cy="-18" rx="145.67" ry="18"/>
+<text text-anchor="middle" x="209.74" y="-14.3" font-family="Times,serif" font-size="14.00">dre.CreateEntityFromLayout</text>
 </a>
 </g>
 </g>
-<!-- dre.CreateEntityWhenInVerticalRange&#45;&gt;dre.func_80198B80 -->
+<!-- dre.CreateEntityWhenInVerticalRange&#45;&gt;dre.CreateEntityFromLayout -->
 <g id="edge1" class="edge">
-<title>dre.CreateEntityWhenInVerticalRange&#45;&gt;dre.func_80198B80</title>
+<title>dre.CreateEntityWhenInVerticalRange&#45;&gt;dre.CreateEntityFromLayout</title>
 <path fill="none" stroke="black" d="M209.74,-179.93C209.74,-148.97 209.74,-83.3 209.74,-46.13"/>
 <polygon fill="black" stroke="black" points="213.24,-46.02 209.74,-36.02 206.24,-46.02 213.24,-46.02"/>
 <text text-anchor="middle" x="204.74" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
