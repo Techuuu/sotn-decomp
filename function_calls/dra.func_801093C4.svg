@@ -12,7 +12,7 @@
 <!-- dra.func_801093C4 -->
 <g id="node1" class="node">
 <title>dra.func_801093C4</title>
-<ellipse fill="red" stroke="black" cx="199.59" cy="-198" rx="101.28" ry="18"/>
+<ellipse fill="green" stroke="black" cx="199.59" cy="-198" rx="101.28" ry="18"/>
 <text text-anchor="middle" x="199.59" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_801093C4</text>
 </g>
 <!-- SetDrawEnv -->
