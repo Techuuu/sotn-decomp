@@ -95,18 +95,18 @@
 <polygon fill="black" stroke="black" points="858.28,-41.6 866.26,-34.63 855.68,-35.1 858.28,-41.6"/>
 <text text-anchor="middle" x="861.26" y="-38.43" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.func_801112AC -->
+<!-- dra.CheckSoulStealInput -->
 <g id="node7" class="node">
-<title>dra.func_801112AC</title>
-<g id="a_node7"><a xlink:href="dra.func_801112AC.svg" xlink:title="dra.func_801112AC">
-<ellipse fill="red" stroke="black" cx="460.34" cy="-378" rx="102.08" ry="18"/>
-<text text-anchor="middle" x="460.34" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_801112AC</text>
+<title>dra.CheckSoulStealInput</title>
+<g id="a_node7"><a xlink:href="dra.CheckSoulStealInput.svg" xlink:title="dra.CheckSoulStealInput">
+<ellipse fill="green" stroke="black" cx="460.34" cy="-378" rx="126.98" ry="18"/>
+<text text-anchor="middle" x="460.34" y="-374.3" font-family="Times,serif" font-size="14.00">dra.CheckSoulStealInput</text>
 </a>
 </g>
 </g>
-<!-- dra.func_801112AC&#45;&gt;dra.func_8010FBF4 -->
+<!-- dra.CheckSoulStealInput&#45;&gt;dra.func_8010FBF4 -->
 <g id="edge6" class="edge">
-<title>dra.func_801112AC&#45;&gt;dra.func_8010FBF4</title>
+<title>dra.CheckSoulStealInput&#45;&gt;dra.func_8010FBF4</title>
 <path fill="none" stroke="black" d="M460.34,-359.93C460.34,-328.97 460.34,-263.3 460.34,-226.13"/>
 <polygon fill="black" stroke="black" points="463.84,-226.02 460.34,-216.02 456.84,-226.02 463.84,-226.02"/>
 <text text-anchor="middle" x="455.34" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
