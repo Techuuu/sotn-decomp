@@ -95,18 +95,18 @@
 <polygon fill="black" stroke="black" points="859.09,-41.63 867.09,-34.67 856.5,-35.12 859.09,-41.63"/>
 <text text-anchor="middle" x="862.09" y="-38.47" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.func_80110BC8 -->
+<!-- dra.CheckSummonSpiritInput -->
 <g id="node7" class="node">
-<title>dra.func_80110BC8</title>
-<g id="a_node7"><a xlink:href="dra.func_80110BC8.svg" xlink:title="dra.func_80110BC8">
-<ellipse fill="red" stroke="black" cx="460.34" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="460.34" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_80110BC8</text>
+<title>dra.CheckSummonSpiritInput</title>
+<g id="a_node7"><a xlink:href="dra.CheckSummonSpiritInput.svg" xlink:title="dra.CheckSummonSpiritInput">
+<ellipse fill="green" stroke="black" cx="460.34" cy="-378" rx="149.47" ry="18"/>
+<text text-anchor="middle" x="460.34" y="-374.3" font-family="Times,serif" font-size="14.00">dra.CheckSummonSpiritInput</text>
 </a>
 </g>
 </g>
-<!-- dra.func_80110BC8&#45;&gt;dra.func_8010FC50 -->
+<!-- dra.CheckSummonSpiritInput&#45;&gt;dra.func_8010FC50 -->
 <g id="edge6" class="edge">
-<title>dra.func_80110BC8&#45;&gt;dra.func_8010FC50</title>
+<title>dra.CheckSummonSpiritInput&#45;&gt;dra.func_8010FC50</title>
 <path fill="none" stroke="black" d="M460.34,-359.93C460.34,-328.97 460.34,-263.3 460.34,-226.13"/>
 <polygon fill="black" stroke="black" points="463.84,-226.02 460.34,-216.02 456.84,-226.02 463.84,-226.02"/>
 <text text-anchor="middle" x="455.34" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
