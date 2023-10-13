@@ -47,18 +47,18 @@
 <polygon fill="black" stroke="black" points="423.15,-45.91 426.95,-36.02 417.81,-41.38 423.15,-45.91"/>
 <text text-anchor="middle" x="417.45" y="-39.82" font-family="Times,serif" font-size="14.00">11</text>
 </g>
-<!-- dra.func_800EB314 -->
+<!-- dra.LoadPendingGfx -->
 <g id="node4" class="node">
-<title>dra.func_800EB314</title>
-<g id="a_node4"><a xlink:href="dra.func_800EB314.svg" xlink:title="dra.func_800EB314">
-<ellipse fill="red" stroke="black" cx="290.39" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="290.39" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800EB314</text>
+<title>dra.LoadPendingGfx</title>
+<g id="a_node4"><a xlink:href="dra.LoadPendingGfx.svg" xlink:title="dra.LoadPendingGfx">
+<ellipse fill="green" stroke="black" cx="290.39" cy="-378" rx="105.08" ry="18"/>
+<text text-anchor="middle" x="290.39" y="-374.3" font-family="Times,serif" font-size="14.00">dra.LoadPendingGfx</text>
 </a>
 </g>
 </g>
-<!-- dra.func_800EB314&#45;&gt;dra.DecompressData -->
+<!-- dra.LoadPendingGfx&#45;&gt;dra.DecompressData -->
 <g id="edge3" class="edge">
-<title>dra.func_800EB314&#45;&gt;dra.DecompressData</title>
+<title>dra.LoadPendingGfx&#45;&gt;dra.DecompressData</title>
 <path fill="none" stroke="black" d="M290.39,-359.93C290.39,-328.97 290.39,-263.3 290.39,-226.13"/>
 <polygon fill="black" stroke="black" points="293.89,-226.02 290.39,-216.02 286.89,-226.02 293.89,-226.02"/>
 <text text-anchor="middle" x="285.39" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
