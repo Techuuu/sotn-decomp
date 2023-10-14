@@ -15,18 +15,18 @@
 <ellipse fill="green" stroke="black" cx="107.89" cy="-198" rx="102.88" ry="18"/>
 <text text-anchor="middle" x="107.89" y="-194.3" font-family="Times,serif" font-size="14.00">dra.func_800F66BC</text>
 </g>
-<!-- dra.func_800F5904 -->
+<!-- dra.DrawMenuImg -->
 <g id="node2" class="node">
-<title>dra.func_800F5904</title>
-<g id="a_node2"><a xlink:href="dra.func_800F5904.svg" xlink:title="dra.func_800F5904">
-<ellipse fill="green" stroke="black" cx="107.89" cy="-18" rx="100.98" ry="18"/>
-<text text-anchor="middle" x="107.89" y="-14.3" font-family="Times,serif" font-size="14.00">dra.func_800F5904</text>
+<title>dra.DrawMenuImg</title>
+<g id="a_node2"><a xlink:href="dra.DrawMenuImg.svg" xlink:title="dra.DrawMenuImg">
+<ellipse fill="green" stroke="black" cx="107.89" cy="-18" rx="98.58" ry="18"/>
+<text text-anchor="middle" x="107.89" y="-14.3" font-family="Times,serif" font-size="14.00">dra.DrawMenuImg</text>
 </a>
 </g>
 </g>
-<!-- dra.func_800F66BC&#45;&gt;dra.func_800F5904 -->
+<!-- dra.func_800F66BC&#45;&gt;dra.DrawMenuImg -->
 <g id="edge1" class="edge">
-<title>dra.func_800F66BC&#45;&gt;dra.func_800F5904</title>
+<title>dra.func_800F66BC&#45;&gt;dra.DrawMenuImg</title>
 <path fill="none" stroke="black" d="M107.89,-179.93C107.89,-148.97 107.89,-83.3 107.89,-46.13"/>
 <polygon fill="black" stroke="black" points="111.39,-46.02 107.89,-36.02 104.39,-46.02 111.39,-46.02"/>
 <text text-anchor="middle" x="102.89" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
