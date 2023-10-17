@@ -63,18 +63,18 @@
 <polygon fill="black" stroke="black" points="507.98,-44.83 513.45,-35.76 503.52,-39.44 507.98,-44.83"/>
 <text text-anchor="middle" x="508.45" y="-39.56" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.func_800F8F28 -->
+<!-- dra.DrawMenu -->
 <g id="node5" class="node">
-<title>dra.func_800F8F28</title>
-<g id="a_node5"><a xlink:href="dra.func_800F8F28.svg" xlink:title="dra.func_800F8F28">
-<ellipse fill="red" stroke="black" cx="318.69" cy="-378" rx="101.28" ry="18"/>
-<text text-anchor="middle" x="318.69" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800F8F28</text>
+<title>dra.DrawMenu</title>
+<g id="a_node5"><a xlink:href="dra.DrawMenu.svg" xlink:title="dra.DrawMenu">
+<ellipse fill="red" stroke="black" cx="318.69" cy="-378" rx="80.69" ry="18"/>
+<text text-anchor="middle" x="318.69" y="-374.3" font-family="Times,serif" font-size="14.00">dra.DrawMenu</text>
 </a>
 </g>
 </g>
-<!-- dra.func_800F8F28&#45;&gt;dra.DrawSettingsButton -->
+<!-- dra.DrawMenu&#45;&gt;dra.DrawSettingsButton -->
 <g id="edge4" class="edge">
-<title>dra.func_800F8F28&#45;&gt;dra.DrawSettingsButton</title>
+<title>dra.DrawMenu&#45;&gt;dra.DrawSettingsButton</title>
 <path fill="none" stroke="black" d="M318.69,-359.93C318.69,-328.97 318.69,-263.3 318.69,-226.13"/>
 <polygon fill="black" stroke="black" points="322.19,-226.02 318.69,-216.02 315.19,-226.02 322.19,-226.02"/>
 <text text-anchor="middle" x="313.69" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
