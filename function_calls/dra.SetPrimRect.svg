@@ -19,7 +19,7 @@
 <g id="node2" class="node">
 <title>dra.DrawMenu</title>
 <g id="a_node2"><a xlink:href="dra.DrawMenu.svg" xlink:title="dra.DrawMenu">
-<ellipse fill="red" stroke="black" cx="80.59" cy="-198" rx="80.69" ry="18"/>
+<ellipse fill="green" stroke="black" cx="80.59" cy="-198" rx="80.69" ry="18"/>
 <text text-anchor="middle" x="80.59" y="-194.3" font-family="Times,serif" font-size="14.00">dra.DrawMenu</text>
 </a>
 </g>
