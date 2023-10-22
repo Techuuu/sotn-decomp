@@ -794,7 +794,7 @@
 | 1.00 | true     | func_801BA668                       | ../../asm/us/st/sel/nonmatchings/stream/func_801BA668.s 
 | 1.00 | true     | func_801BA688                       | ../../asm/us/st/sel/nonmatchings/stream/func_801BA688.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_801991C0                       | ../../asm/us/st/cen/nonmatchings/18084/func_801991C0.s 
+| 1.00 | true     | func_801991C0                       | ../../asm/us/st/cen/nonmatchings/18084/func_801991C0.s 
 | 1.00 | true     | func_8019F304                       | ../../asm/us/st/dre/nonmatchings/1E1C8/func_8019F304.s 
 | 1.00 | true     | func_80196934                       | ../../asm/us/st/mad/nonmatchings/15520/func_80196934.s 
 | 0.96 | true     | func_801C13F8                       | ../../asm/us/st/no3/nonmatchings/3FF00/func_801C13F8.s 
@@ -803,7 +803,7 @@
 | 1.00 | true     | func_801C1430                       | ../../asm/us/st/np3/nonmatchings/402F4/func_801C1430.s 
 | 0.96 | true     | func_801B3B78                       | ../../asm/us/st/nz0/nonmatchings/30958/func_801B3B78.s 
 | 1.00 | true     | func_801C1848                       | ../../asm/us/st/nz0/nonmatchings/4070C/func_801C1848.s 
-| 1.00 | false    | func_801924DC                       | ../../asm/us/st/rwrp/nonmatchings/113A0/func_801924DC.s 
+| 1.00 | true     | func_801924DC                       | ../../asm/us/st/rwrp/nonmatchings/113A0/func_801924DC.s 
 | 1.00 | true     | func_801B8C48                       | ../../asm/us/st/st0/nonmatchings/36358/func_801B8C48.s 
 | 1.00 | true     | func_8019055C                       | ../../asm/us/st/wrp/nonmatchings/F420/func_8019055C.s 
 -------------------------------------------------------------------------------
@@ -906,7 +906,7 @@
 | 1.00 | true     | AllocEntity                         | ../../asm/us/st/no3/nonmatchings/41C80/AllocEntity.s 
 | 1.00 | true     | AllocEntity                         | ../../asm/us/st/np3/nonmatchings/394F0/AllocEntity.s 
 | 1.00 | true     | AllocEntity                         | ../../asm/us/st/nz0/nonmatchings/39908/AllocEntity.s 
-| 1.00 | false    | func_8018DDF0                       | ../../asm/us/st/rwrp/nonmatchings/A59C/func_8018DDF0.s 
+| 1.00 | true     | AllocEntity                         | ../../asm/us/st/rwrp/nonmatchings/A59C/AllocEntity.s 
 | 1.00 | true     | AllocEntity                         | ../../asm/us/st/st0/nonmatchings/31CA0/AllocEntity.s 
 | 1.00 | true     | AllocEntity                         | ../../asm/us/st/wrp/nonmatchings/861C/AllocEntity.s 
 -------------------------------------------------------------------------------
