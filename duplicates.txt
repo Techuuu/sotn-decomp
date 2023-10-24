@@ -1853,12 +1853,6 @@
 | 1.00 | true     | CdSetDebug                          | ../../asm/us/main/nonmatchings/psxsdk/libcd/sys/CdSetDebug.s 
 | 1.00 | true     | CdSyncCallback                      | ../../asm/us/main/nonmatchings/psxsdk/libcd/sys/CdSyncCallback.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | GsClearVcount                       | ../../asm/us/main/nonmatchings/72A4/GsClearVcount.s 
-| 1.00 | false    | GsGetVcount                         | ../../asm/us/main/nonmatchings/72A4/GsGetVcount.s 
-| 0.90 | true     | def_cbread                          | ../../asm/us/main/nonmatchings/72A4/def_cbread.s 
-| 0.90 | true     | def_cbready                         | ../../asm/us/main/nonmatchings/72A4/def_cbready.s 
-| 0.90 | true     | def_cbsync                          | ../../asm/us/main/nonmatchings/72A4/def_cbsync.s 
--------------------------------------------------------------------------------
 | 1.00 | false    | SetIR123                            | ../../asm/us/main/nonmatchings/72A4/SetIR123.s 
 | 1.00 | false    | SetMAC123                           | ../../asm/us/main/nonmatchings/72A4/SetMAC123.s 
 | 1.00 | false    | SetRii                              | ../../asm/us/main/nonmatchings/72A4/SetRii.s 
@@ -1885,6 +1879,11 @@
 | 1.00 | true     | func_800E34A4                       | ../../asm/us/dra/nonmatchings/42398/func_800E34A4.s 
 | 1.00 | true     | func_801B1924                       | ../../asm/us/st/sel/nonmatchings/2EED8/func_801B1924.s 
 | 1.00 | true     | func_801B01C0                       | ../../asm/us/st/st0/nonmatchings/30030/func_801B01C0.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | func_800F6A48                       | ../../asm/us/dra/nonmatchings/5298C/func_800F6A48.s 
+| 0.90 | true     | def_cbread                          | ../../asm/us/main/nonmatchings/72A4/def_cbread.s 
+| 0.90 | true     | def_cbready                         | ../../asm/us/main/nonmatchings/72A4/def_cbready.s 
+| 0.90 | true     | def_cbsync                          | ../../asm/us/main/nonmatchings/72A4/def_cbsync.s 
 -------------------------------------------------------------------------------
 | 1.00 | true     | func_80111928                       | ../../asm/us/dra/nonmatchings/71830/func_80111928.s 
 | 1.00 | true     | SpuVmDamperOff                      | ../../asm/us/main/nonmatchings/psxsdk/libsnd/vm_doff/SpuVmDamperOff.s 
@@ -1952,7 +1951,7 @@
 | 1.00 | true     | func_8015C9CC                       | ../../asm/us/ric/nonmatchings/20920/func_8015C9CC.s 
 | 1.00 | false    | func_13F000_8017A718                | ../../asm/us/weapon/nonmatchings/w_045/func_13F000_8017A718.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80128BBC                       | ../../asm/us/dra/nonmatchings/75F54/func_80128BBC.s 
+| 1.00 | true     | func_80128BBC                       | ../../asm/us/dra/nonmatchings/7A4D0/func_80128BBC.s 
 | 1.00 | true     | func_8016C6C4                       | ../../asm/us/ric/nonmatchings/26C84/func_8016C6C4.s 
 | 0.93 | true     | func_8019976C                       | ../../asm/us/st/mad/nonmatchings/15520/func_8019976C.s 
 -------------------------------------------------------------------------------
@@ -2102,27 +2101,6 @@
 | 1.00 | true     | func_80115DA0                       | ../../asm/us/dra/nonmatchings/75DA0/func_80115DA0.s 
 | 1.00 | true     | func_8015BCD0                       | ../../asm/us/ric/nonmatchings/1FCD0/func_8015BCD0.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | EntityHitByLightning                | ../../asm/us/dra/nonmatchings/75F54/EntityHitByLightning.s 
-| 0.93 | false    | func_801656B0                       | ../../asm/us/ric/nonmatchings/26C84/func_801656B0.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | EntityHolyWaterBreakGlass           | ../../asm/us/dra/nonmatchings/75F54/EntityHolyWaterBreakGlass.s 
-| 0.98 | false    | func_80167A70                       | ../../asm/us/ric/nonmatchings/26C84/func_80167A70.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | EntityStopWatchExpandingCircle      | ../../asm/us/dra/nonmatchings/75F54/EntityStopWatchExpandingCircle.s 
-| 0.97 | false    | func_8017161C                       | ../../asm/us/ric/nonmatchings/345EC/func_8017161C.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | EntitySubwpnBible                   | ../../asm/us/dra/nonmatchings/75F54/EntitySubwpnBible.s 
-| 0.92 | false    | func_80172D00                       | ../../asm/us/ric/nonmatchings/345EC/func_80172D00.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | EntitySubwpnThrownAxe               | ../../asm/us/dra/nonmatchings/75F54/EntitySubwpnThrownAxe.s 
-| 0.93 | false    | func_8016A26C                       | ../../asm/us/ric/nonmatchings/26C84/func_8016A26C.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | EntityTeleport                      | ../../asm/us/dra/nonmatchings/75F54/EntityTeleport.s 
-| 0.90 | false    | func_80166060                       | ../../asm/us/ric/nonmatchings/26C84/func_80166060.s 
--------------------------------------------------------------------------------
-| 1.00 | false    | EntityTransparentWhiteCircle        | ../../asm/us/dra/nonmatchings/75F54/EntityTransparentWhiteCircle.s 
-| 0.91 | false    | func_80164444                       | ../../asm/us/ric/nonmatchings/26C84/func_80164444.s 
--------------------------------------------------------------------------------
 | 1.00 | true     | GetFreeDraEntity                    | ../../asm/us/dra/nonmatchings/75F54/GetFreeDraEntity.s 
 | 1.00 | true     | func_8015F8F8                       | ../../asm/us/ric/nonmatchings/22380/func_8015F8F8.s 
 -------------------------------------------------------------------------------
@@ -2138,31 +2116,52 @@
 | 1.00 | false    | func_80119F70                       | ../../asm/us/dra/nonmatchings/75F54/func_80119F70.s 
 | 0.97 | false    | func_8015FEA8                       | ../../asm/us/ric/nonmatchings/22380/func_8015FEA8.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8011BD48                       | ../../asm/us/dra/nonmatchings/75F54/func_8011BD48.s 
+| 1.00 | false    | EntityHitByLightning                | ../../asm/us/dra/nonmatchings/7A4D0/EntityHitByLightning.s 
+| 0.93 | false    | func_801656B0                       | ../../asm/us/ric/nonmatchings/26C84/func_801656B0.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | EntityHolyWaterBreakGlass           | ../../asm/us/dra/nonmatchings/7A4D0/EntityHolyWaterBreakGlass.s 
+| 0.98 | false    | func_80167A70                       | ../../asm/us/ric/nonmatchings/26C84/func_80167A70.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | EntityStopWatchExpandingCircle      | ../../asm/us/dra/nonmatchings/7A4D0/EntityStopWatchExpandingCircle.s 
+| 0.97 | false    | func_8017161C                       | ../../asm/us/ric/nonmatchings/345EC/func_8017161C.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | EntitySubwpnBible                   | ../../asm/us/dra/nonmatchings/7A4D0/EntitySubwpnBible.s 
+| 0.92 | false    | func_80172D00                       | ../../asm/us/ric/nonmatchings/345EC/func_80172D00.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | EntitySubwpnThrownAxe               | ../../asm/us/dra/nonmatchings/7A4D0/EntitySubwpnThrownAxe.s 
+| 0.93 | false    | func_8016A26C                       | ../../asm/us/ric/nonmatchings/26C84/func_8016A26C.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | EntityTeleport                      | ../../asm/us/dra/nonmatchings/7A4D0/EntityTeleport.s 
+| 0.90 | false    | func_80166060                       | ../../asm/us/ric/nonmatchings/26C84/func_80166060.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | EntityTransparentWhiteCircle        | ../../asm/us/dra/nonmatchings/7A4D0/EntityTransparentWhiteCircle.s 
+| 0.91 | false    | func_80164444                       | ../../asm/us/ric/nonmatchings/26C84/func_80164444.s 
+-------------------------------------------------------------------------------
+| 1.00 | true     | func_8011BD48                       | ../../asm/us/dra/nonmatchings/7A4D0/func_8011BD48.s 
 | 1.00 | true     | func_80162E9C                       | ../../asm/us/ric/nonmatchings/26C84/func_80162E9C.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_8011EDA8                       | ../../asm/us/dra/nonmatchings/75F54/func_8011EDA8.s 
+| 1.00 | false    | func_8011EDA8                       | ../../asm/us/dra/nonmatchings/7A4D0/func_8011EDA8.s 
 | 1.00 | true     | func_80161C2C                       | ../../asm/us/ric/nonmatchings/22380/func_80161C2C.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8011F074                       | ../../asm/us/dra/nonmatchings/75F54/func_8011F074.s 
+| 1.00 | true     | func_8011F074                       | ../../asm/us/dra/nonmatchings/7A4D0/func_8011F074.s 
 | 1.00 | true     | func_801601DC                       | ../../asm/us/ric/nonmatchings/22380/func_801601DC.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80124164                       | ../../asm/us/dra/nonmatchings/75F54/func_80124164.s 
+| 1.00 | true     | func_80124164                       | ../../asm/us/dra/nonmatchings/7A4D0/func_80124164.s 
 | 1.00 | true     | func_80165DD8                       | ../../asm/us/ric/nonmatchings/26C84/func_80165DD8.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80125B6C                       | ../../asm/us/dra/nonmatchings/75F54/func_80125B6C.s 
+| 1.00 | true     | func_80125B6C                       | ../../asm/us/dra/nonmatchings/7A4D0/func_80125B6C.s 
 | 0.92 | true     | func_8016840C                       | ../../asm/us/ric/nonmatchings/26C84/func_8016840C.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80127EAC                       | ../../asm/us/dra/nonmatchings/75F54/func_80127EAC.s 
+| 1.00 | true     | func_80127EAC                       | ../../asm/us/dra/nonmatchings/7A4D0/func_80127EAC.s 
 | 1.00 | true     | func_8016B8E8                       | ../../asm/us/ric/nonmatchings/26C84/func_8016B8E8.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_80127EF0                       | ../../asm/us/dra/nonmatchings/75F54/func_80127EF0.s 
+| 1.00 | true     | func_80127EF0                       | ../../asm/us/dra/nonmatchings/7A4D0/func_80127EF0.s 
 | 1.00 | true     | func_8016B92C                       | ../../asm/us/ric/nonmatchings/26C84/func_8016B92C.s 
 -------------------------------------------------------------------------------
-| 1.00 | false    | func_801291C4                       | ../../asm/us/dra/nonmatchings/75F54/func_801291C4.s 
+| 1.00 | false    | func_801291C4                       | ../../asm/us/dra/nonmatchings/7A4D0/func_801291C4.s 
 | 0.99 | false    | func_8016CC74                       | ../../asm/us/ric/nonmatchings/26C84/func_8016CC74.s 
 -------------------------------------------------------------------------------
-| 1.00 | true     | func_8012B78C                       | ../../asm/us/dra/nonmatchings/75F54/func_8012B78C.s 
+| 1.00 | true     | func_8012B78C                       | ../../asm/us/dra/nonmatchings/7A4D0/func_8012B78C.s 
 | 0.96 | true     | func_80172AE8                       | ../../asm/us/ric/nonmatchings/345EC/func_80172AE8.s 
 -------------------------------------------------------------------------------
 | 1.00 | false    | func_801315F8                       | ../../asm/us/dra/nonmatchings/8D3E8/func_801315F8.s 
@@ -2242,6 +2241,9 @@
 -------------------------------------------------------------------------------
 | 1.00 | false    | EnterCriticalSection                | ../../asm/us/main/nonmatchings/5E78/EnterCriticalSection.s 
 | 1.00 | false    | ExitCriticalSection                 | ../../asm/us/main/nonmatchings/5E78/ExitCriticalSection.s 
+-------------------------------------------------------------------------------
+| 1.00 | false    | GsClearVcount                       | ../../asm/us/main/nonmatchings/72A4/GsClearVcount.s 
+| 1.00 | false    | GsGetVcount                         | ../../asm/us/main/nonmatchings/72A4/GsGetVcount.s 
 -------------------------------------------------------------------------------
 | 0.90 | false    | ColorDpq                            | ../../asm/us/main/nonmatchings/72A4/ColorDpq.s 
 | 1.00 | false    | NormalColorDpq                      | ../../asm/us/main/nonmatchings/72A4/NormalColorDpq.s 
