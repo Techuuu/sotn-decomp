@@ -31,18 +31,18 @@
 <polygon fill="black" stroke="black" points="108.14,-46.02 104.64,-36.02 101.14,-46.02 108.14,-46.02"/>
 <text text-anchor="middle" x="99.64" y="-39.82" font-family="Times,serif" font-size="14.00">2</text>
 </g>
-<!-- dra.func_800FBC24 -->
+<!-- dra.HandleMenu -->
 <g id="node3" class="node">
-<title>dra.func_800FBC24</title>
-<g id="a_node3"><a xlink:href="dra.func_800FBC24.svg" xlink:title="dra.func_800FBC24">
-<ellipse fill="red" stroke="black" cx="104.64" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="104.64" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800FBC24</text>
+<title>dra.HandleMenu</title>
+<g id="a_node3"><a xlink:href="dra.HandleMenu.svg" xlink:title="dra.HandleMenu">
+<ellipse fill="green" stroke="black" cx="104.64" cy="-378" rx="89.08" ry="18"/>
+<text text-anchor="middle" x="104.64" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleMenu</text>
 </a>
 </g>
 </g>
-<!-- dra.func_800FBC24&#45;&gt;dra.LoadWeaponPrg -->
+<!-- dra.HandleMenu&#45;&gt;dra.LoadWeaponPrg -->
 <g id="edge2" class="edge">
-<title>dra.func_800FBC24&#45;&gt;dra.LoadWeaponPrg</title>
+<title>dra.HandleMenu&#45;&gt;dra.LoadWeaponPrg</title>
 <path fill="none" stroke="black" d="M104.64,-359.93C104.64,-328.97 104.64,-263.3 104.64,-226.13"/>
 <polygon fill="black" stroke="black" points="108.14,-226.02 104.64,-216.02 101.14,-226.02 108.14,-226.02"/>
 <text text-anchor="middle" x="99.64" y="-348.73" font-family="Times,serif" font-size="14.00">2</text>

@@ -31,18 +31,18 @@
 <polygon fill="black" stroke="black" points="139.34,-46.02 135.84,-36.02 132.34,-46.02 139.34,-46.02"/>
 <text text-anchor="middle" x="130.84" y="-39.82" font-family="Times,serif" font-size="14.00">1</text>
 </g>
-<!-- dra.func_800FBC24 -->
+<!-- dra.HandleMenu -->
 <g id="node3" class="node">
-<title>dra.func_800FBC24</title>
-<g id="a_node3"><a xlink:href="dra.func_800FBC24.svg" xlink:title="dra.func_800FBC24">
-<ellipse fill="red" stroke="black" cx="135.84" cy="-378" rx="102.88" ry="18"/>
-<text text-anchor="middle" x="135.84" y="-374.3" font-family="Times,serif" font-size="14.00">dra.func_800FBC24</text>
+<title>dra.HandleMenu</title>
+<g id="a_node3"><a xlink:href="dra.HandleMenu.svg" xlink:title="dra.HandleMenu">
+<ellipse fill="green" stroke="black" cx="135.84" cy="-378" rx="89.08" ry="18"/>
+<text text-anchor="middle" x="135.84" y="-374.3" font-family="Times,serif" font-size="14.00">dra.HandleMenu</text>
 </a>
 </g>
 </g>
-<!-- dra.func_800FBC24&#45;&gt;dra.SortTimeAttackEntries -->
+<!-- dra.HandleMenu&#45;&gt;dra.SortTimeAttackEntries -->
 <g id="edge2" class="edge">
-<title>dra.func_800FBC24&#45;&gt;dra.SortTimeAttackEntries</title>
+<title>dra.HandleMenu&#45;&gt;dra.SortTimeAttackEntries</title>
 <path fill="none" stroke="black" d="M135.84,-359.93C135.84,-328.97 135.84,-263.3 135.84,-226.13"/>
 <polygon fill="black" stroke="black" points="139.34,-226.02 135.84,-216.02 132.34,-226.02 139.34,-226.02"/>
 <text text-anchor="middle" x="130.84" y="-348.73" font-family="Times,serif" font-size="14.00">1</text>
